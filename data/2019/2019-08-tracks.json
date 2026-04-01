@@ -1,0 +1,1604 @@
+[
+    {
+        "datetime": "2019-08-03 10:59:44",
+        "artist": "Lloyd Cole",
+        "album": "Guesswork",
+        "track": "The over Under"
+    },
+    {
+        "datetime": "2019-08-03 11:07:08",
+        "artist": "Lloyd Cole",
+        "album": "Guesswork",
+        "track": "Night Sweats"
+    },
+    {
+        "datetime": "2019-08-03 11:13:27",
+        "artist": "Lloyd Cole",
+        "album": "Guesswork",
+        "track": "Violins"
+    },
+    {
+        "datetime": "2019-08-03 11:20:16",
+        "artist": "Lloyd Cole",
+        "album": "Guesswork",
+        "track": "Remains"
+    },
+    {
+        "datetime": "2019-08-03 11:25:25",
+        "artist": "Lloyd Cole",
+        "album": "Guesswork",
+        "track": "The Afterlife"
+    },
+    {
+        "datetime": "2019-08-06 13:54:34",
+        "artist": "A Certain Ratio",
+        "album": "To Each",
+        "track": "Felch"
+    },
+    {
+        "datetime": "2019-08-06 13:58:25",
+        "artist": "A Certain Ratio",
+        "album": "To Each",
+        "track": "My Spirit"
+    },
+    {
+        "datetime": "2019-08-06 14:00:59",
+        "artist": "A Certain Ratio",
+        "album": "To Each",
+        "track": "Forced Laugh"
+    },
+    {
+        "datetime": "2019-08-06 14:06:38",
+        "artist": "A Certain Ratio",
+        "album": "To Each",
+        "track": "Choir"
+    },
+    {
+        "datetime": "2019-08-06 14:09:36",
+        "artist": "A Certain Ratio",
+        "album": "To Each",
+        "track": "Back to the Start"
+    },
+    {
+        "datetime": "2019-08-06 14:17:27",
+        "artist": "A Certain Ratio",
+        "album": "To Each",
+        "track": "The Fox"
+    },
+    {
+        "datetime": "2019-08-06 14:21:16",
+        "artist": "A Certain Ratio",
+        "album": "To Each",
+        "track": "Loss"
+    },
+    {
+        "datetime": "2019-08-06 14:24:44",
+        "artist": "A Certain Ratio",
+        "album": "To Each",
+        "track": "Oceans"
+    },
+    {
+        "datetime": "2019-08-06 14:28:19",
+        "artist": "A Certain Ratio",
+        "album": "To Each",
+        "track": "Winter Hill"
+    },
+    {
+        "datetime": "2019-08-06 14:48:07",
+        "artist": "Felt",
+        "album": "Crumbling The Antiseptic Beauty/The Splendour Of Fear",
+        "track": "Evergreen Dazed"
+    },
+    {
+        "datetime": "2019-08-06 14:53:15",
+        "artist": "Felt",
+        "album": "Crumbling The Antiseptic Beauty/The Splendour Of Fear",
+        "track": "Fortune"
+    },
+    {
+        "datetime": "2019-08-06 14:56:51",
+        "artist": "Felt",
+        "album": "Crumbling The Antiseptic Beauty/The Splendour Of Fear",
+        "track": "Birdmen"
+    },
+    {
+        "datetime": "2019-08-06 15:03:24",
+        "artist": "Felt",
+        "album": "Crumbling The Antiseptic Beauty/The Splendour Of Fear",
+        "track": "Cathedral"
+    },
+    {
+        "datetime": "2019-08-06 15:08:44",
+        "artist": "Felt",
+        "album": "Crumbling The Antiseptic Beauty/The Splendour Of Fear",
+        "track": "I Worship The Sun"
+    },
+    {
+        "datetime": "2019-08-06 15:13:01",
+        "artist": "Felt",
+        "album": "Crumbling The Antiseptic Beauty/The Splendour Of Fear",
+        "track": "Templeroy"
+    },
+    {
+        "datetime": "2019-08-06 15:20:32",
+        "artist": "Felt",
+        "album": "Crumbling The Antiseptic Beauty/The Splendour Of Fear",
+        "track": "The World Is as Soft as Lace"
+    },
+    {
+        "datetime": "2019-08-06 15:24:52",
+        "artist": "Felt",
+        "album": "Crumbling The Antiseptic Beauty/The Splendour Of Fear",
+        "track": "The Optimist and the Poet"
+    },
+    {
+        "datetime": "2019-08-06 15:32:46",
+        "artist": "Felt",
+        "album": "Crumbling The Antiseptic Beauty/The Splendour Of Fear",
+        "track": "Mexican Bandits"
+    },
+    {
+        "datetime": "2019-08-06 15:36:37",
+        "artist": "Felt",
+        "album": "Crumbling The Antiseptic Beauty/The Splendour Of Fear",
+        "track": "The Stagnant Pool"
+    },
+    {
+        "datetime": "2019-08-06 15:45:07",
+        "artist": "Felt",
+        "album": "Crumbling The Antiseptic Beauty/The Splendour Of Fear",
+        "track": "A Preacher in New England"
+    },
+    {
+        "datetime": "2019-08-06 19:21:32",
+        "artist": "Alison Moyet",
+        "album": "Alf (Deluxe Version)",
+        "track": "Love Resurrection (2009 Remaster)"
+    },
+    {
+        "datetime": "2019-08-06 19:25:24",
+        "artist": "Alison Moyet",
+        "album": "Alf (Deluxe Version)",
+        "track": "Honey for the Bees (2016 Remastered)"
+    },
+    {
+        "datetime": "2019-08-06 19:29:37",
+        "artist": "Alison Moyet",
+        "album": "Alf (Deluxe Version)",
+        "track": "For You Only (2016 Remastered)"
+    },
+    {
+        "datetime": "2019-08-06 19:33:39",
+        "artist": "Alison Moyet",
+        "album": "Alf (Deluxe Version)",
+        "track": "Invisible (2009 Remastered)"
+    },
+    {
+        "datetime": "2019-08-06 19:37:39",
+        "artist": "Alison Moyet",
+        "album": "Alf (Deluxe Version)",
+        "track": "Steal Me Blind (2016 Remastered)"
+    },
+    {
+        "datetime": "2019-08-06 19:40:57",
+        "artist": "Alison Moyet",
+        "album": "Alf (Deluxe Version)",
+        "track": "All Cried Out (2009 Remastered)"
+    },
+    {
+        "datetime": "2019-08-06 19:47:48",
+        "artist": "Alison Moyet",
+        "album": "Alf (Deluxe Version)",
+        "track": "Money Mile (2016 Remastered)"
+    },
+    {
+        "datetime": "2019-08-06 19:51:32",
+        "artist": "Alison Moyet",
+        "album": "Alf (Deluxe Version)",
+        "track": "Twisting the Knife (2016 Remastered)"
+    },
+    {
+        "datetime": "2019-08-06 19:55:00",
+        "artist": "Alison Moyet",
+        "album": "Alf (Deluxe Version)",
+        "track": "Where Hides Sleep (2009 Remastered)"
+    },
+    {
+        "datetime": "2019-08-06 19:59:19",
+        "artist": "Alison Moyet",
+        "album": "Alf (Deluxe Version)",
+        "track": "Love Resurrection (U.S. Long Version) [2016 Remastered]"
+    },
+    {
+        "datetime": "2019-08-06 20:08:04",
+        "artist": "Rod Stewart",
+        "album": "Every Picture Tells A Story",
+        "track": "Every Picture Tells A Story"
+    },
+    {
+        "datetime": "2019-08-06 20:14:26",
+        "artist": "Rod Stewart",
+        "album": "Every Picture Tells A Story",
+        "track": "Seems Like A Long Time"
+    },
+    {
+        "datetime": "2019-08-06 20:18:30",
+        "artist": "Rod Stewart",
+        "album": "Every Picture Tells A Story",
+        "track": "That's All Right"
+    },
+    {
+        "datetime": "2019-08-06 20:26:02",
+        "artist": "Rod Stewart",
+        "album": "Every Picture Tells A Story",
+        "track": "Tomorrow Is A Long Time"
+    },
+    {
+        "datetime": "2019-08-06 20:29:50",
+        "artist": "Rod Stewart",
+        "album": "Every Picture Tells A Story",
+        "track": "Maggie May"
+    },
+    {
+        "datetime": "2019-08-06 20:35:40",
+        "artist": "Rod Stewart",
+        "album": "Every Picture Tells A Story",
+        "track": "Mandolin Wind"
+    },
+    {
+        "datetime": "2019-08-06 20:41:17",
+        "artist": "Rod Stewart",
+        "album": "Every Picture Tells A Story",
+        "track": "(I Know) I'm Losing You"
+    },
+    {
+        "datetime": "2019-08-06 20:46:41",
+        "artist": "Rod Stewart",
+        "album": "Every Picture Tells A Story",
+        "track": "(Find A) Reason To Believe"
+    },
+    {
+        "datetime": "2019-08-06 20:50:51",
+        "artist": "Lloyd Cole",
+        "album": "Broken Record",
+        "track": "Like A Broken Record"
+    },
+    {
+        "datetime": "2019-08-06 20:54:09",
+        "artist": "Lloyd Cole",
+        "album": "Broken Record",
+        "track": "Writers Retreat!"
+    },
+    {
+        "datetime": "2019-08-06 20:57:13",
+        "artist": "Lloyd Cole",
+        "album": "Broken Record",
+        "track": "The Flipside"
+    },
+    {
+        "datetime": "2019-08-06 21:01:16",
+        "artist": "Lloyd Cole",
+        "album": "Broken Record",
+        "track": "Why In the World?"
+    },
+    {
+        "datetime": "2019-08-06 21:04:08",
+        "artist": "Lloyd Cole",
+        "album": "Broken Record",
+        "track": "Westchester County Jail"
+    },
+    {
+        "datetime": "2019-08-06 21:06:30",
+        "artist": "Lloyd Cole",
+        "album": "Broken Record",
+        "track": "If I Were A Song"
+    },
+    {
+        "datetime": "2019-08-06 21:10:18",
+        "artist": "Lloyd Cole",
+        "album": "Broken Record",
+        "track": "That's Alright"
+    },
+    {
+        "datetime": "2019-08-07 07:49:08",
+        "artist": "Lloyd Cole",
+        "album": "Broken Record",
+        "track": "Oh Genevieve"
+    },
+    {
+        "datetime": "2019-08-07 07:52:43",
+        "artist": "Lloyd Cole",
+        "album": "Broken Record",
+        "track": "Man Overboard"
+    },
+    {
+        "datetime": "2019-08-07 07:55:27",
+        "artist": "Lloyd Cole",
+        "album": "Broken Record",
+        "track": "Rhinestones"
+    },
+    {
+        "datetime": "2019-08-07 07:57:43",
+        "artist": "Lloyd Cole",
+        "album": "Broken Record",
+        "track": "Double Happiness"
+    },
+    {
+        "datetime": "2019-08-07 08:01:02",
+        "artist": "Lloyd Cole",
+        "album": "Guesswork",
+        "track": "The over Under"
+    },
+    {
+        "datetime": "2019-08-07 08:08:08",
+        "artist": "Lloyd Cole",
+        "album": "Guesswork",
+        "track": "Night Sweats"
+    },
+    {
+        "datetime": "2019-08-07 08:14:27",
+        "artist": "Lloyd Cole",
+        "album": "Guesswork",
+        "track": "Violins"
+    },
+    {
+        "datetime": "2019-08-07 08:21:16",
+        "artist": "Lloyd Cole",
+        "album": "Guesswork",
+        "track": "Remains"
+    },
+    {
+        "datetime": "2019-08-07 08:26:26",
+        "artist": "Lloyd Cole",
+        "album": "Guesswork",
+        "track": "The Afterlife"
+    },
+    {
+        "datetime": "2019-08-07 08:30:54",
+        "artist": "Lloyd Cole",
+        "album": "Guesswork",
+        "track": "Moments and Whatnot"
+    },
+    {
+        "datetime": "2019-08-07 08:35:07",
+        "artist": "Lloyd Cole",
+        "album": "Guesswork",
+        "track": "When I Came Down from the Mountain"
+    },
+    {
+        "datetime": "2019-08-07 08:39:58",
+        "artist": "Lloyd Cole",
+        "album": "Guesswork",
+        "track": "The Loudness Wars"
+    },
+    {
+        "datetime": "2019-08-07 17:55:11",
+        "artist": "Lloyd Cole",
+        "album": "Guesswork",
+        "track": "Moments and Whatnot"
+    },
+    {
+        "datetime": "2019-08-07 17:59:36",
+        "artist": "Lloyd Cole",
+        "album": "Guesswork",
+        "track": "When I Came Down from the Mountain"
+    },
+    {
+        "datetime": "2019-08-07 18:06:33",
+        "artist": "Lloyd Cole",
+        "album": "Guesswork",
+        "track": "The Loudness Wars"
+    },
+    {
+        "datetime": "2019-08-07 18:11:54",
+        "artist": "The Waterboys",
+        "album": "Where The Action Is",
+        "track": "Where the Action Is"
+    },
+    {
+        "datetime": "2019-08-07 18:15:19",
+        "artist": "The Waterboys",
+        "album": "Where The Action Is",
+        "track": "London Mick"
+    },
+    {
+        "datetime": "2019-08-07 18:18:29",
+        "artist": "The Waterboys",
+        "album": "Where The Action Is",
+        "track": "Out of All This Blue"
+    },
+    {
+        "datetime": "2019-08-07 18:22:07",
+        "artist": "The Waterboys",
+        "album": "Where The Action Is",
+        "track": "Right Side of Heartbreak (Wrong Side of Love)"
+    },
+    {
+        "datetime": "2019-08-07 18:26:57",
+        "artist": "The Waterboys",
+        "album": "Where The Action Is",
+        "track": "In My Time on Earth"
+    },
+    {
+        "datetime": "2019-08-07 18:33:03",
+        "artist": "The Waterboys",
+        "album": "Where The Action Is",
+        "track": "And There's Love"
+    },
+    {
+        "datetime": "2019-08-07 18:36:35",
+        "artist": "The Waterboys",
+        "album": "Where The Action Is",
+        "track": "Piper at the Gates of Dawn"
+    },
+    {
+        "datetime": "2019-08-07 18:45:38",
+        "artist": "Simple Minds",
+        "album": "Sparkle In The Rain",
+        "track": "Up On The Catwalk (2002 Digital Remaster)"
+    },
+    {
+        "datetime": "2019-08-07 18:50:24",
+        "artist": "Simple Minds",
+        "album": "Sparkle In The Rain",
+        "track": "Book Of Brilliant Things (2002 Digital Remaster)"
+    },
+    {
+        "datetime": "2019-08-07 18:55:39",
+        "artist": "Simple Minds",
+        "album": "Sparkle In The Rain",
+        "track": "Speed Your Love To Me (2002 Digital Remaster)"
+    },
+    {
+        "datetime": "2019-08-07 19:00:04",
+        "artist": "Simple Minds",
+        "album": "Sparkle In The Rain",
+        "track": "Waterfront (2002 - Remaster)"
+    },
+    {
+        "datetime": "2019-08-08 19:36:30",
+        "artist": "Simple Minds",
+        "album": "Sparkle In The Rain",
+        "track": "East At Easter (2002 Digital Remaster)"
+    },
+    {
+        "datetime": "2019-08-08 19:40:02",
+        "artist": "Simple Minds",
+        "album": "Sparkle In The Rain",
+        "track": "White Hot Day (2002 Digital Remaster)"
+    },
+    {
+        "datetime": "2019-08-08 19:44:37",
+        "artist": "Simple Minds",
+        "album": "Sparkle In The Rain",
+        "track": "''C'' Moon Cry Like A Baby (2002 Digital Remaster)"
+    },
+    {
+        "datetime": "2019-08-08 19:48:58",
+        "artist": "Simple Minds",
+        "album": "Sparkle In The Rain",
+        "track": "The Kick Inside Of Me (2002 Digital Remaster)"
+    },
+    {
+        "datetime": "2019-08-08 19:53:48",
+        "artist": "Simple Minds",
+        "album": "Sparkle In The Rain",
+        "track": "Shake Off The Ghosts (2002 Digital Remaster)"
+    },
+    {
+        "datetime": "2019-08-08 19:57:47",
+        "artist": "Aztec Camera",
+        "album": "Knife",
+        "track": "Still On Fire"
+    },
+    {
+        "datetime": "2019-08-08 20:01:43",
+        "artist": "Aztec Camera",
+        "album": "Knife",
+        "track": "Just Like the USA"
+    },
+    {
+        "datetime": "2019-08-08 20:05:46",
+        "artist": "Aztec Camera",
+        "album": "Knife",
+        "track": "Head Is Happy (Heart's Insane)"
+    },
+    {
+        "datetime": "2019-08-08 20:10:02",
+        "artist": "Aztec Camera",
+        "album": "Knife",
+        "track": "Backdoor To Heaven"
+    },
+    {
+        "datetime": "2019-08-08 20:16:08",
+        "artist": "Aztec Camera",
+        "album": "Knife",
+        "track": "All I Need Is Everything"
+    },
+    {
+        "datetime": "2019-08-08 20:27:36",
+        "artist": "Aztec Camera",
+        "album": "Knife",
+        "track": "Backwards and Forwards"
+    },
+    {
+        "datetime": "2019-08-08 20:31:49",
+        "artist": "Aztec Camera",
+        "album": "Knife",
+        "track": "Birth of the True"
+    },
+    {
+        "datetime": "2019-08-08 20:34:40",
+        "artist": "Aztec Camera",
+        "album": "Knife",
+        "track": "Knife"
+    },
+    {
+        "datetime": "2019-08-08 20:43:57",
+        "artist": "New Order",
+        "album": "Movement",
+        "track": "Dreams Never End (2019 Remaster)"
+    },
+    {
+        "datetime": "2019-08-08 20:47:21",
+        "artist": "New Order",
+        "album": "Movement",
+        "track": "Truth (2019 Remaster)"
+    },
+    {
+        "datetime": "2019-08-08 20:52:01",
+        "artist": "New Order",
+        "album": "Movement",
+        "track": "Senses (2019 Remaster)"
+    },
+    {
+        "datetime": "2019-08-08 20:56:48",
+        "artist": "New Order",
+        "album": "Movement",
+        "track": "Chosen Time (2019 Remaster)"
+    },
+    {
+        "datetime": "2019-08-08 21:00:57",
+        "artist": "New Order",
+        "album": "Movement",
+        "track": "ICB (2019 Remaster)"
+    },
+    {
+        "datetime": "2019-08-08 21:05:30",
+        "artist": "New Order",
+        "album": "Movement",
+        "track": "The Him (2019 Remaster)"
+    },
+    {
+        "datetime": "2019-08-08 21:11:02",
+        "artist": "New Order",
+        "album": "Movement",
+        "track": "Doubts Even Here (2019 Remaster)"
+    },
+    {
+        "datetime": "2019-08-08 21:15:21",
+        "artist": "New Order",
+        "album": "Movement",
+        "track": "Denial (2019 Remaster)"
+    },
+    {
+        "datetime": "2019-08-10 17:14:18",
+        "artist": "Felt",
+        "album": "Crumbling The Antiseptic Beauty/The Splendour Of Fear",
+        "track": "Evergreen Dazed"
+    },
+    {
+        "datetime": "2019-08-14 20:41:19",
+        "artist": "New Order",
+        "album": "Movement",
+        "track": "Dreams Never End (2019 Remaster)"
+    },
+    {
+        "datetime": "2019-08-14 20:44:52",
+        "artist": "New Order",
+        "album": "Movement",
+        "track": "Truth (2019 Remaster)"
+    },
+    {
+        "datetime": "2019-08-14 20:49:31",
+        "artist": "New Order",
+        "album": "Movement",
+        "track": "Senses (2019 Remaster)"
+    },
+    {
+        "datetime": "2019-08-14 20:54:18",
+        "artist": "New Order",
+        "album": "Movement",
+        "track": "Chosen Time (2019 Remaster)"
+    },
+    {
+        "datetime": "2019-08-14 20:58:27",
+        "artist": "New Order",
+        "album": "Movement",
+        "track": "ICB (2019 Remaster)"
+    },
+    {
+        "datetime": "2019-08-15 10:59:50",
+        "artist": "New Order",
+        "album": "Movement",
+        "track": "The Him (2019 Remaster)"
+    },
+    {
+        "datetime": "2019-08-15 11:05:22",
+        "artist": "New Order",
+        "album": "Movement",
+        "track": "Doubts Even Here (2019 Remaster)"
+    },
+    {
+        "datetime": "2019-08-15 11:09:41",
+        "artist": "New Order",
+        "album": "Movement",
+        "track": "Denial (2019 Remaster)"
+    },
+    {
+        "datetime": "2019-08-15 11:14:06",
+        "artist": "New Order",
+        "album": "Movement",
+        "track": "Dreams Never End (Western Works Demo) [2019 Remaster]"
+    },
+    {
+        "datetime": "2019-08-15 11:17:47",
+        "artist": "New Order",
+        "album": "Movement",
+        "track": "Homage (Western Works Demo ) [2019 Remaster]"
+    },
+    {
+        "datetime": "2019-08-15 11:22:00",
+        "artist": "New Order",
+        "album": "Movement",
+        "track": "Ceremony (Western Works Demo) [2019 Remaster]"
+    },
+    {
+        "datetime": "2019-08-15 11:31:31",
+        "artist": "Edwyn Collins",
+        "album": "Hope And Despair",
+        "track": "Ghost of a Chance"
+    },
+    {
+        "datetime": "2019-08-15 18:10:07",
+        "artist": "New Order",
+        "album": "Power, Corruption & Lies",
+        "track": "Age Of Consent (2015 Remastered Version)"
+    },
+    {
+        "datetime": "2019-08-15 18:45:14",
+        "artist": "New Order",
+        "album": "Power, Corruption & Lies",
+        "track": "We All Stand (2015 Remastered Version)"
+    },
+    {
+        "datetime": "2019-08-15 18:50:37",
+        "artist": "New Order",
+        "album": "Power, Corruption & Lies",
+        "track": "The Village (2015 Remastered Version)"
+    },
+    {
+        "datetime": "2019-08-15 18:55:51",
+        "artist": "New Order",
+        "album": "Power, Corruption & Lies",
+        "track": "5-8-6 (2015 Remastered Version)"
+    },
+    {
+        "datetime": "2019-08-15 19:03:31",
+        "artist": "New Order",
+        "album": "Power, Corruption & Lies",
+        "track": "Your Silent Face (2015 Remastered Version)"
+    },
+    {
+        "datetime": "2019-08-15 19:09:31",
+        "artist": "New Order",
+        "album": "Power, Corruption & Lies",
+        "track": "Ultraviolence (2015 Remastered Version)"
+    },
+    {
+        "datetime": "2019-08-15 19:14:22",
+        "artist": "New Order",
+        "album": "Power, Corruption & Lies",
+        "track": "Ecstasy (2015 Remastered Version)"
+    },
+    {
+        "datetime": "2019-08-15 19:18:48",
+        "artist": "New Order",
+        "album": "Power, Corruption & Lies",
+        "track": "Leave Me Alone (2015 Remastered Version)"
+    },
+    {
+        "datetime": "2019-08-15 19:23:29",
+        "artist": "Edwyn Collins",
+        "album": "Hope And Despair",
+        "track": "Coffee Table Song"
+    },
+    {
+        "datetime": "2019-08-15 19:28:28",
+        "artist": "Edwyn Collins",
+        "album": "Hope And Despair",
+        "track": "50 Shades of Blue"
+    },
+    {
+        "datetime": "2019-08-15 19:32:21",
+        "artist": "Edwyn Collins",
+        "album": "Hope And Despair",
+        "track": "You're Better Than You Know"
+    },
+    {
+        "datetime": "2019-08-15 19:36:30",
+        "artist": "Edwyn Collins",
+        "album": "Hope And Despair",
+        "track": "Pushing It to the Back of My Mind"
+    },
+    {
+        "datetime": "2019-08-15 19:40:15",
+        "artist": "Edwyn Collins",
+        "album": "Hope And Despair",
+        "track": "If Ever You're Ready"
+    },
+    {
+        "datetime": "2019-08-15 21:02:26",
+        "artist": "Edwyn Collins",
+        "album": "Hope And Despair",
+        "track": "Darling They Want it All"
+    },
+    {
+        "datetime": "2019-08-15 21:06:07",
+        "artist": "Edwyn Collins",
+        "album": "Hope And Despair",
+        "track": "The Wheels of Love"
+    },
+    {
+        "datetime": "2019-08-15 21:10:58",
+        "artist": "Edwyn Collins",
+        "album": "Hope And Despair",
+        "track": "The Beginning of the End"
+    },
+    {
+        "datetime": "2019-08-15 21:14:53",
+        "artist": "Edwyn Collins",
+        "album": "Hope And Despair",
+        "track": "The Measure of the Man"
+    },
+    {
+        "datetime": "2019-08-16 09:03:11",
+        "artist": "The Go-Betweens",
+        "album": "Tallulah",
+        "track": "Right Here"
+    },
+    {
+        "datetime": "2019-08-16 09:07:05",
+        "artist": "The Go-Betweens",
+        "album": "Tallulah",
+        "track": "You Tell Me"
+    },
+    {
+        "datetime": "2019-08-16 09:10:44",
+        "artist": "The Go-Betweens",
+        "album": "Tallulah",
+        "track": "Someone Else\u2019s Wife"
+    },
+    {
+        "datetime": "2019-08-16 09:45:13",
+        "artist": "The Go-Betweens",
+        "album": "Tallulah",
+        "track": "I Just Get Caught Out"
+    },
+    {
+        "datetime": "2019-08-16 09:47:29",
+        "artist": "The Go-Betweens",
+        "album": "Tallulah",
+        "track": "Cut It Out"
+    },
+    {
+        "datetime": "2019-08-16 09:51:28",
+        "artist": "The Go-Betweens",
+        "album": "Tallulah",
+        "track": "The House That Jack Kerouac Built"
+    },
+    {
+        "datetime": "2019-08-16 09:56:10",
+        "artist": "The Go-Betweens",
+        "album": "Tallulah",
+        "track": "Bye Bye Pride"
+    },
+    {
+        "datetime": "2019-08-16 10:00:17",
+        "artist": "The Go-Betweens",
+        "album": "Tallulah",
+        "track": "Spirit of a Vampyre"
+    },
+    {
+        "datetime": "2019-08-16 10:04:14",
+        "artist": "The Go-Betweens",
+        "album": "Tallulah",
+        "track": "The Clarke Sisters"
+    },
+    {
+        "datetime": "2019-08-16 10:07:37",
+        "artist": "The Go-Betweens",
+        "album": "Tallulah",
+        "track": "Hope Then Strife"
+    },
+    {
+        "datetime": "2019-08-16 13:46:39",
+        "artist": "Bauhaus",
+        "album": "Bauhaus - 1979-1983 Volume One",
+        "track": "Double Dare"
+    },
+    {
+        "datetime": "2019-08-16 13:51:34",
+        "artist": "Bauhaus",
+        "album": "Bauhaus - 1979-1983 Volume One",
+        "track": "In the Flat Field"
+    },
+    {
+        "datetime": "2019-08-16 13:56:24",
+        "artist": "Bauhaus",
+        "album": "Bauhaus - 1979-1983 Volume One",
+        "track": "Dark Entries"
+    },
+    {
+        "datetime": "2019-08-16 14:00:15",
+        "artist": "Bauhaus",
+        "album": "Bauhaus - 1979-1983 Volume One",
+        "track": "Stigmata Martyr"
+    },
+    {
+        "datetime": "2019-08-16 14:03:57",
+        "artist": "Bauhaus",
+        "album": "Bauhaus - 1979-1983 Volume One",
+        "track": "Bela Lugosi's Dead"
+    },
+    {
+        "datetime": "2019-08-16 14:13:34",
+        "artist": "Bauhaus",
+        "album": "Bauhaus - 1979-1983 Volume One",
+        "track": "A God in an Alcove"
+    },
+    {
+        "datetime": "2019-08-16 14:17:42",
+        "artist": "Bauhaus",
+        "album": "Bauhaus - 1979-1983 Volume One",
+        "track": "Telegram Sam"
+    },
+    {
+        "datetime": "2019-08-16 14:19:53",
+        "artist": "Bauhaus",
+        "album": "Bauhaus - 1979-1983 Volume One",
+        "track": "St. Vitus Dance"
+    },
+    {
+        "datetime": "2019-08-16 14:23:24",
+        "artist": "Bauhaus",
+        "album": "Bauhaus - 1979-1983 Volume One",
+        "track": "A Spy In The Cab"
+    },
+    {
+        "datetime": "2019-08-16 14:27:55",
+        "artist": "Bauhaus",
+        "album": "Bauhaus - 1979-1983 Volume One",
+        "track": "Terror Couple Kill Colonel"
+    },
+    {
+        "datetime": "2019-08-16 14:32:21",
+        "artist": "Bauhaus",
+        "album": "Bauhaus - 1979-1983 Volume One",
+        "track": "Dancing"
+    },
+    {
+        "datetime": "2019-08-16 14:34:51",
+        "artist": "Bauhaus",
+        "album": "Bauhaus - 1979-1983 Volume One",
+        "track": "Hair of the Dog"
+    },
+    {
+        "datetime": "2019-08-16 14:37:35",
+        "artist": "Bauhaus",
+        "album": "Bauhaus - 1979-1983 Volume One",
+        "track": "The Passion of Lovers"
+    },
+    {
+        "datetime": "2019-08-16 14:41:26",
+        "artist": "Bauhaus",
+        "album": "Bauhaus - 1979-1983 Volume One",
+        "track": "Mask"
+    },
+    {
+        "datetime": "2019-08-20 18:26:08",
+        "artist": "David Bowie",
+        "album": "Aladdin Sane",
+        "track": "Watch That Man (2013 Remaster)"
+    },
+    {
+        "datetime": "2019-08-20 18:43:21",
+        "artist": "David Bowie",
+        "album": "Aladdin Sane",
+        "track": "Aladdin Sane (2013 Remaster)"
+    },
+    {
+        "datetime": "2019-08-20 18:48:31",
+        "artist": "David Bowie",
+        "album": "Aladdin Sane",
+        "track": "Drive-In Saturday (2013 Remaster)"
+    },
+    {
+        "datetime": "2019-08-20 18:53:03",
+        "artist": "David Bowie",
+        "album": "Aladdin Sane",
+        "track": "Panic in Detroit (2013 Remaster)"
+    },
+    {
+        "datetime": "2019-08-20 18:57:32",
+        "artist": "David Bowie",
+        "album": "Aladdin Sane",
+        "track": "Cracked Actor (2013 Remaster)"
+    },
+    {
+        "datetime": "2019-08-20 19:00:34",
+        "artist": "David Bowie",
+        "album": "Aladdin Sane",
+        "track": "Time (2013 Remaster)"
+    },
+    {
+        "datetime": "2019-08-20 20:06:38",
+        "artist": "David Bowie",
+        "album": "Aladdin Sane",
+        "track": "The Prettiest Star (2013 Remaster)"
+    },
+    {
+        "datetime": "2019-08-20 20:10:10",
+        "artist": "David Bowie",
+        "album": "Aladdin Sane",
+        "track": "Let's Spend the Night Together (2013 Remaster)"
+    },
+    {
+        "datetime": "2019-08-20 20:13:21",
+        "artist": "David Bowie",
+        "album": "Aladdin Sane",
+        "track": "The Jean Genie (2013 Remaster)"
+    },
+    {
+        "datetime": "2019-08-20 20:17:29",
+        "artist": "David Bowie",
+        "album": "Aladdin Sane",
+        "track": "Lady Grinning Soul (2013 Remaster)"
+    },
+    {
+        "datetime": "2019-08-20 20:21:24",
+        "artist": "David Bowie",
+        "album": "Pin Ups",
+        "track": "Rosalyn (2015 Remaster)"
+    },
+    {
+        "datetime": "2019-08-20 20:23:47",
+        "artist": "David Bowie",
+        "album": "Pin Ups",
+        "track": "Here Comes the Night (2015 Remaster)"
+    },
+    {
+        "datetime": "2019-08-20 20:26:57",
+        "artist": "David Bowie",
+        "album": "Pin Ups",
+        "track": "I Wish You Would (2015 Remaster)"
+    },
+    {
+        "datetime": "2019-08-20 20:29:45",
+        "artist": "David Bowie",
+        "album": "Pin Ups",
+        "track": "See Emily Play (2015 Remaster)"
+    },
+    {
+        "datetime": "2019-08-20 20:33:58",
+        "artist": "David Bowie",
+        "album": "Pin Ups",
+        "track": "Everything's Alright (2015 Remaster)"
+    },
+    {
+        "datetime": "2019-08-20 20:36:27",
+        "artist": "David Bowie",
+        "album": "Pin Ups",
+        "track": "I Can't Explain (2015 Remaster)"
+    },
+    {
+        "datetime": "2019-08-20 20:38:42",
+        "artist": "David Bowie",
+        "album": "Pin Ups",
+        "track": "Friday on My Mind (2015 Remaster)"
+    },
+    {
+        "datetime": "2019-08-20 20:41:39",
+        "artist": "David Bowie",
+        "album": "Pin Ups",
+        "track": "Sorrow (2015 Remaster)"
+    },
+    {
+        "datetime": "2019-08-20 20:44:33",
+        "artist": "David Bowie",
+        "album": "Pin Ups",
+        "track": "Don't Bring Me Down (2015 Remaster)"
+    },
+    {
+        "datetime": "2019-08-20 20:46:39",
+        "artist": "David Bowie",
+        "album": "Pin Ups",
+        "track": "Shapes of Things (2015 Remaster)"
+    },
+    {
+        "datetime": "2019-08-20 20:49:33",
+        "artist": "David Bowie",
+        "album": "Pin Ups",
+        "track": "Anyway, Anyhow, Anywhere (2015 Remaster)"
+    },
+    {
+        "datetime": "2019-08-20 20:52:46",
+        "artist": "David Bowie",
+        "album": "Pin Ups",
+        "track": "Where Have All the Good Times Gone (2015 Remaster)"
+    },
+    {
+        "datetime": "2019-08-20 21:21:20",
+        "artist": "David Bowie",
+        "album": "Young Americans",
+        "track": "Young Americans (2016 remaster)"
+    },
+    {
+        "datetime": "2019-08-20 21:26:34",
+        "artist": "David Bowie",
+        "album": "Young Americans",
+        "track": "Win (2016 Remaster)"
+    },
+    {
+        "datetime": "2019-08-20 21:31:22",
+        "artist": "David Bowie",
+        "album": "Young Americans",
+        "track": "Fascination (2016 remaster)"
+    },
+    {
+        "datetime": "2019-08-20 21:37:10",
+        "artist": "David Bowie",
+        "album": "Young Americans",
+        "track": "Right (2016 remaster)"
+    },
+    {
+        "datetime": "2019-08-20 21:41:33",
+        "artist": "David Bowie",
+        "album": "Young Americans",
+        "track": "Somebody Up There Likes Me (2016 remaster)"
+    },
+    {
+        "datetime": "2019-08-20 21:48:10",
+        "artist": "David Bowie",
+        "album": "Young Americans",
+        "track": "Across The Universe (2016 remaster)"
+    },
+    {
+        "datetime": "2019-08-20 21:52:44",
+        "artist": "David Bowie",
+        "album": "Young Americans",
+        "track": "Can You Hear Me (2016 Remaster)"
+    },
+    {
+        "datetime": "2019-08-21 18:20:57",
+        "artist": "David Bowie",
+        "album": "Young Americans",
+        "track": "Fame (2016 remaster)"
+    },
+    {
+        "datetime": "2019-08-21 18:25:18",
+        "artist": "Yazoo",
+        "album": "Upstairs at Erics",
+        "track": "Don't Go (2008 Remaster)"
+    },
+    {
+        "datetime": "2019-08-21 18:28:30",
+        "artist": "Yazoo",
+        "album": "Upstairs at Erics",
+        "track": "Too Pieces (2008 Remastered Version)"
+    },
+    {
+        "datetime": "2019-08-21 18:31:45",
+        "artist": "Yazoo",
+        "album": "Upstairs at Erics",
+        "track": "Bad Connection (2008 Remastered Version)"
+    },
+    {
+        "datetime": "2019-08-21 18:35:06",
+        "artist": "Yazoo",
+        "album": "Upstairs at Erics",
+        "track": "Midnight (2008 Remastered Version)"
+    },
+    {
+        "datetime": "2019-08-21 19:18:36",
+        "artist": "Yazoo",
+        "album": "Upstairs at Erics",
+        "track": "Only You (2008 Remastered Version)"
+    },
+    {
+        "datetime": "2019-08-21 19:21:51",
+        "artist": "Yazoo",
+        "album": "Upstairs at Erics",
+        "track": "Goodbye '70s (2008 Remaster)"
+    },
+    {
+        "datetime": "2019-08-21 19:24:28",
+        "artist": "Yazoo",
+        "album": "Upstairs at Erics",
+        "track": "Tuesday (2008 Remastered Version)"
+    },
+    {
+        "datetime": "2019-08-21 19:27:49",
+        "artist": "Yazoo",
+        "album": "Upstairs at Erics",
+        "track": "Winter Kills (2008 Remastered Version)"
+    },
+    {
+        "datetime": "2019-08-21 19:31:53",
+        "artist": "Yazoo",
+        "album": "Upstairs at Erics",
+        "track": "Bring Your Love Down (Didn't I) [2008 Remastered Version]"
+    },
+    {
+        "datetime": "2019-08-21 19:36:34",
+        "artist": "David Bowie",
+        "album": "The Gouster",
+        "track": "John, I'm Only Dancing (Again) [2016 Remastered Version]"
+    },
+    {
+        "datetime": "2019-08-21 19:43:34",
+        "artist": "David Bowie",
+        "album": "The Gouster",
+        "track": "Somebody Up There Likes Me (Alternative Gouster Mix)"
+    },
+    {
+        "datetime": "2019-08-21 19:50:07",
+        "artist": "David Bowie",
+        "album": "The Gouster",
+        "track": "It's Gonna Be Me (Without Strings) [2016 Remastered Version]"
+    },
+    {
+        "datetime": "2019-08-21 20:02:30",
+        "artist": "David Bowie",
+        "album": "The Gouster",
+        "track": "Who Can I Be Now? (2016 Remastered Version)"
+    },
+    {
+        "datetime": "2019-08-21 20:07:12",
+        "artist": "David Bowie",
+        "album": "The Gouster",
+        "track": "Can You Hear Me (Alternative Gouster Version)"
+    },
+    {
+        "datetime": "2019-08-21 20:12:36",
+        "artist": "David Bowie",
+        "album": "The Gouster",
+        "track": "Young Americans (2016 Remastered Version) [Gouster]"
+    },
+    {
+        "datetime": "2019-08-21 20:18:24",
+        "artist": "Lloyd Cole",
+        "album": "Smile If You Want To (In New York - Collected Recordings 1988-1996)",
+        "track": "No More Love Songs"
+    },
+    {
+        "datetime": "2019-08-21 20:21:44",
+        "artist": "Lloyd Cole",
+        "album": "Smile If You Want To (In New York - Collected Recordings 1988-1996)",
+        "track": "Man on the Verge"
+    },
+    {
+        "datetime": "2019-08-21 20:25:09",
+        "artist": "Lloyd Cole",
+        "album": "Smile If You Want To (In New York - Collected Recordings 1988-1996)",
+        "track": "Santa Cruz"
+    },
+    {
+        "datetime": "2019-08-21 20:26:10",
+        "artist": "Lloyd Cole",
+        "album": "Smile If You Want To (In New York - Collected Recordings 1988-1996)",
+        "track": "Alright People"
+    },
+    {
+        "datetime": "2019-08-21 20:30:08",
+        "artist": "Lloyd Cole",
+        "album": "Smile If You Want To (In New York - Collected Recordings 1988-1996)",
+        "track": "You're A Big Girl Now"
+    },
+    {
+        "datetime": "2019-08-21 20:34:45",
+        "artist": "Lloyd Cole",
+        "album": "Smile If You Want To (In New York - Collected Recordings 1988-1996)",
+        "track": "Another Lover"
+    },
+    {
+        "datetime": "2019-08-21 20:38:53",
+        "artist": "Lloyd Cole",
+        "album": "Smile If You Want To (In New York - Collected Recordings 1988-1996)",
+        "track": "39 Down"
+    },
+    {
+        "datetime": "2019-08-21 20:41:23",
+        "artist": "Lloyd Cole",
+        "album": "Smile If You Want To (In New York - Collected Recordings 1988-1996)",
+        "track": "Went To Woodstock"
+    },
+    {
+        "datetime": "2019-08-21 20:43:50",
+        "artist": "Lloyd Cole",
+        "album": "Smile If You Want To (In New York - Collected Recordings 1988-1996)",
+        "track": "I'm Gone"
+    },
+    {
+        "datetime": "2019-08-23 08:47:23",
+        "artist": "The Waterboys",
+        "album": "Where The Action Is",
+        "track": "Where the Action Is"
+    },
+    {
+        "datetime": "2019-08-23 08:50:48",
+        "artist": "The Waterboys",
+        "album": "Where The Action Is",
+        "track": "London Mick"
+    },
+    {
+        "datetime": "2019-08-23 08:53:58",
+        "artist": "The Waterboys",
+        "album": "Where The Action Is",
+        "track": "Out of All This Blue"
+    },
+    {
+        "datetime": "2019-08-23 08:57:37",
+        "artist": "The Waterboys",
+        "album": "Where The Action Is",
+        "track": "Right Side of Heartbreak (Wrong Side of Love)"
+    },
+    {
+        "datetime": "2019-08-23 09:02:09",
+        "artist": "The Waterboys",
+        "album": "Where The Action Is",
+        "track": "In My Time on Earth"
+    },
+    {
+        "datetime": "2019-08-23 09:07:53",
+        "artist": "The Waterboys",
+        "album": "Where The Action Is",
+        "track": "Ladbroke Grove Symphony"
+    },
+    {
+        "datetime": "2019-08-23 09:13:07",
+        "artist": "The Waterboys",
+        "album": "Where The Action Is",
+        "track": "Take Me There I Will Follow You"
+    },
+    {
+        "datetime": "2019-08-23 16:18:29",
+        "artist": "The Waterboys",
+        "album": "Where The Action Is",
+        "track": "And There's Love"
+    },
+    {
+        "datetime": "2019-08-23 16:21:03",
+        "artist": "The Waterboys",
+        "album": "Where The Action Is",
+        "track": "Then She Made the Lasses O"
+    },
+    {
+        "datetime": "2019-08-23 16:23:18",
+        "artist": "The Waterboys",
+        "album": "Where The Action Is",
+        "track": "Piper at the Gates of Dawn"
+    },
+    {
+        "datetime": "2019-08-23 17:52:52",
+        "artist": "Roxy Music",
+        "album": "Manifesto",
+        "track": "Manifesto (Remastered)"
+    },
+    {
+        "datetime": "2019-08-23 17:58:22",
+        "artist": "Roxy Music",
+        "album": "Manifesto",
+        "track": "Trash"
+    },
+    {
+        "datetime": "2019-08-23 18:00:37",
+        "artist": "Roxy Music",
+        "album": "Manifesto",
+        "track": "Angel Eyes"
+    },
+    {
+        "datetime": "2019-08-23 18:04:09",
+        "artist": "Roxy Music",
+        "album": "Manifesto",
+        "track": "Still Falls The Rain (Remastered)"
+    },
+    {
+        "datetime": "2019-08-23 18:08:23",
+        "artist": "Roxy Music",
+        "album": "Manifesto",
+        "track": "Stronger Through The Years (Remastered)"
+    },
+    {
+        "datetime": "2019-08-23 18:14:39",
+        "artist": "Roxy Music",
+        "album": "Manifesto",
+        "track": "Ain't That So (Remastered)"
+    },
+    {
+        "datetime": "2019-08-23 18:20:18",
+        "artist": "Roxy Music",
+        "album": "Manifesto",
+        "track": "My Little Girl (Remastered)"
+    },
+    {
+        "datetime": "2019-08-23 18:23:36",
+        "artist": "Roxy Music",
+        "album": "Manifesto",
+        "track": "Dance Away"
+    },
+    {
+        "datetime": "2019-08-30 08:57:35",
+        "artist": "The Waterboys",
+        "album": "Where The Action Is",
+        "track": "Where the Action Is"
+    },
+    {
+        "datetime": "2019-08-30 09:01:00",
+        "artist": "The Waterboys",
+        "album": "Where The Action Is",
+        "track": "London Mick"
+    },
+    {
+        "datetime": "2019-08-30 09:04:11",
+        "artist": "The Waterboys",
+        "album": "Where The Action Is",
+        "track": "Out of All This Blue"
+    },
+    {
+        "datetime": "2019-08-30 09:07:49",
+        "artist": "The Waterboys",
+        "album": "Where The Action Is",
+        "track": "Right Side of Heartbreak (Wrong Side of Love)"
+    },
+    {
+        "datetime": "2019-08-30 09:12:22",
+        "artist": "The Waterboys",
+        "album": "Where The Action Is",
+        "track": "In My Time on Earth"
+    },
+    {
+        "datetime": "2019-08-30 09:18:05",
+        "artist": "The Waterboys",
+        "album": "Where The Action Is",
+        "track": "Ladbroke Grove Symphony"
+    },
+    {
+        "datetime": "2019-08-30 09:23:20",
+        "artist": "The Waterboys",
+        "album": "Where The Action Is",
+        "track": "Take Me There I Will Follow You"
+    },
+    {
+        "datetime": "2019-08-30 09:27:19",
+        "artist": "The Waterboys",
+        "album": "Where The Action Is",
+        "track": "And There's Love"
+    },
+    {
+        "datetime": "2019-08-30 09:29:53",
+        "artist": "The Waterboys",
+        "album": "Where The Action Is",
+        "track": "Then She Made the Lasses O"
+    },
+    {
+        "datetime": "2019-08-30 09:32:54",
+        "artist": "The Waterboys",
+        "album": "Where The Action Is",
+        "track": "Piper at the Gates of Dawn"
+    },
+    {
+        "datetime": "2019-08-30 11:36:19",
+        "artist": "The Waterboys",
+        "album": "Where The Action Is",
+        "track": "Where the Action Is"
+    },
+    {
+        "datetime": "2019-08-30 11:39:44",
+        "artist": "The Waterboys",
+        "album": "Where The Action Is",
+        "track": "London Mick"
+    },
+    {
+        "datetime": "2019-08-30 11:42:55",
+        "artist": "The Waterboys",
+        "album": "Where The Action Is",
+        "track": "Out of All This Blue"
+    },
+    {
+        "datetime": "2019-08-30 11:46:33",
+        "artist": "The Waterboys",
+        "album": "Where The Action Is",
+        "track": "Right Side of Heartbreak (Wrong Side of Love)"
+    },
+    {
+        "datetime": "2019-08-30 11:51:06",
+        "artist": "The Waterboys",
+        "album": "Where The Action Is",
+        "track": "In My Time on Earth"
+    },
+    {
+        "datetime": "2019-08-30 11:56:49",
+        "artist": "The Waterboys",
+        "album": "Where The Action Is",
+        "track": "Ladbroke Grove Symphony"
+    },
+    {
+        "datetime": "2019-08-30 12:02:04",
+        "artist": "The Waterboys",
+        "album": "Where The Action Is",
+        "track": "Take Me There I Will Follow You"
+    },
+    {
+        "datetime": "2019-08-30 12:06:03",
+        "artist": "The Waterboys",
+        "album": "Where The Action Is",
+        "track": "And There's Love"
+    },
+    {
+        "datetime": "2019-08-30 12:08:37",
+        "artist": "The Waterboys",
+        "album": "Where The Action Is",
+        "track": "Then She Made the Lasses O"
+    },
+    {
+        "datetime": "2019-08-30 12:10:52",
+        "artist": "The Waterboys",
+        "album": "Where The Action Is",
+        "track": "Piper at the Gates of Dawn"
+    },
+    {
+        "datetime": "2019-08-30 13:44:39",
+        "artist": "Eilen Jewell",
+        "album": "Gypsy",
+        "track": "Crawl"
+    },
+    {
+        "datetime": "2019-08-30 13:48:18",
+        "artist": "Eilen Jewell",
+        "album": "Gypsy",
+        "track": "Miles to Go"
+    },
+    {
+        "datetime": "2019-08-30 13:51:35",
+        "artist": "Eilen Jewell",
+        "album": "Gypsy",
+        "track": "You Cared Enough to Lie"
+    },
+    {
+        "datetime": "2019-08-30 13:54:22",
+        "artist": "Eilen Jewell",
+        "album": "Gypsy",
+        "track": "79 Cents (The Meow Song)"
+    },
+    {
+        "datetime": "2019-08-30 13:57:22",
+        "artist": "Eilen Jewell",
+        "album": "Gypsy",
+        "track": "Beat the Drum"
+    },
+    {
+        "datetime": "2019-08-30 14:00:35",
+        "artist": "Eilen Jewell",
+        "album": "Gypsy",
+        "track": "Gypsy"
+    },
+    {
+        "datetime": "2019-08-30 14:03:56",
+        "artist": "Eilen Jewell",
+        "album": "Gypsy",
+        "track": "These Blues"
+    },
+    {
+        "datetime": "2019-08-30 14:06:42",
+        "artist": "Eilen Jewell",
+        "album": "Gypsy",
+        "track": "Working Hard for Your Love"
+    },
+    {
+        "datetime": "2019-08-30 14:09:45",
+        "artist": "Eilen Jewell",
+        "album": "Gypsy",
+        "track": "Who Else But You"
+    },
+    {
+        "datetime": "2019-08-30 14:13:21",
+        "artist": "Eilen Jewell",
+        "album": "Gypsy",
+        "track": "Witness"
+    },
+    {
+        "datetime": "2019-08-30 14:16:14",
+        "artist": "Eilen Jewell",
+        "album": "Gypsy",
+        "track": "Hard Times"
+    },
+    {
+        "datetime": "2019-08-30 14:18:57",
+        "artist": "Eilen Jewell",
+        "album": "Gypsy",
+        "track": "Fear"
+    },
+    {
+        "datetime": "2019-08-30 16:41:01",
+        "artist": "Josh Ritter",
+        "album": "Gathering",
+        "track": "Shaker Love Song (Leah)"
+    },
+    {
+        "datetime": "2019-08-30 16:42:04",
+        "artist": "Josh Ritter",
+        "album": "Gathering",
+        "track": "Showboat"
+    },
+    {
+        "datetime": "2019-08-30 16:46:26",
+        "artist": "Josh Ritter",
+        "album": "Gathering",
+        "track": "Friendamine"
+    },
+    {
+        "datetime": "2019-08-31 17:54:22",
+        "artist": "Josh Ritter",
+        "album": "Gathering",
+        "track": "Feels Like Lightning"
+    },
+    {
+        "datetime": "2019-08-31 17:57:24",
+        "artist": "Josh Ritter",
+        "album": "Gathering",
+        "track": "When Will I Be Changed (feat. Bob Weir)"
+    },
+    {
+        "datetime": "2019-08-31 18:03:17",
+        "artist": "Josh Ritter",
+        "album": "Gathering",
+        "track": "Train Go By"
+    },
+    {
+        "datetime": "2019-08-31 18:07:44",
+        "artist": "Josh Ritter",
+        "album": "Gathering",
+        "track": "Dreams"
+    },
+    {
+        "datetime": "2019-08-31 18:14:04",
+        "artist": "Josh Ritter",
+        "album": "Gathering",
+        "track": "Myrna Loy"
+    },
+    {
+        "datetime": "2019-08-31 18:22:58",
+        "artist": "Josh Ritter",
+        "album": "Gathering",
+        "track": "Cry Softly"
+    },
+    {
+        "datetime": "2019-08-31 18:25:44",
+        "artist": "Josh Ritter",
+        "album": "Gathering",
+        "track": "Oh Lord, Pt. 3"
+    },
+    {
+        "datetime": "2019-08-31 18:29:15",
+        "artist": "Josh Ritter",
+        "album": "Gathering",
+        "track": "Thunderbolt's Goodnight"
+    },
+    {
+        "datetime": "2019-08-31 18:33:20",
+        "artist": "Josh Ritter",
+        "album": "Gathering",
+        "track": "Strangers"
+    }
+]

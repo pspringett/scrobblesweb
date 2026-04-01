@@ -1,0 +1,1214 @@
+[
+    {
+        "datetime": "2021-07-01 09:31:42",
+        "artist": "Roxy Music",
+        "album": "Manifesto",
+        "track": "Manifesto"
+    },
+    {
+        "datetime": "2021-07-03 10:22:21",
+        "artist": "Lloyd Cole and the Commotions",
+        "album": "Mainstream",
+        "track": "My Bag"
+    },
+    {
+        "datetime": "2021-07-03 10:26:23",
+        "artist": "Lloyd Cole and the Commotions",
+        "album": "Mainstream",
+        "track": "From The Hip"
+    },
+    {
+        "datetime": "2021-07-03 10:30:21",
+        "artist": "Lloyd Cole and the Commotions",
+        "album": "Mainstream",
+        "track": "29"
+    },
+    {
+        "datetime": "2021-07-03 10:35:49",
+        "artist": "Lloyd Cole and the Commotions",
+        "album": "Mainstream",
+        "track": "Mainstream"
+    },
+    {
+        "datetime": "2021-07-03 10:39:04",
+        "artist": "Lloyd Cole and the Commotions",
+        "album": "Mainstream",
+        "track": "Jennifer She Said"
+    },
+    {
+        "datetime": "2021-07-04 12:48:47",
+        "artist": "David Bowie",
+        "album": "Hunky Dory",
+        "track": "Changes - 2015 Remaster"
+    },
+    {
+        "datetime": "2021-07-04 12:52:25",
+        "artist": "David Bowie",
+        "album": "Hunky Dory",
+        "track": "Oh! You Pretty Things - 2015 Remaster"
+    },
+    {
+        "datetime": "2021-07-06 15:43:28",
+        "artist": "R.E.M.",
+        "album": "Document (R.E.M. No. 5)",
+        "track": "Finest Worksong"
+    },
+    {
+        "datetime": "2021-07-06 15:47:19",
+        "artist": "R.E.M.",
+        "album": "Document (R.E.M. No. 5)",
+        "track": "Welcome to the Occupation"
+    },
+    {
+        "datetime": "2021-07-06 15:50:07",
+        "artist": "R.E.M.",
+        "album": "Document (R.E.M. No. 5)",
+        "track": "Exhuming McCarthy"
+    },
+    {
+        "datetime": "2021-07-06 15:53:29",
+        "artist": "R.E.M.",
+        "album": "Document (R.E.M. No. 5)",
+        "track": "Disturbance at the Heron House"
+    },
+    {
+        "datetime": "2021-07-06 15:57:18",
+        "artist": "R.E.M.",
+        "album": "Document (R.E.M. No. 5)",
+        "track": "Strange"
+    },
+    {
+        "datetime": "2021-07-06 15:59:51",
+        "artist": "R.E.M.",
+        "album": "Document (R.E.M. No. 5)",
+        "track": "It's the End of the World as We Know It (and I Feel Fine)"
+    },
+    {
+        "datetime": "2021-07-06 16:03:58",
+        "artist": "R.E.M.",
+        "album": "Document (R.E.M. No. 5)",
+        "track": "The One I Love"
+    },
+    {
+        "datetime": "2021-07-06 16:07:36",
+        "artist": "R.E.M.",
+        "album": "Document (R.E.M. No. 5)",
+        "track": "Fireplace"
+    },
+    {
+        "datetime": "2021-07-09 13:47:48",
+        "artist": "R.E.M.",
+        "album": "Document (R.E.M. No. 5)",
+        "track": "Lightnin' Hopkins"
+    },
+    {
+        "datetime": "2021-07-09 14:03:47",
+        "artist": "Tom Robinson Band",
+        "album": "Power In The Darkness",
+        "track": "Up Against The Wall"
+    },
+    {
+        "datetime": "2021-07-09 14:07:22",
+        "artist": "Tom Robinson Band",
+        "album": "Power In The Darkness",
+        "track": "Grey Cortina"
+    },
+    {
+        "datetime": "2021-07-09 14:09:33",
+        "artist": "Tom Robinson Band",
+        "album": "Power In The Darkness",
+        "track": "Too Good To Be True"
+    },
+    {
+        "datetime": "2021-07-09 14:13:08",
+        "artist": "Tom Robinson Band",
+        "album": "Power In The Darkness",
+        "track": "Ain't Gonna Take It"
+    },
+    {
+        "datetime": "2021-07-15 12:14:15",
+        "artist": "Lloyd Cole",
+        "album": "Etc",
+        "track": "Backwoods"
+    },
+    {
+        "datetime": "2021-07-15 12:17:02",
+        "artist": "Lloyd Cole",
+        "album": "Etc",
+        "track": "Old Enough To Know Better"
+    },
+    {
+        "datetime": "2021-07-15 12:21:02",
+        "artist": "Lloyd Cole",
+        "album": "Etc",
+        "track": "Another Lover"
+    },
+    {
+        "datetime": "2021-07-15 12:23:25",
+        "artist": "Lloyd Cole",
+        "album": "Etc",
+        "track": "39 Down"
+    },
+    {
+        "datetime": "2021-07-15 12:24:50",
+        "artist": "Lloyd Cole",
+        "album": "Etc",
+        "track": "Sunburst"
+    },
+    {
+        "datetime": "2021-07-15 12:49:43",
+        "artist": "Lloyd Cole",
+        "album": "Etc",
+        "track": "Memphis"
+    },
+    {
+        "datetime": "2021-07-15 12:54:13",
+        "artist": "Lloyd Cole",
+        "album": "Etc",
+        "track": "You're A Big Girl Now"
+    },
+    {
+        "datetime": "2021-07-15 12:58:03",
+        "artist": "Lloyd Cole",
+        "album": "Etc",
+        "track": "Alright People"
+    },
+    {
+        "datetime": "2021-07-15 12:58:55",
+        "artist": "Lloyd Cole",
+        "album": "Etc",
+        "track": "Santa Cruz"
+    },
+    {
+        "datetime": "2021-07-15 13:01:08",
+        "artist": "Lloyd Cole",
+        "album": "Etc",
+        "track": "Love Like This Can't Last"
+    },
+    {
+        "datetime": "2021-07-15 13:03:27",
+        "artist": "Lloyd Cole",
+        "album": "Etc",
+        "track": "Went To Woodstock"
+    },
+    {
+        "datetime": "2021-07-15 13:06:44",
+        "artist": "Lloyd Cole",
+        "album": "Etc",
+        "track": "Fool You Are (Demo)"
+    },
+    {
+        "datetime": "2021-07-15 13:09:52",
+        "artist": "Lloyd Cole",
+        "album": "Etc",
+        "track": "Weakness"
+    },
+    {
+        "datetime": "2021-07-15 13:10:57",
+        "artist": "Lloyd Cole",
+        "album": "Etc",
+        "track": "Backwoods (Reprise)"
+    },
+    {
+        "datetime": "2021-07-15 13:14:48",
+        "artist": "Lloyd Cole",
+        "album": "Live At Brooklyn Bowl 2016",
+        "track": "Rattlesnakes (Live Brooklyn Bowl 2016)"
+    },
+    {
+        "datetime": "2021-07-15 13:17:42",
+        "artist": "Lloyd Cole",
+        "album": "Live At Brooklyn Bowl 2016",
+        "track": "Jennifer She Said (Live Brooklyn Bowl 2016)"
+    },
+    {
+        "datetime": "2021-07-15 13:21:17",
+        "artist": "Lloyd Cole",
+        "album": "Live At Brooklyn Bowl 2016",
+        "track": "So You'd Like To Save The World (Live Brooklyn Bowl 2016)"
+    },
+    {
+        "datetime": "2021-07-15 13:23:55",
+        "artist": "Lloyd Cole",
+        "album": "Live At Brooklyn Bowl 2016",
+        "track": "Weeping Wine (Live Brooklyn Bowl 2016)"
+    },
+    {
+        "datetime": "2021-07-15 13:27:53",
+        "artist": "Lloyd Cole",
+        "album": "Live At Brooklyn Bowl 2016",
+        "track": "No Blue Skies (Live Brooklyn Bowl 2016)"
+    },
+    {
+        "datetime": "2021-07-15 13:31:25",
+        "artist": "Lloyd Cole",
+        "album": "Live At Brooklyn Bowl 2016",
+        "track": "Everyone's Complaining (Live Brooklyn Bowl 2016)"
+    },
+    {
+        "datetime": "2021-07-15 13:34:58",
+        "artist": "Lloyd Cole",
+        "album": "Live At Brooklyn Bowl 2016",
+        "track": "Ice Cream Girl (Live Brooklyn Bowl 2016)"
+    },
+    {
+        "datetime": "2021-07-15 13:40:08",
+        "artist": "Lloyd Cole",
+        "album": "Live At Brooklyn Bowl 2016",
+        "track": "Downtown (Live Brooklyn Bowl 2016)"
+    },
+    {
+        "datetime": "2021-07-15 13:44:18",
+        "artist": "Lloyd Cole",
+        "album": "Live At Brooklyn Bowl 2016",
+        "track": "Perfect Blue (Live Brooklyn Bowl 2016)"
+    },
+    {
+        "datetime": "2021-07-15 13:48:22",
+        "artist": "Lloyd Cole",
+        "album": "Live At Brooklyn Bowl 2016",
+        "track": "Sweetheart (Live Brooklyn Bowl 2016)"
+    },
+    {
+        "datetime": "2021-07-15 13:53:18",
+        "artist": "Lloyd Cole",
+        "album": "Live At Brooklyn Bowl 2016",
+        "track": "Brand New Friend (Live Brooklyn Bowl 2016)"
+    },
+    {
+        "datetime": "2021-07-15 13:56:27",
+        "artist": "Lloyd Cole",
+        "album": "Live At Brooklyn Bowl 2016",
+        "track": "2CV (Live Brooklyn Bowl 2016)"
+    },
+    {
+        "datetime": "2021-07-15 13:59:29",
+        "artist": "Lloyd Cole",
+        "album": "Live At Brooklyn Bowl 2016",
+        "track": "Are You Ready To Be Heartbroken (Live Brooklyn Bowl 2016)"
+    },
+    {
+        "datetime": "2021-07-15 14:03:20",
+        "artist": "Lloyd Cole",
+        "album": "Live At Brooklyn Bowl 2016",
+        "track": "Like Lovers Do  (Live Brooklyn Bowl 2016)"
+    },
+    {
+        "datetime": "2021-07-15 14:06:36",
+        "artist": "Lloyd Cole",
+        "album": "Live At Brooklyn Bowl 2016",
+        "track": "Perfect Skin  (Live Brooklyn Bowl 2016)"
+    },
+    {
+        "datetime": "2021-07-15 14:10:26",
+        "artist": "Lloyd Cole",
+        "album": "Live At Brooklyn Bowl 2016",
+        "track": "Charlotte Street  (Live Brooklyn Bowl 2016)"
+    },
+    {
+        "datetime": "2021-07-15 14:15:02",
+        "artist": "Lloyd Cole",
+        "album": "Live At Brooklyn Bowl 2016",
+        "track": "My Bag  (Live Brooklyn Bowl 2016)"
+    },
+    {
+        "datetime": "2021-07-15 14:28:18",
+        "artist": "Lloyd Cole",
+        "album": "Live At Brooklyn Bowl 2016",
+        "track": "Lost Weekend  (Live Brooklyn Bowl 2016)"
+    },
+    {
+        "datetime": "2021-07-16 10:42:02",
+        "artist": "Lloyd Cole",
+        "album": "Cleaning Out The Ashtrays CD1 One Red Wine Glass",
+        "track": "The 'L' Word"
+    },
+    {
+        "datetime": "2021-07-16 10:46:12",
+        "artist": "Lloyd Cole",
+        "album": "Cleaning Out The Ashtrays CD1 One Red Wine Glass",
+        "track": "Mannish Girl"
+    },
+    {
+        "datetime": "2021-07-16 10:49:56",
+        "artist": "Lloyd Cole",
+        "album": "Cleaning Out The Ashtrays CD1 One Red Wine Glass",
+        "track": "The Witching Hour"
+    },
+    {
+        "datetime": "2021-07-16 10:53:39",
+        "artist": "Lloyd Cole",
+        "album": "Cleaning Out The Ashtrays CD1 One Red Wine Glass",
+        "track": "Wild Orphan"
+    },
+    {
+        "datetime": "2021-07-16 10:57:15",
+        "artist": "Lloyd Cole",
+        "album": "Cleaning Out The Ashtrays CD1 One Red Wine Glass",
+        "track": "Don't Look Back (Original Mix)"
+    },
+    {
+        "datetime": "2021-07-16 11:01:16",
+        "artist": "Lloyd Cole",
+        "album": "Cleaning Out The Ashtrays CD1 One Red Wine Glass",
+        "track": "No Blue Skies (Skyline Mix)"
+    },
+    {
+        "datetime": "2021-07-16 11:04:56",
+        "artist": "Lloyd Cole",
+        "album": "Cleaning Out The Ashtrays CD1 One Red Wine Glass",
+        "track": "Blame Mary Jane"
+    },
+    {
+        "datetime": "2021-07-16 11:08:10",
+        "artist": "Lloyd Cole",
+        "album": "Cleaning Out The Ashtrays CD1 One Red Wine Glass",
+        "track": "Everyone's Complaining"
+    },
+    {
+        "datetime": "2021-07-16 11:11:01",
+        "artist": "Lloyd Cole",
+        "album": "Cleaning Out The Ashtrays CD1 One Red Wine Glass",
+        "track": "Shelly I Do"
+    },
+    {
+        "datetime": "2021-07-16 11:13:15",
+        "artist": "Lloyd Cole",
+        "album": "Cleaning Out The Ashtrays CD1 One Red Wine Glass",
+        "track": "Somewhere Out In The East"
+    },
+    {
+        "datetime": "2021-07-16 11:16:33",
+        "artist": "Lloyd Cole",
+        "album": "Cleaning Out The Ashtrays CD1 One Red Wine Glass",
+        "track": "Chelsea Hotel #2"
+    },
+    {
+        "datetime": "2021-07-16 11:23:24",
+        "artist": "Lloyd Cole",
+        "album": "Cleaning Out The Ashtrays CD1 One Red Wine Glass",
+        "track": "Pay For It (Long Version)"
+    },
+    {
+        "datetime": "2021-07-16 11:25:55",
+        "artist": "Lloyd Cole",
+        "album": "Cleaning Out The Ashtrays CD1 One Red Wine Glass",
+        "track": "Weeping Wine (Original Mix)"
+    },
+    {
+        "datetime": "2021-07-16 11:29:30",
+        "artist": "Lloyd Cole",
+        "album": "Cleaning Out The Ashtrays CD1 One Red Wine Glass",
+        "track": "Weird On Me"
+    },
+    {
+        "datetime": "2021-07-16 11:32:07",
+        "artist": "Lloyd Cole",
+        "album": "Cleaning Out The Ashtrays CD1 One Red Wine Glass",
+        "track": "Children Of The Revolution"
+    },
+    {
+        "datetime": "2021-07-16 11:36:21",
+        "artist": "Lloyd Cole",
+        "album": "Cleaning Out The Ashtrays CD1 One Red Wine Glass",
+        "track": "She's A Girl And I'm A Man (Pre-Op)"
+    },
+    {
+        "datetime": "2021-07-16 12:05:57",
+        "artist": "Yazoo",
+        "album": "Reconnected",
+        "track": "Situation - Hercules & Love Affair Remix"
+    },
+    {
+        "datetime": "2021-07-16 12:11:09",
+        "artist": "Yazoo",
+        "album": "Reconnected",
+        "track": "Goodbye 70's - Black Light Odyssey Remix"
+    },
+    {
+        "datetime": "2021-07-16 12:16:15",
+        "artist": "Yazoo",
+        "album": "Reconnected",
+        "track": "Ode To Boy (Das Shadow Re-work)"
+    },
+    {
+        "datetime": "2021-07-16 12:24:40",
+        "artist": "Yazoo",
+        "album": "Reconnected",
+        "track": "Winter Kills - Electronic Periodic's Sub Piano Mix"
+    },
+    {
+        "datetime": "2021-07-16 13:17:52",
+        "artist": "Yazoo",
+        "album": "Reconnected",
+        "track": "Bad Connection - Subway Collective Broadband Remix"
+    },
+    {
+        "datetime": "2021-07-16 13:22:55",
+        "artist": "Yazoo",
+        "album": "Reconnected",
+        "track": "State Farm (Madhouse Mix)"
+    },
+    {
+        "datetime": "2021-07-16 14:47:42",
+        "artist": "Inhaler",
+        "album": "It Won't Always Be Like This",
+        "track": "It Won't Always Be Like This"
+    },
+    {
+        "datetime": "2021-07-16 14:51:45",
+        "artist": "Inhaler",
+        "album": "It Won't Always Be Like This",
+        "track": "My Honest Face"
+    },
+    {
+        "datetime": "2021-07-16 14:56:18",
+        "artist": "Inhaler",
+        "album": "It Won't Always Be Like This",
+        "track": "Slide Out the Window"
+    },
+    {
+        "datetime": "2021-07-16 15:00:54",
+        "artist": "Inhaler",
+        "album": "It Won't Always Be Like This",
+        "track": "Cheer Up Baby"
+    },
+    {
+        "datetime": "2021-07-18 22:36:31",
+        "artist": "R.E.M.",
+        "album": "Document (R.E.M. No. 5)",
+        "track": "Welcome To The Occupation (1999 Digital Remaster)"
+    },
+    {
+        "datetime": "2021-07-18 22:39:21",
+        "artist": "R.E.M.",
+        "album": "Document (R.E.M. No. 5)",
+        "track": "Exhuming McCarthy (1999 Digital Remaster)"
+    },
+    {
+        "datetime": "2021-07-18 22:42:43",
+        "artist": "R.E.M.",
+        "album": "Document (R.E.M. No. 5)",
+        "track": "Disturbance At The Heron House (1999 Digital Remaster)"
+    },
+    {
+        "datetime": "2021-07-19 13:50:56",
+        "artist": "Rosanne Cash",
+        "album": "Black Cadillac",
+        "track": "Black Cadillac"
+    },
+    {
+        "datetime": "2021-07-19 13:54:41",
+        "artist": "Rosanne Cash",
+        "album": "Black Cadillac",
+        "track": "Radio Operator"
+    },
+    {
+        "datetime": "2021-07-19 13:58:03",
+        "artist": "Rosanne Cash",
+        "album": "Black Cadillac",
+        "track": "I Was Watching You"
+    },
+    {
+        "datetime": "2021-07-19 14:02:05",
+        "artist": "Rosanne Cash",
+        "album": "Black Cadillac",
+        "track": "Burn Down This Town"
+    },
+    {
+        "datetime": "2021-07-19 14:05:16",
+        "artist": "Rosanne Cash",
+        "album": "Black Cadillac",
+        "track": "God Is In The Roses"
+    },
+    {
+        "datetime": "2021-07-19 14:09:23",
+        "artist": "Rosanne Cash",
+        "album": "Black Cadillac",
+        "track": "House On The Lake"
+    },
+    {
+        "datetime": "2021-07-19 14:12:55",
+        "artist": "Rosanne Cash",
+        "album": "Black Cadillac",
+        "track": "The World Unseen"
+    },
+    {
+        "datetime": "2021-07-19 14:18:08",
+        "artist": "Rosanne Cash",
+        "album": "Black Cadillac",
+        "track": "Like Fugitives"
+    },
+    {
+        "datetime": "2021-07-19 14:21:48",
+        "artist": "Rosanne Cash",
+        "album": "Black Cadillac",
+        "track": "Dreams Are Not My Home"
+    },
+    {
+        "datetime": "2021-07-19 14:25:29",
+        "artist": "Rosanne Cash",
+        "album": "Black Cadillac",
+        "track": "Like A Wave"
+    },
+    {
+        "datetime": "2021-07-19 19:52:11",
+        "artist": "Rosanne Cash",
+        "album": "Black Cadillac",
+        "track": "World Without Sound"
+    },
+    {
+        "datetime": "2021-07-19 19:55:53",
+        "artist": "Rosanne Cash",
+        "album": "Black Cadillac",
+        "track": "The Good Intent"
+    },
+    {
+        "datetime": "2021-07-23 18:06:54",
+        "artist": "Laura Marling",
+        "album": "Song For Our Daughter",
+        "track": "Held Down"
+    },
+    {
+        "datetime": "2021-07-23 18:10:30",
+        "artist": "Laura Marling",
+        "album": "Song For Our Daughter",
+        "track": "Strange Girl"
+    },
+    {
+        "datetime": "2021-07-23 18:13:53",
+        "artist": "Laura Marling",
+        "album": "Song For Our Daughter",
+        "track": "Only the Strong"
+    },
+    {
+        "datetime": "2021-07-23 18:17:13",
+        "artist": "Laura Marling",
+        "album": "Song For Our Daughter",
+        "track": "Blow by Blow"
+    },
+    {
+        "datetime": "2021-07-23 18:20:09",
+        "artist": "Laura Marling",
+        "album": "Song For Our Daughter",
+        "track": "Song for Our Daughter"
+    },
+    {
+        "datetime": "2021-07-23 18:24:16",
+        "artist": "Laura Marling",
+        "album": "Song For Our Daughter",
+        "track": "Fortune"
+    },
+    {
+        "datetime": "2021-07-23 18:28:11",
+        "artist": "Laura Marling",
+        "album": "Song For Our Daughter",
+        "track": "The End of the Affair"
+    },
+    {
+        "datetime": "2021-07-23 18:31:36",
+        "artist": "Laura Marling",
+        "album": "Song For Our Daughter",
+        "track": "Hope We Meet Again"
+    },
+    {
+        "datetime": "2021-07-23 18:35:42",
+        "artist": "Laura Marling",
+        "album": "Song For Our Daughter",
+        "track": "For You"
+    },
+    {
+        "datetime": "2021-07-23 18:39:39",
+        "artist": "The Rolling Stones",
+        "album": "Beggars Banquet",
+        "track": "Sympathy For The Devil - 50th Anniversary Edition"
+    },
+    {
+        "datetime": "2021-07-23 18:45:57",
+        "artist": "The Rolling Stones",
+        "album": "Beggars Banquet",
+        "track": "No Expectations - 50th Anniversary Edition"
+    },
+    {
+        "datetime": "2021-07-23 18:49:55",
+        "artist": "The Rolling Stones",
+        "album": "Beggars Banquet",
+        "track": "Dear Doctor - 50th Anniversary Edition"
+    },
+    {
+        "datetime": "2021-07-23 18:53:17",
+        "artist": "The Rolling Stones",
+        "album": "Beggars Banquet",
+        "track": "Parachute Woman - 50th Anniversary Edition"
+    },
+    {
+        "datetime": "2021-07-23 18:55:37",
+        "artist": "The Rolling Stones",
+        "album": "Beggars Banquet",
+        "track": "Jigsaw Puzzle - 50th Anniversary Edition"
+    },
+    {
+        "datetime": "2021-07-23 19:01:44",
+        "artist": "The Rolling Stones",
+        "album": "Beggars Banquet",
+        "track": "Street Fighting Man - 50th Anniversary Edition"
+    },
+    {
+        "datetime": "2021-07-23 19:44:42",
+        "artist": "The Rolling Stones",
+        "album": "Beggars Banquet",
+        "track": "Prodigal Son - 50th Anniversary Edition"
+    },
+    {
+        "datetime": "2021-07-23 19:47:34",
+        "artist": "The Rolling Stones",
+        "album": "Beggars Banquet",
+        "track": "Stray Cat Blues - 50th Anniversary Edition"
+    },
+    {
+        "datetime": "2021-07-23 19:52:12",
+        "artist": "The Rolling Stones",
+        "album": "Beggars Banquet",
+        "track": "Factory Girl - 50th Anniversary Edition"
+    },
+    {
+        "datetime": "2021-07-23 19:54:22",
+        "artist": "The Rolling Stones",
+        "album": "Beggars Banquet",
+        "track": "Salt Of The Earth - 50th Anniversary Edition"
+    },
+    {
+        "datetime": "2021-07-23 19:59:12",
+        "artist": "Hem",
+        "album": "Eveningland",
+        "track": "The Fire Thief"
+    },
+    {
+        "datetime": "2021-07-23 20:03:19",
+        "artist": "Hem",
+        "album": "Eveningland",
+        "track": "Lucky"
+    },
+    {
+        "datetime": "2021-07-23 20:07:09",
+        "artist": "Hem",
+        "album": "Eveningland",
+        "track": "Receiver"
+    },
+    {
+        "datetime": "2021-07-23 20:11:16",
+        "artist": "Hem",
+        "album": "Eveningland",
+        "track": "Redwing"
+    },
+    {
+        "datetime": "2021-07-23 20:15:30",
+        "artist": "Hem",
+        "album": "Eveningland",
+        "track": "My Father's Waltz"
+    },
+    {
+        "datetime": "2021-07-23 20:17:41",
+        "artist": "Hem",
+        "album": "Eveningland",
+        "track": "Hollow"
+    },
+    {
+        "datetime": "2021-07-23 20:21:36",
+        "artist": "Hem",
+        "album": "Eveningland",
+        "track": "A-Hunting We Will Go"
+    },
+    {
+        "datetime": "2021-07-23 20:25:53",
+        "artist": "Hem",
+        "album": "Eveningland",
+        "track": "An Easy One"
+    },
+    {
+        "datetime": "2021-07-23 20:29:04",
+        "artist": "Hem",
+        "album": "Eveningland",
+        "track": "Strays"
+    },
+    {
+        "datetime": "2021-07-23 20:32:55",
+        "artist": "Hem",
+        "album": "Eveningland",
+        "track": "Cincinnati Traveler"
+    },
+    {
+        "datetime": "2021-07-23 20:33:57",
+        "artist": "Hem",
+        "album": "Eveningland",
+        "track": "Jackson"
+    },
+    {
+        "datetime": "2021-07-23 20:37:30",
+        "artist": "Hem",
+        "album": "Eveningland",
+        "track": "Dance With Me, Now Darling"
+    },
+    {
+        "datetime": "2021-07-23 20:40:34",
+        "artist": "Hem",
+        "album": "Eveningland",
+        "track": "The Beautiful Sea"
+    },
+    {
+        "datetime": "2021-07-23 20:43:11",
+        "artist": "Hem",
+        "album": "Eveningland",
+        "track": "Eveningland"
+    },
+    {
+        "datetime": "2021-07-23 20:44:13",
+        "artist": "Hem",
+        "album": "Eveningland",
+        "track": "Pacific Street"
+    },
+    {
+        "datetime": "2021-07-23 20:47:24",
+        "artist": "Hem",
+        "album": "Eveningland",
+        "track": "Carry Me Home"
+    },
+    {
+        "datetime": "2021-07-23 21:14:19",
+        "artist": "Talking Heads",
+        "album": "Speaking In Tongues",
+        "track": "Burning Down the House - 2005 Remaster"
+    },
+    {
+        "datetime": "2021-07-23 21:18:20",
+        "artist": "Talking Heads",
+        "album": "Speaking In Tongues",
+        "track": "Making Flippy Floppy - 2005 Remaster"
+    },
+    {
+        "datetime": "2021-07-23 21:24:15",
+        "artist": "Talking Heads",
+        "album": "Speaking In Tongues",
+        "track": "Girlfriend Is Better - 2005 Remaster"
+    },
+    {
+        "datetime": "2021-07-23 21:34:17",
+        "artist": "Talking Heads",
+        "album": "Speaking In Tongues",
+        "track": "Slippery People - 2005 Remaster"
+    },
+    {
+        "datetime": "2021-07-23 21:39:23",
+        "artist": "Talking Heads",
+        "album": "Speaking In Tongues",
+        "track": "I Get Wild / Wild Gravity - 2005 Remaster"
+    },
+    {
+        "datetime": "2021-07-23 21:44:41",
+        "artist": "Talking Heads",
+        "album": "Speaking In Tongues",
+        "track": "Swamp - 2005 Remaster"
+    },
+    {
+        "datetime": "2021-07-23 21:49:53",
+        "artist": "Talking Heads",
+        "album": "Speaking In Tongues",
+        "track": "Moon Rocks - 2005 Remaster"
+    },
+    {
+        "datetime": "2021-07-23 21:55:39",
+        "artist": "Talking Heads",
+        "album": "Speaking In Tongues",
+        "track": "Pull up the Roots - 2005 Remaster"
+    },
+    {
+        "datetime": "2021-07-23 22:00:51",
+        "artist": "Talking Heads",
+        "album": "Speaking In Tongues",
+        "track": "This Must Be the Place (Naive Melody) - 2005 Remaster"
+    },
+    {
+        "datetime": "2021-07-23 22:05:45",
+        "artist": "Talking Heads",
+        "album": "Speaking In Tongues",
+        "track": "Two Note Swivel - Unfinished Outtake"
+    },
+    {
+        "datetime": "2021-07-23 22:11:37",
+        "artist": "Talking Heads",
+        "album": "Speaking In Tongues",
+        "track": "Burning Down The House - Alternate Version"
+    },
+    {
+        "datetime": "2021-07-24 20:44:22",
+        "artist": "Talking Heads",
+        "album": "Speaking In Tongues",
+        "track": "Burning Down The House - Alternate Version"
+    },
+    {
+        "datetime": "2021-07-25 09:14:00",
+        "artist": "Talking Heads",
+        "album": "Speaking In Tongues",
+        "track": "Burning Down The House - Alternate Version"
+    },
+    {
+        "datetime": "2021-07-25 11:28:11",
+        "artist": "Wolf Alice",
+        "album": "Blue Weekend",
+        "track": "The Beach"
+    },
+    {
+        "datetime": "2021-07-25 13:05:39",
+        "artist": "Wolf Alice",
+        "album": "Blue Weekend",
+        "track": "Delicious Things"
+    },
+    {
+        "datetime": "2021-07-25 13:10:43",
+        "artist": "Wolf Alice",
+        "album": "Blue Weekend",
+        "track": "Lipstick On The Glass"
+    },
+    {
+        "datetime": "2021-07-25 13:14:51",
+        "artist": "Wolf Alice",
+        "album": "Blue Weekend",
+        "track": "Smile"
+    },
+    {
+        "datetime": "2021-07-25 13:18:08",
+        "artist": "Wolf Alice",
+        "album": "Blue Weekend",
+        "track": "Safe From Heartbreak (if you never fall in love)"
+    },
+    {
+        "datetime": "2021-07-25 13:20:40",
+        "artist": "Wolf Alice",
+        "album": "Blue Weekend",
+        "track": "How Can I Make It OK?"
+    },
+    {
+        "datetime": "2021-07-25 13:25:28",
+        "artist": "Wolf Alice",
+        "album": "Blue Weekend",
+        "track": "Play The Greatest Hits"
+    },
+    {
+        "datetime": "2021-07-25 13:27:56",
+        "artist": "Wolf Alice",
+        "album": "Blue Weekend",
+        "track": "Feeling Myself"
+    },
+    {
+        "datetime": "2021-07-25 13:32:39",
+        "artist": "Wolf Alice",
+        "album": "Blue Weekend",
+        "track": "The Last Man on Earth"
+    },
+    {
+        "datetime": "2021-07-25 13:37:01",
+        "artist": "Wolf Alice",
+        "album": "Blue Weekend",
+        "track": "No Hard Feelings"
+    },
+    {
+        "datetime": "2021-07-25 13:39:36",
+        "artist": "Wolf Alice",
+        "album": "Blue Weekend",
+        "track": "The Beach II"
+    },
+    {
+        "datetime": "2021-07-25 13:43:41",
+        "artist": "Inhaler",
+        "album": "It Won't Always Be Like This",
+        "track": "It Won't Always Be Like This"
+    },
+    {
+        "datetime": "2021-07-25 13:47:47",
+        "artist": "Inhaler",
+        "album": "It Won't Always Be Like This",
+        "track": "My Honest Face"
+    },
+    {
+        "datetime": "2021-07-25 13:52:20",
+        "artist": "Inhaler",
+        "album": "It Won't Always Be Like This",
+        "track": "Slide Out the Window"
+    },
+    {
+        "datetime": "2021-07-25 13:56:56",
+        "artist": "Inhaler",
+        "album": "It Won't Always Be Like This",
+        "track": "Cheer Up Baby"
+    },
+    {
+        "datetime": "2021-07-25 14:00:50",
+        "artist": "Inhaler",
+        "album": "It Won't Always Be Like This",
+        "track": "A Night On The Floor"
+    },
+    {
+        "datetime": "2021-07-25 14:04:52",
+        "artist": "Inhaler",
+        "album": "It Won't Always Be Like This",
+        "track": "My King Will Be Kind"
+    },
+    {
+        "datetime": "2021-07-25 14:09:45",
+        "artist": "Inhaler",
+        "album": "It Won't Always Be Like This",
+        "track": "When It Breaks"
+    },
+    {
+        "datetime": "2021-07-25 14:13:28",
+        "artist": "Inhaler",
+        "album": "It Won't Always Be Like This",
+        "track": "Who's Your Money On? (Plastic House)"
+    },
+    {
+        "datetime": "2021-07-25 14:19:51",
+        "artist": "Inhaler",
+        "album": "It Won't Always Be Like This",
+        "track": "Totally"
+    },
+    {
+        "datetime": "2021-07-25 14:23:47",
+        "artist": "Inhaler",
+        "album": "It Won't Always Be Like This",
+        "track": "Strange Time to Be Alive"
+    },
+    {
+        "datetime": "2021-07-25 14:24:52",
+        "artist": "Inhaler",
+        "album": "It Won't Always Be Like This",
+        "track": "In My Sleep"
+    },
+    {
+        "datetime": "2021-07-25 14:29:51",
+        "artist": "Magazine",
+        "album": "Live And Intermittent",
+        "track": "My Tulpa"
+    },
+    {
+        "datetime": "2021-07-25 14:34:59",
+        "artist": "Magazine",
+        "album": "Live And Intermittent",
+        "track": "Parade"
+    },
+    {
+        "datetime": "2021-07-25 14:41:32",
+        "artist": "Magazine",
+        "album": "Live And Intermittent",
+        "track": "Cut-Out Shapes"
+    },
+    {
+        "datetime": "2021-07-25 14:46:10",
+        "artist": "Magazine",
+        "album": "Live And Intermittent",
+        "track": "Burst"
+    },
+    {
+        "datetime": "2021-07-25 14:51:00",
+        "artist": "Magazine",
+        "album": "Live And Intermittent",
+        "track": "Motorcade"
+    },
+    {
+        "datetime": "2021-07-25 14:56:55",
+        "artist": "Magazine",
+        "album": "Live And Intermittent",
+        "track": "Rhythm Of Cruelty"
+    },
+    {
+        "datetime": "2021-07-25 15:00:03",
+        "artist": "Magazine",
+        "album": "Live And Intermittent",
+        "track": "Permafrost"
+    },
+    {
+        "datetime": "2021-07-25 15:05:34",
+        "artist": "Magazine",
+        "album": "Live And Intermittent",
+        "track": "The Light Pours Out Of Me"
+    },
+    {
+        "datetime": "2021-07-25 15:10:47",
+        "artist": "Magazine",
+        "album": "Live And Intermittent",
+        "track": "Shot by Both Sides"
+    },
+    {
+        "datetime": "2021-07-25 15:15:41",
+        "artist": "Magazine",
+        "album": "Live And Intermittent",
+        "track": "I Love You, You Big Dummy"
+    },
+    {
+        "datetime": "2021-07-25 15:42:44",
+        "artist": "Magazine",
+        "album": "Live And Intermittent",
+        "track": "Feed the Enemy"
+    },
+    {
+        "datetime": "2021-07-25 15:45:45",
+        "artist": "Magazine",
+        "album": "Live And Intermittent",
+        "track": "Model Worker"
+    },
+    {
+        "datetime": "2021-07-25 15:49:35",
+        "artist": "Magazine",
+        "album": "Live And Intermittent",
+        "track": "Stuck"
+    },
+    {
+        "datetime": "2021-07-25 15:52:46",
+        "artist": "Magazine",
+        "album": "Live And Intermittent",
+        "track": "Sweetheart Contract"
+    },
+    {
+        "datetime": "2021-07-25 15:56:46",
+        "artist": "Magazine",
+        "album": "Live And Intermittent",
+        "track": "Thank You (Fallettinme Be Mice Elf Agin)"
+    },
+    {
+        "datetime": "2021-07-25 16:00:23",
+        "artist": "Magazine",
+        "album": "Live And Intermittent",
+        "track": "Twenty Years Ago"
+    },
+    {
+        "datetime": "2021-07-25 16:03:48",
+        "artist": "Magazine",
+        "album": "Live And Intermittent",
+        "track": "Definitive Gaze"
+    },
+    {
+        "datetime": "2021-07-27 22:49:48",
+        "artist": "Wolf Alice",
+        "album": "Blue Weekend",
+        "track": "The Beach"
+    },
+    {
+        "datetime": "2021-07-27 22:49:52",
+        "artist": "Wolf Alice",
+        "album": "Blue Weekend",
+        "track": "The Beach"
+    },
+    {
+        "datetime": "2021-07-27 22:52:38",
+        "artist": "Wolf Alice",
+        "album": "Blue Weekend",
+        "track": "Delicious Things"
+    },
+    {
+        "datetime": "2021-07-27 22:52:41",
+        "artist": "Wolf Alice",
+        "album": "Blue Weekend",
+        "track": "Delicious Things"
+    },
+    {
+        "datetime": "2021-07-27 22:57:48",
+        "artist": "Wolf Alice",
+        "album": "Blue Weekend",
+        "track": "Lipstick On The Glass"
+    },
+    {
+        "datetime": "2021-07-29 10:42:12",
+        "artist": "Wolf Alice",
+        "album": "Blue Weekend",
+        "track": "Lipstick On The Glass"
+    },
+    {
+        "datetime": "2021-07-29 10:45:28",
+        "artist": "Wolf Alice",
+        "album": "Blue Weekend",
+        "track": "Safe From Heartbreak (if you never fall in love)"
+    },
+    {
+        "datetime": "2021-07-29 10:48:01",
+        "artist": "Wolf Alice",
+        "album": "Blue Weekend",
+        "track": "How Can I Make It OK?"
+    },
+    {
+        "datetime": "2021-07-29 10:52:48",
+        "artist": "Wolf Alice",
+        "album": "Blue Weekend",
+        "track": "Play The Greatest Hits"
+    },
+    {
+        "datetime": "2021-07-29 10:55:16",
+        "artist": "Wolf Alice",
+        "album": "Blue Weekend",
+        "track": "Feeling Myself"
+    },
+    {
+        "datetime": "2021-07-29 10:59:59",
+        "artist": "Wolf Alice",
+        "album": "Blue Weekend",
+        "track": "The Last Man on Earth"
+    },
+    {
+        "datetime": "2021-07-29 11:04:21",
+        "artist": "Wolf Alice",
+        "album": "Blue Weekend",
+        "track": "No Hard Feelings"
+    },
+    {
+        "datetime": "2021-07-29 11:06:56",
+        "artist": "Wolf Alice",
+        "album": "Blue Weekend",
+        "track": "The Beach II"
+    },
+    {
+        "datetime": "2021-07-31 11:31:05",
+        "artist": "Haim",
+        "album": "Women in Music Pt. III",
+        "track": "Los Angeles"
+    },
+    {
+        "datetime": "2021-07-31 11:34:24",
+        "artist": "Haim",
+        "album": "Women in Music Pt. III",
+        "track": "The Steps"
+    },
+    {
+        "datetime": "2021-07-31 11:38:31",
+        "artist": "Haim",
+        "album": "Women in Music Pt. III",
+        "track": "I Know Alone"
+    },
+    {
+        "datetime": "2021-07-31 11:42:17",
+        "artist": "Haim",
+        "album": "Women in Music Pt. III",
+        "track": "Up From A Dream"
+    },
+    {
+        "datetime": "2021-07-31 11:45:35",
+        "artist": "Haim",
+        "album": "Women in Music Pt. III",
+        "track": "Gasoline"
+    },
+    {
+        "datetime": "2021-07-31 11:48:48",
+        "artist": "Haim",
+        "album": "Women in Music Pt. III",
+        "track": "3 AM"
+    },
+    {
+        "datetime": "2021-07-31 11:51:58",
+        "artist": "Haim",
+        "album": "Women in Music Pt. III",
+        "track": "Don't Wanna"
+    },
+    {
+        "datetime": "2021-07-31 11:55:20",
+        "artist": "Haim",
+        "album": "Women in Music Pt. III",
+        "track": "Another Try"
+    }
+]

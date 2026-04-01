@@ -1,0 +1,938 @@
+[
+    {
+        "datetime": "2021-05-01 21:46:07",
+        "artist": "The Beatles",
+        "album": "Revolver",
+        "track": "Taxman (Remastered 2009)"
+    },
+    {
+        "datetime": "2021-05-01 21:48:46",
+        "artist": "The Beatles",
+        "album": "Revolver",
+        "track": "Eleanor Rigby (Remastered 2009)"
+    },
+    {
+        "datetime": "2021-05-01 21:50:53",
+        "artist": "The Beatles",
+        "album": "Revolver",
+        "track": "I'm Only Sleeping (Remastered 2009)"
+    },
+    {
+        "datetime": "2021-05-01 21:53:53",
+        "artist": "The Beatles",
+        "album": "Revolver",
+        "track": "Love You To (Remastered 2009)"
+    },
+    {
+        "datetime": "2021-05-01 21:56:52",
+        "artist": "The Beatles",
+        "album": "Revolver",
+        "track": "Here, There And Everywhere (Remastered 2009)"
+    },
+    {
+        "datetime": "2021-05-01 21:59:17",
+        "artist": "The Beatles",
+        "album": "Revolver",
+        "track": "Yellow Submarine (Remastered 2009)"
+    },
+    {
+        "datetime": "2021-05-01 22:01:56",
+        "artist": "The Beatles",
+        "album": "Revolver",
+        "track": "She Said She Said (Remastered 2009)"
+    },
+    {
+        "datetime": "2021-05-01 22:04:32",
+        "artist": "The Beatles",
+        "album": "Revolver",
+        "track": "Good Day Sunshine (Remastered 2009)"
+    },
+    {
+        "datetime": "2021-05-01 22:06:41",
+        "artist": "The Beatles",
+        "album": "Revolver",
+        "track": "And Your Bird Can Sing (Remastered 2009)"
+    },
+    {
+        "datetime": "2021-05-01 22:08:41",
+        "artist": "The Beatles",
+        "album": "Revolver",
+        "track": "For No One (Remastered 2009)"
+    },
+    {
+        "datetime": "2021-05-01 22:10:41",
+        "artist": "The Beatles",
+        "album": "Revolver",
+        "track": "Doctor Robert (Remastered 2009)"
+    },
+    {
+        "datetime": "2021-05-01 22:12:55",
+        "artist": "The Beatles",
+        "album": "Revolver",
+        "track": "I Want To Tell You (Remastered 2009)"
+    },
+    {
+        "datetime": "2021-05-01 22:15:23",
+        "artist": "The Beatles",
+        "album": "Revolver",
+        "track": "Got To Get You Into My Life (Remastered 2009)"
+    },
+    {
+        "datetime": "2021-05-01 22:17:52",
+        "artist": "The Beatles",
+        "album": "Revolver",
+        "track": "Tomorrow Never Knows (Remastered 2009)"
+    },
+    {
+        "datetime": "2021-05-02 21:58:48",
+        "artist": "The Weather Station",
+        "album": "Ignorance",
+        "track": "Robber"
+    },
+    {
+        "datetime": "2021-05-02 22:04:08",
+        "artist": "The Weather Station",
+        "album": "Ignorance",
+        "track": "Atlantic"
+    },
+    {
+        "datetime": "2021-05-02 22:08:02",
+        "artist": "The Weather Station",
+        "album": "Ignorance",
+        "track": "Tried To Tell You"
+    },
+    {
+        "datetime": "2021-05-02 22:11:41",
+        "artist": "The Weather Station",
+        "album": "Ignorance",
+        "track": "Parking Lot"
+    },
+    {
+        "datetime": "2021-05-02 22:15:47",
+        "artist": "The Weather Station",
+        "album": "Ignorance",
+        "track": "Loss"
+    },
+    {
+        "datetime": "2021-05-02 22:19:23",
+        "artist": "The Weather Station",
+        "album": "Ignorance",
+        "track": "Separated"
+    },
+    {
+        "datetime": "2021-05-02 22:22:48",
+        "artist": "The Weather Station",
+        "album": "Ignorance",
+        "track": "Wear"
+    },
+    {
+        "datetime": "2021-05-05 21:53:25",
+        "artist": "The Weather Station",
+        "album": "Ignorance",
+        "track": "Robber"
+    },
+    {
+        "datetime": "2021-05-05 21:58:46",
+        "artist": "The Weather Station",
+        "album": "Ignorance",
+        "track": "Atlantic"
+    },
+    {
+        "datetime": "2021-05-05 22:02:39",
+        "artist": "The Weather Station",
+        "album": "Ignorance",
+        "track": "Tried To Tell You"
+    },
+    {
+        "datetime": "2021-05-05 22:06:18",
+        "artist": "The Weather Station",
+        "album": "Ignorance",
+        "track": "Parking Lot"
+    },
+    {
+        "datetime": "2021-05-05 22:10:44",
+        "artist": "David Bowie",
+        "album": "Blackstar",
+        "track": "Sue (Or in a Season of Crime)"
+    },
+    {
+        "datetime": "2021-05-05 22:15:24",
+        "artist": "David Bowie",
+        "album": "Blackstar",
+        "track": "I Can't Give Everything Away"
+    },
+    {
+        "datetime": "2021-05-06 22:10:52",
+        "artist": "The Weather Station",
+        "album": "Ignorance",
+        "track": "Subdivisions"
+    },
+    {
+        "datetime": "2021-05-06 22:15:43",
+        "artist": "The Weather Station",
+        "album": "Ignorance",
+        "track": "Subdivisions"
+    },
+    {
+        "datetime": "2021-05-06 22:20:24",
+        "artist": "The Weather Station",
+        "album": "Ignorance",
+        "track": "Subdivisions"
+    },
+    {
+        "datetime": "2021-05-06 22:25:05",
+        "artist": "The Weather Station",
+        "album": "Ignorance",
+        "track": "Subdivisions"
+    },
+    {
+        "datetime": "2021-05-06 22:29:46",
+        "artist": "The Weather Station",
+        "album": "Ignorance",
+        "track": "Subdivisions"
+    },
+    {
+        "datetime": "2021-05-06 22:34:27",
+        "artist": "The Weather Station",
+        "album": "Ignorance",
+        "track": "Subdivisions"
+    },
+    {
+        "datetime": "2021-05-07 22:04:55",
+        "artist": "The Weather Station",
+        "album": "Ignorance",
+        "track": "Subdivisions"
+    },
+    {
+        "datetime": "2021-05-07 22:09:36",
+        "artist": "The Weather Station",
+        "album": "Ignorance",
+        "track": "Subdivisions"
+    },
+    {
+        "datetime": "2021-05-07 22:14:17",
+        "artist": "The Weather Station",
+        "album": "Ignorance",
+        "track": "Subdivisions"
+    },
+    {
+        "datetime": "2021-05-15 14:06:11",
+        "artist": "Lloyd Cole and the Commotions",
+        "album": "Easy Pieces",
+        "track": "Rich"
+    },
+    {
+        "datetime": "2021-05-15 14:10:35",
+        "artist": "Lloyd Cole and the Commotions",
+        "album": "Easy Pieces",
+        "track": "Why I Love Country Music"
+    },
+    {
+        "datetime": "2021-05-15 14:13:36",
+        "artist": "Lloyd Cole and the Commotions",
+        "album": "Easy Pieces",
+        "track": "Pretty Gone"
+    },
+    {
+        "datetime": "2021-05-15 14:17:09",
+        "artist": "Lloyd Cole and the Commotions",
+        "album": "Easy Pieces",
+        "track": "Grace"
+    },
+    {
+        "datetime": "2021-05-15 15:10:25",
+        "artist": "Lloyd Cole and the Commotions",
+        "album": "Easy Pieces",
+        "track": "Lost Weekend"
+    },
+    {
+        "datetime": "2021-05-15 15:13:40",
+        "artist": "Lloyd Cole and the Commotions",
+        "album": "Easy Pieces",
+        "track": "James"
+    },
+    {
+        "datetime": "2021-05-15 15:17:34",
+        "artist": "Lloyd Cole and the Commotions",
+        "album": "Easy Pieces",
+        "track": "Minor Character"
+    },
+    {
+        "datetime": "2021-05-15 15:21:18",
+        "artist": "Lloyd Cole and the Commotions",
+        "album": "Easy Pieces",
+        "track": "Perfect Blue"
+    },
+    {
+        "datetime": "2021-05-15 22:58:59",
+        "artist": "Paul Weller",
+        "album": "Fat Pop",
+        "track": "True (feat. Lia Metcalfe)"
+    },
+    {
+        "datetime": "2021-05-15 23:01:08",
+        "artist": "Paul Weller",
+        "album": "Fat Pop",
+        "track": "Fat Pop"
+    },
+    {
+        "datetime": "2021-05-15 23:04:28",
+        "artist": "Paul Weller",
+        "album": "Fat Pop",
+        "track": "Shades Of Blue"
+    },
+    {
+        "datetime": "2021-05-15 23:07:35",
+        "artist": "The Weather Station",
+        "album": "Ignorance",
+        "track": "Subdivisions"
+    },
+    {
+        "datetime": "2021-05-16 14:05:21",
+        "artist": "Lloyd Cole and the Commotions",
+        "album": "Rattlesnakes",
+        "track": "Perfect Skin"
+    },
+    {
+        "datetime": "2021-05-16 14:08:33",
+        "artist": "Lloyd Cole and the Commotions",
+        "album": "Rattlesnakes",
+        "track": "Speedboat"
+    },
+    {
+        "datetime": "2021-05-17 19:53:24",
+        "artist": "Lloyd Cole and the Commotions",
+        "album": "Rattlesnakes",
+        "track": "2cv"
+    },
+    {
+        "datetime": "2021-05-17 19:56:16",
+        "artist": "Lloyd Cole and the Commotions",
+        "album": "Rattlesnakes",
+        "track": "Four Flights Up"
+    },
+    {
+        "datetime": "2021-05-17 20:34:46",
+        "artist": "Lloyd Cole and the Commotions",
+        "album": "Rattlesnakes",
+        "track": "Are You Ready To Be Heartbroken?"
+    },
+    {
+        "datetime": "2021-05-17 23:29:32",
+        "artist": "Lloyd Cole and the Commotions",
+        "album": "Rattlesnakes",
+        "track": "2cv"
+    },
+    {
+        "datetime": "2021-05-17 23:35:23",
+        "artist": "The Beatles",
+        "album": "Revolver",
+        "track": "And Your Bird Can Sing"
+    },
+    {
+        "datetime": "2021-05-18 18:53:33",
+        "artist": "The Beatles",
+        "album": "Revolver",
+        "track": "Taxman"
+    },
+    {
+        "datetime": "2021-05-18 19:44:18",
+        "artist": "The Beatles",
+        "album": "Revolver",
+        "track": "I Want to Tell You"
+    },
+    {
+        "datetime": "2021-05-21 22:55:19",
+        "artist": "Chrissie Hynde",
+        "album": "Standing In The Doorway: Chrissie Hynde Sings Bob Dylan",
+        "track": "In the Summertime"
+    },
+    {
+        "datetime": "2021-05-21 22:58:32",
+        "artist": "Chrissie Hynde",
+        "album": "Standing In The Doorway: Chrissie Hynde Sings Bob Dylan",
+        "track": "You're a Big Girl Now"
+    },
+    {
+        "datetime": "2021-05-21 23:02:56",
+        "artist": "Chrissie Hynde",
+        "album": "Standing In The Doorway: Chrissie Hynde Sings Bob Dylan",
+        "track": "Standing In The Doorway"
+    },
+    {
+        "datetime": "2021-05-21 23:13:30",
+        "artist": "Chrissie Hynde",
+        "album": "Standing In The Doorway: Chrissie Hynde Sings Bob Dylan",
+        "track": "Blind Willie McTell"
+    },
+    {
+        "datetime": "2021-05-21 23:19:35",
+        "artist": "Chrissie Hynde",
+        "album": "Standing In The Doorway: Chrissie Hynde Sings Bob Dylan",
+        "track": "Love Minus Zero / No Limit"
+    },
+    {
+        "datetime": "2021-05-22 18:38:20",
+        "artist": "Iggy Pop",
+        "album": "Brick By Brick",
+        "track": "Candy"
+    },
+    {
+        "datetime": "2021-05-24 22:30:14",
+        "artist": "Bob Dylan",
+        "album": "Bringing It All Back Home",
+        "track": "Subterranean Homesick Blues"
+    },
+    {
+        "datetime": "2021-05-24 22:32:43",
+        "artist": "Bob Dylan",
+        "album": "Bringing It All Back Home",
+        "track": "She Belongs to Me"
+    },
+    {
+        "datetime": "2021-05-24 22:35:33",
+        "artist": "Bob Dylan",
+        "album": "Bringing It All Back Home",
+        "track": "Maggie's Farm"
+    },
+    {
+        "datetime": "2021-05-24 22:39:29",
+        "artist": "Bob Dylan",
+        "album": "Bringing It All Back Home",
+        "track": "Love Minus Zero"
+    },
+    {
+        "datetime": "2021-05-24 22:42:23",
+        "artist": "Bob Dylan",
+        "album": "Bringing It All Back Home",
+        "track": "Outlaw Blues"
+    },
+    {
+        "datetime": "2021-05-24 22:45:30",
+        "artist": "Bob Dylan",
+        "album": "Bringing It All Back Home",
+        "track": "On the Road Again"
+    },
+    {
+        "datetime": "2021-05-24 22:48:08",
+        "artist": "Bob Dylan",
+        "album": "Bringing It All Back Home",
+        "track": "Bob Dylan's 115th Dream"
+    },
+    {
+        "datetime": "2021-05-24 22:54:38",
+        "artist": "Bob Dylan",
+        "album": "Bringing It All Back Home",
+        "track": "It's All Over Now, Baby Blue"
+    },
+    {
+        "datetime": "2021-05-24 22:58:55",
+        "artist": "Sam Fender",
+        "album": "Hypersonic Missiles",
+        "track": "Hypersonic Missiles"
+    },
+    {
+        "datetime": "2021-05-24 23:02:58",
+        "artist": "Sam Fender",
+        "album": "Hypersonic Missiles",
+        "track": "The Borders"
+    },
+    {
+        "datetime": "2021-05-27 18:00:15",
+        "artist": "Lloyd Cole and the Commotions",
+        "album": "1984 - 1989",
+        "track": "Perfect Blue"
+    },
+    {
+        "datetime": "2021-05-27 21:34:54",
+        "artist": "Lloyd Cole and the Commotions",
+        "album": "Rattlesnakes",
+        "track": "Rattlesnakes"
+    },
+    {
+        "datetime": "2021-05-28 13:20:46",
+        "artist": "Elton John",
+        "album": "Honky Chateau",
+        "track": "Rocket Man (I Think It's Going To Be A Long, Long Time)"
+    },
+    {
+        "datetime": "2021-05-28 13:25:28",
+        "artist": "Elton John",
+        "album": "Too Low For Zero",
+        "track": "I'm Still Standing"
+    },
+    {
+        "datetime": "2021-05-29 11:09:03",
+        "artist": "The Cure",
+        "album": "Seventeen Seconds",
+        "track": "A Reflection (Remastered Version)"
+    },
+    {
+        "datetime": "2021-05-29 11:11:16",
+        "artist": "The Cure",
+        "album": "Seventeen Seconds",
+        "track": "Play For Today (Remastered Version)"
+    },
+    {
+        "datetime": "2021-05-29 11:14:55",
+        "artist": "The Cure",
+        "album": "Seventeen Seconds",
+        "track": "Secrets (Remastered Version)"
+    },
+    {
+        "datetime": "2021-05-29 11:18:15",
+        "artist": "The Cure",
+        "album": "Seventeen Seconds",
+        "track": "In Your House (Remastered Version)"
+    },
+    {
+        "datetime": "2021-05-29 11:22:21",
+        "artist": "The Cure",
+        "album": "Seventeen Seconds",
+        "track": "Three (Remastered Version)"
+    },
+    {
+        "datetime": "2021-05-29 11:24:57",
+        "artist": "The Cure",
+        "album": "Seventeen Seconds",
+        "track": "The Final Sound (Remastered Version)"
+    },
+    {
+        "datetime": "2021-05-29 11:25:50",
+        "artist": "The Cure",
+        "album": "Seventeen Seconds",
+        "track": "A Forest (Remastered Version)"
+    },
+    {
+        "datetime": "2021-05-29 11:31:44",
+        "artist": "The Cure",
+        "album": "Seventeen Seconds",
+        "track": "M (Remastered Version)"
+    },
+    {
+        "datetime": "2021-05-29 11:34:48",
+        "artist": "The Cure",
+        "album": "Seventeen Seconds",
+        "track": "At Night (Remastered Version)"
+    },
+    {
+        "datetime": "2021-05-29 11:40:42",
+        "artist": "The Cure",
+        "album": "Seventeen Seconds",
+        "track": "Seventeen Seconds (Remastered Version)"
+    },
+    {
+        "datetime": "2021-05-29 11:58:15",
+        "artist": "The Cure",
+        "album": "Seventeen Seconds",
+        "track": "Seventeen Seconds (Remastered Version)"
+    },
+    {
+        "datetime": "2021-05-29 12:10:04",
+        "artist": "The Cure",
+        "album": "Seventeen Seconds",
+        "track": "Play For Today (Remastered Version)"
+    },
+    {
+        "datetime": "2021-05-29 12:13:43",
+        "artist": "The Cure",
+        "album": "Seventeen Seconds",
+        "track": "Secrets (Remastered Version)"
+    },
+    {
+        "datetime": "2021-05-29 14:28:41",
+        "artist": "Lloyd Cole and the Commotions",
+        "album": "Rattlesnakes",
+        "track": "Perfect Skin"
+    },
+    {
+        "datetime": "2021-05-29 14:41:59",
+        "artist": "Lloyd Cole and the Commotions",
+        "album": "Rattlesnakes",
+        "track": "Perfect Skin"
+    },
+    {
+        "datetime": "2021-05-29 15:48:19",
+        "artist": "Bob Dylan",
+        "album": "The Freewheelin' Bob Dylan",
+        "track": "Blowin' in the Wind"
+    },
+    {
+        "datetime": "2021-05-29 15:51:27",
+        "artist": "Bob Dylan",
+        "album": "The Freewheelin' Bob Dylan",
+        "track": "Girl From the North Country"
+    },
+    {
+        "datetime": "2021-05-29 15:51:29",
+        "artist": "Bob Dylan",
+        "album": "The Freewheelin' Bob Dylan",
+        "track": "Girl From the North Country"
+    },
+    {
+        "datetime": "2021-05-29 15:54:51",
+        "artist": "Bob Dylan",
+        "album": "The Freewheelin' Bob Dylan",
+        "track": "Masters of War"
+    },
+    {
+        "datetime": "2021-05-29 15:54:52",
+        "artist": "Bob Dylan",
+        "album": "The Freewheelin' Bob Dylan",
+        "track": "Masters of War"
+    },
+    {
+        "datetime": "2021-05-29 15:59:26",
+        "artist": "Bob Dylan",
+        "album": "The Freewheelin' Bob Dylan",
+        "track": "Down the Highway"
+    },
+    {
+        "datetime": "2021-05-29 15:59:28",
+        "artist": "Bob Dylan",
+        "album": "The Freewheelin' Bob Dylan",
+        "track": "Down the Highway"
+    },
+    {
+        "datetime": "2021-05-29 16:02:55",
+        "artist": "Bob Dylan",
+        "album": "The Freewheelin' Bob Dylan",
+        "track": "Bob Dylan's Blues"
+    },
+    {
+        "datetime": "2021-05-29 16:02:56",
+        "artist": "Bob Dylan",
+        "album": "The Freewheelin' Bob Dylan",
+        "track": "Bob Dylan's Blues"
+    },
+    {
+        "datetime": "2021-05-29 16:05:19",
+        "artist": "Bob Dylan",
+        "album": "The Freewheelin' Bob Dylan",
+        "track": "A Hard Rain's a-Gonna Fall"
+    },
+    {
+        "datetime": "2021-05-29 16:05:20",
+        "artist": "Bob Dylan",
+        "album": "The Freewheelin' Bob Dylan",
+        "track": "A Hard Rain's a-Gonna Fall"
+    },
+    {
+        "datetime": "2021-05-29 16:12:15",
+        "artist": "Bob Dylan",
+        "album": "The Freewheelin' Bob Dylan",
+        "track": "Don't Think Twice, It's All Right"
+    },
+    {
+        "datetime": "2021-05-29 16:12:16",
+        "artist": "Bob Dylan",
+        "album": "The Freewheelin' Bob Dylan",
+        "track": "Don't Think Twice, It's All Right"
+    },
+    {
+        "datetime": "2021-05-29 16:15:56",
+        "artist": "Bob Dylan",
+        "album": "The Freewheelin' Bob Dylan",
+        "track": "Bob Dylan's Dream"
+    },
+    {
+        "datetime": "2021-05-29 16:15:58",
+        "artist": "Bob Dylan",
+        "album": "The Freewheelin' Bob Dylan",
+        "track": "Bob Dylan's Dream"
+    },
+    {
+        "datetime": "2021-05-29 16:21:00",
+        "artist": "Bob Dylan",
+        "album": "The Freewheelin' Bob Dylan",
+        "track": "Oxford Town"
+    },
+    {
+        "datetime": "2021-05-29 16:21:01",
+        "artist": "Bob Dylan",
+        "album": "The Freewheelin' Bob Dylan",
+        "track": "Oxford Town"
+    },
+    {
+        "datetime": "2021-05-29 16:22:51",
+        "artist": "Bob Dylan",
+        "album": "The Freewheelin' Bob Dylan",
+        "track": "Talkin' World War III Blues"
+    },
+    {
+        "datetime": "2021-05-29 16:22:52",
+        "artist": "Bob Dylan",
+        "album": "The Freewheelin' Bob Dylan",
+        "track": "Talkin' World War III Blues"
+    },
+    {
+        "datetime": "2021-05-29 16:29:20",
+        "artist": "Bob Dylan",
+        "album": "The Freewheelin' Bob Dylan",
+        "track": "Corrina, Corrina"
+    },
+    {
+        "datetime": "2021-05-29 16:29:21",
+        "artist": "Bob Dylan",
+        "album": "The Freewheelin' Bob Dylan",
+        "track": "Corrina, Corrina"
+    },
+    {
+        "datetime": "2021-05-29 16:32:05",
+        "artist": "Bob Dylan",
+        "album": "The Freewheelin' Bob Dylan",
+        "track": "Honey, Just Allow Me One More Chance"
+    },
+    {
+        "datetime": "2021-05-29 16:32:06",
+        "artist": "Bob Dylan",
+        "album": "The Freewheelin' Bob Dylan",
+        "track": "Honey, Just Allow Me One More Chance"
+    },
+    {
+        "datetime": "2021-05-29 16:34:07",
+        "artist": "Bob Dylan",
+        "album": "The Freewheelin' Bob Dylan",
+        "track": "I Shall Be Free"
+    },
+    {
+        "datetime": "2021-05-29 16:34:08",
+        "artist": "Bob Dylan",
+        "album": "The Freewheelin' Bob Dylan",
+        "track": "I Shall Be Free"
+    },
+    {
+        "datetime": "2021-05-29 17:49:13",
+        "artist": "Paul Weller",
+        "album": "Fat Pop",
+        "track": "Cosmic Fringes"
+    },
+    {
+        "datetime": "2021-05-29 17:51:38",
+        "artist": "Paul Weller",
+        "album": "Fat Pop",
+        "track": "True (feat. Lia Metcalfe)"
+    },
+    {
+        "datetime": "2021-05-29 17:53:48",
+        "artist": "Paul Weller",
+        "album": "Fat Pop",
+        "track": "Fat Pop"
+    },
+    {
+        "datetime": "2021-05-29 17:57:09",
+        "artist": "Paul Weller",
+        "album": "Fat Pop",
+        "track": "Shades Of Blue"
+    },
+    {
+        "datetime": "2021-05-29 18:00:18",
+        "artist": "Paul Weller",
+        "album": "Fat Pop",
+        "track": "Glad Times"
+    },
+    {
+        "datetime": "2021-05-29 18:04:25",
+        "artist": "Paul Weller",
+        "album": "Fat Pop",
+        "track": "Cobweb / Connections"
+    },
+    {
+        "datetime": "2021-05-29 18:07:23",
+        "artist": "Paul Weller",
+        "album": "Fat Pop",
+        "track": "Testify"
+    },
+    {
+        "datetime": "2021-05-29 18:10:29",
+        "artist": "Scott Walker",
+        "album": "Scott",
+        "track": "Mathilde"
+    },
+    {
+        "datetime": "2021-05-29 18:13:10",
+        "artist": "Scott Walker",
+        "album": "Scott",
+        "track": "Montague Terrace (in Blue)"
+    },
+    {
+        "datetime": "2021-05-29 18:16:50",
+        "artist": "Scott Walker",
+        "album": "Scott",
+        "track": "The Lady Came From Baltimore"
+    },
+    {
+        "datetime": "2021-05-29 18:18:51",
+        "artist": "Scott Walker",
+        "album": "Scott",
+        "track": "When Joanna Loved Me"
+    },
+    {
+        "datetime": "2021-05-29 18:22:00",
+        "artist": "Scott Walker",
+        "album": "Scott",
+        "track": "My Death"
+    },
+    {
+        "datetime": "2021-05-29 18:26:49",
+        "artist": "Scott Walker",
+        "album": "Scott",
+        "track": "Always Coming Back To You"
+    },
+    {
+        "datetime": "2021-05-29 18:29:31",
+        "artist": "Scott Walker",
+        "album": "Scott",
+        "track": "Amsterdam"
+    },
+    {
+        "datetime": "2021-05-29 18:34:07",
+        "artist": "Nick Heyward",
+        "album": "Woodland Echoes",
+        "track": "Love Is the Key by the Sea"
+    },
+    {
+        "datetime": "2021-05-29 18:38:33",
+        "artist": "Nick Heyward",
+        "album": "Woodland Echoes",
+        "track": "Mountaintop"
+    },
+    {
+        "datetime": "2021-05-29 18:42:04",
+        "artist": "Nick Heyward",
+        "album": "Woodland Echoes",
+        "track": "The Stars"
+    },
+    {
+        "datetime": "2021-05-29 18:47:41",
+        "artist": "Nick Heyward",
+        "album": "Woodland Echoes",
+        "track": "Baby Blue Sky"
+    },
+    {
+        "datetime": "2021-05-29 18:51:09",
+        "artist": "Nick Heyward",
+        "album": "Woodland Echoes",
+        "track": "Perfect Sunday Sun"
+    },
+    {
+        "datetime": "2021-05-29 18:55:36",
+        "artist": "The Smiths",
+        "album": "The Smiths",
+        "track": "Reel Around the Fountain"
+    },
+    {
+        "datetime": "2021-05-29 19:01:53",
+        "artist": "The Smiths",
+        "album": "The Smiths",
+        "track": "This Charming Man"
+    },
+    {
+        "datetime": "2021-05-29 19:05:09",
+        "artist": "The Smiths",
+        "album": "The Smiths",
+        "track": "What Difference Does It Make?"
+    },
+    {
+        "datetime": "2021-05-29 19:10:09",
+        "artist": "Philscreen",
+        "album": "",
+        "track": "Lloyd Cole, 'Perfect Skin' live, 1990"
+    },
+    {
+        "datetime": "2021-05-29 19:13:43",
+        "artist": "Philscreen",
+        "album": "",
+        "track": "Lloyd Cole, 'No Blue Skies' 1990"
+    },
+    {
+        "datetime": "2021-05-29 22:36:07",
+        "artist": "Philscreen",
+        "album": "",
+        "track": "Lloyd Cole, 'I Hate To See You Baby Doing That Stuff', 1990"
+    },
+    {
+        "datetime": "2021-05-29 22:40:40",
+        "artist": "Philscreen",
+        "album": "",
+        "track": "Lloyd Cole, 'Jennifer She Said' live, 1990"
+    },
+    {
+        "datetime": "2021-05-29 22:43:52",
+        "artist": "Spandau Ballet",
+        "album": "Journeys To Glory",
+        "track": "To Cut a Long Story Short"
+    },
+    {
+        "datetime": "2021-05-29 22:47:15",
+        "artist": "Spandau Ballet",
+        "album": "Journeys To Glory",
+        "track": "Reformation"
+    },
+    {
+        "datetime": "2021-05-29 22:52:13",
+        "artist": "Spandau Ballet",
+        "album": "Journeys To Glory",
+        "track": "Mandolin"
+    },
+    {
+        "datetime": "2021-05-29 22:56:23",
+        "artist": "Spandau Ballet",
+        "album": "Journeys To Glory",
+        "track": "Musclebound"
+    },
+    {
+        "datetime": "2021-05-30 22:14:58",
+        "artist": "Siouxsie and the Banshees",
+        "album": "The Scream",
+        "track": "Pure"
+    },
+    {
+        "datetime": "2021-05-30 22:17:41",
+        "artist": "Siouxsie and the Banshees",
+        "album": "The Scream",
+        "track": "Jigsaw Feeling"
+    },
+    {
+        "datetime": "2021-05-30 22:27:50",
+        "artist": "Siouxsie and the Banshees",
+        "album": "The Scream",
+        "track": "Overground"
+    },
+    {
+        "datetime": "2021-05-30 22:31:40",
+        "artist": "Siouxsie and the Banshees",
+        "album": "The Scream",
+        "track": "Carcass"
+    },
+    {
+        "datetime": "2021-05-30 22:35:32",
+        "artist": "Siouxsie and the Banshees",
+        "album": "The Scream",
+        "track": "Helter Skelter"
+    },
+    {
+        "datetime": "2021-05-30 22:39:22",
+        "artist": "Siouxsie and the Banshees",
+        "album": "The Scream",
+        "track": "Mirage"
+    },
+    {
+        "datetime": "2021-05-30 22:42:15",
+        "artist": "Siouxsie and the Banshees",
+        "album": "The Scream",
+        "track": "Metal Postcard (Mittageisen)"
+    },
+    {
+        "datetime": "2021-05-30 22:46:36",
+        "artist": "Siouxsie and the Banshees",
+        "album": "The Scream",
+        "track": "Hong Kong Garden"
+    },
+    {
+        "datetime": "2021-05-30 22:49:34",
+        "artist": "Siouxsie and the Banshees",
+        "album": "The Scream",
+        "track": "The Staircase (Mystery)"
+    }
+]

@@ -1,0 +1,2018 @@
+[
+    {
+        "datetime": "2020-01-08 07:50:42",
+        "artist": "The Decemberists",
+        "album": "I'll Be Your Girl",
+        "track": "Once in My Life"
+    },
+    {
+        "datetime": "2020-01-08 08:37:06",
+        "artist": "The Decemberists",
+        "album": "I'll Be Your Girl",
+        "track": "Cutting Stone"
+    },
+    {
+        "datetime": "2020-01-08 08:40:26",
+        "artist": "The Decemberists",
+        "album": "I'll Be Your Girl",
+        "track": "Severed"
+    },
+    {
+        "datetime": "2020-01-08 08:44:30",
+        "artist": "The Decemberists",
+        "album": "I'll Be Your Girl",
+        "track": "Starwatcher"
+    },
+    {
+        "datetime": "2020-01-08 08:47:09",
+        "artist": "The Decemberists",
+        "album": "I'll Be Your Girl",
+        "track": "Tripping Along"
+    },
+    {
+        "datetime": "2020-01-08 08:50:45",
+        "artist": "The Decemberists",
+        "album": "I'll Be Your Girl",
+        "track": "Your Ghost"
+    },
+    {
+        "datetime": "2020-01-08 08:53:25",
+        "artist": "The Decemberists",
+        "album": "I'll Be Your Girl",
+        "track": "Everything Is Awful"
+    },
+    {
+        "datetime": "2020-01-08 08:56:48",
+        "artist": "The Decemberists",
+        "album": "I'll Be Your Girl",
+        "track": "Sucker's Prayer"
+    },
+    {
+        "datetime": "2020-01-08 09:00:18",
+        "artist": "The Decemberists",
+        "album": "I'll Be Your Girl",
+        "track": "We All Die Young"
+    },
+    {
+        "datetime": "2020-01-08 09:04:19",
+        "artist": "The Decemberists",
+        "album": "I'll Be Your Girl",
+        "track": "Rusalka, Rusalka / The Wild Rushes"
+    },
+    {
+        "datetime": "2020-01-08 09:12:34",
+        "artist": "The Decemberists",
+        "album": "I'll Be Your Girl",
+        "track": "I'll Be Your Girl"
+    },
+    {
+        "datetime": "2020-01-08 09:15:09",
+        "artist": "Corb Lund",
+        "album": "Cover Your Tracks",
+        "track": "These Boots Are Made for Walkin\u2019"
+    },
+    {
+        "datetime": "2020-01-08 09:17:58",
+        "artist": "Corb Lund",
+        "album": "Cover Your Tracks",
+        "track": "The Cover of The Rolling Stone"
+    },
+    {
+        "datetime": "2020-01-08 09:21:05",
+        "artist": "Corb Lund",
+        "album": "Cover Your Tracks",
+        "track": "They\u2019re Hanging Me Tonight"
+    },
+    {
+        "datetime": "2020-01-08 09:25:14",
+        "artist": "Corb Lund",
+        "album": "Cover Your Tracks",
+        "track": "Outlaw Man"
+    },
+    {
+        "datetime": "2020-01-08 17:40:24",
+        "artist": "Corb Lund",
+        "album": "Cover Your Tracks",
+        "track": "Ride On"
+    },
+    {
+        "datetime": "2020-01-08 17:45:21",
+        "artist": "Corb Lund",
+        "album": "Cover Your Tracks",
+        "track": "Seven Spanish Angels"
+    },
+    {
+        "datetime": "2020-01-08 17:48:47",
+        "artist": "Corb Lund",
+        "album": "Cover Your Tracks",
+        "track": "It\u2019s Still Rock and Roll to Me"
+    },
+    {
+        "datetime": "2020-01-08 17:51:54",
+        "artist": "Corb Lund",
+        "album": "Cover Your Tracks",
+        "track": "I Shall Be Released"
+    },
+    {
+        "datetime": "2020-01-08 17:55:24",
+        "artist": "Echo & the Bunnymen",
+        "album": "Echo & The Bunnymen",
+        "track": "The Game"
+    },
+    {
+        "datetime": "2020-01-08 17:59:16",
+        "artist": "Echo & the Bunnymen",
+        "album": "Echo & The Bunnymen",
+        "track": "Over You"
+    },
+    {
+        "datetime": "2020-01-08 18:03:18",
+        "artist": "Echo & the Bunnymen",
+        "album": "Echo & The Bunnymen",
+        "track": "Bedbugs and Ballyhoo"
+    },
+    {
+        "datetime": "2020-01-08 18:06:47",
+        "artist": "Echo & the Bunnymen",
+        "album": "Echo & The Bunnymen",
+        "track": "All in Your Mind"
+    },
+    {
+        "datetime": "2020-01-08 18:11:21",
+        "artist": "Echo & the Bunnymen",
+        "album": "Echo & The Bunnymen",
+        "track": "Bombers Bay"
+    },
+    {
+        "datetime": "2020-01-08 18:15:45",
+        "artist": "Echo & the Bunnymen",
+        "album": "Echo & The Bunnymen",
+        "track": "Lips Like Sugar"
+    },
+    {
+        "datetime": "2020-01-08 18:20:37",
+        "artist": "Echo & the Bunnymen",
+        "album": "Echo & The Bunnymen",
+        "track": "Lost and Found"
+    },
+    {
+        "datetime": "2020-01-08 18:24:15",
+        "artist": "Echo & the Bunnymen",
+        "album": "Echo & The Bunnymen",
+        "track": "New Direction"
+    },
+    {
+        "datetime": "2020-01-08 18:29:03",
+        "artist": "Echo & the Bunnymen",
+        "album": "Echo & The Bunnymen",
+        "track": "Blue Blue Ocean"
+    },
+    {
+        "datetime": "2020-01-08 18:34:13",
+        "artist": "Echo & the Bunnymen",
+        "album": "Echo & The Bunnymen",
+        "track": "Satellite"
+    },
+    {
+        "datetime": "2020-01-08 18:37:18",
+        "artist": "Echo & the Bunnymen",
+        "album": "Echo & The Bunnymen",
+        "track": "All My Life"
+    },
+    {
+        "datetime": "2020-01-08 18:41:28",
+        "artist": "Echo & the Bunnymen",
+        "album": "Echo & The Bunnymen",
+        "track": "Jimmy Brown (Early version of Bring On The Dancing Horses)"
+    },
+    {
+        "datetime": "2020-01-08 18:45:33",
+        "artist": "Echo & the Bunnymen",
+        "album": "Echo & The Bunnymen",
+        "track": "Hole in the Holy"
+    },
+    {
+        "datetime": "2020-01-08 18:50:16",
+        "artist": "Echo & the Bunnymen",
+        "album": "Echo & The Bunnymen",
+        "track": "Soul Kitchen"
+    },
+    {
+        "datetime": "2020-01-08 18:54:10",
+        "artist": "Echo & the Bunnymen",
+        "album": "Echo & The Bunnymen",
+        "track": "The Game (Acoustic Demo)"
+    },
+    {
+        "datetime": "2020-01-08 18:58:08",
+        "artist": "Echo & the Bunnymen",
+        "album": "Echo & The Bunnymen",
+        "track": "Bedbugs and Ballyhoo (original single version)"
+    },
+    {
+        "datetime": "2020-01-08 19:01:48",
+        "artist": "Echo & the Bunnymen",
+        "album": "Echo & The Bunnymen",
+        "track": "Over Your Shoulder"
+    },
+    {
+        "datetime": "2020-01-09 19:36:36",
+        "artist": "U2",
+        "album": "The Unforgettable Fire",
+        "track": "A Sort Of Homecoming (Remastered)"
+    },
+    {
+        "datetime": "2020-01-10 08:26:28",
+        "artist": "Mrgroovybassman",
+        "album": "",
+        "track": "VELVET UNDERGROUND  Fondation Cartier 1990"
+    },
+    {
+        "datetime": "2020-01-10 18:43:23",
+        "artist": "Martha and the Muffins",
+        "album": "Metro Music",
+        "track": "Echo Beach"
+    },
+    {
+        "datetime": "2020-01-10 18:47:19",
+        "artist": "Yazoo",
+        "album": "You And Me Both",
+        "track": "Ode to Boy (2008 Remastered Version)"
+    },
+    {
+        "datetime": "2020-01-10 18:50:56",
+        "artist": "Emmylou Harris",
+        "album": "Wrecking Ball",
+        "track": "Deeper Well"
+    },
+    {
+        "datetime": "2020-01-10 18:58:26",
+        "artist": "Earl Scruggs",
+        "album": "Earl Scruggs And Friends",
+        "track": "Passin' Thru"
+    },
+    {
+        "datetime": "2020-01-13 05:28:46",
+        "artist": "Bryan Ferry",
+        "album": "These Foolish Things",
+        "track": "A Hard Rain's A-Gonna Fall"
+    },
+    {
+        "datetime": "2020-01-13 05:53:32",
+        "artist": "Bryan Ferry",
+        "album": "These Foolish Things",
+        "track": "River of Salt"
+    },
+    {
+        "datetime": "2020-01-13 05:55:20",
+        "artist": "Bryan Ferry",
+        "album": "These Foolish Things",
+        "track": "Don't Ever Change"
+    },
+    {
+        "datetime": "2020-01-13 05:57:36",
+        "artist": "Bryan Ferry",
+        "album": "These Foolish Things",
+        "track": "Piece of My Heart"
+    },
+    {
+        "datetime": "2020-01-13 06:00:42",
+        "artist": "Bryan Ferry",
+        "album": "These Foolish Things",
+        "track": "Baby I Don't Care"
+    },
+    {
+        "datetime": "2020-01-13 06:02:32",
+        "artist": "Bryan Ferry",
+        "album": "These Foolish Things",
+        "track": "It's My Party"
+    },
+    {
+        "datetime": "2020-01-13 06:04:33",
+        "artist": "Bryan Ferry",
+        "album": "These Foolish Things",
+        "track": "Don't Worry Baby"
+    },
+    {
+        "datetime": "2020-01-13 06:08:46",
+        "artist": "Bryan Ferry",
+        "album": "These Foolish Things",
+        "track": "Sympathy for the Devil"
+    },
+    {
+        "datetime": "2020-01-13 06:14:36",
+        "artist": "Bryan Ferry",
+        "album": "These Foolish Things",
+        "track": "The Tracks of My Tears"
+    },
+    {
+        "datetime": "2020-01-13 06:17:42",
+        "artist": "Bryan Ferry",
+        "album": "These Foolish Things",
+        "track": "You Won't See Me"
+    },
+    {
+        "datetime": "2020-01-13 06:20:14",
+        "artist": "Bryan Ferry",
+        "album": "These Foolish Things",
+        "track": "I Love How You Love Me"
+    },
+    {
+        "datetime": "2020-01-13 06:23:16",
+        "artist": "Bryan Ferry",
+        "album": "These Foolish Things",
+        "track": "Loving You Is Sweeter Than Ever"
+    },
+    {
+        "datetime": "2020-01-13 06:26:23",
+        "artist": "Bryan Ferry",
+        "album": "These Foolish Things",
+        "track": "These Foolish Things"
+    },
+    {
+        "datetime": "2020-01-13 06:32:04",
+        "artist": "Nick Cave & the Bad Seeds",
+        "album": "Ghosteen",
+        "track": "Spinning Song"
+    },
+    {
+        "datetime": "2020-01-13 06:36:47",
+        "artist": "Modern Nature",
+        "album": "Nature",
+        "track": "Nature"
+    },
+    {
+        "datetime": "2020-01-13 06:40:50",
+        "artist": "Weyes Blood",
+        "album": "Titanic Rising",
+        "track": "Andromeda"
+    },
+    {
+        "datetime": "2020-01-13 06:45:30",
+        "artist": "Big Thief",
+        "album": "U.F.O.F.",
+        "track": "Cattails"
+    },
+    {
+        "datetime": "2020-01-13 06:49:36",
+        "artist": "Richard Dawson",
+        "album": "2020",
+        "track": "Black Triangle"
+    },
+    {
+        "datetime": "2020-01-13 06:57:36",
+        "artist": "Joan Shelley",
+        "album": "Like The River Loves The Sea",
+        "track": "The Fading"
+    },
+    {
+        "datetime": "2020-01-13 07:00:46",
+        "artist": "Cate le Bon",
+        "album": "Reward",
+        "track": "Home To You"
+    },
+    {
+        "datetime": "2020-01-13 07:06:13",
+        "artist": "Fontaines D.c.",
+        "album": "Dogrel",
+        "track": "Boys in the Better Land"
+    },
+    {
+        "datetime": "2020-01-13 07:11:13",
+        "artist": "Purple Mountains",
+        "album": "Purple Mountains",
+        "track": "Darkness and Cold"
+    },
+    {
+        "datetime": "2020-01-13 07:15:11",
+        "artist": "Bon Iver",
+        "album": "I,I",
+        "track": "Hey, Ma"
+    },
+    {
+        "datetime": "2020-01-13 07:18:48",
+        "artist": "Rhiannon Giddens",
+        "album": "There Is No Other (With Francesco Turrisi) [Deluxe Version]",
+        "track": "Ten Thousand Voices (with Francesco Turrisi)"
+    },
+    {
+        "datetime": "2020-01-13 07:21:46",
+        "artist": "Bill Callahan",
+        "album": "Shepherd In A Sheepskin Vest",
+        "track": "Young Icarus"
+    },
+    {
+        "datetime": "2020-01-13 07:24:55",
+        "artist": "Aldous Harding",
+        "album": "Designer",
+        "track": "The Barrel"
+    },
+    {
+        "datetime": "2020-01-13 07:29:55",
+        "artist": "Sampa the Great",
+        "album": "The Return",
+        "track": "The Return (feat. Alien, Thando, Whosane & Jace XL)"
+    },
+    {
+        "datetime": "2020-01-13 07:39:13",
+        "artist": "Julia Jacklin",
+        "album": "Crushing",
+        "track": "Don't Know How To Keep Loving You"
+    },
+    {
+        "datetime": "2020-01-13 07:44:46",
+        "artist": "It'S Immaterial",
+        "album": "Song",
+        "track": "New Brighton"
+    },
+    {
+        "datetime": "2020-01-13 07:50:37",
+        "artist": "It'S Immaterial",
+        "album": "Song",
+        "track": "Endless Holiday"
+    },
+    {
+        "datetime": "2020-01-13 07:56:12",
+        "artist": "It'S Immaterial",
+        "album": "Song",
+        "track": "An Ordinary Life"
+    },
+    {
+        "datetime": "2020-01-13 17:39:05",
+        "artist": "It'S Immaterial",
+        "album": "Song",
+        "track": "Heaven Knows"
+    },
+    {
+        "datetime": "2020-01-13 17:43:30",
+        "artist": "It'S Immaterial",
+        "album": "Song",
+        "track": "In The Neighbourhood"
+    },
+    {
+        "datetime": "2020-01-13 17:48:56",
+        "artist": "It'S Immaterial",
+        "album": "Song",
+        "track": "Missing"
+    },
+    {
+        "datetime": "2020-01-13 17:54:19",
+        "artist": "It'S Immaterial",
+        "album": "Song",
+        "track": "Homecoming"
+    },
+    {
+        "datetime": "2020-01-13 17:58:56",
+        "artist": "It'S Immaterial",
+        "album": "Song",
+        "track": "Summer Winds"
+    },
+    {
+        "datetime": "2020-01-13 19:03:28",
+        "artist": "It'S Immaterial",
+        "album": "Song",
+        "track": "Life On The Hill"
+    },
+    {
+        "datetime": "2020-01-13 19:09:40",
+        "artist": "It'S Immaterial",
+        "album": "Song",
+        "track": "Your Voice"
+    },
+    {
+        "datetime": "2020-01-13 19:14:58",
+        "artist": "U2",
+        "album": "The Joshua Tree",
+        "track": "Where the Streets Have No Name (Remastered)"
+    },
+    {
+        "datetime": "2020-01-13 19:20:34",
+        "artist": "U2",
+        "album": "The Joshua Tree",
+        "track": "I Still Haven't Found What I'm Looking For (Remastered 2007)"
+    },
+    {
+        "datetime": "2020-01-13 19:25:12",
+        "artist": "U2",
+        "album": "The Joshua Tree",
+        "track": "With Or Without You (Remastered)"
+    },
+    {
+        "datetime": "2020-01-13 19:30:08",
+        "artist": "U2",
+        "album": "The Joshua Tree",
+        "track": "Bullet The Blue Sky (Remastered 2007)"
+    },
+    {
+        "datetime": "2020-01-13 19:34:40",
+        "artist": "U2",
+        "album": "The Joshua Tree",
+        "track": "Running To Stand Still (Remastered 2007)"
+    },
+    {
+        "datetime": "2020-01-13 19:38:56",
+        "artist": "U2",
+        "album": "The Joshua Tree",
+        "track": "Red Hill Mining Town (Remastered 2007)"
+    },
+    {
+        "datetime": "2020-01-13 19:43:49",
+        "artist": "U2",
+        "album": "The Joshua Tree",
+        "track": "In God's Country (Remastered 2007)"
+    },
+    {
+        "datetime": "2020-01-13 19:46:47",
+        "artist": "U2",
+        "album": "The Joshua Tree",
+        "track": "Trip Through Your Wires (Remastered 2007)"
+    },
+    {
+        "datetime": "2020-01-13 19:50:19",
+        "artist": "U2",
+        "album": "The Joshua Tree",
+        "track": "One Tree Hill (Remastered 2007)"
+    },
+    {
+        "datetime": "2020-01-13 19:55:42",
+        "artist": "U2",
+        "album": "The Joshua Tree",
+        "track": "Exit (Remastered 2007)"
+    },
+    {
+        "datetime": "2020-01-13 19:59:55",
+        "artist": "U2",
+        "album": "The Joshua Tree",
+        "track": "Mothers Of The Disappeared (Remastered 2007)"
+    },
+    {
+        "datetime": "2020-01-13 20:05:09",
+        "artist": "The Beatles",
+        "album": "Beatles For Sale",
+        "track": "No Reply (Remastered 2009)"
+    },
+    {
+        "datetime": "2020-01-13 20:07:25",
+        "artist": "The Beatles",
+        "album": "Beatles For Sale",
+        "track": "I'm A Loser (Remastered 2009)"
+    },
+    {
+        "datetime": "2020-01-13 20:09:55",
+        "artist": "The Beatles",
+        "album": "Beatles For Sale",
+        "track": "Baby's In Black (Remastered 2009)"
+    },
+    {
+        "datetime": "2020-01-13 20:12:00",
+        "artist": "The Beatles",
+        "album": "Beatles For Sale",
+        "track": "Rock And Roll Music (Remastered 2009)"
+    },
+    {
+        "datetime": "2020-01-13 20:14:31",
+        "artist": "The Beatles",
+        "album": "Beatles For Sale",
+        "track": "I'll Follow The Sun (Remastered 2009)"
+    },
+    {
+        "datetime": "2020-01-13 20:16:20",
+        "artist": "The Beatles",
+        "album": "Beatles For Sale",
+        "track": "Mr Moonlight (Remastered 2009)"
+    },
+    {
+        "datetime": "2020-01-13 20:18:59",
+        "artist": "The Beatles",
+        "album": "Beatles For Sale",
+        "track": "Kansas City / Hey-Hey-Hey-Hey (Medley / Remastered 2009)"
+    },
+    {
+        "datetime": "2020-01-13 20:21:37",
+        "artist": "The Beatles",
+        "album": "Beatles For Sale",
+        "track": "Eight Days A Week (Remastered 2009)"
+    },
+    {
+        "datetime": "2020-01-13 20:24:20",
+        "artist": "The Beatles",
+        "album": "Beatles For Sale",
+        "track": "Words Of Love (Remastered 2009)"
+    },
+    {
+        "datetime": "2020-01-13 20:26:25",
+        "artist": "The Beatles",
+        "album": "Beatles For Sale",
+        "track": "Honey Don't (Remastered 2009)"
+    },
+    {
+        "datetime": "2020-01-13 20:29:22",
+        "artist": "The Beatles",
+        "album": "Beatles For Sale",
+        "track": "Every Little Thing (Remastered 2009)"
+    },
+    {
+        "datetime": "2020-01-13 20:31:26",
+        "artist": "The Beatles",
+        "album": "Beatles For Sale",
+        "track": "I Don't Want To Spoil The Party (Remastered 2009)"
+    },
+    {
+        "datetime": "2020-01-13 20:34:00",
+        "artist": "The Beatles",
+        "album": "Beatles For Sale",
+        "track": "What You're Doing (Remastered 2009)"
+    },
+    {
+        "datetime": "2020-01-13 20:36:31",
+        "artist": "The Beatles",
+        "album": "Beatles For Sale",
+        "track": "Everybody's Trying To Be My Baby (Remastered 2009)"
+    },
+    {
+        "datetime": "2020-01-13 20:38:57",
+        "artist": "Scritti Politti",
+        "album": "Early",
+        "track": "Skank Bloc Bologna"
+    },
+    {
+        "datetime": "2020-01-14 18:19:55",
+        "artist": "Magazine",
+        "album": "The Correct Use Of Soap",
+        "track": "A Song From Under The Floorboards (Remastered 2007)"
+    },
+    {
+        "datetime": "2020-01-14 18:24:37",
+        "artist": "Josef K",
+        "album": "Young And Stupid",
+        "track": "It's Kinda Funny (Postcard Single Version)"
+    },
+    {
+        "datetime": "2020-01-14 18:28:24",
+        "artist": "Eliza Gilkyson",
+        "album": "Hard Times In Babylon",
+        "track": "Coast"
+    },
+    {
+        "datetime": "2020-01-14 18:31:49",
+        "artist": "Martha and the Muffins",
+        "album": "Metro Music",
+        "track": "Echo Beach"
+    },
+    {
+        "datetime": "2020-01-14 18:35:29",
+        "artist": "Emmylou Harris",
+        "album": "Wrecking Ball",
+        "track": "Deeper Well"
+    },
+    {
+        "datetime": "2020-01-14 18:39:46",
+        "artist": "The Fall",
+        "album": "Dragnet",
+        "track": "Fiery Jack (Bonus Track)"
+    },
+    {
+        "datetime": "2020-01-14 22:11:28",
+        "artist": "The Fall",
+        "album": "Dragnet",
+        "track": "Fiery Jack (Bonus Track)"
+    },
+    {
+        "datetime": "2020-01-16 06:58:40",
+        "artist": "Nick Cave & the Bad Seeds",
+        "album": "Ghosteen",
+        "track": "Spinning Song"
+    },
+    {
+        "datetime": "2020-01-16 16:11:10",
+        "artist": "Modern Nature",
+        "album": "Nature",
+        "track": "Nature"
+    },
+    {
+        "datetime": "2020-01-16 16:15:12",
+        "artist": "Weyes Blood",
+        "album": "Titanic Rising",
+        "track": "Andromeda"
+    },
+    {
+        "datetime": "2020-01-16 16:19:53",
+        "artist": "Big Thief",
+        "album": "U.F.O.F.",
+        "track": "Cattails"
+    },
+    {
+        "datetime": "2020-01-16 16:23:58",
+        "artist": "Richard Dawson",
+        "album": "2020",
+        "track": "Black Triangle"
+    },
+    {
+        "datetime": "2020-01-16 16:30:20",
+        "artist": "Joan Shelley",
+        "album": "Like The River Loves The Sea",
+        "track": "The Fading"
+    },
+    {
+        "datetime": "2020-01-16 16:33:30",
+        "artist": "Cate le Bon",
+        "album": "Reward",
+        "track": "Home To You"
+    },
+    {
+        "datetime": "2020-01-16 16:38:57",
+        "artist": "Fontaines D.c.",
+        "album": "Dogrel",
+        "track": "Boys in the Better Land"
+    },
+    {
+        "datetime": "2020-01-16 16:43:57",
+        "artist": "Purple Mountains",
+        "album": "Purple Mountains",
+        "track": "Darkness and Cold"
+    },
+    {
+        "datetime": "2020-01-16 16:47:56",
+        "artist": "Bon Iver",
+        "album": "I,I",
+        "track": "Hey, Ma"
+    },
+    {
+        "datetime": "2020-01-16 16:51:32",
+        "artist": "Rhiannon Giddens",
+        "album": "There Is No Other (With Francesco Turrisi) [Deluxe Version]",
+        "track": "Ten Thousand Voices (with Francesco Turrisi)"
+    },
+    {
+        "datetime": "2020-01-16 16:54:30",
+        "artist": "Bill Callahan",
+        "album": "Shepherd In A Sheepskin Vest",
+        "track": "Young Icarus"
+    },
+    {
+        "datetime": "2020-01-16 16:57:19",
+        "artist": "Aldous Harding",
+        "album": "Designer",
+        "track": "The Barrel"
+    },
+    {
+        "datetime": "2020-01-16 17:16:31",
+        "artist": "Sampa the Great",
+        "album": "The Return",
+        "track": "The Return (feat. Alien, Thando, Whosane & Jace XL)"
+    },
+    {
+        "datetime": "2020-01-16 17:25:49",
+        "artist": "Julia Jacklin",
+        "album": "Crushing",
+        "track": "Don't Know How To Keep Loving You"
+    },
+    {
+        "datetime": "2020-01-16 17:31:22",
+        "artist": "Cocteau Twins",
+        "album": "The Spangle Maker",
+        "track": "The Spangle Maker"
+    },
+    {
+        "datetime": "2020-01-16 17:36:04",
+        "artist": "Cocteau Twins",
+        "album": "The Spangle Maker",
+        "track": "Pearly-dewdrops\u2019 Drops (12\" version)"
+    },
+    {
+        "datetime": "2020-01-16 17:41:18",
+        "artist": "Cocteau Twins",
+        "album": "The Spangle Maker",
+        "track": "Pepper-Tree"
+    },
+    {
+        "datetime": "2020-01-16 17:45:16",
+        "artist": "Cocteau Twins",
+        "album": "The Spangle Maker",
+        "track": "Pearly-Dewdrops\u2019 Drops (7\" Version)"
+    },
+    {
+        "datetime": "2020-01-16 17:49:49",
+        "artist": "Cocteau Twins",
+        "album": "Tiny Dynamine",
+        "track": "Pink Orange Red"
+    },
+    {
+        "datetime": "2020-01-16 17:54:32",
+        "artist": "Cocteau Twins",
+        "album": "Tiny Dynamine",
+        "track": "Ribbed and Veined"
+    },
+    {
+        "datetime": "2020-01-16 17:58:31",
+        "artist": "Cocteau Twins",
+        "album": "Tiny Dynamine",
+        "track": "Plain Tiger"
+    },
+    {
+        "datetime": "2020-01-16 18:02:35",
+        "artist": "Cocteau Twins",
+        "album": "Tiny Dynamine",
+        "track": "Sultitan Itan"
+    },
+    {
+        "datetime": "2020-01-16 18:06:27",
+        "artist": "Cocteau Twins",
+        "album": "Echoes In A Shallow Bay",
+        "track": "Great Spangled Fritillary"
+    },
+    {
+        "datetime": "2020-01-16 18:10:32",
+        "artist": "Cocteau Twins",
+        "album": "Echoes In A Shallow Bay",
+        "track": "Melonella"
+    },
+    {
+        "datetime": "2020-01-16 18:14:37",
+        "artist": "Cocteau Twins",
+        "album": "Echoes In A Shallow Bay",
+        "track": "Pale Clouded White"
+    },
+    {
+        "datetime": "2020-01-16 18:19:39",
+        "artist": "Cocteau Twins",
+        "album": "Echoes In A Shallow Bay",
+        "track": "Eggs and Their Shells"
+    },
+    {
+        "datetime": "2020-01-16 18:22:46",
+        "artist": "Cocteau Twins",
+        "album": "Aikea-Guinea",
+        "track": "Aikea-Guinea"
+    },
+    {
+        "datetime": "2020-01-16 18:26:48",
+        "artist": "Cocteau Twins",
+        "album": "Aikea-Guinea",
+        "track": "Kookaburra"
+    },
+    {
+        "datetime": "2020-01-16 18:30:11",
+        "artist": "Cocteau Twins",
+        "album": "Aikea-Guinea",
+        "track": "Quisquose"
+    },
+    {
+        "datetime": "2020-01-16 18:34:25",
+        "artist": "Cocteau Twins",
+        "album": "Aikea-Guinea",
+        "track": "Rococo"
+    },
+    {
+        "datetime": "2020-01-16 18:37:36",
+        "artist": "The Beatles",
+        "album": "Help!",
+        "track": "Help! (Remastered 2009)"
+    },
+    {
+        "datetime": "2020-01-16 18:39:55",
+        "artist": "The Beatles",
+        "album": "Help!",
+        "track": "The Night Before (Remastered 2009)"
+    },
+    {
+        "datetime": "2020-01-16 18:42:30",
+        "artist": "The Beatles",
+        "album": "Help!",
+        "track": "You've Got To Hide Your Love Away (Remastered 2009)"
+    },
+    {
+        "datetime": "2020-01-16 18:44:39",
+        "artist": "The Beatles",
+        "album": "Help!",
+        "track": "I Need You (Remastered 2009)"
+    },
+    {
+        "datetime": "2020-01-16 18:47:08",
+        "artist": "The Beatles",
+        "album": "Help!",
+        "track": "Another Girl (Remastered 2009)"
+    },
+    {
+        "datetime": "2020-01-16 18:49:14",
+        "artist": "The Beatles",
+        "album": "Help!",
+        "track": "You're Going To Lose That Girl (Remastered 2009)"
+    },
+    {
+        "datetime": "2020-01-16 18:52:06",
+        "artist": "The Beatles",
+        "album": "Help!",
+        "track": "Ticket To Ride (Remastered 2009)"
+    },
+    {
+        "datetime": "2020-01-16 18:55:17",
+        "artist": "The Beatles",
+        "album": "Help!",
+        "track": "Act Naturally (Remastered 2009)"
+    },
+    {
+        "datetime": "2020-01-16 18:57:48",
+        "artist": "The Beatles",
+        "album": "Help!",
+        "track": "It's Only Love (Remastered 2009)"
+    },
+    {
+        "datetime": "2020-01-16 18:59:44",
+        "artist": "The Beatles",
+        "album": "Help!",
+        "track": "You Like Me Too Much (Remastered 2009)"
+    },
+    {
+        "datetime": "2020-01-16 19:02:21",
+        "artist": "The Beatles",
+        "album": "Help!",
+        "track": "Tell Me What You See (Remastered 2009)"
+    },
+    {
+        "datetime": "2020-01-16 19:04:59",
+        "artist": "The Beatles",
+        "album": "Help!",
+        "track": "I've Just Seen A Face (Remastered 2009)"
+    },
+    {
+        "datetime": "2020-01-16 19:07:04",
+        "artist": "The Beatles",
+        "album": "Help!",
+        "track": "Yesterday (Remastered 2009)"
+    },
+    {
+        "datetime": "2020-01-16 19:09:10",
+        "artist": "The Beatles",
+        "album": "Help!",
+        "track": "Dizzy Miss Lizzy (Remastered 2009)"
+    },
+    {
+        "datetime": "2020-01-16 19:12:06",
+        "artist": "Roxy Music",
+        "album": "Manifesto",
+        "track": "Manifesto (Remastered)"
+    },
+    {
+        "datetime": "2020-01-16 19:17:36",
+        "artist": "Roxy Music",
+        "album": "Manifesto",
+        "track": "Trash"
+    },
+    {
+        "datetime": "2020-01-16 19:19:50",
+        "artist": "Roxy Music",
+        "album": "Manifesto",
+        "track": "Angel Eyes"
+    },
+    {
+        "datetime": "2020-01-16 19:23:23",
+        "artist": "Roxy Music",
+        "album": "Manifesto",
+        "track": "Still Falls The Rain (Remastered)"
+    },
+    {
+        "datetime": "2020-01-16 19:27:37",
+        "artist": "Roxy Music",
+        "album": "Manifesto",
+        "track": "Stronger Through The Years (Remastered)"
+    },
+    {
+        "datetime": "2020-01-16 19:33:53",
+        "artist": "Roxy Music",
+        "album": "Manifesto",
+        "track": "Ain't That So (Remastered)"
+    },
+    {
+        "datetime": "2020-01-17 19:21:21",
+        "artist": "Roxy Music",
+        "album": "Manifesto",
+        "track": "My Little Girl (Remastered)"
+    },
+    {
+        "datetime": "2020-01-17 19:24:39",
+        "artist": "Roxy Music",
+        "album": "Manifesto",
+        "track": "Dance Away"
+    },
+    {
+        "datetime": "2020-01-17 19:28:27",
+        "artist": "Roxy Music",
+        "album": "Manifesto",
+        "track": "Cry, Cry, Cry (Remastered)"
+    },
+    {
+        "datetime": "2020-01-17 19:31:22",
+        "artist": "Roxy Music",
+        "album": "Manifesto",
+        "track": "Spin Me Round (Remastered)"
+    },
+    {
+        "datetime": "2020-01-19 18:24:00",
+        "artist": "Bryan Ferry",
+        "album": "These Foolish Things",
+        "track": "It's My Party"
+    },
+    {
+        "datetime": "2020-01-19 18:26:03",
+        "artist": "Bryan Ferry",
+        "album": "These Foolish Things",
+        "track": "Don't Ever Change"
+    },
+    {
+        "datetime": "2020-01-19 18:28:18",
+        "artist": "Bryan Ferry",
+        "album": "These Foolish Things",
+        "track": "A Hard Rain's A-Gonna Fall"
+    },
+    {
+        "datetime": "2020-01-20 18:07:28",
+        "artist": "Just the Faqs",
+        "album": "Gannett Syndication Service",
+        "track": "Trump\u2019s border shutdown threat: these are the ripple effects"
+    },
+    {
+        "datetime": "2020-01-20 18:09:42",
+        "artist": "Just the Faqs",
+        "album": "Gannett Syndication Service",
+        "track": "Iowa caucus: Just how much influence does it have on the general election"
+    },
+    {
+        "datetime": "2020-01-20 18:11:28",
+        "artist": "Just the Faqs",
+        "album": "Gannett Syndication Service",
+        "track": "U.S.-Iran tensions: How close are we to WWIII?"
+    },
+    {
+        "datetime": "2020-01-20 18:12:50",
+        "artist": "Just the Faqs",
+        "album": "Gannett Syndication Service",
+        "track": "How polls work: The science behind gathering voter opinions"
+    },
+    {
+        "datetime": "2020-01-20 18:14:32",
+        "artist": "Just the Faqs",
+        "album": "Gannett Syndication Service",
+        "track": "How Clinton, Johnson and Nixon impeachments tested our checks and balances"
+    },
+    {
+        "datetime": "2020-01-22 18:19:07",
+        "artist": "Prefab Sprout",
+        "album": "Swoon",
+        "track": "I Never Play Basketball Now (Remastered)"
+    },
+    {
+        "datetime": "2020-01-22 18:23:28",
+        "artist": "Prefab Sprout",
+        "album": "Swoon",
+        "track": "Elegance (Remastered)"
+    },
+    {
+        "datetime": "2020-01-22 18:27:17",
+        "artist": "Prefab Sprout",
+        "album": "Swoon",
+        "track": "Cue Fanfare (Remastered)"
+    },
+    {
+        "datetime": "2020-01-22 18:31:23",
+        "artist": "Prefab Sprout",
+        "album": "Swoon",
+        "track": "Ghost Town Blues (Remastered)"
+    },
+    {
+        "datetime": "2020-01-22 18:34:45",
+        "artist": "Prefab Sprout",
+        "album": "Swoon",
+        "track": "Don't Sing (Remastered)"
+    },
+    {
+        "datetime": "2020-01-22 18:38:37",
+        "artist": "Prefab Sprout",
+        "album": "Swoon",
+        "track": "Cruel (Remastered)"
+    },
+    {
+        "datetime": "2020-01-22 18:43:02",
+        "artist": "Prefab Sprout",
+        "album": "Swoon",
+        "track": "Couldn't Bear to Be Special (Remastered)"
+    },
+    {
+        "datetime": "2020-01-22 18:46:52",
+        "artist": "Prefab Sprout",
+        "album": "Swoon",
+        "track": "Green Isaac (II) (Remastered)"
+    },
+    {
+        "datetime": "2020-01-22 18:48:20",
+        "artist": "Prefab Sprout",
+        "album": "Swoon",
+        "track": "Here On the Eerie (Remastered)"
+    },
+    {
+        "datetime": "2020-01-22 18:52:21",
+        "artist": "Prefab Sprout",
+        "album": "Swoon",
+        "track": "Technique (Remastered)"
+    },
+    {
+        "datetime": "2020-01-22 18:57:00",
+        "artist": "Prefab Sprout",
+        "album": "Swoon",
+        "track": "Green Isaac (I) (Remastered)"
+    },
+    {
+        "datetime": "2020-01-22 19:06:32",
+        "artist": "Prefab Sprout",
+        "album": "Swoon",
+        "track": "I Never Play Basketball Now (Remastered)"
+    },
+    {
+        "datetime": "2020-01-24 05:31:19",
+        "artist": "Josh Ritter",
+        "album": "Fever Breaks",
+        "track": "Ground Don't Want Me"
+    },
+    {
+        "datetime": "2020-01-24 06:17:28",
+        "artist": "Josh Ritter",
+        "album": "Fever Breaks",
+        "track": "Old Black Magic"
+    },
+    {
+        "datetime": "2020-01-24 06:22:00",
+        "artist": "Josh Ritter",
+        "album": "Fever Breaks",
+        "track": "On the Water"
+    },
+    {
+        "datetime": "2020-01-24 06:25:32",
+        "artist": "Josh Ritter",
+        "album": "Fever Breaks",
+        "track": "I Still Love You (Now and Then)"
+    },
+    {
+        "datetime": "2020-01-24 06:30:25",
+        "artist": "Josh Ritter",
+        "album": "Fever Breaks",
+        "track": "The Torch Committee"
+    },
+    {
+        "datetime": "2020-01-24 06:36:09",
+        "artist": "Josh Ritter",
+        "album": "Fever Breaks",
+        "track": "Silverblade"
+    },
+    {
+        "datetime": "2020-01-24 06:40:14",
+        "artist": "Josh Ritter",
+        "album": "Fever Breaks",
+        "track": "All Some Kind of Dream"
+    },
+    {
+        "datetime": "2020-01-24 06:44:33",
+        "artist": "Josh Ritter",
+        "album": "Fever Breaks",
+        "track": "Losing Battles"
+    },
+    {
+        "datetime": "2020-01-24 06:48:56",
+        "artist": "Josh Ritter",
+        "album": "Fever Breaks",
+        "track": "A New Man"
+    },
+    {
+        "datetime": "2020-01-24 06:53:25",
+        "artist": "Josh Ritter",
+        "album": "Fever Breaks",
+        "track": "Blazing Highway Home"
+    },
+    {
+        "datetime": "2020-01-24 06:58:24",
+        "artist": "Kate Bush",
+        "album": "The Kick Inside",
+        "track": "Moving"
+    },
+    {
+        "datetime": "2020-01-24 07:01:26",
+        "artist": "Kate Bush",
+        "album": "The Kick Inside",
+        "track": "The Saxophone Song"
+    },
+    {
+        "datetime": "2020-01-24 07:05:18",
+        "artist": "Kate Bush",
+        "album": "The Kick Inside",
+        "track": "Strange Phenomena"
+    },
+    {
+        "datetime": "2020-01-24 07:08:17",
+        "artist": "Kate Bush",
+        "album": "The Kick Inside",
+        "track": "Kite"
+    },
+    {
+        "datetime": "2020-01-24 07:11:14",
+        "artist": "Kate Bush",
+        "album": "The Kick Inside",
+        "track": "The Man With the Child in His Eyes"
+    },
+    {
+        "datetime": "2020-01-24 07:13:53",
+        "artist": "Kate Bush",
+        "album": "The Kick Inside",
+        "track": "Wuthering Heights"
+    },
+    {
+        "datetime": "2020-01-24 07:18:22",
+        "artist": "Kate Bush",
+        "album": "The Kick Inside",
+        "track": "James and the Cold Gun"
+    },
+    {
+        "datetime": "2020-01-24 07:22:00",
+        "artist": "Kate Bush",
+        "album": "The Kick Inside",
+        "track": "Feel It"
+    },
+    {
+        "datetime": "2020-01-24 07:25:01",
+        "artist": "Kate Bush",
+        "album": "The Kick Inside",
+        "track": "Oh to Be in Love"
+    },
+    {
+        "datetime": "2020-01-24 07:28:20",
+        "artist": "Kate Bush",
+        "album": "The Kick Inside",
+        "track": "L'Amour Looks Something Like You"
+    },
+    {
+        "datetime": "2020-01-24 07:30:48",
+        "artist": "Kate Bush",
+        "album": "The Kick Inside",
+        "track": "Them Heavy People"
+    },
+    {
+        "datetime": "2020-01-24 07:33:54",
+        "artist": "Kate Bush",
+        "album": "The Kick Inside",
+        "track": "Room for the Life"
+    },
+    {
+        "datetime": "2020-01-24 07:37:59",
+        "artist": "Kate Bush",
+        "album": "The Kick Inside",
+        "track": "The Kick Inside"
+    },
+    {
+        "datetime": "2020-01-24 07:41:34",
+        "artist": "Nick Cave & the Bad Seeds",
+        "album": "Ghosteen",
+        "track": "Spinning Song"
+    },
+    {
+        "datetime": "2020-01-24 07:46:18",
+        "artist": "Modern Nature",
+        "album": "Nature",
+        "track": "Nature"
+    },
+    {
+        "datetime": "2020-01-24 07:50:20",
+        "artist": "Weyes Blood",
+        "album": "Titanic Rising",
+        "track": "Andromeda"
+    },
+    {
+        "datetime": "2020-01-24 07:55:00",
+        "artist": "Big Thief",
+        "album": "U.F.O.F.",
+        "track": "Cattails"
+    },
+    {
+        "datetime": "2020-01-24 17:26:41",
+        "artist": "Richard Dawson",
+        "album": "2020",
+        "track": "Black Triangle"
+    },
+    {
+        "datetime": "2020-01-24 17:27:55",
+        "artist": "Joan Shelley",
+        "album": "Like The River Loves The Sea",
+        "track": "The Fading"
+    },
+    {
+        "datetime": "2020-01-24 17:31:04",
+        "artist": "Cate le Bon",
+        "album": "Reward",
+        "track": "Home To You"
+    },
+    {
+        "datetime": "2020-01-24 17:36:32",
+        "artist": "Fontaines D.c.",
+        "album": "Dogrel",
+        "track": "Boys in the Better Land"
+    },
+    {
+        "datetime": "2020-01-24 17:41:32",
+        "artist": "Purple Mountains",
+        "album": "Purple Mountains",
+        "track": "Darkness and Cold"
+    },
+    {
+        "datetime": "2020-01-24 17:45:30",
+        "artist": "Bon Iver",
+        "album": "I,I",
+        "track": "Hey, Ma"
+    },
+    {
+        "datetime": "2020-01-24 17:49:07",
+        "artist": "Rhiannon Giddens",
+        "album": "There Is No Other (With Francesco Turrisi) [Deluxe Version]",
+        "track": "Ten Thousand Voices (with Francesco Turrisi)"
+    },
+    {
+        "datetime": "2020-01-24 17:52:05",
+        "artist": "Bill Callahan",
+        "album": "Shepherd In A Sheepskin Vest",
+        "track": "Young Icarus"
+    },
+    {
+        "datetime": "2020-01-24 17:54:54",
+        "artist": "Aldous Harding",
+        "album": "Designer",
+        "track": "The Barrel"
+    },
+    {
+        "datetime": "2020-01-24 18:02:08",
+        "artist": "Sampa the Great",
+        "album": "The Return",
+        "track": "The Return (feat. Alien, Thando, Whosane & Jace XL)"
+    },
+    {
+        "datetime": "2020-01-24 18:04:45",
+        "artist": "Julia Jacklin",
+        "album": "Crushing",
+        "track": "Don't Know How To Keep Loving You"
+    },
+    {
+        "datetime": "2020-01-24 18:10:18",
+        "artist": "The Beatles",
+        "album": "Help!",
+        "track": "Help! (Remastered 2009)"
+    },
+    {
+        "datetime": "2020-01-24 18:12:37",
+        "artist": "The Beatles",
+        "album": "Help!",
+        "track": "The Night Before (Remastered 2009)"
+    },
+    {
+        "datetime": "2020-01-24 18:15:12",
+        "artist": "The Beatles",
+        "album": "Help!",
+        "track": "You've Got To Hide Your Love Away (Remastered 2009)"
+    },
+    {
+        "datetime": "2020-01-24 18:17:21",
+        "artist": "The Beatles",
+        "album": "Help!",
+        "track": "I Need You (Remastered 2009)"
+    },
+    {
+        "datetime": "2020-01-24 18:19:50",
+        "artist": "The Beatles",
+        "album": "Help!",
+        "track": "Another Girl (Remastered 2009)"
+    },
+    {
+        "datetime": "2020-01-24 18:21:56",
+        "artist": "The Beatles",
+        "album": "Help!",
+        "track": "You're Going To Lose That Girl (Remastered 2009)"
+    },
+    {
+        "datetime": "2020-01-24 18:24:14",
+        "artist": "The Beatles",
+        "album": "Help!",
+        "track": "Ticket To Ride (Remastered 2009)"
+    },
+    {
+        "datetime": "2020-01-24 18:27:24",
+        "artist": "The Beatles",
+        "album": "Help!",
+        "track": "Act Naturally (Remastered 2009)"
+    },
+    {
+        "datetime": "2020-01-24 18:29:54",
+        "artist": "The Beatles",
+        "album": "Help!",
+        "track": "It's Only Love (Remastered 2009)"
+    },
+    {
+        "datetime": "2020-01-24 18:31:51",
+        "artist": "The Beatles",
+        "album": "Help!",
+        "track": "You Like Me Too Much (Remastered 2009)"
+    },
+    {
+        "datetime": "2020-01-24 18:34:28",
+        "artist": "The Beatles",
+        "album": "Help!",
+        "track": "Tell Me What You See (Remastered 2009)"
+    },
+    {
+        "datetime": "2020-01-24 18:37:06",
+        "artist": "The Beatles",
+        "album": "Help!",
+        "track": "I've Just Seen A Face (Remastered 2009)"
+    },
+    {
+        "datetime": "2020-01-25 13:37:56",
+        "artist": "The Beatles",
+        "album": "Help!",
+        "track": "Yesterday (Remastered 2009)"
+    },
+    {
+        "datetime": "2020-01-25 13:40:01",
+        "artist": "The Beatles",
+        "album": "Help!",
+        "track": "Dizzy Miss Lizzy (Remastered 2009)"
+    },
+    {
+        "datetime": "2020-01-25 13:42:58",
+        "artist": "The Byrds",
+        "album": "The Essential Byrds",
+        "track": "So You Want to Be a Rock 'N' Roll Star"
+    },
+    {
+        "datetime": "2020-01-25 13:45:04",
+        "artist": "The Spencer Davis Group",
+        "album": "I'm A Man",
+        "track": "I'm a Man"
+    },
+    {
+        "datetime": "2020-01-25 13:47:37",
+        "artist": "Sonny & Cher",
+        "album": "In Case You're In Love",
+        "track": "The Beat Goes On"
+    },
+    {
+        "datetime": "2020-01-25 13:51:05",
+        "artist": "13Th Floor Elevators",
+        "album": "Easter Everywhere",
+        "track": "Levitation"
+    },
+    {
+        "datetime": "2020-01-25 13:54:29",
+        "artist": "The Shadows of Knight",
+        "album": "Back Door Men",
+        "track": "The Behemoth"
+    },
+    {
+        "datetime": "2020-01-25 13:57:04",
+        "artist": "The Action",
+        "album": "Keep On Holding On",
+        "track": "Never Ever"
+    },
+    {
+        "datetime": "2020-01-25 13:59:25",
+        "artist": "Gladys Knight & the Pips",
+        "album": "Ultimate Collection: Gladys Knight & The Pips",
+        "track": "Take Me In Your Arms And Love Me"
+    },
+    {
+        "datetime": "2020-01-25 14:02:20",
+        "artist": "Rex Garvin & the Mighty Cravers",
+        "album": "Rex Garvin & The Mighty Cravers",
+        "track": "Believe It Or Not"
+    },
+    {
+        "datetime": "2020-01-25 14:05:09",
+        "artist": "Joe Tex",
+        "album": "Greatest Hits",
+        "track": "Show Me"
+    },
+    {
+        "datetime": "2020-01-25 14:08:07",
+        "artist": "The Searchers",
+        "album": "The Searchers: The Pye Anthology 1963-1967",
+        "track": "Western Union"
+    },
+    {
+        "datetime": "2020-01-25 14:10:37",
+        "artist": "Aretha Franklin",
+        "album": "Soul Queen",
+        "track": "Respect"
+    },
+    {
+        "datetime": "2020-01-25 14:13:04",
+        "artist": "The Third Bardo",
+        "album": "I'm Five Years Ahead Of My Time",
+        "track": "I'm Five Years Ahead of My Time"
+    },
+    {
+        "datetime": "2020-01-25 14:15:20",
+        "artist": "Dyke & the Blazers",
+        "album": "Dyke's Greatest Hits - The Complete Singles",
+        "track": "So Sharp"
+    },
+    {
+        "datetime": "2020-01-25 14:18:28",
+        "artist": "Buffalo Springfield",
+        "album": "Retrospective (The Best Of Buffalo Springfield)",
+        "track": "Mr. Soul"
+    },
+    {
+        "datetime": "2020-01-25 14:21:19",
+        "artist": "The Monkees",
+        "album": "The Best Of The Monkees",
+        "track": "Randy Scouse Git"
+    },
+    {
+        "datetime": "2020-01-25 14:23:53",
+        "artist": "Bryan Ferry",
+        "album": "Another Time, Another Place",
+        "track": "The 'In' Crowd"
+    },
+    {
+        "datetime": "2020-01-25 14:28:29",
+        "artist": "Bryan Ferry",
+        "album": "Another Time, Another Place",
+        "track": "Smoke Gets In Your Eyes"
+    },
+    {
+        "datetime": "2020-01-25 14:31:23",
+        "artist": "Bryan Ferry",
+        "album": "Another Time, Another Place",
+        "track": "Walk A Mile In My Shoes"
+    },
+    {
+        "datetime": "2020-01-25 14:36:07",
+        "artist": "Bryan Ferry",
+        "album": "Another Time, Another Place",
+        "track": "Funny How Time Slips Away"
+    },
+    {
+        "datetime": "2020-01-25 14:39:39",
+        "artist": "Bryan Ferry",
+        "album": "Another Time, Another Place",
+        "track": "You Are My Sunshine"
+    },
+    {
+        "datetime": "2020-01-25 14:46:26",
+        "artist": "Bryan Ferry",
+        "album": "Another Time, Another Place",
+        "track": "(What A) Wonderful World"
+    },
+    {
+        "datetime": "2020-01-25 14:49:22",
+        "artist": "Bryan Ferry",
+        "album": "Another Time, Another Place",
+        "track": "It Ain't Me Babe"
+    },
+    {
+        "datetime": "2020-01-25 14:53:20",
+        "artist": "Bryan Ferry",
+        "album": "Another Time, Another Place",
+        "track": "Fingerpoppin'"
+    },
+    {
+        "datetime": "2020-01-25 14:56:54",
+        "artist": "Bryan Ferry",
+        "album": "Another Time, Another Place",
+        "track": "Help Me Make It Through The Night"
+    },
+    {
+        "datetime": "2020-01-25 15:01:10",
+        "artist": "Bryan Ferry",
+        "album": "Another Time, Another Place",
+        "track": "Another Time, Another Place"
+    },
+    {
+        "datetime": "2020-01-25 15:05:57",
+        "artist": "Hawkwind",
+        "album": "In Search Of Space",
+        "track": "You Shouldn't Do That (1996 Remastered Version)"
+    },
+    {
+        "datetime": "2020-01-25 15:21:39",
+        "artist": "Hawkwind",
+        "album": "In Search Of Space",
+        "track": "You Know You're Only Dreaming (1996 Remastered Version)"
+    },
+    {
+        "datetime": "2020-01-25 15:28:16",
+        "artist": "Hawkwind",
+        "album": "In Search Of Space",
+        "track": "Master Of The Universe (1996 Remastered Version)"
+    },
+    {
+        "datetime": "2020-01-25 15:34:34",
+        "artist": "Hawkwind",
+        "album": "In Search Of Space",
+        "track": "We Took The Wrong Step Years Ago (1996 Remastered Version)"
+    },
+    {
+        "datetime": "2020-01-25 15:39:24",
+        "artist": "Hawkwind",
+        "album": "In Search Of Space",
+        "track": "Adjust Me (1996 Remastered Version)"
+    },
+    {
+        "datetime": "2020-01-25 15:45:10",
+        "artist": "Hawkwind",
+        "album": "In Search Of Space",
+        "track": "Children Of The Sun (1996 Remastered Version)"
+    },
+    {
+        "datetime": "2020-01-25 15:48:32",
+        "artist": "Hawkwind",
+        "album": "In Search Of Space",
+        "track": "Seven By Seven (Original Single Mix) [1996 Remastered Version]"
+    },
+    {
+        "datetime": "2020-01-25 15:53:56",
+        "artist": "Hawkwind",
+        "album": "In Search Of Space",
+        "track": "Silver Machine (Original Single Version;Live At The Roundhouse London; 1996 Remastered Version)"
+    },
+    {
+        "datetime": "2020-01-25 15:58:36",
+        "artist": "Hawkwind",
+        "album": "In Search Of Space",
+        "track": "Born To Go (Single Version Edit) [Live At The Roundhouse London] [1996 Remastered Version]"
+    },
+    {
+        "datetime": "2020-01-26 19:49:25",
+        "artist": "Kate Bush",
+        "album": "The Kick Inside",
+        "track": "The Kick Inside"
+    },
+    {
+        "datetime": "2020-01-27 07:54:28",
+        "artist": "Kate Bush",
+        "album": "The Kick Inside",
+        "track": "Moving"
+    },
+    {
+        "datetime": "2020-01-27 09:24:03",
+        "artist": "Kate Bush",
+        "album": "The Kick Inside",
+        "track": "The Saxophone Song"
+    },
+    {
+        "datetime": "2020-01-27 09:28:24",
+        "artist": "Kate Bush",
+        "album": "The Kick Inside",
+        "track": "Strange Phenomena"
+    },
+    {
+        "datetime": "2020-01-27 09:31:23",
+        "artist": "Kate Bush",
+        "album": "The Kick Inside",
+        "track": "Kite"
+    },
+    {
+        "datetime": "2020-01-27 09:34:20",
+        "artist": "Kate Bush",
+        "album": "The Kick Inside",
+        "track": "The Man With the Child in His Eyes"
+    },
+    {
+        "datetime": "2020-01-27 09:36:58",
+        "artist": "Kate Bush",
+        "album": "The Kick Inside",
+        "track": "Wuthering Heights"
+    },
+    {
+        "datetime": "2020-01-27 09:41:27",
+        "artist": "Kate Bush",
+        "album": "The Kick Inside",
+        "track": "James and the Cold Gun"
+    },
+    {
+        "datetime": "2020-01-27 09:45:04",
+        "artist": "Kate Bush",
+        "album": "The Kick Inside",
+        "track": "Feel It"
+    },
+    {
+        "datetime": "2020-01-27 09:48:07",
+        "artist": "Kate Bush",
+        "album": "The Kick Inside",
+        "track": "Oh to Be in Love"
+    },
+    {
+        "datetime": "2020-01-27 09:51:25",
+        "artist": "Kate Bush",
+        "album": "The Kick Inside",
+        "track": "L'Amour Looks Something Like You"
+    },
+    {
+        "datetime": "2020-01-27 09:53:54",
+        "artist": "Kate Bush",
+        "album": "The Kick Inside",
+        "track": "Them Heavy People"
+    },
+    {
+        "datetime": "2020-01-27 09:56:59",
+        "artist": "Kate Bush",
+        "album": "The Kick Inside",
+        "track": "Room for the Life"
+    },
+    {
+        "datetime": "2020-01-27 10:01:29",
+        "artist": "Kate Bush",
+        "album": "The Kick Inside",
+        "track": "The Kick Inside"
+    },
+    {
+        "datetime": "2020-01-27 17:14:54",
+        "artist": "Elvis Costello & the Attractions",
+        "album": "Get Happy!!",
+        "track": "Love For Tender"
+    },
+    {
+        "datetime": "2020-01-27 17:16:51",
+        "artist": "Elvis Costello & the Attractions",
+        "album": "Get Happy!!",
+        "track": "Opportunity"
+    },
+    {
+        "datetime": "2020-01-27 17:20:03",
+        "artist": "Elvis Costello & the Attractions",
+        "album": "Get Happy!!",
+        "track": "The Imposter"
+    },
+    {
+        "datetime": "2020-01-27 17:22:01",
+        "artist": "Elvis Costello & the Attractions",
+        "album": "Get Happy!!",
+        "track": "Secondary Modern"
+    },
+    {
+        "datetime": "2020-01-27 17:23:58",
+        "artist": "Elvis Costello & the Attractions",
+        "album": "Get Happy!!",
+        "track": "King Horse"
+    },
+    {
+        "datetime": "2020-01-27 17:27:00",
+        "artist": "Elvis Costello & the Attractions",
+        "album": "Get Happy!!",
+        "track": "Possession"
+    },
+    {
+        "datetime": "2020-01-27 17:29:03",
+        "artist": "Elvis Costello & the Attractions",
+        "album": "Get Happy!!",
+        "track": "Men Called Uncle"
+    },
+    {
+        "datetime": "2020-01-27 17:31:21",
+        "artist": "Elvis Costello & the Attractions",
+        "album": "Get Happy!!",
+        "track": "Clowntime Is Over"
+    },
+    {
+        "datetime": "2020-01-27 17:34:21",
+        "artist": "Elvis Costello & the Attractions",
+        "album": "Get Happy!!",
+        "track": "New Amsterdam"
+    },
+    {
+        "datetime": "2020-01-27 17:36:33",
+        "artist": "Elvis Costello & the Attractions",
+        "album": "Get Happy!!",
+        "track": "High Fidelity"
+    },
+    {
+        "datetime": "2020-01-27 17:39:00",
+        "artist": "Elvis Costello & the Attractions",
+        "album": "Get Happy!!",
+        "track": "I Can't Stand Up For Falling Down"
+    },
+    {
+        "datetime": "2020-01-27 17:41:07",
+        "artist": "Elvis Costello & the Attractions",
+        "album": "Get Happy!!",
+        "track": "Black And White World"
+    },
+    {
+        "datetime": "2020-01-27 17:43:03",
+        "artist": "Elvis Costello & the Attractions",
+        "album": "Get Happy!!",
+        "track": "Five Gears In Reverse"
+    },
+    {
+        "datetime": "2020-01-27 17:45:42",
+        "artist": "Elvis Costello & the Attractions",
+        "album": "Get Happy!!",
+        "track": "B-Movie"
+    },
+    {
+        "datetime": "2020-01-27 17:47:47",
+        "artist": "Elvis Costello & the Attractions",
+        "album": "Get Happy!!",
+        "track": "Motel Matches"
+    },
+    {
+        "datetime": "2020-01-27 17:50:18",
+        "artist": "Elvis Costello & the Attractions",
+        "album": "Get Happy!!",
+        "track": "Human Touch"
+    },
+    {
+        "datetime": "2020-01-27 17:52:47",
+        "artist": "Elvis Costello & the Attractions",
+        "album": "Get Happy!!",
+        "track": "Beaten To The Punch"
+    },
+    {
+        "datetime": "2020-01-27 17:54:34",
+        "artist": "Elvis Costello & the Attractions",
+        "album": "Get Happy!!",
+        "track": "Temptation"
+    },
+    {
+        "datetime": "2020-01-27 17:57:07",
+        "artist": "Elvis Costello & the Attractions",
+        "album": "Get Happy!!",
+        "track": "I Stand Accused"
+    },
+    {
+        "datetime": "2020-01-27 18:03:27",
+        "artist": "Elvis Costello & the Attractions",
+        "album": "Get Happy!!",
+        "track": "Riot Act"
+    },
+    {
+        "datetime": "2020-01-27 18:07:03",
+        "artist": "Simon & Garfunkel",
+        "album": "The Graduate",
+        "track": "The Sound of Silence (electric version)"
+    },
+    {
+        "datetime": "2020-01-27 18:10:08",
+        "artist": "Dave Grusin",
+        "album": "The Graduate",
+        "track": "The Singleman Party Foxtrot"
+    },
+    {
+        "datetime": "2020-01-27 18:12:59",
+        "artist": "Simon & Garfunkel",
+        "album": "The Graduate",
+        "track": "Mrs. Robinson (Version 1)"
+    },
+    {
+        "datetime": "2020-01-27 18:14:13",
+        "artist": "Dave Grusin",
+        "album": "The Graduate",
+        "track": "Sunporch Cha-Cha-Cha"
+    },
+    {
+        "datetime": "2020-01-27 18:17:03",
+        "artist": "Simon & Garfunkel",
+        "album": "The Graduate",
+        "track": "Scarborough Fair / Canticle (Interlude)"
+    },
+    {
+        "datetime": "2020-01-27 18:18:44",
+        "artist": "Dave Grusin",
+        "album": "The Graduate",
+        "track": "On the Strip"
+    },
+    {
+        "datetime": "2020-01-27 18:20:43",
+        "artist": "Simon & Garfunkel",
+        "album": "The Graduate",
+        "track": "April Come She Will"
+    },
+    {
+        "datetime": "2020-01-27 18:22:32",
+        "artist": "Dave Grusin",
+        "album": "The Graduate",
+        "track": "The Folks"
+    },
+    {
+        "datetime": "2020-01-27 18:24:58",
+        "artist": "Simon & Garfunkel",
+        "album": "The Graduate",
+        "track": "Scarborough Fair / Canticle (Extended Version)"
+    },
+    {
+        "datetime": "2020-01-27 18:31:17",
+        "artist": "Dave Grusin",
+        "album": "The Graduate",
+        "track": "A Great Effect"
+    },
+    {
+        "datetime": "2020-01-27 18:35:38",
+        "artist": "Simon & Garfunkel",
+        "album": "The Graduate",
+        "track": "The Big Bright Green Pleasure Machine (Alternate Version)"
+    },
+    {
+        "datetime": "2020-01-27 18:37:21",
+        "artist": "Dave Grusin",
+        "album": "The Graduate",
+        "track": "Whew"
+    },
+    {
+        "datetime": "2020-01-27 18:39:50",
+        "artist": "Simon & Garfunkel",
+        "album": "The Graduate",
+        "track": "Mrs. Robinson (Version 2)"
+    },
+    {
+        "datetime": "2020-01-27 18:41:01",
+        "artist": "Simon & Garfunkel",
+        "album": "The Graduate",
+        "track": "The Sound Of Silence (reprise)"
+    },
+    {
+        "datetime": "2020-01-27 18:44:08",
+        "artist": "Elton John",
+        "album": "Elton John (Remastered Version)",
+        "track": "Your Song"
+    },
+    {
+        "datetime": "2020-01-27 18:48:13",
+        "artist": "Elton John",
+        "album": "Elton John (Remastered Version)",
+        "track": "I Need You To Turn To"
+    },
+    {
+        "datetime": "2020-01-27 18:50:46",
+        "artist": "Elton John",
+        "album": "Elton John (Remastered Version)",
+        "track": "Take Me To The Pilot"
+    },
+    {
+        "datetime": "2020-01-27 18:54:32",
+        "artist": "Elton John",
+        "album": "Elton John (Remastered Version)",
+        "track": "No Shoe Strings On Louise"
+    },
+    {
+        "datetime": "2020-01-29 18:29:59",
+        "artist": "Roxy Music",
+        "album": "Manifesto",
+        "track": "Manifesto (Remastered)"
+    },
+    {
+        "datetime": "2020-01-29 18:35:34",
+        "artist": "Roxy Music",
+        "album": "Manifesto",
+        "track": "Cry, Cry, Cry (Remastered)"
+    },
+    {
+        "datetime": "2020-01-30 18:34:31",
+        "artist": "Talking Heads",
+        "album": "Fear Of Music (Deluxe Version)",
+        "track": "I Zimbra (2005 Remastered Version)"
+    },
+    {
+        "datetime": "2020-01-30 18:37:57",
+        "artist": "Talking Heads",
+        "album": "Fear Of Music (Deluxe Version)",
+        "track": "Mind (2005 Remastered Version)"
+    },
+    {
+        "datetime": "2020-01-30 18:41:54",
+        "artist": "Talking Heads",
+        "album": "Fear Of Music (Deluxe Version)",
+        "track": "Paper (2005 Remastered Version)"
+    },
+    {
+        "datetime": "2020-01-30 18:44:33",
+        "artist": "Talking Heads",
+        "album": "Fear Of Music (Deluxe Version)",
+        "track": "Cities (2005 Remastered Version)"
+    },
+    {
+        "datetime": "2020-01-30 18:48:47",
+        "artist": "Talking Heads",
+        "album": "Fear Of Music (Deluxe Version)",
+        "track": "Life During Wartime (2005 Remastered Version)"
+    },
+    {
+        "datetime": "2020-01-30 18:52:29",
+        "artist": "Talking Heads",
+        "album": "Fear Of Music (Deluxe Version)",
+        "track": "Memories Can't Wait (2005 Remastered Version )"
+    },
+    {
+        "datetime": "2020-01-30 18:55:59",
+        "artist": "Talking Heads",
+        "album": "Fear Of Music (Deluxe Version)",
+        "track": "Air (2005 Remastered Version )"
+    },
+    {
+        "datetime": "2020-01-30 18:59:32",
+        "artist": "Talking Heads",
+        "album": "Fear Of Music (Deluxe Version)",
+        "track": "Heaven (2005 Remastered Version )"
+    }
+]

@@ -1,0 +1,1334 @@
+[
+    {
+        "datetime": "2022-10-01 11:37:09",
+        "artist": "Emma Swift",
+        "album": "Blonde On The Tracks",
+        "track": "simple twist of fate"
+    },
+    {
+        "datetime": "2022-10-01 11:48:59",
+        "artist": "Emma Swift",
+        "album": "Blonde On The Tracks",
+        "track": "sad eyed lady of the lowlands"
+    },
+    {
+        "datetime": "2022-10-01 11:52:22",
+        "artist": "Emma Swift",
+        "album": "Blonde On The Tracks",
+        "track": "The Man In Me"
+    },
+    {
+        "datetime": "2022-10-01 11:55:50",
+        "artist": "Emma Swift",
+        "album": "Blonde On The Tracks",
+        "track": "going going gone"
+    },
+    {
+        "datetime": "2022-10-01 12:01:15",
+        "artist": "Emma Swift",
+        "album": "Blonde On The Tracks",
+        "track": "you're a big girl now"
+    },
+    {
+        "datetime": "2022-10-01 12:46:11",
+        "artist": "Echo & the Bunnymen",
+        "album": "Porcupine",
+        "track": "My White Devil (Alternative Version)"
+    },
+    {
+        "datetime": "2022-10-01 13:28:01",
+        "artist": "The Fall",
+        "album": "Hex Enduction Hour",
+        "track": "And This Day"
+    },
+    {
+        "datetime": "2022-10-01 13:38:20",
+        "artist": "Altered Images",
+        "album": "Mascara Streakz",
+        "track": "Double Reflection"
+    },
+    {
+        "datetime": "2022-10-01 13:41:48",
+        "artist": "The Fall",
+        "album": "Hex Enduction Hour",
+        "track": "Deer Park (Live)"
+    },
+    {
+        "datetime": "2022-10-01 13:51:22",
+        "artist": "Echo & the Bunnymen",
+        "album": "Porcupine",
+        "track": "Heads Will Roll"
+    },
+    {
+        "datetime": "2022-10-01 13:54:55",
+        "artist": "Altered Images",
+        "album": "Mascara Streakz",
+        "track": "Colour of My Dreams"
+    },
+    {
+        "datetime": "2022-10-01 13:59:10",
+        "artist": "The Fall",
+        "album": "Hex Enduction Hour",
+        "track": "I'm in to C.B"
+    },
+    {
+        "datetime": "2022-10-01 14:28:43",
+        "artist": "Echo & the Bunnymen",
+        "album": "Porcupine",
+        "track": "The Cutter (alternative version)"
+    },
+    {
+        "datetime": "2022-10-01 14:39:40",
+        "artist": "The Rolling Stones",
+        "album": "Singles 1965-1967",
+        "track": "Dandelion - (Original Single Mono Version)"
+    },
+    {
+        "datetime": "2022-10-01 14:43:28",
+        "artist": "The Rolling Stones",
+        "album": "Singles 1965-1967",
+        "track": "Lady Jane - (Original Single Mono Version)"
+    },
+    {
+        "datetime": "2022-10-01 14:46:38",
+        "artist": "The Rolling Stones",
+        "album": "Singles 1965-1967",
+        "track": "I'm Free - (Original Single Mono Version)"
+    },
+    {
+        "datetime": "2022-10-01 14:49:02",
+        "artist": "The Rolling Stones",
+        "album": "Singles 1965-1967",
+        "track": "Have You Seen Your Mother, Baby, Standing In The Shadow? - (Original Single Mono Version)"
+    },
+    {
+        "datetime": "2022-10-01 14:51:36",
+        "artist": "Altered Images",
+        "album": "Mascara Streakz",
+        "track": "Home"
+    },
+    {
+        "datetime": "2022-10-01 14:55:06",
+        "artist": "Echo & the Bunnymen",
+        "album": "Porcupine",
+        "track": "Porcupine"
+    },
+    {
+        "datetime": "2022-10-01 15:01:06",
+        "artist": "The Fall",
+        "album": "Hex Enduction Hour",
+        "track": "Jawbone and the Air-rifle"
+    },
+    {
+        "datetime": "2022-10-01 15:04:49",
+        "artist": "The Rolling Stones",
+        "album": "Singles 1965-1967",
+        "track": "Ruby Tuesday - (Original Single Mono Version)"
+    },
+    {
+        "datetime": "2022-10-01 15:27:44",
+        "artist": "The Rolling Stones",
+        "album": "Singles 1965-1967",
+        "track": "(I Can't Get No) Satisfaction - (Original Single Mono Version)"
+    },
+    {
+        "datetime": "2022-10-01 15:31:28",
+        "artist": "The Rolling Stones",
+        "album": "Singles 1965-1967",
+        "track": "The Under Assistant West Coast Promotion Man - (Original Single Mono Version)"
+    },
+    {
+        "datetime": "2022-10-01 15:34:36",
+        "artist": "The Rolling Stones",
+        "album": "Singles 1965-1967",
+        "track": "The Spider And The Fly - Remastered 2002"
+    },
+    {
+        "datetime": "2022-10-01 15:38:14",
+        "artist": "The Rolling Stones",
+        "album": "Singles 1965-1967",
+        "track": "Get Off Of My Cloud - (Original Single Mono Version)"
+    },
+    {
+        "datetime": "2022-10-01 15:41:08",
+        "artist": "The Rolling Stones",
+        "album": "Singles 1965-1967",
+        "track": "I'm Free - (Original Single Mono Version)"
+    },
+    {
+        "datetime": "2022-10-01 15:43:32",
+        "artist": "The Rolling Stones",
+        "album": "Singles 1965-1967",
+        "track": "The Singer Not The Song - (Original Single Mono Version)"
+    },
+    {
+        "datetime": "2022-10-01 15:45:54",
+        "artist": "The Rolling Stones",
+        "album": "Singles 1965-1967",
+        "track": "As Tears Go By - (Original Single Mono Version)"
+    },
+    {
+        "datetime": "2022-10-01 15:48:39",
+        "artist": "The Rolling Stones",
+        "album": "Singles 1965-1967",
+        "track": "Gotta Get Away - (Original Single Mono Version)"
+    },
+    {
+        "datetime": "2022-10-01 15:50:46",
+        "artist": "The Rolling Stones",
+        "album": "Singles 1965-1967",
+        "track": "19th Nervous Breakdown - (Original Single Mono Version)"
+    },
+    {
+        "datetime": "2022-10-01 15:54:43",
+        "artist": "The Rolling Stones",
+        "album": "Singles 1965-1967",
+        "track": "Sad Day - (Original Single Mono Version)"
+    },
+    {
+        "datetime": "2022-10-01 15:57:44",
+        "artist": "The Rolling Stones",
+        "album": "Singles 1965-1967",
+        "track": "Paint It, Black - (Original Single Mono Version)"
+    },
+    {
+        "datetime": "2022-10-01 16:01:29",
+        "artist": "The Rolling Stones",
+        "album": "Singles 1965-1967",
+        "track": "Stupid Girl - (Original Single Mono Version)"
+    },
+    {
+        "datetime": "2022-10-01 16:04:24",
+        "artist": "The Rolling Stones",
+        "album": "Singles 1965-1967",
+        "track": "Long Long While - (Original Single Mono Version)"
+    },
+    {
+        "datetime": "2022-10-01 16:07:25",
+        "artist": "The Rolling Stones",
+        "album": "Singles 1965-1967",
+        "track": "Mother's Little Helper - (Original Single Mono Version)"
+    },
+    {
+        "datetime": "2022-10-01 16:10:10",
+        "artist": "The Rolling Stones",
+        "album": "Singles 1965-1967",
+        "track": "Lady Jane - (Original Single Mono Version)"
+    },
+    {
+        "datetime": "2022-10-01 16:13:20",
+        "artist": "The Rolling Stones",
+        "album": "Singles 1965-1967",
+        "track": "Have You Seen Your Mother, Baby, Standing In The Shadow? - (Original Single Mono Version)"
+    },
+    {
+        "datetime": "2022-10-01 16:15:54",
+        "artist": "The Rolling Stones",
+        "album": "Singles 1965-1967",
+        "track": "Who's Driving Your Plane? - (Original Single Mono Version)"
+    },
+    {
+        "datetime": "2022-10-01 16:19:08",
+        "artist": "The Rolling Stones",
+        "album": "Singles 1965-1967",
+        "track": "Let's Spend The Night Together - (Original Single Mono Version)"
+    },
+    {
+        "datetime": "2022-10-01 16:22:34",
+        "artist": "The Rolling Stones",
+        "album": "Singles 1965-1967",
+        "track": "Ruby Tuesday - (Original Single Mono Version)"
+    },
+    {
+        "datetime": "2022-10-01 16:25:48",
+        "artist": "The Rolling Stones",
+        "album": "Singles 1965-1967",
+        "track": "We Love You - (Original Single Mono Version)"
+    },
+    {
+        "datetime": "2022-10-01 16:30:24",
+        "artist": "The Rolling Stones",
+        "album": "Singles 1965-1967",
+        "track": "Dandelion - (Original Single Mono Version)"
+    },
+    {
+        "datetime": "2022-10-01 16:34:12",
+        "artist": "The Rolling Stones",
+        "album": "Singles 1965-1967",
+        "track": "She's A Rainbow - (Original Single Mono Version)"
+    },
+    {
+        "datetime": "2022-10-01 16:38:23",
+        "artist": "The Rolling Stones",
+        "album": "Singles 1965-1967",
+        "track": "2000 Light Years From Home - (Original Single Mono Version)"
+    },
+    {
+        "datetime": "2022-10-01 16:43:08",
+        "artist": "The Rolling Stones",
+        "album": "Singles 1965-1967",
+        "track": "In Another Land - (Original Single Mono Version)"
+    },
+    {
+        "datetime": "2022-10-01 16:46:00",
+        "artist": "The Rolling Stones",
+        "album": "Singles 1965-1967",
+        "track": "The Lantern - (Original Single Mono Version)"
+    },
+    {
+        "datetime": "2022-10-01 16:50:27",
+        "artist": "The Beatles",
+        "album": "Revolver",
+        "track": "Love You To - Remastered 2009"
+    },
+    {
+        "datetime": "2022-10-01 16:53:28",
+        "artist": "Jimi Hendrix",
+        "album": "Electric Ladyland",
+        "track": "Burning of the Midnight Lamp"
+    },
+    {
+        "datetime": "2022-10-01 16:57:08",
+        "artist": "Love",
+        "album": "Forever Changes (2015 Remaster)",
+        "track": "The Red Telephone (2015 Remaster)"
+    },
+    {
+        "datetime": "2022-10-01 17:01:52",
+        "artist": "The Doors",
+        "album": "The Doors",
+        "track": "Take It as It Comes"
+    },
+    {
+        "datetime": "2022-10-03 07:58:03",
+        "artist": "Blondie",
+        "album": "Blondie (Remastered)",
+        "track": "X Offender - Private Stock Single Version / Remastered"
+    },
+    {
+        "datetime": "2022-10-03 08:04:36",
+        "artist": "Blondie",
+        "album": "Eat To The Beat",
+        "track": "Die Young Stay Pretty - Remastered"
+    },
+    {
+        "datetime": "2022-10-03 08:08:11",
+        "artist": "Blondie",
+        "album": "Eat To The Beat",
+        "track": "Slow Motion - Remastered"
+    },
+    {
+        "datetime": "2022-10-03 08:11:39",
+        "artist": "Blondie",
+        "album": "Autoamerican",
+        "track": "Angels On The Balcony - Remastered"
+    },
+    {
+        "datetime": "2022-10-03 08:15:27",
+        "artist": "Blondie",
+        "album": "Eat To The Beat",
+        "track": "Victor - Remastered"
+    },
+    {
+        "datetime": "2022-10-03 08:18:47",
+        "artist": "Blondie",
+        "album": "Plastic Letters",
+        "track": "Love At The Pier - Remastered"
+    },
+    {
+        "datetime": "2022-10-03 08:21:15",
+        "artist": "Blondie",
+        "album": "Blondie (Remastered)",
+        "track": "In The Sun - Private Stock Single Version / Remastered"
+    },
+    {
+        "datetime": "2022-10-03 08:23:54",
+        "artist": "Blondie",
+        "album": "Blondie (Remastered)",
+        "track": "Man Overboard - Remastered"
+    },
+    {
+        "datetime": "2022-10-03 08:27:16",
+        "artist": "Blondie",
+        "album": "Parallel Lines: Deluxe Collector's Edition",
+        "track": "I Know But I Don't Know - Remastered"
+    },
+    {
+        "datetime": "2022-10-03 08:31:12",
+        "artist": "Blondie",
+        "album": "Plastic Letters",
+        "track": "(I'm Always Touched By Your) Presence, Dear - Remastered"
+    },
+    {
+        "datetime": "2022-10-03 08:33:55",
+        "artist": "Blondie",
+        "album": "Eat To The Beat",
+        "track": "Heroes - Live"
+    },
+    {
+        "datetime": "2022-10-03 08:40:14",
+        "artist": "Blondie",
+        "album": "Plastic Letters",
+        "track": "Detroit 442 - Remastered"
+    },
+    {
+        "datetime": "2022-10-03 08:42:44",
+        "artist": "Blondie",
+        "album": "Parallel Lines: Deluxe Collector's Edition",
+        "track": "Heart of Glass - Remastered"
+    },
+    {
+        "datetime": "2022-10-03 08:48:32",
+        "artist": "Blondie",
+        "album": "Parallel Lines: Deluxe Collector's Edition",
+        "track": "I'm Gonna Love You Too - Remastered"
+    },
+    {
+        "datetime": "2022-10-03 08:50:39",
+        "artist": "Blondie",
+        "album": "Eat To The Beat",
+        "track": "Ring Of Fire - Live"
+    },
+    {
+        "datetime": "2022-10-03 08:54:09",
+        "artist": "Blondie",
+        "album": "Plastic Letters",
+        "track": "Poet's Problem - Remastered"
+    },
+    {
+        "datetime": "2022-10-03 08:56:30",
+        "artist": "Blondie",
+        "album": "Eat To The Beat",
+        "track": "Accidents Never Happen - Remastered"
+    },
+    {
+        "datetime": "2022-10-03 09:00:45",
+        "artist": "Blondie",
+        "album": "Blondie (Remastered)",
+        "track": "Rifle Range - Remastered"
+    },
+    {
+        "datetime": "2022-10-03 17:27:10",
+        "artist": "T. Rex",
+        "album": "Electric Warrior",
+        "track": "Mambo Sun"
+    },
+    {
+        "datetime": "2022-10-03 17:40:34",
+        "artist": "T. Rex",
+        "album": "Electric Warrior",
+        "track": "Cosmic Dancer"
+    },
+    {
+        "datetime": "2022-10-03 17:45:01",
+        "artist": "T. Rex",
+        "album": "Electric Warrior",
+        "track": "Jeepster"
+    },
+    {
+        "datetime": "2022-10-03 17:49:09",
+        "artist": "T. Rex",
+        "album": "Electric Warrior",
+        "track": "Monolith"
+    },
+    {
+        "datetime": "2022-10-03 17:52:55",
+        "artist": "T. Rex",
+        "album": "Electric Warrior",
+        "track": "Lean Woman Blues"
+    },
+    {
+        "datetime": "2022-10-03 17:55:54",
+        "artist": "T. Rex",
+        "album": "Electric Warrior",
+        "track": "Get It On"
+    },
+    {
+        "datetime": "2022-10-03 18:32:37",
+        "artist": "T. Rex",
+        "album": "Electric Warrior",
+        "track": "Planet Queen"
+    },
+    {
+        "datetime": "2022-10-03 18:35:48",
+        "artist": "T. Rex",
+        "album": "Electric Warrior",
+        "track": "Girl"
+    },
+    {
+        "datetime": "2022-10-03 18:38:18",
+        "artist": "T. Rex",
+        "album": "Electric Warrior",
+        "track": "The Motivator"
+    },
+    {
+        "datetime": "2022-10-03 18:42:14",
+        "artist": "T. Rex",
+        "album": "Electric Warrior",
+        "track": "Life's a Gas"
+    },
+    {
+        "datetime": "2022-10-03 18:44:38",
+        "artist": "T. Rex",
+        "album": "Electric Warrior",
+        "track": "Rip Off"
+    },
+    {
+        "datetime": "2022-10-03 18:48:18",
+        "artist": "T. Rex",
+        "album": "Electric Warrior",
+        "track": "There Was A Time / Raw Ramp / Electric Boogie - B Side"
+    },
+    {
+        "datetime": "2022-10-03 18:53:32",
+        "artist": "T. Rex",
+        "album": "Electric Warrior",
+        "track": "Hot Love - A Side"
+    },
+    {
+        "datetime": "2022-10-03 18:58:28",
+        "artist": "T. Rex",
+        "album": "Electric Warrior",
+        "track": "Woodland Rock - B Side"
+    },
+    {
+        "datetime": "2022-10-03 19:01:48",
+        "artist": "Altered Images",
+        "album": "Mascara Streakz",
+        "track": "Mascara Streakz"
+    },
+    {
+        "datetime": "2022-10-03 19:05:59",
+        "artist": "Altered Images",
+        "album": "Mascara Streakz",
+        "track": "Red Startles the Sky"
+    },
+    {
+        "datetime": "2022-10-03 19:09:21",
+        "artist": "Altered Images",
+        "album": "Mascara Streakz",
+        "track": "Colour of My Dreams"
+    },
+    {
+        "datetime": "2022-10-03 19:13:36",
+        "artist": "Altered Images",
+        "album": "Mascara Streakz",
+        "track": "Glitter Ball"
+    },
+    {
+        "datetime": "2022-10-03 19:17:18",
+        "artist": "Altered Images",
+        "album": "Mascara Streakz",
+        "track": "Your Life is Mine"
+    },
+    {
+        "datetime": "2022-10-03 19:21:41",
+        "artist": "Altered Images",
+        "album": "Mascara Streakz",
+        "track": "Home"
+    },
+    {
+        "datetime": "2022-10-03 19:25:12",
+        "artist": "Altered Images",
+        "album": "Mascara Streakz",
+        "track": "Beautiful Thing"
+    },
+    {
+        "datetime": "2022-10-03 19:28:47",
+        "artist": "Altered Images",
+        "album": "Mascara Streakz",
+        "track": "Changing My Luck"
+    },
+    {
+        "datetime": "2022-10-03 19:32:44",
+        "artist": "Altered Images",
+        "album": "Mascara Streakz",
+        "track": "Lost of Love"
+    },
+    {
+        "datetime": "2022-10-03 19:36:28",
+        "artist": "Altered Images",
+        "album": "Mascara Streakz",
+        "track": "Double Reflection"
+    },
+    {
+        "datetime": "2022-10-03 19:39:56",
+        "artist": "Altered Images",
+        "album": "Mascara Streakz",
+        "track": "The Flame"
+    },
+    {
+        "datetime": "2022-10-03 19:43:57",
+        "artist": "Altered Images",
+        "album": "Mascara Streakz",
+        "track": "Sleep"
+    },
+    {
+        "datetime": "2022-10-03 19:47:47",
+        "artist": "Blancmange",
+        "album": "Second Helpings",
+        "track": "Living On The Ceiling"
+    },
+    {
+        "datetime": "2022-10-03 19:51:48",
+        "artist": "Fun Boy Three",
+        "album": "Waiting",
+        "track": "Our Lips Are Sealed"
+    },
+    {
+        "datetime": "2022-10-03 19:54:40",
+        "artist": "Aztec Camera",
+        "album": "High Land, Hard Rain",
+        "track": "Oblivious"
+    },
+    {
+        "datetime": "2022-10-03 19:57:51",
+        "artist": "Furniture",
+        "album": "The Wrong People",
+        "track": "Brilliant Mind"
+    },
+    {
+        "datetime": "2022-10-03 20:01:35",
+        "artist": "Altered Images",
+        "album": "Pinky Blue",
+        "track": "I Could Be Happy"
+    },
+    {
+        "datetime": "2022-10-03 20:10:11",
+        "artist": "Blancmange",
+        "album": "Mange Tout (Extended Version)",
+        "track": "Don't Tell Me"
+    },
+    {
+        "datetime": "2022-10-03 20:13:42",
+        "artist": "Fun Boy Three",
+        "album": "Fun Boy Three",
+        "track": "The Telephone Always Rings"
+    },
+    {
+        "datetime": "2022-10-04 11:47:13",
+        "artist": "Martin Stephenson",
+        "album": "Beyond The Leap Beyond The Law",
+        "track": "Losing All Part of the Dream"
+    },
+    {
+        "datetime": "2022-10-04 11:50:05",
+        "artist": "Martin Stephenson",
+        "album": "Beyond The Leap Beyond The Law",
+        "track": "Testing Time"
+    },
+    {
+        "datetime": "2022-10-04 11:53:28",
+        "artist": "Martin Stephenson",
+        "album": "Beyond The Leap Beyond The Law",
+        "track": "Great Star of Fraternity"
+    },
+    {
+        "datetime": "2022-10-04 11:59:25",
+        "artist": "Martin Stephenson",
+        "album": "Beyond The Leap Beyond The Law",
+        "track": "Wholly Humble Heart (IRISH VERSION)"
+    },
+    {
+        "datetime": "2022-10-04 12:03:02",
+        "artist": "Martin Stephenson",
+        "album": "Beyond The Leap Beyond The Law",
+        "track": "Carry My Friend"
+    },
+    {
+        "datetime": "2022-10-04 12:05:16",
+        "artist": "Martin Stephenson",
+        "album": "Beyond The Leap Beyond The Law",
+        "track": "The Crying"
+    },
+    {
+        "datetime": "2022-10-04 12:07:27",
+        "artist": "Martin Stephenson",
+        "album": "Beyond The Leap Beyond The Law",
+        "track": "Song Of Love And Desertion"
+    },
+    {
+        "datetime": "2022-10-04 12:10:53",
+        "artist": "Martin Stephenson",
+        "album": "Beyond The Leap Beyond The Law",
+        "track": "Great Spirit"
+    },
+    {
+        "datetime": "2022-10-04 12:13:08",
+        "artist": "Martin Stephenson",
+        "album": "Beyond The Leap Beyond The Law",
+        "track": "Out of Communion"
+    },
+    {
+        "datetime": "2022-10-04 12:18:02",
+        "artist": "Martin Stephenson",
+        "album": "Beyond The Leap Beyond The Law",
+        "track": "The Waves"
+    },
+    {
+        "datetime": "2022-10-05 10:12:51",
+        "artist": "Chip Taylor & Carrie Rodriguez",
+        "album": "Red Dog Tracks",
+        "track": "Must Be The Whiskey"
+    },
+    {
+        "datetime": "2022-10-05 10:16:15",
+        "artist": "Chip Taylor & Carrie Rodriguez",
+        "album": "Red Dog Tracks",
+        "track": "Keep Your Hat On Jenny"
+    },
+    {
+        "datetime": "2022-10-05 11:27:18",
+        "artist": "Chip Taylor & Carrie Rodriguez",
+        "album": "Red Dog Tracks",
+        "track": "Big Moon Shinin'"
+    },
+    {
+        "datetime": "2022-10-05 11:30:58",
+        "artist": "Chip Taylor & Carrie Rodriguez",
+        "album": "Red Dog Tracks",
+        "track": "Oh Set A Light"
+    },
+    {
+        "datetime": "2022-10-05 11:40:26",
+        "artist": "Chip Taylor & Carrie Rodriguez",
+        "album": "Red Dog Tracks",
+        "track": "Private Thoughts"
+    },
+    {
+        "datetime": "2022-10-05 11:42:54",
+        "artist": "Chip Taylor & Carrie Rodriguez",
+        "album": "Red Dog Tracks",
+        "track": "My Buckets Got A Hole In It"
+    },
+    {
+        "datetime": "2022-10-05 11:46:53",
+        "artist": "Chip Taylor & Carrie Rodriguez",
+        "album": "Red Dog Tracks",
+        "track": "The Wonder Of You"
+    },
+    {
+        "datetime": "2022-10-05 14:10:51",
+        "artist": "Chip Taylor & Carrie Rodriguez",
+        "album": "Red Dog Tracks",
+        "track": "I Can't Help It"
+    },
+    {
+        "datetime": "2022-10-05 14:15:35",
+        "artist": "Chip Taylor & Carrie Rodriguez",
+        "album": "Red Dog Tracks",
+        "track": "Red Dog Tracks"
+    },
+    {
+        "datetime": "2022-10-05 14:21:40",
+        "artist": "Chip Taylor & Carrie Rodriguez",
+        "album": "Red Dog Tracks",
+        "track": "Elzicks Farewell"
+    },
+    {
+        "datetime": "2022-10-05 15:08:11",
+        "artist": "Chip Taylor & Carrie Rodriguez",
+        "album": "Red Dog Tracks",
+        "track": "Son Of Man"
+    },
+    {
+        "datetime": "2022-10-05 15:11:40",
+        "artist": "Chip Taylor & Carrie Rodriguez",
+        "album": "Red Dog Tracks",
+        "track": "Jenny Reprise"
+    },
+    {
+        "datetime": "2022-10-05 15:23:40",
+        "artist": "Chip Taylor & Carrie Rodriguez",
+        "album": "Red Dog Tracks",
+        "track": "Must Be The Whiskey"
+    },
+    {
+        "datetime": "2022-10-05 15:27:04",
+        "artist": "Chip Taylor & Carrie Rodriguez",
+        "album": "Red Dog Tracks",
+        "track": "Keep Your Hat On Jenny"
+    },
+    {
+        "datetime": "2022-10-05 15:42:25",
+        "artist": "Chip Taylor & Carrie Rodriguez",
+        "album": "Red Dog Tracks",
+        "track": "Big Moon Shinin'"
+    },
+    {
+        "datetime": "2022-10-05 15:46:04",
+        "artist": "Chip Taylor & Carrie Rodriguez",
+        "album": "Red Dog Tracks",
+        "track": "Oh Set A Light"
+    },
+    {
+        "datetime": "2022-10-05 15:51:35",
+        "artist": "Chip Taylor & Carrie Rodriguez",
+        "album": "Red Dog Tracks",
+        "track": "Once Again, One Day"
+    },
+    {
+        "datetime": "2022-10-05 15:55:32",
+        "artist": "Chip Taylor & Carrie Rodriguez",
+        "album": "Red Dog Tracks",
+        "track": "Private Thoughts"
+    },
+    {
+        "datetime": "2022-10-05 16:45:19",
+        "artist": "Chip Taylor & Carrie Rodriguez",
+        "album": "Red Dog Tracks",
+        "track": "My Buckets Got A Hole In It"
+    },
+    {
+        "datetime": "2022-10-05 16:49:17",
+        "artist": "Chip Taylor & Carrie Rodriguez",
+        "album": "Red Dog Tracks",
+        "track": "The Wonder Of You"
+    },
+    {
+        "datetime": "2022-10-05 16:52:38",
+        "artist": "Chip Taylor & Carrie Rodriguez",
+        "album": "Red Dog Tracks",
+        "track": "I Can't Help It"
+    },
+    {
+        "datetime": "2022-10-05 16:57:22",
+        "artist": "Chip Taylor & Carrie Rodriguez",
+        "album": "Red Dog Tracks",
+        "track": "Red Dog Tracks"
+    },
+    {
+        "datetime": "2022-10-05 17:03:28",
+        "artist": "Chip Taylor & Carrie Rodriguez",
+        "album": "Red Dog Tracks",
+        "track": "Elzicks Farewell"
+    },
+    {
+        "datetime": "2022-10-05 17:07:43",
+        "artist": "Chip Taylor & Carrie Rodriguez",
+        "album": "Red Dog Tracks",
+        "track": "Son Of Man"
+    },
+    {
+        "datetime": "2022-10-05 17:11:12",
+        "artist": "Chip Taylor & Carrie Rodriguez",
+        "album": "Red Dog Tracks",
+        "track": "Jenny Reprise"
+    },
+    {
+        "datetime": "2022-10-09 13:38:38",
+        "artist": "Hawkwind",
+        "album": "In Search Of Space",
+        "track": "You Shouldn't Do That (1996 Remaster)"
+    },
+    {
+        "datetime": "2022-10-09 13:54:22",
+        "artist": "Hawkwind",
+        "album": "In Search Of Space",
+        "track": "You Know You're Only Dreaming (1996 Remaster)"
+    },
+    {
+        "datetime": "2022-10-09 14:01:01",
+        "artist": "Hawkwind",
+        "album": "In Search Of Space",
+        "track": "Master of the Universe (1996 Remaster)"
+    },
+    {
+        "datetime": "2022-10-09 14:07:20",
+        "artist": "Hawkwind",
+        "album": "In Search Of Space",
+        "track": "We Took the Wrong Step Years Ago (1996 Remaster)"
+    },
+    {
+        "datetime": "2022-10-09 14:12:11",
+        "artist": "Hawkwind",
+        "album": "In Search Of Space",
+        "track": "ADJust Me (1996 Remaster)"
+    },
+    {
+        "datetime": "2022-10-09 14:17:59",
+        "artist": "Hawkwind",
+        "album": "In Search Of Space",
+        "track": "Children of the Sun (1996 Remaster)"
+    },
+    {
+        "datetime": "2022-10-12 09:48:24",
+        "artist": "It'S Immaterial",
+        "album": "Life's Hard And Then You Die",
+        "track": "Driving Away from Home (Jim's Tune)"
+    },
+    {
+        "datetime": "2022-10-12 09:52:39",
+        "artist": "It'S Immaterial",
+        "album": "Life's Hard And Then You Die",
+        "track": "Happy Talk"
+    },
+    {
+        "datetime": "2022-10-12 09:58:09",
+        "artist": "It'S Immaterial",
+        "album": "Life's Hard And Then You Die",
+        "track": "Rope"
+    },
+    {
+        "datetime": "2022-10-12 10:01:48",
+        "artist": "It'S Immaterial",
+        "album": "Life's Hard And Then You Die",
+        "track": "The Better Idea"
+    },
+    {
+        "datetime": "2022-10-12 10:07:29",
+        "artist": "It'S Immaterial",
+        "album": "Life's Hard And Then You Die",
+        "track": "Space"
+    },
+    {
+        "datetime": "2022-10-12 10:11:27",
+        "artist": "It'S Immaterial",
+        "album": "Life's Hard And Then You Die",
+        "track": "The Sweet Life"
+    },
+    {
+        "datetime": "2022-10-12 10:16:06",
+        "artist": "It'S Immaterial",
+        "album": "Life's Hard And Then You Die",
+        "track": "Festival Time"
+    },
+    {
+        "datetime": "2022-10-12 10:19:59",
+        "artist": "It'S Immaterial",
+        "album": "Life's Hard And Then You Die",
+        "track": "Ed's Funky Diner"
+    },
+    {
+        "datetime": "2022-10-12 10:23:09",
+        "artist": "It'S Immaterial",
+        "album": "Life's Hard And Then You Die",
+        "track": "Hang On Sleepy Town"
+    },
+    {
+        "datetime": "2022-10-12 11:09:11",
+        "artist": "Kesha",
+        "album": "Angelheaded Hipster: The Songs Of Marc Bolan & T. Rex",
+        "track": "Children of the Revolution"
+    },
+    {
+        "datetime": "2022-10-12 11:11:49",
+        "artist": "Nick Cave",
+        "album": "Angelheaded Hipster: The Songs Of Marc Bolan & T. Rex",
+        "track": "Cosmic Dancer"
+    },
+    {
+        "datetime": "2022-10-12 11:17:43",
+        "artist": "Joan Jett",
+        "album": "Angelheaded Hipster: The Songs Of Marc Bolan & T. Rex",
+        "track": "Jeepster"
+    },
+    {
+        "datetime": "2022-10-12 11:21:40",
+        "artist": "Devendra Banhart",
+        "album": "Angelheaded Hipster: The Songs Of Marc Bolan & T. Rex",
+        "track": "Scenescof"
+    },
+    {
+        "datetime": "2022-10-12 11:24:17",
+        "artist": "Lucinda Williams",
+        "album": "Angelheaded Hipster: The Songs Of Marc Bolan & T. Rex",
+        "track": "Life's a Gas"
+    },
+    {
+        "datetime": "2022-10-12 11:28:21",
+        "artist": "Peaches",
+        "album": "Angelheaded Hipster: The Songs Of Marc Bolan & T. Rex",
+        "track": "Solid Gold, Easy Action"
+    },
+    {
+        "datetime": "2022-10-12 11:30:41",
+        "artist": "B\u00f8rns",
+        "album": "Angelheaded Hipster: The Songs Of Marc Bolan & T. Rex",
+        "track": "Dawn Storm"
+    },
+    {
+        "datetime": "2022-10-12 11:35:48",
+        "artist": "Beth Orton",
+        "album": "Angelheaded Hipster: The Songs Of Marc Bolan & T. Rex",
+        "track": "Hippy Gumbo"
+    },
+    {
+        "datetime": "2022-10-12 11:38:54",
+        "artist": "King Khan",
+        "album": "Angelheaded Hipster: The Songs Of Marc Bolan & T. Rex",
+        "track": "I Love To Boogie"
+    },
+    {
+        "datetime": "2022-10-12 11:42:43",
+        "artist": "Gaby Moreno",
+        "album": "Angelheaded Hipster: The Songs Of Marc Bolan & T. Rex",
+        "track": "Beltane Walk"
+    },
+    {
+        "datetime": "2022-10-12 11:52:58",
+        "artist": "Joan Jett",
+        "album": "Angelheaded Hipster: The Songs Of Marc Bolan & T. Rex",
+        "track": "Jeepster"
+    },
+    {
+        "datetime": "2022-10-12 11:56:57",
+        "artist": "Devendra Banhart",
+        "album": "Angelheaded Hipster: The Songs Of Marc Bolan & T. Rex",
+        "track": "Scenescof"
+    },
+    {
+        "datetime": "2022-10-12 11:59:34",
+        "artist": "Lucinda Williams",
+        "album": "Angelheaded Hipster: The Songs Of Marc Bolan & T. Rex",
+        "track": "Life's a Gas"
+    },
+    {
+        "datetime": "2022-10-12 12:04:01",
+        "artist": "Peaches",
+        "album": "Angelheaded Hipster: The Songs Of Marc Bolan & T. Rex",
+        "track": "Solid Gold, Easy Action"
+    },
+    {
+        "datetime": "2022-10-12 12:06:21",
+        "artist": "B\u00f8rns",
+        "album": "Angelheaded Hipster: The Songs Of Marc Bolan & T. Rex",
+        "track": "Dawn Storm"
+    },
+    {
+        "datetime": "2022-10-12 12:11:28",
+        "artist": "Beth Orton",
+        "album": "Angelheaded Hipster: The Songs Of Marc Bolan & T. Rex",
+        "track": "Hippy Gumbo"
+    },
+    {
+        "datetime": "2022-10-12 12:14:34",
+        "artist": "King Khan",
+        "album": "Angelheaded Hipster: The Songs Of Marc Bolan & T. Rex",
+        "track": "I Love To Boogie"
+    },
+    {
+        "datetime": "2022-10-12 12:18:04",
+        "artist": "Gaby Moreno",
+        "album": "Angelheaded Hipster: The Songs Of Marc Bolan & T. Rex",
+        "track": "Beltane Walk"
+    },
+    {
+        "datetime": "2022-10-12 12:21:43",
+        "artist": "John Cameron Mitchell",
+        "album": "Angelheaded Hipster: The Songs Of Marc Bolan & T. Rex",
+        "track": "Diamond Meadows"
+    },
+    {
+        "datetime": "2022-10-12 12:25:34",
+        "artist": "Emily Haines",
+        "album": "Angelheaded Hipster: The Songs Of Marc Bolan & T. Rex",
+        "track": "Ballrooms of Mars"
+    },
+    {
+        "datetime": "2022-10-12 17:47:51",
+        "artist": "Altered Images",
+        "album": "Mascara Streakz",
+        "track": "Mascara Streakz"
+    },
+    {
+        "datetime": "2022-10-12 17:52:06",
+        "artist": "Altered Images",
+        "album": "Mascara Streakz",
+        "track": "Red Startles the Sky"
+    },
+    {
+        "datetime": "2022-10-12 17:55:31",
+        "artist": "Altered Images",
+        "album": "Mascara Streakz",
+        "track": "Colour of My Dreams"
+    },
+    {
+        "datetime": "2022-10-12 17:59:48",
+        "artist": "Altered Images",
+        "album": "Mascara Streakz",
+        "track": "Glitter Ball"
+    },
+    {
+        "datetime": "2022-10-12 18:03:32",
+        "artist": "Altered Images",
+        "album": "Mascara Streakz",
+        "track": "Your Life is Mine"
+    },
+    {
+        "datetime": "2022-10-12 18:07:57",
+        "artist": "Altered Images",
+        "album": "Mascara Streakz",
+        "track": "Home"
+    },
+    {
+        "datetime": "2022-10-12 18:11:29",
+        "artist": "Altered Images",
+        "album": "Mascara Streakz",
+        "track": "Beautiful Thing"
+    },
+    {
+        "datetime": "2022-10-12 18:15:07",
+        "artist": "Altered Images",
+        "album": "Mascara Streakz",
+        "track": "Changing My Luck"
+    },
+    {
+        "datetime": "2022-10-12 18:19:51",
+        "artist": "Altered Images",
+        "album": "Mascara Streakz",
+        "track": "Lost of Love"
+    },
+    {
+        "datetime": "2022-10-12 18:23:38",
+        "artist": "Altered Images",
+        "album": "Mascara Streakz",
+        "track": "Lost of Love"
+    },
+    {
+        "datetime": "2022-10-12 18:27:24",
+        "artist": "Altered Images",
+        "album": "Mascara Streakz",
+        "track": "Double Reflection"
+    },
+    {
+        "datetime": "2022-10-12 18:30:55",
+        "artist": "Altered Images",
+        "album": "Mascara Streakz",
+        "track": "Double Reflection"
+    },
+    {
+        "datetime": "2022-10-12 18:34:24",
+        "artist": "Altered Images",
+        "album": "Mascara Streakz",
+        "track": "The Flame"
+    },
+    {
+        "datetime": "2022-10-13 21:46:53",
+        "artist": "Father John Misty",
+        "album": "Angelheaded Hipster: The Songs Of Marc Bolan & T. Rex",
+        "track": "Main Man"
+    },
+    {
+        "datetime": "2022-10-13 21:51:41",
+        "artist": "Perry Farrell",
+        "album": "Angelheaded Hipster: The Songs Of Marc Bolan & T. Rex",
+        "track": "Rock On"
+    },
+    {
+        "datetime": "2022-10-13 21:55:56",
+        "artist": "Elysian Fields",
+        "album": "Angelheaded Hipster: The Songs Of Marc Bolan & T. Rex",
+        "track": "The Street and Babe Shadow"
+    },
+    {
+        "datetime": "2022-10-13 21:59:39",
+        "artist": "Gavin Friday",
+        "album": "Angelheaded Hipster: The Songs Of Marc Bolan & T. Rex",
+        "track": "The Leopards"
+    },
+    {
+        "datetime": "2022-10-13 22:03:59",
+        "artist": "Nena",
+        "album": "Angelheaded Hipster: The Songs Of Marc Bolan & T. Rex",
+        "track": "Metal Guru"
+    },
+    {
+        "datetime": "2022-10-13 22:06:28",
+        "artist": "Marc Almond",
+        "album": "Angelheaded Hipster: The Songs Of Marc Bolan & T. Rex",
+        "track": "Teenage Dream"
+    },
+    {
+        "datetime": "2022-10-16 22:47:06",
+        "artist": "Bob Dylan",
+        "album": "Time Out Of Mind",
+        "track": "Love Sick"
+    },
+    {
+        "datetime": "2022-10-16 22:52:30",
+        "artist": "Bob Dylan",
+        "album": "Time Out Of Mind",
+        "track": "Dirt Road Blues"
+    },
+    {
+        "datetime": "2022-10-16 22:56:07",
+        "artist": "Bob Dylan",
+        "album": "Time Out Of Mind",
+        "track": "Standing in the Doorway"
+    },
+    {
+        "datetime": "2022-10-16 23:03:52",
+        "artist": "Bob Dylan",
+        "album": "Time Out Of Mind",
+        "track": "Million Miles"
+    },
+    {
+        "datetime": "2022-10-16 23:09:46",
+        "artist": "Bob Dylan",
+        "album": "Time Out Of Mind",
+        "track": "Tryin' to Get to Heaven"
+    },
+    {
+        "datetime": "2022-10-16 23:15:10",
+        "artist": "Bob Dylan",
+        "album": "Time Out Of Mind",
+        "track": "'Til I Fell In Love With You"
+    },
+    {
+        "datetime": "2022-10-16 23:20:29",
+        "artist": "Bob Dylan",
+        "album": "Time Out Of Mind",
+        "track": "Not Dark Yet"
+    },
+    {
+        "datetime": "2022-10-16 23:26:59",
+        "artist": "Bob Dylan",
+        "album": "Time Out Of Mind",
+        "track": "Cold Irons Bound"
+    },
+    {
+        "datetime": "2022-10-18 13:54:23",
+        "artist": "Wet Leg",
+        "album": "Wet Leg",
+        "track": "Being in Love"
+    },
+    {
+        "datetime": "2022-10-18 13:56:25",
+        "artist": "Wet Leg",
+        "album": "Wet Leg",
+        "track": "Chaise Longue"
+    },
+    {
+        "datetime": "2022-10-18 16:29:37",
+        "artist": "Wet Leg",
+        "album": "Wet Leg",
+        "track": "Angelica"
+    },
+    {
+        "datetime": "2022-10-18 16:33:29",
+        "artist": "Wet Leg",
+        "album": "Wet Leg",
+        "track": "I Don't Wanna Go Out"
+    },
+    {
+        "datetime": "2022-10-18 16:37:11",
+        "artist": "Wet Leg",
+        "album": "Wet Leg",
+        "track": "Wet Dream"
+    },
+    {
+        "datetime": "2022-10-18 16:39:32",
+        "artist": "Wet Leg",
+        "album": "Wet Leg",
+        "track": "Convincing"
+    },
+    {
+        "datetime": "2022-10-18 16:42:09",
+        "artist": "Wet Leg",
+        "album": "Wet Leg",
+        "track": "Loving You"
+    },
+    {
+        "datetime": "2022-10-21 18:33:42",
+        "artist": "Dry Cleaning",
+        "album": "New Long Leg",
+        "track": "Scratchcard Lanyard"
+    },
+    {
+        "datetime": "2022-10-21 18:37:51",
+        "artist": "Dry Cleaning",
+        "album": "New Long Leg",
+        "track": "Unsmart Lady"
+    },
+    {
+        "datetime": "2022-10-21 18:40:56",
+        "artist": "Dry Cleaning",
+        "album": "New Long Leg",
+        "track": "Strong Feelings"
+    },
+    {
+        "datetime": "2022-10-21 18:45:02",
+        "artist": "Dry Cleaning",
+        "album": "New Long Leg",
+        "track": "Leafy"
+    },
+    {
+        "datetime": "2022-10-21 18:48:12",
+        "artist": "Dry Cleaning",
+        "album": "New Long Leg",
+        "track": "Her Hippo"
+    },
+    {
+        "datetime": "2022-10-22 11:53:41",
+        "artist": "Altered Images",
+        "album": "Mascara Streakz",
+        "track": "Mascara Streakz"
+    },
+    {
+        "datetime": "2022-10-22 11:57:50",
+        "artist": "Altered Images",
+        "album": "Mascara Streakz",
+        "track": "Red Startles the Sky"
+    },
+    {
+        "datetime": "2022-10-22 12:01:13",
+        "artist": "Altered Images",
+        "album": "Mascara Streakz",
+        "track": "Colour of My Dreams"
+    },
+    {
+        "datetime": "2022-10-22 12:05:28",
+        "artist": "Altered Images",
+        "album": "Mascara Streakz",
+        "track": "Glitter Ball"
+    },
+    {
+        "datetime": "2022-10-22 12:09:10",
+        "artist": "Altered Images",
+        "album": "Mascara Streakz",
+        "track": "Your Life is Mine"
+    },
+    {
+        "datetime": "2022-10-22 12:13:33",
+        "artist": "Altered Images",
+        "album": "Mascara Streakz",
+        "track": "Home"
+    },
+    {
+        "datetime": "2022-10-22 12:44:41",
+        "artist": "Altered Images",
+        "album": "Mascara Streakz",
+        "track": "Beautiful Thing"
+    },
+    {
+        "datetime": "2022-10-22 12:48:17",
+        "artist": "Altered Images",
+        "album": "Mascara Streakz",
+        "track": "Changing My Luck"
+    },
+    {
+        "datetime": "2022-10-22 12:52:15",
+        "artist": "Altered Images",
+        "album": "Mascara Streakz",
+        "track": "Lost of Love"
+    },
+    {
+        "datetime": "2022-10-22 12:55:58",
+        "artist": "Altered Images",
+        "album": "Mascara Streakz",
+        "track": "Double Reflection"
+    },
+    {
+        "datetime": "2022-10-22 12:59:26",
+        "artist": "Altered Images",
+        "album": "Mascara Streakz",
+        "track": "The Flame"
+    },
+    {
+        "datetime": "2022-10-22 13:03:27",
+        "artist": "Altered Images",
+        "album": "Mascara Streakz",
+        "track": "Sleep"
+    }
+]

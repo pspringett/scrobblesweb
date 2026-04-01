@@ -1,0 +1,3350 @@
+[
+    {
+        "datetime": "2018-07-01 10:52:49",
+        "artist": "Rodney Crowell",
+        "album": "Close Ties",
+        "track": "Storm Warning"
+    },
+    {
+        "datetime": "2018-07-01 10:57:26",
+        "artist": "Rodney Crowell",
+        "album": "Close Ties",
+        "track": "Nashville 1972"
+    },
+    {
+        "datetime": "2018-07-01 11:07:19",
+        "artist": "Rodney Crowell",
+        "album": "Close Ties",
+        "track": "East Houston Blues"
+    },
+    {
+        "datetime": "2018-07-01 11:10:56",
+        "artist": "Rodney Crowell",
+        "album": "Close Ties",
+        "track": "Reckless"
+    },
+    {
+        "datetime": "2018-07-01 11:14:27",
+        "artist": "Rodney Crowell",
+        "album": "Close Ties",
+        "track": "Life Without Susanna"
+    },
+    {
+        "datetime": "2018-07-01 11:18:38",
+        "artist": "Rodney Crowell",
+        "album": "Close Ties",
+        "track": "It Ain't Over Yet"
+    },
+    {
+        "datetime": "2018-07-01 11:23:52",
+        "artist": "Rodney Crowell",
+        "album": "Close Ties",
+        "track": "I Don't Care Anymore"
+    },
+    {
+        "datetime": "2018-07-02 08:53:26",
+        "artist": "Rodney Crowell",
+        "album": "Close Ties",
+        "track": "I'm Tied To Ya'"
+    },
+    {
+        "datetime": "2018-07-02 08:57:25",
+        "artist": "Rodney Crowell",
+        "album": "Close Ties",
+        "track": "Forgive Me Annabelle"
+    },
+    {
+        "datetime": "2018-07-02 09:01:35",
+        "artist": "Rodney Crowell",
+        "album": "Close Ties",
+        "track": "Forty Miles From Nowhere"
+    },
+    {
+        "datetime": "2018-07-02 09:07:34",
+        "artist": "Rodney Crowell",
+        "album": "Close Ties",
+        "track": "Storm Warning"
+    },
+    {
+        "datetime": "2018-07-02 09:12:12",
+        "artist": "Rodney Crowell",
+        "album": "Close Ties",
+        "track": "Nashville 1972"
+    },
+    {
+        "datetime": "2018-07-02 10:44:11",
+        "artist": "Courtney Barnett",
+        "album": "Tell Me How You Really Feel",
+        "track": "CITY LOOKS PRETTY"
+    },
+    {
+        "datetime": "2018-07-02 10:48:53",
+        "artist": "Beach House",
+        "album": "7",
+        "track": "Dark Spring"
+    },
+    {
+        "datetime": "2018-07-02 10:52:18",
+        "artist": "Jess Williamson",
+        "album": "Cosmic Wink",
+        "track": "WHITE BIRD"
+    },
+    {
+        "datetime": "2018-07-02 10:56:05",
+        "artist": "Shakey Graves",
+        "album": "Can't Wake Up",
+        "track": "Backseat Driver"
+    },
+    {
+        "datetime": "2018-07-02 11:03:52",
+        "artist": "Yonatan Gat",
+        "album": "Universalists",
+        "track": "Fading Casino"
+    },
+    {
+        "datetime": "2018-07-02 11:06:42",
+        "artist": "Simone Felice",
+        "album": "The Projector",
+        "track": "The Projector"
+    },
+    {
+        "datetime": "2018-07-02 12:30:02",
+        "artist": "Ryley Walker",
+        "album": "Deafman Glance",
+        "track": "Can't Ask Why"
+    },
+    {
+        "datetime": "2018-07-02 12:35:43",
+        "artist": "Eleanor Friedberger",
+        "album": "Rebound",
+        "track": "Everything"
+    },
+    {
+        "datetime": "2018-07-02 12:39:34",
+        "artist": "Wand",
+        "album": "Perfume",
+        "track": "Pure Romance"
+    },
+    {
+        "datetime": "2018-07-02 12:43:13",
+        "artist": "Daniel Blumberg",
+        "album": "Minus",
+        "track": "Stacked"
+    },
+    {
+        "datetime": "2018-07-02 12:48:03",
+        "artist": "Die Nerven",
+        "album": "Fake",
+        "track": "Neue Wellen"
+    },
+    {
+        "datetime": "2018-07-02 12:51:41",
+        "artist": "The Sea and Cake",
+        "album": "Any Day",
+        "track": "These Falling Arms"
+    },
+    {
+        "datetime": "2018-07-02 12:56:34",
+        "artist": "Mary Lattimore",
+        "album": "Hundreds Of Days",
+        "track": "It Feels Like Floating"
+    },
+    {
+        "datetime": "2018-07-02 13:01:28",
+        "artist": "Mary Lattimore",
+        "album": "Hundreds Of Days",
+        "track": "It Feels Like Floating"
+    },
+    {
+        "datetime": "2018-07-03 14:14:21",
+        "artist": "The Cure",
+        "album": "Peel Sessions 1981",
+        "track": "The Holy Hour"
+    },
+    {
+        "datetime": "2018-07-03 14:18:16",
+        "artist": "The Cure",
+        "album": "Peel Sessions 1981",
+        "track": "Forever"
+    },
+    {
+        "datetime": "2018-07-03 14:21:52",
+        "artist": "The Cure",
+        "album": "Peel Sessions 1981",
+        "track": "Primary"
+    },
+    {
+        "datetime": "2018-07-03 14:25:31",
+        "artist": "The Cure",
+        "album": "Peel Sessions 1981",
+        "track": "All Cats Are Grey"
+    },
+    {
+        "datetime": "2018-07-03 15:18:59",
+        "artist": "Rodney Crowell",
+        "album": "The Houston Kid",
+        "track": "Telephone Road"
+    },
+    {
+        "datetime": "2018-07-03 15:24:07",
+        "artist": "Rodney Crowell",
+        "album": "The Houston Kid",
+        "track": "The Rock Of My Soul"
+    },
+    {
+        "datetime": "2018-07-03 15:54:05",
+        "artist": "Scott Walker",
+        "album": "Scott 4",
+        "track": "The Seventh Seal"
+    },
+    {
+        "datetime": "2018-07-03 15:59:01",
+        "artist": "Scott Walker",
+        "album": "Scott 4",
+        "track": "Get Behind Me"
+    },
+    {
+        "datetime": "2018-07-03 16:02:13",
+        "artist": "Lloyd Cole and the Commotions",
+        "album": "Rattlesnakes",
+        "track": "Speedboat (Remastered)"
+    },
+    {
+        "datetime": "2018-07-03 16:06:50",
+        "artist": "Scott Walker",
+        "album": "Scott 4",
+        "track": "Duchess"
+    },
+    {
+        "datetime": "2018-07-03 16:09:39",
+        "artist": "Scott Walker",
+        "album": "Scott 4",
+        "track": "On Your Own Again"
+    },
+    {
+        "datetime": "2018-07-03 16:11:24",
+        "artist": "Scott Walker",
+        "album": "Scott 4",
+        "track": "The Old Man's Back Again (Dedicated To The Neo-Stalinist Regime)"
+    },
+    {
+        "datetime": "2018-07-03 16:13:08",
+        "artist": "Scott Walker",
+        "album": "Scott 4",
+        "track": "The Old Man's Back Again (Dedicated To The Neo-Stalinist Regime)"
+    },
+    {
+        "datetime": "2018-07-03 16:15:04",
+        "artist": "Rodney Crowell",
+        "album": "The Houston Kid",
+        "track": "Banks Of The Old Bandera"
+    },
+    {
+        "datetime": "2018-07-03 16:18:46",
+        "artist": "The Jam",
+        "album": "Sound Affects (Remastered Version)",
+        "track": "Boy About Town"
+    },
+    {
+        "datetime": "2018-07-03 16:20:45",
+        "artist": "Lloyd Cole and the Commotions",
+        "album": "Rattlesnakes",
+        "track": "Charlotte Street (Remastered)"
+    },
+    {
+        "datetime": "2018-07-03 16:24:38",
+        "artist": "Rodney Crowell",
+        "album": "The Houston Kid",
+        "track": "Highway 17"
+    },
+    {
+        "datetime": "2018-07-04 09:06:51",
+        "artist": "The Mighty Diamonds",
+        "album": "Blowin' In The Wind: A Reggae Tribute To Bob Dylan",
+        "track": "I Shall Be Released"
+    },
+    {
+        "datetime": "2018-07-04 09:10:49",
+        "artist": "The Abyssinians",
+        "album": "Blowin' In The Wind: A Reggae Tribute To Bob Dylan",
+        "track": "Blowin' In The Wind"
+    },
+    {
+        "datetime": "2018-07-04 09:15:16",
+        "artist": "Chalice",
+        "album": "Blowin' In The Wind: A Reggae Tribute To Bob Dylan",
+        "track": "Lay, Lady, Lay"
+    },
+    {
+        "datetime": "2018-07-04 09:20:13",
+        "artist": "Mankind",
+        "album": "Blowin' In The Wind: A Reggae Tribute To Bob Dylan",
+        "track": "Times They Are Changing"
+    },
+    {
+        "datetime": "2018-07-04 09:24:36",
+        "artist": "Sugar Black",
+        "album": "Blowin' In The Wind: A Reggae Tribute To Bob Dylan",
+        "track": "You're A Big Girl Now"
+    },
+    {
+        "datetime": "2018-07-04 09:29:01",
+        "artist": "Lehbanchuleh",
+        "album": "Blowin' In The Wind: A Reggae Tribute To Bob Dylan",
+        "track": "Just Like A Woman"
+    },
+    {
+        "datetime": "2018-07-04 09:33:05",
+        "artist": "Judy Mowatt",
+        "album": "Blowin' In The Wind: A Reggae Tribute To Bob Dylan",
+        "track": "Knockin' on Heaven's Door"
+    },
+    {
+        "datetime": "2018-07-04 09:37:15",
+        "artist": "Mello",
+        "album": "Blowin' In The Wind: A Reggae Tribute To Bob Dylan",
+        "track": "Silvio"
+    },
+    {
+        "datetime": "2018-07-04 09:41:09",
+        "artist": "Fourth Street Sisters",
+        "album": "Blowin' In The Wind: A Reggae Tribute To Bob Dylan",
+        "track": "Mr. Tambourine Man"
+    },
+    {
+        "datetime": "2018-07-04 09:46:13",
+        "artist": "Bradley Brown",
+        "album": "Blowin' In The Wind: A Reggae Tribute To Bob Dylan",
+        "track": "Forever Young"
+    },
+    {
+        "datetime": "2018-07-04 11:16:46",
+        "artist": "Altered Images",
+        "album": "Pinky Blue",
+        "track": "Pinky Blue"
+    },
+    {
+        "datetime": "2018-07-04 11:19:54",
+        "artist": "Altered Images",
+        "album": "Pinky Blue",
+        "track": "See Those Eyes (7\" Version)"
+    },
+    {
+        "datetime": "2018-07-04 11:23:02",
+        "artist": "Altered Images",
+        "album": "Pinky Blue",
+        "track": "Forgotten"
+    },
+    {
+        "datetime": "2018-07-04 11:25:40",
+        "artist": "Altered Images",
+        "album": "Pinky Blue",
+        "track": "Little Brown Head"
+    },
+    {
+        "datetime": "2018-07-04 11:28:21",
+        "artist": "Altered Images",
+        "album": "Pinky Blue",
+        "track": "See You Later"
+    },
+    {
+        "datetime": "2018-07-04 11:31:35",
+        "artist": "Altered Images",
+        "album": "Pinky Blue",
+        "track": "Song Sung Blue"
+    },
+    {
+        "datetime": "2018-07-04 11:35:48",
+        "artist": "Altered Images",
+        "album": "Pinky Blue",
+        "track": "Funny Funny Me"
+    },
+    {
+        "datetime": "2018-07-04 11:39:12",
+        "artist": "Altered Images",
+        "album": "Pinky Blue",
+        "track": "Think That It Might"
+    },
+    {
+        "datetime": "2018-07-04 11:42:02",
+        "artist": "Altered Images",
+        "album": "Pinky Blue",
+        "track": "I Could Be Happy"
+    },
+    {
+        "datetime": "2018-07-04 11:47:42",
+        "artist": "Altered Images",
+        "album": "Pinky Blue",
+        "track": "Jump Jump"
+    },
+    {
+        "datetime": "2018-07-04 11:50:54",
+        "artist": "Altered Images",
+        "album": "Pinky Blue",
+        "track": "Goodnight And I Wish"
+    },
+    {
+        "datetime": "2018-07-04 11:56:41",
+        "artist": "David Bowie",
+        "album": "Lodger",
+        "track": "Fantastic Voyage (Tony Visconti 2017 Mix)"
+    },
+    {
+        "datetime": "2018-07-04 11:59:34",
+        "artist": "David Bowie",
+        "album": "Lodger",
+        "track": "African Night Flight (Tony Visconti 2017 Mix)"
+    },
+    {
+        "datetime": "2018-07-04 12:21:27",
+        "artist": "David Bowie",
+        "album": "Lodger",
+        "track": "Move On (Tony Visconti 2017 Mix)"
+    },
+    {
+        "datetime": "2018-07-04 12:24:52",
+        "artist": "David Bowie",
+        "album": "Lodger",
+        "track": "Yassassin (Turkish for: Long Live) [Tony Visconti 2017 Mix]"
+    },
+    {
+        "datetime": "2018-07-04 12:29:05",
+        "artist": "David Bowie",
+        "album": "Lodger",
+        "track": "Red Sails (Tony Visconti 2017 Mix)"
+    },
+    {
+        "datetime": "2018-07-04 12:32:52",
+        "artist": "David Bowie",
+        "album": "Lodger",
+        "track": "D.J. (Tony Visconti 2017 Mix)"
+    },
+    {
+        "datetime": "2018-07-04 14:02:26",
+        "artist": "David Bowie",
+        "album": "Lodger",
+        "track": "Look Back in Anger (Tony Visconti 2017 Mix)"
+    },
+    {
+        "datetime": "2018-07-04 14:05:36",
+        "artist": "David Bowie",
+        "album": "Lodger",
+        "track": "Boys Keep Swinging (Tony Visconti 2017 Mix)"
+    },
+    {
+        "datetime": "2018-07-04 14:08:58",
+        "artist": "David Bowie",
+        "album": "Lodger",
+        "track": "Repetition (Tony Visconti 2017 Mix)"
+    },
+    {
+        "datetime": "2018-07-04 14:11:59",
+        "artist": "David Bowie",
+        "album": "Lodger",
+        "track": "Red Money (Tony Visconti 2017 mix)"
+    },
+    {
+        "datetime": "2018-07-04 14:26:13",
+        "artist": "Simple Minds",
+        "album": "Once Upon A Time",
+        "track": "All The Things She Said"
+    },
+    {
+        "datetime": "2018-07-04 14:30:29",
+        "artist": "Birds of Chicago",
+        "album": "Real Midnight",
+        "track": "Kinderspel (child's game)"
+    },
+    {
+        "datetime": "2018-07-04 14:36:28",
+        "artist": "Eilen Jewell",
+        "album": "Live At The Narrows",
+        "track": "High Shelf Booze (Live)"
+    },
+    {
+        "datetime": "2018-07-04 14:51:01",
+        "artist": "Birds of Chicago",
+        "album": "Real Midnight",
+        "track": "Remember Wild Horses"
+    },
+    {
+        "datetime": "2018-07-04 14:55:48",
+        "artist": "Simple Minds",
+        "album": "Once Upon A Time",
+        "track": "Ghostdancing"
+    },
+    {
+        "datetime": "2018-07-04 15:00:33",
+        "artist": "Eilen Jewell",
+        "album": "Live At The Narrows",
+        "track": "Fading Memory (Live)"
+    },
+    {
+        "datetime": "2018-07-04 15:03:55",
+        "artist": "Eilen Jewell",
+        "album": "Live At The Narrows",
+        "track": "Santa Fe (Live)"
+    },
+    {
+        "datetime": "2018-07-04 15:11:24",
+        "artist": "Eilen Jewell",
+        "album": "Live At The Narrows",
+        "track": "Everywhere I Go (Live)"
+    },
+    {
+        "datetime": "2018-07-04 15:14:42",
+        "artist": "U2",
+        "album": "Boy",
+        "track": "The Electric Co. (Remastered)"
+    },
+    {
+        "datetime": "2018-07-04 15:19:28",
+        "artist": "Eilen Jewell",
+        "album": "Live At The Narrows",
+        "track": "Blue Highway (Live)"
+    },
+    {
+        "datetime": "2018-07-04 15:22:04",
+        "artist": "Eilen Jewell",
+        "album": "Live At The Narrows",
+        "track": "Back to Dallas (Live)"
+    },
+    {
+        "datetime": "2018-07-04 15:25:33",
+        "artist": "Eilen Jewell",
+        "album": "Live At The Narrows",
+        "track": "Dusty Boxcar Wall (Live)"
+    },
+    {
+        "datetime": "2018-07-04 15:29:28",
+        "artist": "Eilen Jewell",
+        "album": "Live At The Narrows",
+        "track": "Warning Signs (Live)"
+    },
+    {
+        "datetime": "2018-07-04 15:32:01",
+        "artist": "U2",
+        "album": "Boy",
+        "track": "Stories For Boys (Remastered)"
+    },
+    {
+        "datetime": "2018-07-04 15:35:03",
+        "artist": "Eilen Jewell",
+        "album": "Live At The Narrows",
+        "track": "Rich Man's World (live)"
+    },
+    {
+        "datetime": "2018-07-04 15:38:45",
+        "artist": "U2",
+        "album": "Boy",
+        "track": "Out Of Control (Remastered)"
+    },
+    {
+        "datetime": "2018-07-04 15:42:59",
+        "artist": "Eilen Jewell",
+        "album": "Live At The Narrows",
+        "track": "Boundary County (Live)"
+    },
+    {
+        "datetime": "2018-07-04 15:46:45",
+        "artist": "Eilen Jewell",
+        "album": "Live At The Narrows",
+        "track": "Reckless (Live)"
+    },
+    {
+        "datetime": "2018-07-04 15:48:51",
+        "artist": "Simple Minds",
+        "album": "Once Upon A Time",
+        "track": "Once Upon a Time"
+    },
+    {
+        "datetime": "2018-07-04 16:41:29",
+        "artist": "U2",
+        "album": "Boy",
+        "track": "I Will Follow (Remastered)"
+    },
+    {
+        "datetime": "2018-07-04 16:45:06",
+        "artist": "Simple Minds",
+        "album": "Once Upon A Time",
+        "track": "Sanctify Yourself"
+    },
+    {
+        "datetime": "2018-07-04 16:54:24",
+        "artist": "Simple Minds",
+        "album": "Once Upon A Time",
+        "track": "Come a Long Way"
+    },
+    {
+        "datetime": "2018-07-04 16:59:33",
+        "artist": "Birds of Chicago",
+        "album": "Real Midnight",
+        "track": "Pelicans"
+    },
+    {
+        "datetime": "2018-07-04 17:03:50",
+        "artist": "Eilen Jewell",
+        "album": "Live At The Narrows",
+        "track": "Mess Around (Live)"
+    },
+    {
+        "datetime": "2018-07-04 19:40:55",
+        "artist": "Eilen Jewell",
+        "album": "Queen Of The Minor Key",
+        "track": "Radio City"
+    },
+    {
+        "datetime": "2018-07-04 19:42:31",
+        "artist": "Eilen Jewell",
+        "album": "Queen Of The Minor Key",
+        "track": "I Remember You"
+    },
+    {
+        "datetime": "2018-07-04 19:46:22",
+        "artist": "Eilen Jewell",
+        "album": "Queen Of The Minor Key",
+        "track": "Queen Of The Minor Key"
+    },
+    {
+        "datetime": "2018-07-04 19:48:25",
+        "artist": "Eilen Jewell",
+        "album": "Queen Of The Minor Key",
+        "track": "That's Where I'm Going"
+    },
+    {
+        "datetime": "2018-07-04 19:50:40",
+        "artist": "Eilen Jewell",
+        "album": "Queen Of The Minor Key",
+        "track": "Sante Fe"
+    },
+    {
+        "datetime": "2018-07-05 09:03:29",
+        "artist": "Jeff Bridges",
+        "album": "Crazy Heart Soundtrack",
+        "track": "Hold On You"
+    },
+    {
+        "datetime": "2018-07-05 09:05:18",
+        "artist": "Buck Owens",
+        "album": "Crazy Heart Soundtrack",
+        "track": "Hello Trouble"
+    },
+    {
+        "datetime": "2018-07-05 09:08:01",
+        "artist": "The Louvin Brothers",
+        "album": "Crazy Heart Soundtrack",
+        "track": "My Baby's Gone"
+    },
+    {
+        "datetime": "2018-07-05 09:12:35",
+        "artist": "Jeff Bridges",
+        "album": "Crazy Heart Soundtrack",
+        "track": "Somebody Else"
+    },
+    {
+        "datetime": "2018-07-05 09:14:55",
+        "artist": "Ryan Bingham",
+        "album": "Crazy Heart Soundtrack",
+        "track": "I Don't Know"
+    },
+    {
+        "datetime": "2018-07-05 09:28:29",
+        "artist": "Jeff Bridges",
+        "album": "Crazy Heart Soundtrack",
+        "track": "Fallin' & Flyin'"
+    },
+    {
+        "datetime": "2018-07-05 09:30:39",
+        "artist": "Jeff Bridges",
+        "album": "Crazy Heart Soundtrack",
+        "track": "I Dont' Know"
+    },
+    {
+        "datetime": "2018-07-05 09:35:32",
+        "artist": "Lightnin' Hopkins",
+        "album": "Crazy Heart Soundtrack",
+        "track": "Once A Gambler"
+    },
+    {
+        "datetime": "2018-07-05 09:38:23",
+        "artist": "Waylon Jennings",
+        "album": "Crazy Heart Soundtrack",
+        "track": "Are You Sure Hank Done It This Way"
+    },
+    {
+        "datetime": "2018-07-05 09:41:01",
+        "artist": "Colin Farrell & Jeff Bridges",
+        "album": "Crazy Heart Soundtrack",
+        "track": "Fallin' & Flyin'"
+    },
+    {
+        "datetime": "2018-07-05 09:43:36",
+        "artist": "Colin Farrell",
+        "album": "Crazy Heart Soundtrack",
+        "track": "Gone, Gone, Gone"
+    },
+    {
+        "datetime": "2018-07-05 09:46:58",
+        "artist": "Townes Van Zandt",
+        "album": "Crazy Heart Soundtrack",
+        "track": "If I Needed You"
+    },
+    {
+        "datetime": "2018-07-05 09:50:15",
+        "artist": "Sam Phillips",
+        "album": "Crazy Heart Soundtrack",
+        "track": "Reflecting Light"
+    },
+    {
+        "datetime": "2018-07-05 09:51:01",
+        "artist": "Robert Duvall",
+        "album": "Crazy Heart Soundtrack",
+        "track": "Live Forever"
+    },
+    {
+        "datetime": "2018-07-05 09:54:45",
+        "artist": "Jeff Bridges",
+        "album": "Crazy Heart Soundtrack",
+        "track": "Brand New Angel"
+    },
+    {
+        "datetime": "2018-07-05 09:58:58",
+        "artist": "Ryan Bingham",
+        "album": "Crazy Heart Soundtrack",
+        "track": "The Weary Kind (Theme From Crazy Heart)"
+    },
+    {
+        "datetime": "2018-07-05 14:18:31",
+        "artist": "Jeff Bridges",
+        "album": "Crazy Heart Soundtrack",
+        "track": "Hold On You"
+    },
+    {
+        "datetime": "2018-07-05 14:21:25",
+        "artist": "Buck Owens",
+        "album": "Crazy Heart Soundtrack",
+        "track": "Hello Trouble"
+    },
+    {
+        "datetime": "2018-07-05 14:23:17",
+        "artist": "The Louvin Brothers",
+        "album": "Crazy Heart Soundtrack",
+        "track": "My Baby's Gone"
+    },
+    {
+        "datetime": "2018-07-05 14:26:04",
+        "artist": "Jeff Bridges",
+        "album": "Crazy Heart Soundtrack",
+        "track": "Somebody Else"
+    },
+    {
+        "datetime": "2018-07-05 14:30:42",
+        "artist": "Ryan Bingham",
+        "album": "Crazy Heart Soundtrack",
+        "track": "I Don't Know"
+    },
+    {
+        "datetime": "2018-07-05 14:33:06",
+        "artist": "Jeff Bridges",
+        "album": "Crazy Heart Soundtrack",
+        "track": "Fallin' & Flyin'"
+    },
+    {
+        "datetime": "2018-07-05 14:36:09",
+        "artist": "Jeff Bridges",
+        "album": "Crazy Heart Soundtrack",
+        "track": "I Don't Know"
+    },
+    {
+        "datetime": "2018-07-05 14:38:25",
+        "artist": "Lightnin' Hopkins",
+        "album": "Crazy Heart Soundtrack",
+        "track": "Once A Gambler"
+    },
+    {
+        "datetime": "2018-07-05 14:43:23",
+        "artist": "Waylon Jennings",
+        "album": "Crazy Heart Soundtrack",
+        "track": "Are You Sure Hank Done It This Way"
+    },
+    {
+        "datetime": "2018-07-05 14:46:18",
+        "artist": "Colin Farrell",
+        "album": "Crazy Heart Soundtrack",
+        "track": "Fallin' & Flyin'"
+    },
+    {
+        "datetime": "2018-07-05 14:49:00",
+        "artist": "Colin Farrell",
+        "album": "Crazy Heart Soundtrack",
+        "track": "Gone, Gone, Gone"
+    },
+    {
+        "datetime": "2018-07-05 14:51:40",
+        "artist": "Townes Van Zandt",
+        "album": "Crazy Heart Soundtrack",
+        "track": "If I Needed You"
+    },
+    {
+        "datetime": "2018-07-05 14:55:06",
+        "artist": "Sam Phillips",
+        "album": "Crazy Heart Soundtrack",
+        "track": "Reflecting Light"
+    },
+    {
+        "datetime": "2018-07-05 15:00:50",
+        "artist": "Prefab Sprout",
+        "album": "Protest Songs",
+        "track": "The World Awake"
+    },
+    {
+        "datetime": "2018-07-05 15:05:15",
+        "artist": "Prefab Sprout",
+        "album": "Protest Songs",
+        "track": "Life Of Surprises"
+    },
+    {
+        "datetime": "2018-07-05 15:09:20",
+        "artist": "Prefab Sprout",
+        "album": "Protest Songs",
+        "track": "Horsechimes"
+    },
+    {
+        "datetime": "2018-07-05 15:13:42",
+        "artist": "Prefab Sprout",
+        "album": "Protest Songs",
+        "track": "Wicked Things"
+    },
+    {
+        "datetime": "2018-07-05 15:16:51",
+        "artist": "Prefab Sprout",
+        "album": "Protest Songs",
+        "track": "Dublin"
+    },
+    {
+        "datetime": "2018-07-05 15:20:31",
+        "artist": "Prefab Sprout",
+        "album": "Protest Songs",
+        "track": "Tiffanys"
+    },
+    {
+        "datetime": "2018-07-05 15:24:21",
+        "artist": "Prefab Sprout",
+        "album": "Protest Songs",
+        "track": "Diana"
+    },
+    {
+        "datetime": "2018-07-05 15:28:30",
+        "artist": "Prefab Sprout",
+        "album": "Protest Songs",
+        "track": "Talkin Scarlet"
+    },
+    {
+        "datetime": "2018-07-05 15:33:03",
+        "artist": "Prefab Sprout",
+        "album": "Protest Songs",
+        "track": "'Til The Cows Come Home"
+    },
+    {
+        "datetime": "2018-07-05 15:37:15",
+        "artist": "Prefab Sprout",
+        "album": "Protest Songs",
+        "track": "Pearly Gates"
+    },
+    {
+        "datetime": "2018-07-05 16:27:09",
+        "artist": "Rodney Crowell",
+        "album": "Tarpaper Sky",
+        "track": "The Long Journey Home"
+    },
+    {
+        "datetime": "2018-07-05 16:31:33",
+        "artist": "Rodney Crowell",
+        "album": "Tarpaper Sky",
+        "track": "Fever On The Bayou"
+    },
+    {
+        "datetime": "2018-07-05 16:35:30",
+        "artist": "Rodney Crowell",
+        "album": "Tarpaper Sky",
+        "track": "Frankie Please"
+    },
+    {
+        "datetime": "2018-07-05 17:26:49",
+        "artist": "Rodney Crowell",
+        "album": "Tarpaper Sky",
+        "track": "God I'm Missing You"
+    },
+    {
+        "datetime": "2018-07-05 17:42:47",
+        "artist": "Rodney Crowell",
+        "album": "Tarpaper Sky",
+        "track": "Famous Last Words of a Fool In Love"
+    },
+    {
+        "datetime": "2018-07-05 17:46:37",
+        "artist": "Rodney Crowell",
+        "album": "Tarpaper Sky",
+        "track": "Somebody's Shadow"
+    },
+    {
+        "datetime": "2018-07-17 11:52:53",
+        "artist": "Rodney Crowell",
+        "album": "Acoustic Classics",
+        "track": "Earthbound"
+    },
+    {
+        "datetime": "2018-07-17 11:57:07",
+        "artist": "Rodney Crowell",
+        "album": "Acoustic Classics",
+        "track": "Leaving Louisiana in the Broad Daylight"
+    },
+    {
+        "datetime": "2018-07-17 12:01:21",
+        "artist": "Rodney Crowell",
+        "album": "Acoustic Classics",
+        "track": "Anything But Tame"
+    },
+    {
+        "datetime": "2018-07-17 12:05:41",
+        "artist": "Rodney Crowell",
+        "album": "Acoustic Classics",
+        "track": "Making Memories Of Us"
+    },
+    {
+        "datetime": "2018-07-17 12:10:20",
+        "artist": "Prefab Sprout",
+        "album": "Protest Songs",
+        "track": "The World Awake"
+    },
+    {
+        "datetime": "2018-07-17 12:14:46",
+        "artist": "Prefab Sprout",
+        "album": "Protest Songs",
+        "track": "Life Of Surprises"
+    },
+    {
+        "datetime": "2018-07-17 12:18:51",
+        "artist": "Prefab Sprout",
+        "album": "Protest Songs",
+        "track": "Horsechimes"
+    },
+    {
+        "datetime": "2018-07-17 12:23:12",
+        "artist": "Prefab Sprout",
+        "album": "Protest Songs",
+        "track": "Wicked Things"
+    },
+    {
+        "datetime": "2018-07-17 12:26:22",
+        "artist": "Prefab Sprout",
+        "album": "Protest Songs",
+        "track": "Dublin"
+    },
+    {
+        "datetime": "2018-07-17 12:30:02",
+        "artist": "Prefab Sprout",
+        "album": "Protest Songs",
+        "track": "Tiffanys"
+    },
+    {
+        "datetime": "2018-07-17 12:33:51",
+        "artist": "Prefab Sprout",
+        "album": "Protest Songs",
+        "track": "Diana"
+    },
+    {
+        "datetime": "2018-07-17 17:48:59",
+        "artist": "Birds of Chicago",
+        "album": "Love In Wartime",
+        "track": "Now / Sunlight"
+    },
+    {
+        "datetime": "2018-07-17 17:50:03",
+        "artist": "Birds of Chicago",
+        "album": "Love In Wartime",
+        "track": "Never Go Back"
+    },
+    {
+        "datetime": "2018-07-17 17:52:35",
+        "artist": "Birds of Chicago",
+        "album": "Love In Wartime",
+        "track": "Love in Wartime"
+    },
+    {
+        "datetime": "2018-07-17 17:58:25",
+        "artist": "Birds of Chicago",
+        "album": "Love In Wartime",
+        "track": "Travelers"
+    },
+    {
+        "datetime": "2018-07-17 18:03:05",
+        "artist": "Birds of Chicago",
+        "album": "Love In Wartime",
+        "track": "Try"
+    },
+    {
+        "datetime": "2018-07-17 18:08:17",
+        "artist": "Birds of Chicago",
+        "album": "Love In Wartime",
+        "track": "Lodestar"
+    },
+    {
+        "datetime": "2018-07-17 18:12:54",
+        "artist": "Birds of Chicago",
+        "album": "Love In Wartime",
+        "track": "Roll Away"
+    },
+    {
+        "datetime": "2018-07-17 18:15:35",
+        "artist": "Birds of Chicago",
+        "album": "Love In Wartime",
+        "track": "Baton Rouge"
+    },
+    {
+        "datetime": "2018-07-18 09:34:46",
+        "artist": "David Bowie",
+        "album": "Lodger",
+        "track": "Fantastic Voyage (Tony Visconti 2017 Mix)"
+    },
+    {
+        "datetime": "2018-07-18 09:37:39",
+        "artist": "David Bowie",
+        "album": "Lodger",
+        "track": "African Night Flight (Tony Visconti 2017 Mix)"
+    },
+    {
+        "datetime": "2018-07-18 09:40:35",
+        "artist": "David Bowie",
+        "album": "Lodger",
+        "track": "Move On (Tony Visconti 2017 Mix)"
+    },
+    {
+        "datetime": "2018-07-18 09:44:00",
+        "artist": "David Bowie",
+        "album": "Lodger",
+        "track": "Yassassin (Turkish for: Long Live) [Tony Visconti 2017 Mix]"
+    },
+    {
+        "datetime": "2018-07-18 09:48:14",
+        "artist": "David Bowie",
+        "album": "Lodger",
+        "track": "Red Sails (Tony Visconti 2017 Mix)"
+    },
+    {
+        "datetime": "2018-07-18 09:52:01",
+        "artist": "David Bowie",
+        "album": "Lodger",
+        "track": "D.J. (Tony Visconti 2017 Mix)"
+    },
+    {
+        "datetime": "2018-07-18 09:56:00",
+        "artist": "David Bowie",
+        "album": "Lodger",
+        "track": "Look Back in Anger (Tony Visconti 2017 Mix)"
+    },
+    {
+        "datetime": "2018-07-18 09:59:10",
+        "artist": "David Bowie",
+        "album": "Lodger",
+        "track": "Boys Keep Swinging (Tony Visconti 2017 Mix)"
+    },
+    {
+        "datetime": "2018-07-18 10:02:32",
+        "artist": "David Bowie",
+        "album": "Lodger",
+        "track": "Repetition (Tony Visconti 2017 Mix)"
+    },
+    {
+        "datetime": "2018-07-18 10:05:34",
+        "artist": "David Bowie",
+        "album": "Lodger",
+        "track": "Red Money (Tony Visconti 2017 mix)"
+    },
+    {
+        "datetime": "2018-07-18 10:11:31",
+        "artist": "Lloyd Cole",
+        "album": "Demos 88-94 (In New York - Collected Recordings 1988-1996)",
+        "track": "A Long Way Down (demo)"
+    },
+    {
+        "datetime": "2018-07-18 10:17:16",
+        "artist": "Lloyd Cole",
+        "album": "Demos 88-94 (In New York - Collected Recordings 1988-1996)",
+        "track": "Sweetheart (Demo)"
+    },
+    {
+        "datetime": "2018-07-18 10:21:30",
+        "artist": "Lloyd Cole",
+        "album": "Demos 88-94 (In New York - Collected Recordings 1988-1996)",
+        "track": "Ice Cream Girl (Demo)"
+    },
+    {
+        "datetime": "2018-07-18 10:24:01",
+        "artist": "Lloyd Cole",
+        "album": "Demos 88-94 (In New York - Collected Recordings 1988-1996)",
+        "track": "Wild Orphan (Demo)"
+    },
+    {
+        "datetime": "2018-07-18 10:28:15",
+        "artist": "Lloyd Cole",
+        "album": "Demos 88-94 (In New York - Collected Recordings 1988-1996)",
+        "track": "Loveless (Demo)"
+    },
+    {
+        "datetime": "2018-07-18 10:32:10",
+        "artist": "Lloyd Cole",
+        "album": "Demos 88-94 (In New York - Collected Recordings 1988-1996)",
+        "track": "What Do You Know About Love? (Demo)"
+    },
+    {
+        "datetime": "2018-07-18 10:36:30",
+        "artist": "Lloyd Cole",
+        "album": "Demos 88-94 (In New York - Collected Recordings 1988-1996)",
+        "track": "Know You Too Well (Demo)"
+    },
+    {
+        "datetime": "2018-07-18 10:40:32",
+        "artist": "Lloyd Cole",
+        "album": "Demos 88-94 (In New York - Collected Recordings 1988-1996)",
+        "track": "The Witching Hour (Demo)"
+    },
+    {
+        "datetime": "2018-07-18 10:44:03",
+        "artist": "Lloyd Cole",
+        "album": "Demos 88-94 (In New York - Collected Recordings 1988-1996)",
+        "track": "The English Weather (Demo)"
+    },
+    {
+        "datetime": "2018-07-18 10:47:58",
+        "artist": "Lloyd Cole",
+        "album": "Demos 88-94 (In New York - Collected Recordings 1988-1996)",
+        "track": "I Confess (demo)"
+    },
+    {
+        "datetime": "2018-07-18 10:52:49",
+        "artist": "Lloyd Cole",
+        "album": "Demos 88-94 (In New York - Collected Recordings 1988-1996)",
+        "track": "To The Lions (Demo)"
+    },
+    {
+        "datetime": "2018-07-18 10:55:42",
+        "artist": "Lloyd Cole",
+        "album": "Demos 88-94 (In New York - Collected Recordings 1988-1996)",
+        "track": "The Ship Song (Demo)"
+    },
+    {
+        "datetime": "2018-07-18 11:00:22",
+        "artist": "Lloyd Cole",
+        "album": "Demos 88-94 (In New York - Collected Recordings 1988-1996)",
+        "track": "Pay For It (Demo)"
+    },
+    {
+        "datetime": "2018-07-18 11:05:27",
+        "artist": "Lloyd Cole",
+        "album": "Demos 88-94 (In New York - Collected Recordings 1988-1996)",
+        "track": "Weeping Wine (Demo)"
+    },
+    {
+        "datetime": "2018-07-18 11:08:11",
+        "artist": "Lloyd Cole",
+        "album": "Demos 88-94 (In New York - Collected Recordings 1988-1996)",
+        "track": "The One You Never Had (Demo)"
+    },
+    {
+        "datetime": "2018-07-18 11:50:05",
+        "artist": "Lloyd Cole",
+        "album": "Demos 88-94 (In New York - Collected Recordings 1988-1996)",
+        "track": "Weird On Me (Demo)"
+    },
+    {
+        "datetime": "2018-07-18 11:53:33",
+        "artist": "Lloyd Cole",
+        "album": "Demos 88-94 (In New York - Collected Recordings 1988-1996)",
+        "track": "Casanova Smith (Demo)"
+    },
+    {
+        "datetime": "2018-07-18 11:58:00",
+        "artist": "Lloyd Cole",
+        "album": "Demos 88-94 (In New York - Collected Recordings 1988-1996)",
+        "track": "Cold Empty Room (Demo)"
+    },
+    {
+        "datetime": "2018-07-18 12:02:10",
+        "artist": "Lloyd Cole",
+        "album": "Demos 88-94 (In New York - Collected Recordings 1988-1996)",
+        "track": "Everyday (Demo)"
+    },
+    {
+        "datetime": "2018-07-18 12:04:58",
+        "artist": "Lloyd Cole",
+        "album": "Demos 88-94 (In New York - Collected Recordings 1988-1996)",
+        "track": "She Loves You (Demo)"
+    },
+    {
+        "datetime": "2018-07-18 13:39:58",
+        "artist": "Haley Bonar",
+        "album": "Impossible Dream",
+        "track": "Hometown"
+    },
+    {
+        "datetime": "2018-07-18 13:43:03",
+        "artist": "Haley Bonar",
+        "album": "Impossible Dream",
+        "track": "Your Mom Is Right"
+    },
+    {
+        "datetime": "2018-07-18 13:46:33",
+        "artist": "Haley Bonar",
+        "album": "Impossible Dream",
+        "track": "Kismet Kill"
+    },
+    {
+        "datetime": "2018-07-18 13:50:02",
+        "artist": "Haley Bonar",
+        "album": "Impossible Dream",
+        "track": "I Can Change"
+    },
+    {
+        "datetime": "2018-07-18 13:53:15",
+        "artist": "Haley Bonar",
+        "album": "Impossible Dream",
+        "track": "Stupid Face"
+    },
+    {
+        "datetime": "2018-07-18 13:56:46",
+        "artist": "Haley Bonar",
+        "album": "Impossible Dream",
+        "track": "Called You Queen"
+    },
+    {
+        "datetime": "2018-07-18 14:00:06",
+        "artist": "Haley Bonar",
+        "album": "Impossible Dream",
+        "track": "Jealous Girls"
+    },
+    {
+        "datetime": "2018-07-18 14:03:06",
+        "artist": "Haley Bonar",
+        "album": "Impossible Dream",
+        "track": "Skynz"
+    },
+    {
+        "datetime": "2018-07-18 14:06:02",
+        "artist": "Haley Bonar",
+        "album": "Impossible Dream",
+        "track": "Better than me"
+    },
+    {
+        "datetime": "2018-07-18 14:09:16",
+        "artist": "Haley Bonar",
+        "album": "Impossible Dream",
+        "track": "Blue Diamonds Fall"
+    },
+    {
+        "datetime": "2018-07-18 14:15:00",
+        "artist": "The Mighty Diamonds",
+        "album": "Blowin' In The Wind: A Reggae Tribute To Bob Dylan",
+        "track": "I Shall Be Released"
+    },
+    {
+        "datetime": "2018-07-18 14:18:58",
+        "artist": "The Abyssinians",
+        "album": "Blowin' In The Wind: A Reggae Tribute To Bob Dylan",
+        "track": "Blowin' In The Wind"
+    },
+    {
+        "datetime": "2018-07-18 14:23:25",
+        "artist": "Chalice",
+        "album": "Blowin' In The Wind: A Reggae Tribute To Bob Dylan",
+        "track": "Lay, Lady, Lay"
+    },
+    {
+        "datetime": "2018-07-18 14:28:22",
+        "artist": "Mankind",
+        "album": "Blowin' In The Wind: A Reggae Tribute To Bob Dylan",
+        "track": "Times They Are Changing"
+    },
+    {
+        "datetime": "2018-07-18 14:32:45",
+        "artist": "Sugar Black",
+        "album": "Blowin' In The Wind: A Reggae Tribute To Bob Dylan",
+        "track": "You're A Big Girl Now"
+    },
+    {
+        "datetime": "2018-07-18 14:37:10",
+        "artist": "Lehbanchuleh",
+        "album": "Blowin' In The Wind: A Reggae Tribute To Bob Dylan",
+        "track": "Just Like A Woman"
+    },
+    {
+        "datetime": "2018-07-18 14:41:14",
+        "artist": "Judy Mowatt",
+        "album": "Blowin' In The Wind: A Reggae Tribute To Bob Dylan",
+        "track": "Knockin' on Heaven's Door"
+    },
+    {
+        "datetime": "2018-07-18 14:45:24",
+        "artist": "Mello",
+        "album": "Blowin' In The Wind: A Reggae Tribute To Bob Dylan",
+        "track": "Silvio"
+    },
+    {
+        "datetime": "2018-07-18 14:49:18",
+        "artist": "Fourth Street Sisters",
+        "album": "Blowin' In The Wind: A Reggae Tribute To Bob Dylan",
+        "track": "Mr. Tambourine Man"
+    },
+    {
+        "datetime": "2018-07-18 14:54:22",
+        "artist": "Bradley Brown",
+        "album": "Blowin' In The Wind: A Reggae Tribute To Bob Dylan",
+        "track": "Forever Young"
+    },
+    {
+        "datetime": "2018-07-18 16:13:46",
+        "artist": "The Rolling Stones",
+        "album": "Aftermath",
+        "track": "Paint It Black"
+    },
+    {
+        "datetime": "2018-07-18 16:17:09",
+        "artist": "The Rolling Stones",
+        "album": "Aftermath",
+        "track": "Stupid Girl"
+    },
+    {
+        "datetime": "2018-07-18 16:20:04",
+        "artist": "The Rolling Stones",
+        "album": "Aftermath",
+        "track": "Lady Jane (Mono Version)"
+    },
+    {
+        "datetime": "2018-07-18 16:23:12",
+        "artist": "The Rolling Stones",
+        "album": "Aftermath",
+        "track": "Under My Thumb"
+    },
+    {
+        "datetime": "2018-07-18 16:26:54",
+        "artist": "The Rolling Stones",
+        "album": "Aftermath",
+        "track": "Doncha Bother Me"
+    },
+    {
+        "datetime": "2018-07-18 16:36:28",
+        "artist": "The Rolling Stones",
+        "album": "Aftermath",
+        "track": "Think"
+    },
+    {
+        "datetime": "2018-07-18 16:40:08",
+        "artist": "The Rolling Stones",
+        "album": "Aftermath",
+        "track": "Flight 505"
+    },
+    {
+        "datetime": "2018-07-18 16:43:36",
+        "artist": "The Rolling Stones",
+        "album": "Aftermath",
+        "track": "High And Dry"
+    },
+    {
+        "datetime": "2018-07-18 16:46:44",
+        "artist": "The Rolling Stones",
+        "album": "Aftermath",
+        "track": "It's Not Easy"
+    },
+    {
+        "datetime": "2018-07-18 16:49:40",
+        "artist": "The Rolling Stones",
+        "album": "Aftermath",
+        "track": "I Am Waiting"
+    },
+    {
+        "datetime": "2018-07-18 16:52:51",
+        "artist": "The Rolling Stones",
+        "album": "Aftermath",
+        "track": "Goin' Home"
+    },
+    {
+        "datetime": "2018-07-18 17:10:07",
+        "artist": "The Rolling Stones",
+        "album": "Aftermath",
+        "track": "Paint It Black"
+    },
+    {
+        "datetime": "2018-07-18 17:13:30",
+        "artist": "The Rolling Stones",
+        "album": "Aftermath",
+        "track": "Stupid Girl"
+    },
+    {
+        "datetime": "2018-07-18 17:16:25",
+        "artist": "The Rolling Stones",
+        "album": "Aftermath",
+        "track": "Lady Jane (Mono Version)"
+    },
+    {
+        "datetime": "2018-07-18 17:19:34",
+        "artist": "The Rolling Stones",
+        "album": "Aftermath",
+        "track": "Under My Thumb"
+    },
+    {
+        "datetime": "2018-07-18 17:23:15",
+        "artist": "The Rolling Stones",
+        "album": "Aftermath",
+        "track": "Doncha Bother Me"
+    },
+    {
+        "datetime": "2018-07-18 17:25:56",
+        "artist": "The Rolling Stones",
+        "album": "Aftermath",
+        "track": "Think"
+    },
+    {
+        "datetime": "2018-07-18 17:29:06",
+        "artist": "The Rolling Stones",
+        "album": "Aftermath",
+        "track": "Flight 505"
+    },
+    {
+        "datetime": "2018-07-18 17:32:33",
+        "artist": "The Rolling Stones",
+        "album": "Aftermath",
+        "track": "High And Dry"
+    },
+    {
+        "datetime": "2018-07-18 17:35:41",
+        "artist": "The Rolling Stones",
+        "album": "Aftermath",
+        "track": "It's Not Easy"
+    },
+    {
+        "datetime": "2018-07-18 17:38:37",
+        "artist": "The Rolling Stones",
+        "album": "Aftermath",
+        "track": "I Am Waiting"
+    },
+    {
+        "datetime": "2018-07-18 17:41:48",
+        "artist": "The Rolling Stones",
+        "album": "Aftermath",
+        "track": "Goin' Home"
+    },
+    {
+        "datetime": "2018-07-18 17:44:59",
+        "artist": "The Rolling Stones",
+        "album": "Aftermath",
+        "track": "Goin' Home"
+    },
+    {
+        "datetime": "2018-07-19 09:01:09",
+        "artist": "Birds of Chicago",
+        "album": "Love In Wartime",
+        "track": "Now / Sunlight"
+    },
+    {
+        "datetime": "2018-07-19 09:02:13",
+        "artist": "Birds of Chicago",
+        "album": "Love In Wartime",
+        "track": "Never Go Back"
+    },
+    {
+        "datetime": "2018-07-19 09:03:17",
+        "artist": "Birds of Chicago",
+        "album": "Love In Wartime",
+        "track": "Never Go Back"
+    },
+    {
+        "datetime": "2018-07-19 09:04:46",
+        "artist": "Birds of Chicago",
+        "album": "Love In Wartime",
+        "track": "Love in Wartime"
+    },
+    {
+        "datetime": "2018-07-19 09:07:19",
+        "artist": "Birds of Chicago",
+        "album": "Love In Wartime",
+        "track": "Love in Wartime"
+    },
+    {
+        "datetime": "2018-07-19 09:10:35",
+        "artist": "Birds of Chicago",
+        "album": "Love In Wartime",
+        "track": "Travelers"
+    },
+    {
+        "datetime": "2018-07-19 09:15:16",
+        "artist": "Birds of Chicago",
+        "album": "Love In Wartime",
+        "track": "Try"
+    },
+    {
+        "datetime": "2018-07-19 09:20:27",
+        "artist": "Birds of Chicago",
+        "album": "Love In Wartime",
+        "track": "Lodestar"
+    },
+    {
+        "datetime": "2018-07-19 09:25:04",
+        "artist": "Birds of Chicago",
+        "album": "Love In Wartime",
+        "track": "Roll Away"
+    },
+    {
+        "datetime": "2018-07-19 09:27:45",
+        "artist": "Birds of Chicago",
+        "album": "Love In Wartime",
+        "track": "Baton Rouge"
+    },
+    {
+        "datetime": "2018-07-19 09:33:52",
+        "artist": "Birds of Chicago",
+        "album": "Love In Wartime",
+        "track": "Roisin Starchild"
+    },
+    {
+        "datetime": "2018-07-19 09:38:42",
+        "artist": "Birds of Chicago",
+        "album": "Love In Wartime",
+        "track": "Superlover"
+    },
+    {
+        "datetime": "2018-07-19 09:42:35",
+        "artist": "Birds of Chicago",
+        "album": "Love In Wartime",
+        "track": "Derecho"
+    },
+    {
+        "datetime": "2018-07-19 13:30:35",
+        "artist": "David Bowie",
+        "album": "Hunky Dory",
+        "track": "Changes (2015 Remastered Version)"
+    },
+    {
+        "datetime": "2018-07-19 13:34:13",
+        "artist": "David Bowie",
+        "album": "Hunky Dory",
+        "track": "Oh! You Pretty Things (2015 Remastered Version)"
+    },
+    {
+        "datetime": "2018-07-19 13:37:27",
+        "artist": "David Bowie",
+        "album": "Hunky Dory",
+        "track": "Eight Line Poem (2015 Remastered Version)"
+    },
+    {
+        "datetime": "2018-07-19 13:40:22",
+        "artist": "David Bowie",
+        "album": "Hunky Dory",
+        "track": "Life On Mars? (2015 Remastered Version)"
+    },
+    {
+        "datetime": "2018-07-19 13:44:18",
+        "artist": "David Bowie",
+        "album": "Hunky Dory",
+        "track": "Kooks (2015 Remastered Version)"
+    },
+    {
+        "datetime": "2018-07-19 13:47:12",
+        "artist": "David Bowie",
+        "album": "Hunky Dory",
+        "track": "Quicksand (2015 Remastered Version)"
+    },
+    {
+        "datetime": "2018-07-19 13:52:18",
+        "artist": "David Bowie",
+        "album": "Hunky Dory",
+        "track": "Fill Your Heart (2015 Remastered Version)"
+    },
+    {
+        "datetime": "2018-07-19 13:55:28",
+        "artist": "David Bowie",
+        "album": "Hunky Dory",
+        "track": "Andy Warhol (2015 Remastered Version)"
+    },
+    {
+        "datetime": "2018-07-19 16:11:48",
+        "artist": "Bob Dylan",
+        "album": "Slow Train Coming",
+        "track": "Gotta Serve Somebody"
+    },
+    {
+        "datetime": "2018-07-19 16:17:13",
+        "artist": "Bob Dylan",
+        "album": "Slow Train Coming",
+        "track": "Precious Angel"
+    },
+    {
+        "datetime": "2018-07-19 16:23:43",
+        "artist": "Bob Dylan",
+        "album": "Slow Train Coming",
+        "track": "I Believe in You"
+    },
+    {
+        "datetime": "2018-07-19 16:28:52",
+        "artist": "Bob Dylan",
+        "album": "Slow Train Coming",
+        "track": "Slow Train"
+    },
+    {
+        "datetime": "2018-07-19 17:42:19",
+        "artist": "Bob Dylan",
+        "album": "Slow Train Coming",
+        "track": "Gonna Change My Way of Thinking"
+    },
+    {
+        "datetime": "2018-07-19 17:47:48",
+        "artist": "Bob Dylan",
+        "album": "Slow Train Coming",
+        "track": "Do Right to Me Baby (Do Unto Others)"
+    },
+    {
+        "datetime": "2018-07-19 17:51:40",
+        "artist": "Bob Dylan",
+        "album": "Slow Train Coming",
+        "track": "When You Gonna Wake Up"
+    },
+    {
+        "datetime": "2018-07-19 17:57:09",
+        "artist": "Bob Dylan",
+        "album": "Slow Train Coming",
+        "track": "Man Gave Names to All the Animals"
+    },
+    {
+        "datetime": "2018-07-19 18:01:36",
+        "artist": "Bob Dylan",
+        "album": "Slow Train Coming",
+        "track": "When He Returns"
+    },
+    {
+        "datetime": "2018-07-20 09:41:02",
+        "artist": "The Rolling Stones",
+        "album": "Aftermath",
+        "track": "Paint It Black"
+    },
+    {
+        "datetime": "2018-07-20 09:44:25",
+        "artist": "The Rolling Stones",
+        "album": "Aftermath",
+        "track": "Stupid Girl"
+    },
+    {
+        "datetime": "2018-07-20 09:47:20",
+        "artist": "The Rolling Stones",
+        "album": "Aftermath",
+        "track": "Lady Jane (Mono Version)"
+    },
+    {
+        "datetime": "2018-07-20 09:50:28",
+        "artist": "The Rolling Stones",
+        "album": "Aftermath",
+        "track": "Under My Thumb"
+    },
+    {
+        "datetime": "2018-07-20 09:54:10",
+        "artist": "The Rolling Stones",
+        "album": "Aftermath",
+        "track": "Doncha Bother Me"
+    },
+    {
+        "datetime": "2018-07-20 09:56:51",
+        "artist": "The Rolling Stones",
+        "album": "Aftermath",
+        "track": "Think"
+    },
+    {
+        "datetime": "2018-07-20 10:00:01",
+        "artist": "The Rolling Stones",
+        "album": "Aftermath",
+        "track": "Flight 505"
+    },
+    {
+        "datetime": "2018-07-20 10:03:28",
+        "artist": "The Rolling Stones",
+        "album": "Aftermath",
+        "track": "High And Dry"
+    },
+    {
+        "datetime": "2018-07-20 10:06:36",
+        "artist": "The Rolling Stones",
+        "album": "Aftermath",
+        "track": "It's Not Easy"
+    },
+    {
+        "datetime": "2018-07-20 10:09:32",
+        "artist": "The Rolling Stones",
+        "album": "Aftermath",
+        "track": "I Am Waiting"
+    },
+    {
+        "datetime": "2018-07-20 10:12:43",
+        "artist": "The Rolling Stones",
+        "album": "Aftermath",
+        "track": "Goin' Home"
+    },
+    {
+        "datetime": "2018-07-20 10:28:03",
+        "artist": "Chip Taylor & Carrie Rodriguez",
+        "album": "Red Dog Tracks",
+        "track": "Must Be The Whiskey"
+    },
+    {
+        "datetime": "2018-07-20 10:32:02",
+        "artist": "Chip Taylor & Carrie Rodriguez",
+        "album": "Red Dog Tracks",
+        "track": "Keep Your Hat On Jenny"
+    },
+    {
+        "datetime": "2018-07-20 10:35:29",
+        "artist": "Chip Taylor & Carrie Rodriguez",
+        "album": "Red Dog Tracks",
+        "track": "Big Moon Shinin'"
+    },
+    {
+        "datetime": "2018-07-20 10:41:44",
+        "artist": "Chip Taylor & Carrie Rodriguez",
+        "album": "Red Dog Tracks",
+        "track": "Oh Set A Light"
+    },
+    {
+        "datetime": "2018-07-20 10:45:28",
+        "artist": "Chip Taylor & Carrie Rodriguez",
+        "album": "Red Dog Tracks",
+        "track": "Once Again, One Day . . . Will You Be Mine"
+    },
+    {
+        "datetime": "2018-07-20 10:51:03",
+        "artist": "Chip Taylor & Carrie Rodriguez",
+        "album": "Red Dog Tracks",
+        "track": "Private Thoughts"
+    },
+    {
+        "datetime": "2018-07-20 10:55:04",
+        "artist": "Chip Taylor & Carrie Rodriguez",
+        "album": "Red Dog Tracks",
+        "track": "My Bucket's Got A Hole In It"
+    },
+    {
+        "datetime": "2018-07-20 10:57:37",
+        "artist": "Chip Taylor & Carrie Rodriguez",
+        "album": "Red Dog Tracks",
+        "track": "The Wonder Of You"
+    },
+    {
+        "datetime": "2018-07-20 11:01:40",
+        "artist": "Chip Taylor & Carrie Rodriguez",
+        "album": "Red Dog Tracks",
+        "track": "I Can't Help It (If I'm Still In Love With You)"
+    },
+    {
+        "datetime": "2018-07-20 11:05:04",
+        "artist": "Chip Taylor & Carrie Rodriguez",
+        "album": "Red Dog Tracks",
+        "track": "Red Dog Tracks"
+    },
+    {
+        "datetime": "2018-07-20 11:09:52",
+        "artist": "Chip Taylor & Carrie Rodriguez",
+        "album": "Red Dog Tracks",
+        "track": "Elzick's Farewell"
+    },
+    {
+        "datetime": "2018-07-20 11:16:04",
+        "artist": "Chip Taylor & Carrie Rodriguez",
+        "album": "Red Dog Tracks",
+        "track": "Son Of Man"
+    },
+    {
+        "datetime": "2018-07-20 11:20:23",
+        "artist": "Chip Taylor & Carrie Rodriguez",
+        "album": "Red Dog Tracks",
+        "track": "Jenny Reprise"
+    },
+    {
+        "datetime": "2018-07-20 11:24:02",
+        "artist": "Chip Taylor & Carrie Rodriguez",
+        "album": "Red Dog Tracks",
+        "track": "Red Dog Tracks Alternate"
+    },
+    {
+        "datetime": "2018-07-20 11:28:19",
+        "artist": "Chip Taylor & Carrie Rodriguez",
+        "album": "Red Dog Tracks",
+        "track": "Unglorious Hallelujah"
+    },
+    {
+        "datetime": "2018-07-20 11:33:40",
+        "artist": "Chip Taylor & Carrie Rodriguez",
+        "album": "Red Dog Tracks",
+        "track": "Willow Garden"
+    },
+    {
+        "datetime": "2018-07-20 11:59:30",
+        "artist": "Birds of Chicago",
+        "album": "Love In Wartime",
+        "track": "Now / Sunlight"
+    },
+    {
+        "datetime": "2018-07-20 12:00:34",
+        "artist": "Birds of Chicago",
+        "album": "Love In Wartime",
+        "track": "Never Go Back"
+    },
+    {
+        "datetime": "2018-07-20 12:01:38",
+        "artist": "Birds of Chicago",
+        "album": "Love In Wartime",
+        "track": "Never Go Back"
+    },
+    {
+        "datetime": "2018-07-20 12:03:07",
+        "artist": "Birds of Chicago",
+        "album": "Love In Wartime",
+        "track": "Love in Wartime"
+    },
+    {
+        "datetime": "2018-07-20 12:08:56",
+        "artist": "Birds of Chicago",
+        "album": "Love In Wartime",
+        "track": "Travelers"
+    },
+    {
+        "datetime": "2018-07-20 12:13:37",
+        "artist": "Birds of Chicago",
+        "album": "Love In Wartime",
+        "track": "Try"
+    },
+    {
+        "datetime": "2018-07-20 12:18:48",
+        "artist": "Birds of Chicago",
+        "album": "Love In Wartime",
+        "track": "Lodestar"
+    },
+    {
+        "datetime": "2018-07-20 12:23:26",
+        "artist": "Birds of Chicago",
+        "album": "Love In Wartime",
+        "track": "Roll Away"
+    },
+    {
+        "datetime": "2018-07-20 12:26:06",
+        "artist": "Birds of Chicago",
+        "album": "Love In Wartime",
+        "track": "Baton Rouge"
+    },
+    {
+        "datetime": "2018-07-20 13:55:05",
+        "artist": "Birds of Chicago",
+        "album": "Love In Wartime",
+        "track": "Roisin Starchild"
+    },
+    {
+        "datetime": "2018-07-23 18:24:49",
+        "artist": "Emmylou Harris",
+        "album": "Red Dirt Girl",
+        "track": "Michelangelo"
+    },
+    {
+        "datetime": "2018-07-23 18:30:02",
+        "artist": "Emmylou Harris",
+        "album": "Red Dirt Girl",
+        "track": "I Don't Wanna Talk About It Now"
+    },
+    {
+        "datetime": "2018-07-23 18:34:47",
+        "artist": "Emmylou Harris",
+        "album": "Red Dirt Girl",
+        "track": "Tragedy"
+    },
+    {
+        "datetime": "2018-07-23 18:39:09",
+        "artist": "Emmylou Harris",
+        "album": "Red Dirt Girl",
+        "track": "Red Dirt Girl"
+    },
+    {
+        "datetime": "2018-07-23 18:43:26",
+        "artist": "Emmylou Harris",
+        "album": "Red Dirt Girl",
+        "track": "My Baby Needs a Shepherd"
+    },
+    {
+        "datetime": "2018-07-23 18:48:03",
+        "artist": "Emmylou Harris",
+        "album": "Red Dirt Girl",
+        "track": "Bang the Drum Slowly"
+    },
+    {
+        "datetime": "2018-07-23 18:52:54",
+        "artist": "Emmylou Harris",
+        "album": "Red Dirt Girl",
+        "track": "J'ai Fait Tout"
+    },
+    {
+        "datetime": "2018-07-23 18:58:24",
+        "artist": "Emmylou Harris",
+        "album": "Red Dirt Girl",
+        "track": "One Big Love"
+    },
+    {
+        "datetime": "2018-07-23 19:02:56",
+        "artist": "Emmylou Harris",
+        "album": "Red Dirt Girl",
+        "track": "Hour Of Gold"
+    },
+    {
+        "datetime": "2018-07-23 19:07:57",
+        "artist": "Emmylou Harris",
+        "album": "Red Dirt Girl",
+        "track": "My Antonia"
+    },
+    {
+        "datetime": "2018-07-23 19:11:39",
+        "artist": "Emmylou Harris",
+        "album": "Red Dirt Girl",
+        "track": "Boy From Tupelo"
+    },
+    {
+        "datetime": "2018-07-23 23:22:27",
+        "artist": "Sarah MacDougall",
+        "album": "Empire",
+        "track": "Empire"
+    },
+    {
+        "datetime": "2018-07-24 07:24:06",
+        "artist": "Cowboy Junkies",
+        "album": "All That Reckoning",
+        "track": "All That Reckoning, Pt. 1"
+    },
+    {
+        "datetime": "2018-07-24 07:27:57",
+        "artist": "Cowboy Junkies",
+        "album": "All That Reckoning",
+        "track": "When We Arrive"
+    },
+    {
+        "datetime": "2018-07-24 07:32:25",
+        "artist": "Cowboy Junkies",
+        "album": "All That Reckoning",
+        "track": "The Things We Do to Each Other"
+    },
+    {
+        "datetime": "2018-07-24 07:36:22",
+        "artist": "Cowboy Junkies",
+        "album": "All That Reckoning",
+        "track": "Wooden Stairs"
+    },
+    {
+        "datetime": "2018-07-24 07:40:42",
+        "artist": "Cowboy Junkies",
+        "album": "All That Reckoning",
+        "track": "SING ME A SONG"
+    },
+    {
+        "datetime": "2018-07-24 07:45:03",
+        "artist": "Cowboy Junkies",
+        "album": "All That Reckoning",
+        "track": "Mountain Stream"
+    },
+    {
+        "datetime": "2018-07-24 07:49:54",
+        "artist": "Cowboy Junkies",
+        "album": "All That Reckoning",
+        "track": "Missing Children"
+    },
+    {
+        "datetime": "2018-07-24 07:53:34",
+        "artist": "Cowboy Junkies",
+        "album": "All That Reckoning",
+        "track": "Shining Teeth"
+    },
+    {
+        "datetime": "2018-07-24 07:58:14",
+        "artist": "Cowboy Junkies",
+        "album": "All That Reckoning",
+        "track": "Nose Before Ear"
+    },
+    {
+        "datetime": "2018-07-24 08:02:30",
+        "artist": "Cowboy Junkies",
+        "album": "All That Reckoning",
+        "track": "All That Reckoning, Pt. 2"
+    },
+    {
+        "datetime": "2018-07-24 08:06:50",
+        "artist": "Cowboy Junkies",
+        "album": "All That Reckoning",
+        "track": "The Possessed"
+    },
+    {
+        "datetime": "2018-07-24 08:10:13",
+        "artist": "Sarah MacDougall",
+        "album": "Empire",
+        "track": "Empire"
+    },
+    {
+        "datetime": "2018-07-24 12:00:49",
+        "artist": "Sarah MacDougall",
+        "album": "Empire",
+        "track": "Empire"
+    },
+    {
+        "datetime": "2018-07-24 12:05:26",
+        "artist": "Cowboy Junkies",
+        "album": "All That Reckoning",
+        "track": "All That Reckoning, Pt. 1"
+    },
+    {
+        "datetime": "2018-07-24 12:09:17",
+        "artist": "Cowboy Junkies",
+        "album": "All That Reckoning",
+        "track": "When We Arrive"
+    },
+    {
+        "datetime": "2018-07-24 12:13:46",
+        "artist": "Cowboy Junkies",
+        "album": "All That Reckoning",
+        "track": "The Things We Do to Each Other"
+    },
+    {
+        "datetime": "2018-07-24 12:17:42",
+        "artist": "Cowboy Junkies",
+        "album": "All That Reckoning",
+        "track": "Wooden Stairs"
+    },
+    {
+        "datetime": "2018-07-24 12:22:03",
+        "artist": "Cowboy Junkies",
+        "album": "All That Reckoning",
+        "track": "SING ME A SONG"
+    },
+    {
+        "datetime": "2018-07-24 12:26:23",
+        "artist": "Cowboy Junkies",
+        "album": "All That Reckoning",
+        "track": "Mountain Stream"
+    },
+    {
+        "datetime": "2018-07-24 12:31:14",
+        "artist": "Cowboy Junkies",
+        "album": "All That Reckoning",
+        "track": "Missing Children"
+    },
+    {
+        "datetime": "2018-07-24 12:34:54",
+        "artist": "Cowboy Junkies",
+        "album": "All That Reckoning",
+        "track": "Shining Teeth"
+    },
+    {
+        "datetime": "2018-07-24 12:39:35",
+        "artist": "Cowboy Junkies",
+        "album": "All That Reckoning",
+        "track": "Nose Before Ear"
+    },
+    {
+        "datetime": "2018-07-24 12:43:51",
+        "artist": "Cowboy Junkies",
+        "album": "All That Reckoning",
+        "track": "All That Reckoning, Pt. 2"
+    },
+    {
+        "datetime": "2018-07-24 12:48:10",
+        "artist": "Cowboy Junkies",
+        "album": "All That Reckoning",
+        "track": "The Possessed"
+    },
+    {
+        "datetime": "2018-07-24 12:51:34",
+        "artist": "Sarah MacDougall",
+        "album": "Empire",
+        "track": "Empire"
+    },
+    {
+        "datetime": "2018-07-25 09:18:49",
+        "artist": "Laura Gibson",
+        "album": "Empire Builder",
+        "track": "The Cause"
+    },
+    {
+        "datetime": "2018-07-25 09:23:18",
+        "artist": "Laura Gibson",
+        "album": "Empire Builder",
+        "track": "Not Harmless"
+    },
+    {
+        "datetime": "2018-07-25 09:26:43",
+        "artist": "Laura Gibson",
+        "album": "Empire Builder",
+        "track": "FIVE AND THIRTY"
+    },
+    {
+        "datetime": "2018-07-25 09:31:27",
+        "artist": "Laura Gibson",
+        "album": "Empire Builder",
+        "track": "The Search For Dark Lake"
+    },
+    {
+        "datetime": "2018-07-25 09:37:40",
+        "artist": "Laura Gibson",
+        "album": "Empire Builder",
+        "track": "The Cause"
+    },
+    {
+        "datetime": "2018-07-25 09:42:09",
+        "artist": "Laura Gibson",
+        "album": "Empire Builder",
+        "track": "Not Harmless"
+    },
+    {
+        "datetime": "2018-07-25 09:45:32",
+        "artist": "Laura Gibson",
+        "album": "Empire Builder",
+        "track": "FIVE AND THIRTY"
+    },
+    {
+        "datetime": "2018-07-25 09:50:17",
+        "artist": "Laura Gibson",
+        "album": "Empire Builder",
+        "track": "The Search For Dark Lake"
+    },
+    {
+        "datetime": "2018-07-25 09:55:14",
+        "artist": "The Mighty Diamonds",
+        "album": "Blowin' In The Wind: A Reggae Tribute To Bob Dylan",
+        "track": "I Shall Be Released"
+    },
+    {
+        "datetime": "2018-07-25 10:11:15",
+        "artist": "The Abyssinians",
+        "album": "Blowin' In The Wind: A Reggae Tribute To Bob Dylan",
+        "track": "Blowin' In The Wind"
+    },
+    {
+        "datetime": "2018-07-25 10:15:43",
+        "artist": "Chalice",
+        "album": "Blowin' In The Wind: A Reggae Tribute To Bob Dylan",
+        "track": "Lay, Lady, Lay"
+    },
+    {
+        "datetime": "2018-07-25 10:20:40",
+        "artist": "Mankind",
+        "album": "Blowin' In The Wind: A Reggae Tribute To Bob Dylan",
+        "track": "Times They Are Changing"
+    },
+    {
+        "datetime": "2018-07-25 10:25:03",
+        "artist": "Sugar Black",
+        "album": "Blowin' In The Wind: A Reggae Tribute To Bob Dylan",
+        "track": "You're A Big Girl Now"
+    },
+    {
+        "datetime": "2018-07-25 10:29:28",
+        "artist": "Lehbanchuleh",
+        "album": "Blowin' In The Wind: A Reggae Tribute To Bob Dylan",
+        "track": "Just Like A Woman"
+    },
+    {
+        "datetime": "2018-07-25 10:33:32",
+        "artist": "Judy Mowatt",
+        "album": "Blowin' In The Wind: A Reggae Tribute To Bob Dylan",
+        "track": "Knockin' on Heaven's Door"
+    },
+    {
+        "datetime": "2018-07-25 10:37:42",
+        "artist": "Mello",
+        "album": "Blowin' In The Wind: A Reggae Tribute To Bob Dylan",
+        "track": "Silvio"
+    },
+    {
+        "datetime": "2018-07-25 10:41:36",
+        "artist": "Fourth Street Sisters",
+        "album": "Blowin' In The Wind: A Reggae Tribute To Bob Dylan",
+        "track": "Mr. Tambourine Man"
+    },
+    {
+        "datetime": "2018-07-25 10:46:39",
+        "artist": "Bradley Brown",
+        "album": "Blowin' In The Wind: A Reggae Tribute To Bob Dylan",
+        "track": "Forever Young"
+    },
+    {
+        "datetime": "2018-07-25 11:00:50",
+        "artist": "Bob Dylan",
+        "album": "Slow Train Coming",
+        "track": "Gotta Serve Somebody"
+    },
+    {
+        "datetime": "2018-07-25 11:06:15",
+        "artist": "Bob Dylan",
+        "album": "Slow Train Coming",
+        "track": "Precious Angel"
+    },
+    {
+        "datetime": "2018-07-25 11:12:45",
+        "artist": "Bob Dylan",
+        "album": "Slow Train Coming",
+        "track": "I Believe in You"
+    },
+    {
+        "datetime": "2018-07-25 11:17:54",
+        "artist": "Bob Dylan",
+        "album": "Slow Train Coming",
+        "track": "Slow Train"
+    },
+    {
+        "datetime": "2018-07-25 11:23:52",
+        "artist": "Bob Dylan",
+        "album": "Slow Train Coming",
+        "track": "Gonna Change My Way of Thinking"
+    },
+    {
+        "datetime": "2018-07-25 11:29:21",
+        "artist": "Bob Dylan",
+        "album": "Slow Train Coming",
+        "track": "Do Right to Me Baby (Do Unto Others)"
+    },
+    {
+        "datetime": "2018-07-25 11:33:13",
+        "artist": "Bob Dylan",
+        "album": "Slow Train Coming",
+        "track": "When You Gonna Wake Up"
+    },
+    {
+        "datetime": "2018-07-25 11:38:42",
+        "artist": "Bob Dylan",
+        "album": "Slow Train Coming",
+        "track": "Man Gave Names to All the Animals"
+    },
+    {
+        "datetime": "2018-07-25 11:43:09",
+        "artist": "Bob Dylan",
+        "album": "Slow Train Coming",
+        "track": "When He Returns"
+    },
+    {
+        "datetime": "2018-07-25 14:24:16",
+        "artist": "The Fall",
+        "album": "Hex Enduction Hour",
+        "track": "The Classical"
+    },
+    {
+        "datetime": "2018-07-25 14:29:32",
+        "artist": "The Fall",
+        "album": "Hex Enduction Hour",
+        "track": "Jawbone and the Air-rifle"
+    },
+    {
+        "datetime": "2018-07-25 14:33:15",
+        "artist": "The Fall",
+        "album": "Hex Enduction Hour",
+        "track": "Hip Priest"
+    },
+    {
+        "datetime": "2018-07-25 14:41:03",
+        "artist": "The Fall",
+        "album": "Hex Enduction Hour",
+        "track": "Fortress/Deer Park"
+    },
+    {
+        "datetime": "2018-07-25 14:50:33",
+        "artist": "The Fall",
+        "album": "Hex Enduction Hour",
+        "track": "Winter (Hostel-Maxi)"
+    },
+    {
+        "datetime": "2018-07-25 14:55:04",
+        "artist": "The Fall",
+        "album": "Hex Enduction Hour",
+        "track": "Winter 2"
+    },
+    {
+        "datetime": "2018-07-25 14:59:37",
+        "artist": "The Fall",
+        "album": "Hex Enduction Hour",
+        "track": "Just Stop S'ways"
+    },
+    {
+        "datetime": "2018-07-25 15:03:01",
+        "artist": "The Fall",
+        "album": "Hex Enduction Hour",
+        "track": "Who Makes the Nazis?"
+    },
+    {
+        "datetime": "2018-07-25 15:07:32",
+        "artist": "The Fall",
+        "album": "Hex Enduction Hour",
+        "track": "Iceland"
+    },
+    {
+        "datetime": "2018-07-25 15:14:14",
+        "artist": "The Fall",
+        "album": "Hex Enduction Hour",
+        "track": "And This Day"
+    },
+    {
+        "datetime": "2018-07-25 15:24:33",
+        "artist": "The Fall",
+        "album": "Hex Enduction Hour",
+        "track": "Deer Park (Live - John Peel Session 15/9/81)"
+    },
+    {
+        "datetime": "2018-07-25 15:28:59",
+        "artist": "The Fall",
+        "album": "Hex Enduction Hour",
+        "track": "Who Makes the Nazis? (Live - John Peel Session 15/9/81)"
+    },
+    {
+        "datetime": "2018-07-25 15:31:56",
+        "artist": "The Fall",
+        "album": "Hex Enduction Hour",
+        "track": "I'm in to C.B (Kamera E.R.A004 April 1982 7\" Version)"
+    },
+    {
+        "datetime": "2018-07-25 15:40:45",
+        "artist": "Scott Walker",
+        "album": "Scott 4",
+        "track": "The Seventh Seal"
+    },
+    {
+        "datetime": "2018-07-25 15:45:41",
+        "artist": "Scott Walker",
+        "album": "Scott 4",
+        "track": "On Your Own Again"
+    },
+    {
+        "datetime": "2018-07-25 15:47:26",
+        "artist": "Scott Walker",
+        "album": "Scott 4",
+        "track": "The World's Strongest Man"
+    },
+    {
+        "datetime": "2018-07-25 15:49:44",
+        "artist": "Scott Walker",
+        "album": "Scott 4",
+        "track": "Angels Of Ashes"
+    },
+    {
+        "datetime": "2018-07-25 18:08:53",
+        "artist": "Scott Walker",
+        "album": "Scott 4",
+        "track": "Boy Child"
+    },
+    {
+        "datetime": "2018-07-25 18:12:29",
+        "artist": "Scott Walker",
+        "album": "Scott 4",
+        "track": "Hero Of The War"
+    },
+    {
+        "datetime": "2018-07-25 18:14:54",
+        "artist": "Scott Walker",
+        "album": "Scott 4",
+        "track": "The Old Man's Back Again (Dedicated To The Neo-Stalinist Regime)"
+    },
+    {
+        "datetime": "2018-07-25 18:18:34",
+        "artist": "Scott Walker",
+        "album": "Scott 4",
+        "track": "Duchess"
+    },
+    {
+        "datetime": "2018-07-25 18:21:23",
+        "artist": "Scott Walker",
+        "album": "Scott 4",
+        "track": "Get Behind Me"
+    },
+    {
+        "datetime": "2018-07-25 18:24:35",
+        "artist": "Scott Walker",
+        "album": "Scott 4",
+        "track": "Rhymes Of Goodbye"
+    },
+    {
+        "datetime": "2018-07-26 09:06:24",
+        "artist": "Laura Gibson",
+        "album": "Empire Builder",
+        "track": "The Cause"
+    },
+    {
+        "datetime": "2018-07-26 09:10:53",
+        "artist": "Laura Gibson",
+        "album": "Empire Builder",
+        "track": "Not Harmless"
+    },
+    {
+        "datetime": "2018-07-26 09:14:14",
+        "artist": "Laura Gibson",
+        "album": "Empire Builder",
+        "track": "FIVE AND THIRTY"
+    },
+    {
+        "datetime": "2018-07-26 09:18:58",
+        "artist": "Laura Gibson",
+        "album": "Empire Builder",
+        "track": "The Search For Dark Lake"
+    },
+    {
+        "datetime": "2018-07-26 09:24:40",
+        "artist": "Laura Gibson",
+        "album": "Empire Builder",
+        "track": "The Cause"
+    },
+    {
+        "datetime": "2018-07-26 09:29:09",
+        "artist": "Laura Gibson",
+        "album": "Empire Builder",
+        "track": "Not Harmless"
+    },
+    {
+        "datetime": "2018-07-26 09:32:32",
+        "artist": "Laura Gibson",
+        "album": "Empire Builder",
+        "track": "FIVE AND THIRTY"
+    },
+    {
+        "datetime": "2018-07-26 09:37:16",
+        "artist": "Laura Gibson",
+        "album": "Empire Builder",
+        "track": "The Search For Dark Lake"
+    },
+    {
+        "datetime": "2018-07-26 11:14:25",
+        "artist": "Cowboy Junkies",
+        "album": "All That Reckoning",
+        "track": "All That Reckoning, Pt. 1"
+    },
+    {
+        "datetime": "2018-07-26 11:18:17",
+        "artist": "Cowboy Junkies",
+        "album": "All That Reckoning",
+        "track": "When We Arrive"
+    },
+    {
+        "datetime": "2018-07-26 11:22:46",
+        "artist": "Cowboy Junkies",
+        "album": "All That Reckoning",
+        "track": "The Things We Do to Each Other"
+    },
+    {
+        "datetime": "2018-07-26 11:26:42",
+        "artist": "Cowboy Junkies",
+        "album": "All That Reckoning",
+        "track": "Wooden Stairs"
+    },
+    {
+        "datetime": "2018-07-26 11:31:02",
+        "artist": "Cowboy Junkies",
+        "album": "All That Reckoning",
+        "track": "SING ME A SONG"
+    },
+    {
+        "datetime": "2018-07-26 11:35:23",
+        "artist": "Cowboy Junkies",
+        "album": "All That Reckoning",
+        "track": "Mountain Stream"
+    },
+    {
+        "datetime": "2018-07-26 11:40:14",
+        "artist": "Cowboy Junkies",
+        "album": "All That Reckoning",
+        "track": "Missing Children"
+    },
+    {
+        "datetime": "2018-07-26 11:43:54",
+        "artist": "Cowboy Junkies",
+        "album": "All That Reckoning",
+        "track": "Shining Teeth"
+    },
+    {
+        "datetime": "2018-07-26 11:48:34",
+        "artist": "Cowboy Junkies",
+        "album": "All That Reckoning",
+        "track": "Nose Before Ear"
+    },
+    {
+        "datetime": "2018-07-26 11:52:50",
+        "artist": "Cowboy Junkies",
+        "album": "All That Reckoning",
+        "track": "All That Reckoning, Pt. 2"
+    },
+    {
+        "datetime": "2018-07-26 11:57:10",
+        "artist": "Cowboy Junkies",
+        "album": "All That Reckoning",
+        "track": "The Possessed"
+    },
+    {
+        "datetime": "2018-07-26 13:44:33",
+        "artist": "The Rolling Stones",
+        "album": "Aftermath",
+        "track": "Paint It Black"
+    },
+    {
+        "datetime": "2018-07-26 13:47:55",
+        "artist": "The Rolling Stones",
+        "album": "Aftermath",
+        "track": "Stupid Girl"
+    },
+    {
+        "datetime": "2018-07-26 13:50:51",
+        "artist": "The Rolling Stones",
+        "album": "Aftermath",
+        "track": "Lady Jane (Mono Version)"
+    },
+    {
+        "datetime": "2018-07-26 13:53:59",
+        "artist": "The Rolling Stones",
+        "album": "Aftermath",
+        "track": "Under My Thumb"
+    },
+    {
+        "datetime": "2018-07-26 14:51:43",
+        "artist": "The Rolling Stones",
+        "album": "Aftermath",
+        "track": "Doncha Bother Me"
+    },
+    {
+        "datetime": "2018-07-26 14:54:24",
+        "artist": "The Rolling Stones",
+        "album": "Aftermath",
+        "track": "Think"
+    },
+    {
+        "datetime": "2018-07-26 14:57:34",
+        "artist": "The Rolling Stones",
+        "album": "Aftermath",
+        "track": "Flight 505"
+    },
+    {
+        "datetime": "2018-07-26 15:01:01",
+        "artist": "The Rolling Stones",
+        "album": "Aftermath",
+        "track": "High And Dry"
+    },
+    {
+        "datetime": "2018-07-26 15:04:09",
+        "artist": "The Rolling Stones",
+        "album": "Aftermath",
+        "track": "It's Not Easy"
+    },
+    {
+        "datetime": "2018-07-26 15:07:06",
+        "artist": "The Rolling Stones",
+        "album": "Aftermath",
+        "track": "I Am Waiting"
+    },
+    {
+        "datetime": "2018-07-26 15:10:17",
+        "artist": "The Rolling Stones",
+        "album": "Aftermath",
+        "track": "Goin' Home"
+    },
+    {
+        "datetime": "2018-07-26 17:15:55",
+        "artist": "Eliza Gilkyson",
+        "album": "Secularia",
+        "track": "Solitary Singer"
+    },
+    {
+        "datetime": "2018-07-26 17:19:11",
+        "artist": "Eliza Gilkyson",
+        "album": "Secularia",
+        "track": "Lifelines"
+    },
+    {
+        "datetime": "2018-07-26 17:23:16",
+        "artist": "Eliza Gilkyson",
+        "album": "Secularia",
+        "track": "Conservation"
+    },
+    {
+        "datetime": "2018-07-26 17:27:14",
+        "artist": "Eliza Gilkyson",
+        "album": "Secularia",
+        "track": "In the Name of the Lord"
+    },
+    {
+        "datetime": "2018-07-26 17:31:24",
+        "artist": "Eliza Gilkyson",
+        "album": "Secularia",
+        "track": "Dreamtime"
+    },
+    {
+        "datetime": "2018-07-26 17:35:21",
+        "artist": "Eliza Gilkyson",
+        "album": "Secularia",
+        "track": "Seculare"
+    },
+    {
+        "datetime": "2018-07-26 17:39:55",
+        "artist": "Eliza Gilkyson",
+        "album": "Secularia",
+        "track": "Reunion"
+    },
+    {
+        "datetime": "2018-07-27 09:34:52",
+        "artist": "Cowboy Junkies",
+        "album": "All That Reckoning",
+        "track": "All That Reckoning, Pt. 1"
+    },
+    {
+        "datetime": "2018-07-27 09:38:44",
+        "artist": "Cowboy Junkies",
+        "album": "All That Reckoning",
+        "track": "When We Arrive"
+    },
+    {
+        "datetime": "2018-07-27 09:43:13",
+        "artist": "Cowboy Junkies",
+        "album": "All That Reckoning",
+        "track": "The Things We Do to Each Other"
+    },
+    {
+        "datetime": "2018-07-27 09:47:08",
+        "artist": "Cowboy Junkies",
+        "album": "All That Reckoning",
+        "track": "Wooden Stairs"
+    },
+    {
+        "datetime": "2018-07-27 09:51:29",
+        "artist": "Cowboy Junkies",
+        "album": "All That Reckoning",
+        "track": "SING ME A SONG"
+    },
+    {
+        "datetime": "2018-07-27 09:55:50",
+        "artist": "Cowboy Junkies",
+        "album": "All That Reckoning",
+        "track": "Mountain Stream"
+    },
+    {
+        "datetime": "2018-07-27 10:00:41",
+        "artist": "Cowboy Junkies",
+        "album": "All That Reckoning",
+        "track": "Missing Children"
+    },
+    {
+        "datetime": "2018-07-27 10:04:21",
+        "artist": "Cowboy Junkies",
+        "album": "All That Reckoning",
+        "track": "Shining Teeth"
+    },
+    {
+        "datetime": "2018-07-27 10:09:01",
+        "artist": "Cowboy Junkies",
+        "album": "All That Reckoning",
+        "track": "Nose Before Ear"
+    },
+    {
+        "datetime": "2018-07-27 10:13:17",
+        "artist": "Cowboy Junkies",
+        "album": "All That Reckoning",
+        "track": "All That Reckoning, Pt. 2"
+    },
+    {
+        "datetime": "2018-07-27 10:22:56",
+        "artist": "Cowboy Junkies",
+        "album": "All That Reckoning",
+        "track": "The Possessed"
+    },
+    {
+        "datetime": "2018-07-27 10:48:48",
+        "artist": "The Human League",
+        "album": "Travelogue",
+        "track": "Only After Dark (2003 - Remaster)"
+    },
+    {
+        "datetime": "2018-07-27 10:52:38",
+        "artist": "The Human League",
+        "album": "Travelogue",
+        "track": "Life Kills (2003 - Remaster)"
+    },
+    {
+        "datetime": "2018-07-27 11:12:46",
+        "artist": "The Human League",
+        "album": "Travelogue",
+        "track": "Dreams Of Leaving (2003 Digital Remaster)"
+    },
+    {
+        "datetime": "2018-07-27 11:18:36",
+        "artist": "The Human League",
+        "album": "Travelogue",
+        "track": "Toyota City (2003 Digital Remaster)"
+    },
+    {
+        "datetime": "2018-07-27 11:22:00",
+        "artist": "The Human League",
+        "album": "Travelogue",
+        "track": "Crow And A Baby (2003 Digital Remaster)"
+    },
+    {
+        "datetime": "2018-07-27 11:25:43",
+        "artist": "The Human League",
+        "album": "Travelogue",
+        "track": "The Touchables (2003 - Remaster)"
+    },
+    {
+        "datetime": "2018-07-27 11:36:27",
+        "artist": "The Human League",
+        "album": "Travelogue",
+        "track": "Gordon's Gin (2003 Digital Remaster)"
+    },
+    {
+        "datetime": "2018-07-27 11:39:26",
+        "artist": "The Human League",
+        "album": "Travelogue",
+        "track": "Being Boiled (2003 - Remaster)"
+    },
+    {
+        "datetime": "2018-07-27 11:43:48",
+        "artist": "The Human League",
+        "album": "Travelogue",
+        "track": "WXJL Tonight (2003 Digital Remaster)"
+    },
+    {
+        "datetime": "2018-07-27 11:48:28",
+        "artist": "The Human League",
+        "album": "Travelogue",
+        "track": "Marianne (2003 - Remaster)"
+    },
+    {
+        "datetime": "2018-07-27 11:51:47",
+        "artist": "The Human League",
+        "album": "Travelogue",
+        "track": "Dancevision (2003 Digital Remaster)"
+    },
+    {
+        "datetime": "2018-07-27 11:54:09",
+        "artist": "The Human League",
+        "album": "Travelogue",
+        "track": "Rock 'N' Roll / Night Clubbing (2003 Digital Remaster)"
+    },
+    {
+        "datetime": "2018-07-27 12:00:33",
+        "artist": "The Human League",
+        "album": "Travelogue",
+        "track": "Tom Baker (2003 Digital Remaster)"
+    },
+    {
+        "datetime": "2018-07-27 12:04:35",
+        "artist": "The Human League",
+        "album": "Travelogue",
+        "track": "Boys And Girls (2003 Digital Remaster)"
+    },
+    {
+        "datetime": "2018-07-27 12:07:50",
+        "artist": "The Men",
+        "album": "Travelogue",
+        "track": "I Don't Depend On You (2003 - Remaster)"
+    },
+    {
+        "datetime": "2018-07-27 12:12:25",
+        "artist": "The Men",
+        "album": "Travelogue",
+        "track": "Cruel (2003 Digital Remaster)"
+    },
+    {
+        "datetime": "2018-07-27 14:02:05",
+        "artist": "Eliza Gilkyson",
+        "album": "Secularia",
+        "track": "Solitary Singer"
+    },
+    {
+        "datetime": "2018-07-27 14:05:21",
+        "artist": "Eliza Gilkyson",
+        "album": "Secularia",
+        "track": "Lifelines"
+    },
+    {
+        "datetime": "2018-07-27 14:09:26",
+        "artist": "Eliza Gilkyson",
+        "album": "Secularia",
+        "track": "Conservation"
+    },
+    {
+        "datetime": "2018-07-27 14:13:24",
+        "artist": "Eliza Gilkyson",
+        "album": "Secularia",
+        "track": "In the Name of the Lord"
+    },
+    {
+        "datetime": "2018-07-27 14:17:34",
+        "artist": "Eliza Gilkyson",
+        "album": "Secularia",
+        "track": "Dreamtime"
+    },
+    {
+        "datetime": "2018-07-27 14:21:32",
+        "artist": "Eliza Gilkyson",
+        "album": "Secularia",
+        "track": "Seculare"
+    },
+    {
+        "datetime": "2018-07-27 14:26:05",
+        "artist": "Eliza Gilkyson",
+        "album": "Secularia",
+        "track": "Reunion"
+    },
+    {
+        "datetime": "2018-07-27 14:30:52",
+        "artist": "Eliza Gilkyson",
+        "album": "Secularia",
+        "track": "Sanctuary"
+    },
+    {
+        "datetime": "2018-07-27 14:34:38",
+        "artist": "Eliza Gilkyson",
+        "album": "Secularia",
+        "track": "Through the Looking Glass"
+    },
+    {
+        "datetime": "2018-07-27 14:38:39",
+        "artist": "Eliza Gilkyson",
+        "album": "Secularia",
+        "track": "Emmanuelle"
+    },
+    {
+        "datetime": "2018-07-27 14:44:57",
+        "artist": "Eliza Gilkyson",
+        "album": "Secularia",
+        "track": "Down by the Riverside"
+    },
+    {
+        "datetime": "2018-07-27 14:50:22",
+        "artist": "Eliza Gilkyson",
+        "album": "Secularia",
+        "track": "Instrument"
+    },
+    {
+        "datetime": "2018-07-27 15:16:22",
+        "artist": "The Rolling Stones",
+        "album": "Aftermath",
+        "track": "Paint It Black"
+    },
+    {
+        "datetime": "2018-07-27 15:19:45",
+        "artist": "The Rolling Stones",
+        "album": "Aftermath",
+        "track": "Stupid Girl"
+    },
+    {
+        "datetime": "2018-07-27 16:06:17",
+        "artist": "The Rolling Stones",
+        "album": "Aftermath",
+        "track": "Lady Jane (Mono Version)"
+    },
+    {
+        "datetime": "2018-07-27 16:09:25",
+        "artist": "The Rolling Stones",
+        "album": "Aftermath",
+        "track": "Under My Thumb"
+    },
+    {
+        "datetime": "2018-07-27 16:13:07",
+        "artist": "The Rolling Stones",
+        "album": "Aftermath",
+        "track": "Doncha Bother Me"
+    },
+    {
+        "datetime": "2018-07-27 16:15:48",
+        "artist": "The Rolling Stones",
+        "album": "Aftermath",
+        "track": "Think"
+    },
+    {
+        "datetime": "2018-07-27 16:32:20",
+        "artist": "The Rolling Stones",
+        "album": "Aftermath",
+        "track": "Flight 505"
+    },
+    {
+        "datetime": "2018-07-27 16:35:47",
+        "artist": "The Rolling Stones",
+        "album": "Aftermath",
+        "track": "High And Dry"
+    },
+    {
+        "datetime": "2018-07-27 16:38:55",
+        "artist": "The Rolling Stones",
+        "album": "Aftermath",
+        "track": "It's Not Easy"
+    },
+    {
+        "datetime": "2018-07-27 16:41:51",
+        "artist": "The Rolling Stones",
+        "album": "Aftermath",
+        "track": "I Am Waiting"
+    },
+    {
+        "datetime": "2018-07-27 16:45:02",
+        "artist": "The Rolling Stones",
+        "album": "Aftermath",
+        "track": "Goin' Home"
+    },
+    {
+        "datetime": "2018-07-27 16:57:38",
+        "artist": "Kate Bush",
+        "album": "The Kick Inside",
+        "track": "Moving"
+    },
+    {
+        "datetime": "2018-07-27 17:00:40",
+        "artist": "Kate Bush",
+        "album": "The Kick Inside",
+        "track": "The Saxophone Song"
+    },
+    {
+        "datetime": "2018-07-27 17:04:33",
+        "artist": "Kate Bush",
+        "album": "The Kick Inside",
+        "track": "Strange Phenomena"
+    },
+    {
+        "datetime": "2018-07-27 17:07:32",
+        "artist": "Kate Bush",
+        "album": "The Kick Inside",
+        "track": "Kite"
+    },
+    {
+        "datetime": "2018-07-27 17:10:29",
+        "artist": "Kate Bush",
+        "album": "The Kick Inside",
+        "track": "The Man With the Child in His Eyes"
+    },
+    {
+        "datetime": "2018-07-27 17:13:08",
+        "artist": "Kate Bush",
+        "album": "The Kick Inside",
+        "track": "Wuthering Heights"
+    },
+    {
+        "datetime": "2018-07-27 17:17:37",
+        "artist": "Kate Bush",
+        "album": "The Kick Inside",
+        "track": "James and the Cold Gun"
+    },
+    {
+        "datetime": "2018-07-27 17:21:15",
+        "artist": "Kate Bush",
+        "album": "The Kick Inside",
+        "track": "Feel It"
+    },
+    {
+        "datetime": "2018-07-27 17:24:17",
+        "artist": "Kate Bush",
+        "album": "The Kick Inside",
+        "track": "Oh to Be in Love"
+    },
+    {
+        "datetime": "2018-07-30 07:28:44",
+        "artist": "Eliza Gilkyson",
+        "album": "Secularia",
+        "track": "Solitary Singer"
+    },
+    {
+        "datetime": "2018-07-30 07:32:00",
+        "artist": "Eliza Gilkyson",
+        "album": "Secularia",
+        "track": "Lifelines"
+    },
+    {
+        "datetime": "2018-07-30 07:36:05",
+        "artist": "Eliza Gilkyson",
+        "album": "Secularia",
+        "track": "Conservation"
+    },
+    {
+        "datetime": "2018-07-30 07:40:03",
+        "artist": "Eliza Gilkyson",
+        "album": "Secularia",
+        "track": "In the Name of the Lord"
+    },
+    {
+        "datetime": "2018-07-30 07:44:14",
+        "artist": "Eliza Gilkyson",
+        "album": "Secularia",
+        "track": "Dreamtime"
+    },
+    {
+        "datetime": "2018-07-30 07:48:11",
+        "artist": "Eliza Gilkyson",
+        "album": "Secularia",
+        "track": "Seculare"
+    },
+    {
+        "datetime": "2018-07-30 07:52:44",
+        "artist": "Eliza Gilkyson",
+        "album": "Secularia",
+        "track": "Reunion"
+    },
+    {
+        "datetime": "2018-07-30 07:57:31",
+        "artist": "Eliza Gilkyson",
+        "album": "Secularia",
+        "track": "Sanctuary"
+    },
+    {
+        "datetime": "2018-07-30 08:01:17",
+        "artist": "Eliza Gilkyson",
+        "album": "Secularia",
+        "track": "Through the Looking Glass"
+    },
+    {
+        "datetime": "2018-07-30 08:05:18",
+        "artist": "Eliza Gilkyson",
+        "album": "Secularia",
+        "track": "Emmanuelle"
+    },
+    {
+        "datetime": "2018-07-30 08:11:37",
+        "artist": "Eliza Gilkyson",
+        "album": "Secularia",
+        "track": "Down by the Riverside"
+    },
+    {
+        "datetime": "2018-07-30 08:17:01",
+        "artist": "Eliza Gilkyson",
+        "album": "Secularia",
+        "track": "Instrument"
+    },
+    {
+        "datetime": "2018-07-30 08:21:32",
+        "artist": "Sarah MacDougall",
+        "album": "Empire",
+        "track": "Empire"
+    },
+    {
+        "datetime": "2018-07-30 17:26:09",
+        "artist": "Roddy Frame",
+        "album": "Seven Dials",
+        "track": "White Pony"
+    },
+    {
+        "datetime": "2018-07-30 17:29:55",
+        "artist": "Roddy Frame",
+        "album": "Seven Dials",
+        "track": "Postcard"
+    },
+    {
+        "datetime": "2018-07-30 17:33:39",
+        "artist": "Roddy Frame",
+        "album": "Seven Dials",
+        "track": "Into The Sun"
+    },
+    {
+        "datetime": "2018-07-30 17:37:30",
+        "artist": "Roddy Frame",
+        "album": "Seven Dials",
+        "track": "Rear View Mirror"
+    },
+    {
+        "datetime": "2018-07-30 17:40:55",
+        "artist": "Roddy Frame",
+        "album": "Seven Dials",
+        "track": "In Orbit"
+    },
+    {
+        "datetime": "2018-07-30 17:44:11",
+        "artist": "Roddy Frame",
+        "album": "Seven Dials",
+        "track": "Forty Days Of Rain"
+    },
+    {
+        "datetime": "2018-07-30 17:48:00",
+        "artist": "Roddy Frame",
+        "album": "Seven Dials",
+        "track": "English Garden"
+    },
+    {
+        "datetime": "2018-07-30 17:52:17",
+        "artist": "Roddy Frame",
+        "album": "Seven Dials",
+        "track": "On The Waves"
+    },
+    {
+        "datetime": "2018-07-30 17:55:43",
+        "artist": "Roddy Frame",
+        "album": "Seven Dials",
+        "track": "The Other Side"
+    },
+    {
+        "datetime": "2018-07-30 17:59:35",
+        "artist": "Roddy Frame",
+        "album": "Seven Dials",
+        "track": "From A Train"
+    },
+    {
+        "datetime": "2018-07-30 18:03:17",
+        "artist": "Robert Plant",
+        "album": "Carry Fire",
+        "track": "The May Queen"
+    },
+    {
+        "datetime": "2018-07-30 18:07:31",
+        "artist": "Robert Plant",
+        "album": "Carry Fire",
+        "track": "New World..."
+    },
+    {
+        "datetime": "2018-07-30 18:10:59",
+        "artist": "Robert Plant",
+        "album": "Carry Fire",
+        "track": "Season's Song"
+    },
+    {
+        "datetime": "2018-07-30 18:15:19",
+        "artist": "Robert Plant",
+        "album": "Carry Fire",
+        "track": "Dance With You Tonight"
+    },
+    {
+        "datetime": "2018-07-30 18:20:07",
+        "artist": "Robert Plant",
+        "album": "Carry Fire",
+        "track": "Carving Up the World Again...a Wall and Not a Fence"
+    },
+    {
+        "datetime": "2018-07-30 18:24:01",
+        "artist": "Robert Plant",
+        "album": "Carry Fire",
+        "track": "A Way With Words"
+    },
+    {
+        "datetime": "2018-07-30 18:29:19",
+        "artist": "Robert Plant",
+        "album": "Carry Fire",
+        "track": "Carry Fire"
+    },
+    {
+        "datetime": "2018-07-30 18:34:45",
+        "artist": "Robert Plant",
+        "album": "Carry Fire",
+        "track": "BONES OF SAINTS"
+    },
+    {
+        "datetime": "2018-07-30 19:34:46",
+        "artist": "Robert Plant",
+        "album": "Carry Fire",
+        "track": "KEEP IT HID"
+    },
+    {
+        "datetime": "2018-07-30 19:38:54",
+        "artist": "Robert Plant",
+        "album": "Carry Fire",
+        "track": "Bluebirds Over the Mountain"
+    },
+    {
+        "datetime": "2018-07-30 19:43:53",
+        "artist": "Robert Plant",
+        "album": "Carry Fire",
+        "track": "Heaven Sent"
+    },
+    {
+        "datetime": "2018-07-30 19:48:35",
+        "artist": "Roxy Music",
+        "album": "Siren",
+        "track": "Love Is the Drug"
+    },
+    {
+        "datetime": "2018-07-30 19:52:47",
+        "artist": "Roxy Music",
+        "album": "Siren",
+        "track": "End of the Line"
+    },
+    {
+        "datetime": "2018-07-30 19:58:01",
+        "artist": "Roxy Music",
+        "album": "Siren",
+        "track": "Sentimental Fool"
+    },
+    {
+        "datetime": "2018-07-30 20:04:15",
+        "artist": "Roxy Music",
+        "album": "Siren",
+        "track": "Whirlwind"
+    },
+    {
+        "datetime": "2018-07-30 20:07:53",
+        "artist": "Roxy Music",
+        "album": "Siren",
+        "track": "She Sells"
+    },
+    {
+        "datetime": "2018-07-30 20:11:32",
+        "artist": "Roxy Music",
+        "album": "Siren",
+        "track": "Could It Happen to Me?"
+    },
+    {
+        "datetime": "2018-07-30 20:15:09",
+        "artist": "Roxy Music",
+        "album": "Siren",
+        "track": "Both Ends Burning"
+    },
+    {
+        "datetime": "2018-07-30 20:20:26",
+        "artist": "Roxy Music",
+        "album": "Siren",
+        "track": "Nightingale"
+    },
+    {
+        "datetime": "2018-07-30 20:24:37",
+        "artist": "Roxy Music",
+        "album": "Siren",
+        "track": "Just Another High"
+    },
+    {
+        "datetime": "2018-07-31 09:06:14",
+        "artist": "The Human League",
+        "album": "Travelogue",
+        "track": "The Black Hit Of Space (2003 Digital Remaster)"
+    },
+    {
+        "datetime": "2018-07-31 09:10:26",
+        "artist": "The Human League",
+        "album": "Travelogue",
+        "track": "Only After Dark (2003 - Remaster)"
+    },
+    {
+        "datetime": "2018-07-31 09:14:17",
+        "artist": "The Human League",
+        "album": "Travelogue",
+        "track": "Life Kills (2003 - Remaster)"
+    },
+    {
+        "datetime": "2018-07-31 09:17:25",
+        "artist": "The Human League",
+        "album": "Travelogue",
+        "track": "Dreams Of Leaving (2003 Digital Remaster)"
+    },
+    {
+        "datetime": "2018-07-31 09:23:15",
+        "artist": "The Human League",
+        "album": "Travelogue",
+        "track": "Toyota City (2003 Digital Remaster)"
+    },
+    {
+        "datetime": "2018-07-31 09:26:39",
+        "artist": "The Human League",
+        "album": "Travelogue",
+        "track": "Crow And A Baby (2003 Digital Remaster)"
+    },
+    {
+        "datetime": "2018-07-31 09:30:22",
+        "artist": "The Human League",
+        "album": "Travelogue",
+        "track": "The Touchables (2003 - Remaster)"
+    },
+    {
+        "datetime": "2018-07-31 09:33:44",
+        "artist": "The Human League",
+        "album": "Travelogue",
+        "track": "Gordon's Gin (2003 Digital Remaster)"
+    },
+    {
+        "datetime": "2018-07-31 09:36:42",
+        "artist": "The Human League",
+        "album": "Travelogue",
+        "track": "Being Boiled (2003 - Remaster)"
+    },
+    {
+        "datetime": "2018-07-31 09:41:04",
+        "artist": "The Human League",
+        "album": "Travelogue",
+        "track": "WXJL Tonight (2003 Digital Remaster)"
+    },
+    {
+        "datetime": "2018-07-31 09:45:44",
+        "artist": "The Human League",
+        "album": "Travelogue",
+        "track": "Marianne (2003 - Remaster)"
+    },
+    {
+        "datetime": "2018-07-31 09:49:03",
+        "artist": "The Human League",
+        "album": "Travelogue",
+        "track": "Dancevision (2003 Digital Remaster)"
+    },
+    {
+        "datetime": "2018-07-31 09:51:25",
+        "artist": "The Human League",
+        "album": "Travelogue",
+        "track": "Rock 'N' Roll / Night Clubbing (2003 Digital Remaster)"
+    },
+    {
+        "datetime": "2018-07-31 09:57:49",
+        "artist": "The Human League",
+        "album": "Travelogue",
+        "track": "Tom Baker (2003 Digital Remaster)"
+    },
+    {
+        "datetime": "2018-07-31 10:01:51",
+        "artist": "The Human League",
+        "album": "Travelogue",
+        "track": "Boys And Girls (2003 Digital Remaster)"
+    },
+    {
+        "datetime": "2018-07-31 10:05:06",
+        "artist": "The Men",
+        "album": "Travelogue",
+        "track": "I Don't Depend On You (2003 - Remaster)"
+    },
+    {
+        "datetime": "2018-07-31 10:09:42",
+        "artist": "The Men",
+        "album": "Travelogue",
+        "track": "Cruel (2003 Digital Remaster)"
+    },
+    {
+        "datetime": "2018-07-31 15:36:13",
+        "artist": "Grace Jones",
+        "album": "Hurricane",
+        "track": "This Is"
+    },
+    {
+        "datetime": "2018-07-31 15:41:53",
+        "artist": "Grace Jones",
+        "album": "Hurricane",
+        "track": "Williams' Blood"
+    },
+    {
+        "datetime": "2018-07-31 15:47:53",
+        "artist": "Grace Jones",
+        "album": "Hurricane",
+        "track": "Corporate Cannibal"
+    },
+    {
+        "datetime": "2018-07-31 15:53:48",
+        "artist": "Grace Jones",
+        "album": "Hurricane",
+        "track": "I'm Crying (Mother's Tears)"
+    },
+    {
+        "datetime": "2018-07-31 15:58:23",
+        "artist": "Grace Jones",
+        "album": "Hurricane",
+        "track": "Well Well Well"
+    },
+    {
+        "datetime": "2018-07-31 16:02:17",
+        "artist": "Grace Jones",
+        "album": "Hurricane",
+        "track": "Hurricane"
+    },
+    {
+        "datetime": "2018-07-31 16:08:51",
+        "artist": "Grace Jones",
+        "album": "Hurricane",
+        "track": "Love You to Life"
+    },
+    {
+        "datetime": "2018-07-31 16:14:13",
+        "artist": "Grace Jones",
+        "album": "Hurricane",
+        "track": "Sunset Sunrise"
+    }
+]

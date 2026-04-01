@@ -1,0 +1,3968 @@
+[
+    {
+        "datetime": "2020-06-01 13:33:15",
+        "artist": "Lou Reed",
+        "album": "Transformer",
+        "track": "Vicious"
+    },
+    {
+        "datetime": "2020-06-01 13:36:12",
+        "artist": "Lou Reed",
+        "album": "Transformer",
+        "track": "Andy's Chest"
+    },
+    {
+        "datetime": "2020-06-01 13:39:31",
+        "artist": "Lou Reed",
+        "album": "Transformer",
+        "track": "Perfect Day"
+    },
+    {
+        "datetime": "2020-06-01 13:43:15",
+        "artist": "Lou Reed",
+        "album": "Transformer",
+        "track": "Hangin' 'Round"
+    },
+    {
+        "datetime": "2020-06-01 13:46:49",
+        "artist": "Lou Reed",
+        "album": "Transformer",
+        "track": "Walk on the Wild Side"
+    },
+    {
+        "datetime": "2020-06-01 13:51:03",
+        "artist": "Lou Reed",
+        "album": "Transformer",
+        "track": "Make Up"
+    },
+    {
+        "datetime": "2020-06-01 13:54:02",
+        "artist": "Lou Reed",
+        "album": "Transformer",
+        "track": "Satellite of Love"
+    },
+    {
+        "datetime": "2020-06-01 13:57:42",
+        "artist": "Lou Reed",
+        "album": "Transformer",
+        "track": "Wagon Wheel"
+    },
+    {
+        "datetime": "2020-06-01 14:01:02",
+        "artist": "Lou Reed",
+        "album": "Transformer",
+        "track": "New York Telephone Conversation"
+    },
+    {
+        "datetime": "2020-06-01 14:02:34",
+        "artist": "Lou Reed",
+        "album": "Transformer",
+        "track": "I'm So Free"
+    },
+    {
+        "datetime": "2020-06-01 14:05:44",
+        "artist": "Lou Reed",
+        "album": "Transformer",
+        "track": "Goodnight Ladies"
+    },
+    {
+        "datetime": "2020-06-01 15:06:18",
+        "artist": "The Low Anthem",
+        "album": "Oh My God, Charlie Darwin",
+        "track": "Charlie Darwin"
+    },
+    {
+        "datetime": "2020-06-01 15:10:51",
+        "artist": "The Low Anthem",
+        "album": "Oh My God, Charlie Darwin",
+        "track": "To Ohio"
+    },
+    {
+        "datetime": "2020-06-01 15:14:08",
+        "artist": "The Low Anthem",
+        "album": "Oh My God, Charlie Darwin",
+        "track": "Ticket Taker"
+    },
+    {
+        "datetime": "2020-06-01 15:17:17",
+        "artist": "The Low Anthem",
+        "album": "Oh My God, Charlie Darwin",
+        "track": "The Horizon Is A Beltway"
+    },
+    {
+        "datetime": "2020-06-01 15:20:06",
+        "artist": "The Low Anthem",
+        "album": "Oh My God, Charlie Darwin",
+        "track": "Home I'll Never Be"
+    },
+    {
+        "datetime": "2020-06-01 15:22:53",
+        "artist": "The Low Anthem",
+        "album": "Oh My God, Charlie Darwin",
+        "track": "Cage The Songbird"
+    },
+    {
+        "datetime": "2020-06-01 15:26:55",
+        "artist": "The Low Anthem",
+        "album": "Oh My God, Charlie Darwin",
+        "track": "(Don't) Tremble"
+    },
+    {
+        "datetime": "2020-06-01 15:31:31",
+        "artist": "The Low Anthem",
+        "album": "Oh My God, Charlie Darwin",
+        "track": "Music Box"
+    },
+    {
+        "datetime": "2020-06-01 15:33:22",
+        "artist": "The Low Anthem",
+        "album": "Oh My God, Charlie Darwin",
+        "track": "Champion Angel"
+    },
+    {
+        "datetime": "2020-06-01 15:38:55",
+        "artist": "The Low Anthem",
+        "album": "Oh My God, Charlie Darwin",
+        "track": "To the Ghosts Who Write History Books"
+    },
+    {
+        "datetime": "2020-06-01 15:42:23",
+        "artist": "The Low Anthem",
+        "album": "Oh My God, Charlie Darwin",
+        "track": "OMGCD"
+    },
+    {
+        "datetime": "2020-06-01 15:44:17",
+        "artist": "The Low Anthem",
+        "album": "Oh My God, Charlie Darwin",
+        "track": "To Ohio (Reprise)"
+    },
+    {
+        "datetime": "2020-06-01 17:34:22",
+        "artist": "Marc Bolan",
+        "album": "Zinc Alloy And The Hidden Riders Of Tomorrow",
+        "track": "Change (2012 Remaster)"
+    },
+    {
+        "datetime": "2020-06-02 10:32:07",
+        "artist": "Eliza Gilkyson",
+        "album": "Secularia",
+        "track": "Solitary Singer"
+    },
+    {
+        "datetime": "2020-06-02 10:35:23",
+        "artist": "Eliza Gilkyson",
+        "album": "Secularia",
+        "track": "Lifelines"
+    },
+    {
+        "datetime": "2020-06-02 10:39:29",
+        "artist": "Eliza Gilkyson",
+        "album": "Secularia",
+        "track": "Conservation"
+    },
+    {
+        "datetime": "2020-06-02 10:43:26",
+        "artist": "Eliza Gilkyson",
+        "album": "Secularia",
+        "track": "In the Name of the Lord"
+    },
+    {
+        "datetime": "2020-06-02 10:47:37",
+        "artist": "Eliza Gilkyson",
+        "album": "Secularia",
+        "track": "Dreamtime"
+    },
+    {
+        "datetime": "2020-06-02 10:51:34",
+        "artist": "Eliza Gilkyson",
+        "album": "Secularia",
+        "track": "Seculare"
+    },
+    {
+        "datetime": "2020-06-02 10:56:07",
+        "artist": "Eliza Gilkyson",
+        "album": "Secularia",
+        "track": "Reunion"
+    },
+    {
+        "datetime": "2020-06-02 11:00:54",
+        "artist": "Eliza Gilkyson",
+        "album": "Secularia",
+        "track": "Sanctuary"
+    },
+    {
+        "datetime": "2020-06-02 11:04:41",
+        "artist": "Eliza Gilkyson",
+        "album": "Secularia",
+        "track": "Through the Looking Glass"
+    },
+    {
+        "datetime": "2020-06-02 11:08:42",
+        "artist": "Eliza Gilkyson",
+        "album": "Secularia",
+        "track": "Emmanuelle"
+    },
+    {
+        "datetime": "2020-06-02 11:15:00",
+        "artist": "Eliza Gilkyson",
+        "album": "Secularia",
+        "track": "Down by the Riverside"
+    },
+    {
+        "datetime": "2020-06-02 11:20:24",
+        "artist": "Eliza Gilkyson",
+        "album": "Secularia",
+        "track": "Instrument"
+    },
+    {
+        "datetime": "2020-06-02 11:54:58",
+        "artist": "Bob Dylan",
+        "album": "Slow Train Coming",
+        "track": "Gotta Serve Somebody"
+    },
+    {
+        "datetime": "2020-06-02 12:00:23",
+        "artist": "Bob Dylan",
+        "album": "Slow Train Coming",
+        "track": "Precious Angel"
+    },
+    {
+        "datetime": "2020-06-02 12:06:53",
+        "artist": "Bob Dylan",
+        "album": "Slow Train Coming",
+        "track": "I Believe in You"
+    },
+    {
+        "datetime": "2020-06-02 12:12:02",
+        "artist": "Bob Dylan",
+        "album": "Slow Train Coming",
+        "track": "Slow Train"
+    },
+    {
+        "datetime": "2020-06-02 12:18:00",
+        "artist": "Bob Dylan",
+        "album": "Slow Train Coming",
+        "track": "Gonna Change My Way of Thinking"
+    },
+    {
+        "datetime": "2020-06-02 12:23:29",
+        "artist": "Bob Dylan",
+        "album": "Slow Train Coming",
+        "track": "Do Right to Me Baby (Do Unto Others)"
+    },
+    {
+        "datetime": "2020-06-02 12:27:21",
+        "artist": "Bob Dylan",
+        "album": "Slow Train Coming",
+        "track": "When You Gonna Wake Up"
+    },
+    {
+        "datetime": "2020-06-02 12:32:50",
+        "artist": "Bob Dylan",
+        "album": "Slow Train Coming",
+        "track": "Man Gave Names to All the Animals"
+    },
+    {
+        "datetime": "2020-06-02 12:37:17",
+        "artist": "Bob Dylan",
+        "album": "Slow Train Coming",
+        "track": "When He Returns"
+    },
+    {
+        "datetime": "2020-06-02 17:43:12",
+        "artist": "New Order",
+        "album": "Low-Life",
+        "track": "Love Vigilantes (2015 Remaster)"
+    },
+    {
+        "datetime": "2020-06-02 17:47:32",
+        "artist": "New Order",
+        "album": "Low-Life",
+        "track": "The Perfect Kiss (2015 Remaster)"
+    },
+    {
+        "datetime": "2020-06-02 17:52:21",
+        "artist": "New Order",
+        "album": "Low-Life",
+        "track": "This Time of Night (2015 Remaster)"
+    },
+    {
+        "datetime": "2020-06-02 17:57:06",
+        "artist": "New Order",
+        "album": "Low-Life",
+        "track": "Sunrise (2015 Remaster)"
+    },
+    {
+        "datetime": "2020-06-02 18:03:07",
+        "artist": "New Order",
+        "album": "Low-Life",
+        "track": "Elegia (2015 Remaster)"
+    },
+    {
+        "datetime": "2020-06-02 18:08:03",
+        "artist": "New Order",
+        "album": "Low-Life",
+        "track": "Sooner Than You Think (2015 Remaster)"
+    },
+    {
+        "datetime": "2020-06-02 19:23:53",
+        "artist": "Talking Heads",
+        "album": "Speaking In Tongues",
+        "track": "This Must Be the Place (Naive Melody) [2005 Remaster]"
+    },
+    {
+        "datetime": "2020-06-02 19:28:57",
+        "artist": "Talking Heads",
+        "album": "Speaking In Tongues",
+        "track": "Moon Rocks (2005 Remaster)"
+    },
+    {
+        "datetime": "2020-06-03 11:31:53",
+        "artist": "New Order",
+        "album": "Low-Life",
+        "track": "Sub-culture (2015 Remaster)"
+    },
+    {
+        "datetime": "2020-06-03 11:36:51",
+        "artist": "New Order",
+        "album": "Low-Life",
+        "track": "Face Up (2015 Remaster)"
+    },
+    {
+        "datetime": "2020-06-03 13:28:14",
+        "artist": "ABC",
+        "album": "Beauty Stab",
+        "track": "That Was Then But This Is Now"
+    },
+    {
+        "datetime": "2020-06-03 13:31:48",
+        "artist": "ABC",
+        "album": "Beauty Stab",
+        "track": "Love's A Dangerous Language"
+    },
+    {
+        "datetime": "2020-06-03 13:35:28",
+        "artist": "ABC",
+        "album": "Beauty Stab",
+        "track": "If I Ever Thought You'd Be Lonely"
+    },
+    {
+        "datetime": "2020-06-03 13:39:23",
+        "artist": "ABC",
+        "album": "Beauty Stab",
+        "track": "The Power Of Persuasion"
+    },
+    {
+        "datetime": "2020-06-03 13:42:54",
+        "artist": "ABC",
+        "album": "Beauty Stab",
+        "track": "Beauty Stab"
+    },
+    {
+        "datetime": "2020-06-03 13:45:01",
+        "artist": "ABC",
+        "album": "Beauty Stab",
+        "track": "By Default By Design"
+    },
+    {
+        "datetime": "2020-06-03 14:34:21",
+        "artist": "ABC",
+        "album": "Beauty Stab",
+        "track": "Hey Citizen!"
+    },
+    {
+        "datetime": "2020-06-03 14:38:17",
+        "artist": "ABC",
+        "album": "Beauty Stab",
+        "track": "King Money"
+    },
+    {
+        "datetime": "2020-06-03 14:42:19",
+        "artist": "ABC",
+        "album": "Beauty Stab",
+        "track": "Bite The Hand"
+    },
+    {
+        "datetime": "2020-06-03 14:45:24",
+        "artist": "ABC",
+        "album": "Beauty Stab",
+        "track": "Unzip"
+    },
+    {
+        "datetime": "2020-06-03 14:48:13",
+        "artist": "ABC",
+        "album": "Beauty Stab",
+        "track": "S.O.S."
+    },
+    {
+        "datetime": "2020-06-03 14:53:00",
+        "artist": "ABC",
+        "album": "Beauty Stab",
+        "track": "United Kingdom"
+    },
+    {
+        "datetime": "2020-06-03 14:56:21",
+        "artist": "ABC",
+        "album": "Beauty Stab",
+        "track": "Vertigo"
+    },
+    {
+        "datetime": "2020-06-03 15:09:11",
+        "artist": "Aztec Camera",
+        "album": "High Land, Hard Rain",
+        "track": "Oblivious"
+    },
+    {
+        "datetime": "2020-06-03 15:12:22",
+        "artist": "Aztec Camera",
+        "album": "High Land, Hard Rain",
+        "track": "The Boy Wonders"
+    },
+    {
+        "datetime": "2020-06-03 15:15:38",
+        "artist": "Aztec Camera",
+        "album": "High Land, Hard Rain",
+        "track": "Walk Out To Winter"
+    },
+    {
+        "datetime": "2020-06-03 15:19:03",
+        "artist": "Aztec Camera",
+        "album": "High Land, Hard Rain",
+        "track": "The Bugle Sounds Again"
+    },
+    {
+        "datetime": "2020-06-03 15:22:02",
+        "artist": "Aztec Camera",
+        "album": "High Land, Hard Rain",
+        "track": "We Could Send Letters"
+    },
+    {
+        "datetime": "2020-06-03 15:27:47",
+        "artist": "Aztec Camera",
+        "album": "High Land, Hard Rain",
+        "track": "Pillar To Post"
+    },
+    {
+        "datetime": "2020-06-03 15:31:49",
+        "artist": "Aztec Camera",
+        "album": "High Land, Hard Rain",
+        "track": "Release"
+    },
+    {
+        "datetime": "2020-06-03 15:35:32",
+        "artist": "Aztec Camera",
+        "album": "High Land, Hard Rain",
+        "track": "Lost Outside The Tunnel"
+    },
+    {
+        "datetime": "2020-06-03 15:39:14",
+        "artist": "Aztec Camera",
+        "album": "High Land, Hard Rain",
+        "track": "Back On Board"
+    },
+    {
+        "datetime": "2020-06-03 15:44:08",
+        "artist": "Aztec Camera",
+        "album": "High Land, Hard Rain",
+        "track": "Down The Dip"
+    },
+    {
+        "datetime": "2020-06-03 15:46:30",
+        "artist": "Aztec Camera",
+        "album": "High Land, Hard Rain",
+        "track": "Haywire"
+    },
+    {
+        "datetime": "2020-06-03 15:50:27",
+        "artist": "Aztec Camera",
+        "album": "High Land, Hard Rain",
+        "track": "Orchid Girl"
+    },
+    {
+        "datetime": "2020-06-03 15:53:02",
+        "artist": "Aztec Camera",
+        "album": "High Land, Hard Rain",
+        "track": "Queen's Tattoos"
+    },
+    {
+        "datetime": "2020-06-03 16:16:38",
+        "artist": "Bob Dylan",
+        "album": "Shadows In The Night",
+        "track": "Autumn Leaves"
+    },
+    {
+        "datetime": "2020-06-03 16:19:37",
+        "artist": "Bob Dylan",
+        "album": "Shadows In The Night",
+        "track": "The Night We Called It a Day"
+    },
+    {
+        "datetime": "2020-06-03 16:22:57",
+        "artist": "Bob Dylan",
+        "album": "Shadows In The Night",
+        "track": "Full moon and Empty Arms"
+    },
+    {
+        "datetime": "2020-06-03 16:26:20",
+        "artist": "Bob Dylan",
+        "album": "Shadows In The Night",
+        "track": "Stay With Me"
+    },
+    {
+        "datetime": "2020-06-03 16:29:12",
+        "artist": "Bob Dylan",
+        "album": "Shadows In The Night",
+        "track": "I'm a Fool to Want You"
+    },
+    {
+        "datetime": "2020-06-03 16:33:57",
+        "artist": "Bob Dylan",
+        "album": "Shadows In The Night",
+        "track": "That Lucky Old Sun"
+    },
+    {
+        "datetime": "2020-06-03 16:37:34",
+        "artist": "Bob Dylan",
+        "album": "Shadows In The Night",
+        "track": "What'll I Do"
+    },
+    {
+        "datetime": "2020-06-03 16:40:50",
+        "artist": "Bob Dylan",
+        "album": "Shadows In The Night",
+        "track": "Some Enchanted Evening"
+    },
+    {
+        "datetime": "2020-06-03 16:44:14",
+        "artist": "Bob Dylan",
+        "album": "Shadows In The Night",
+        "track": "Why Try to Change Me Now"
+    },
+    {
+        "datetime": "2020-06-03 16:47:46",
+        "artist": "Bob Dylan",
+        "album": "Shadows In The Night",
+        "track": "Where Are You?"
+    },
+    {
+        "datetime": "2020-06-03 17:27:40",
+        "artist": "Prefab Sprout",
+        "album": "Protest Songs",
+        "track": "The World Awake (Remastered)"
+    },
+    {
+        "datetime": "2020-06-03 17:32:09",
+        "artist": "Prefab Sprout",
+        "album": "Protest Songs",
+        "track": "Life of Surprises (Remastered)"
+    },
+    {
+        "datetime": "2020-06-03 17:36:17",
+        "artist": "Prefab Sprout",
+        "album": "Protest Songs",
+        "track": "Horsechimes (Remastered)"
+    },
+    {
+        "datetime": "2020-06-03 17:40:41",
+        "artist": "Prefab Sprout",
+        "album": "Protest Songs",
+        "track": "Wicked Things (Remastered)"
+    },
+    {
+        "datetime": "2020-06-03 17:43:53",
+        "artist": "Prefab Sprout",
+        "album": "Protest Songs",
+        "track": "Dublin (Remastered)"
+    },
+    {
+        "datetime": "2020-06-03 17:47:36",
+        "artist": "Prefab Sprout",
+        "album": "Protest Songs",
+        "track": "Tiffanys (Remastered)"
+    },
+    {
+        "datetime": "2020-06-03 17:51:27",
+        "artist": "Prefab Sprout",
+        "album": "Protest Songs",
+        "track": "Diana (Remastered)"
+    },
+    {
+        "datetime": "2020-06-03 17:55:37",
+        "artist": "Prefab Sprout",
+        "album": "Protest Songs",
+        "track": "Talkin Scarlet (Remastered)"
+    },
+    {
+        "datetime": "2020-06-03 18:00:12",
+        "artist": "Prefab Sprout",
+        "album": "Protest Songs",
+        "track": "'Til the Cows Come Home (Remastered)"
+    },
+    {
+        "datetime": "2020-06-03 18:04:25",
+        "artist": "Prefab Sprout",
+        "album": "Protest Songs",
+        "track": "Pearly Gates (Remastered)"
+    },
+    {
+        "datetime": "2020-06-04 10:08:12",
+        "artist": "Gretchen Peters",
+        "album": "One To The Heart, One To The Head",
+        "track": "North Platte (feat. Tom Russell)"
+    },
+    {
+        "datetime": "2020-06-04 10:09:08",
+        "artist": "Gretchen Peters",
+        "album": "One To The Heart, One To The Head",
+        "track": "Prairie in the Sky (feat. Tom Russell)"
+    },
+    {
+        "datetime": "2020-06-04 10:13:48",
+        "artist": "Gretchen Peters",
+        "album": "One To The Heart, One To The Head",
+        "track": "Billy 4 (feat. Tom Russell)"
+    },
+    {
+        "datetime": "2020-06-04 10:19:25",
+        "artist": "Gretchen Peters",
+        "album": "One To The Heart, One To The Head",
+        "track": "Blue Mountains of Mexico (feat. Tom Russell)"
+    },
+    {
+        "datetime": "2020-06-04 10:23:02",
+        "artist": "Gretchen Peters",
+        "album": "One To The Heart, One To The Head",
+        "track": "These Cowboys Born out of Their Time (feat. Tom Russell)"
+    },
+    {
+        "datetime": "2020-06-04 10:27:15",
+        "artist": "Gretchen Peters",
+        "album": "One To The Heart, One To The Head",
+        "track": "Guadalupe (feat. Tom Russell)"
+    },
+    {
+        "datetime": "2020-06-04 10:32:54",
+        "artist": "Gretchen Peters",
+        "album": "One To The Heart, One To The Head",
+        "track": "Sweet & Shiny Eyes (feat. Tom Russell)"
+    },
+    {
+        "datetime": "2020-06-04 10:35:54",
+        "artist": "Gretchen Peters",
+        "album": "One To The Heart, One To The Head",
+        "track": "Wolves (feat. Tom Russell)"
+    },
+    {
+        "datetime": "2020-06-04 10:40:10",
+        "artist": "Gretchen Peters",
+        "album": "One To The Heart, One To The Head",
+        "track": "Snowin' on Raton (feat. Tom Russell)"
+    },
+    {
+        "datetime": "2020-06-04 10:44:33",
+        "artist": "Gretchen Peters",
+        "album": "One To The Heart, One To The Head",
+        "track": "Old Paint (feat. Tom Russell)"
+    },
+    {
+        "datetime": "2020-06-04 10:47:42",
+        "artist": "Gretchen Peters",
+        "album": "One To The Heart, One To The Head",
+        "track": "My Last Go Round (feat. Tom Russell)"
+    },
+    {
+        "datetime": "2020-06-04 10:51:25",
+        "artist": "Gretchen Peters",
+        "album": "One To The Heart, One To The Head",
+        "track": "North Platte (Reprise) [feat. Tom Russell]"
+    },
+    {
+        "datetime": "2020-06-04 10:52:32",
+        "artist": "Gretchen Peters",
+        "album": "One To The Heart, One To The Head",
+        "track": "If I Had a Gun (feat. Tom Russell)"
+    },
+    {
+        "datetime": "2020-06-04 10:55:43",
+        "artist": "Gretchen Peters",
+        "album": "One To The Heart, One To The Head",
+        "track": "Prairie Melancholy (feat. Tom Russell)"
+    },
+    {
+        "datetime": "2020-06-04 11:37:17",
+        "artist": "New Order",
+        "album": "Low-Life",
+        "track": "Love Vigilantes (2015 Remaster)"
+    },
+    {
+        "datetime": "2020-06-04 11:41:37",
+        "artist": "New Order",
+        "album": "Low-Life",
+        "track": "The Perfect Kiss (2015 Remaster)"
+    },
+    {
+        "datetime": "2020-06-04 11:46:26",
+        "artist": "New Order",
+        "album": "Low-Life",
+        "track": "This Time of Night (2015 Remaster)"
+    },
+    {
+        "datetime": "2020-06-04 11:51:11",
+        "artist": "New Order",
+        "album": "Low-Life",
+        "track": "Sunrise (2015 Remaster)"
+    },
+    {
+        "datetime": "2020-06-04 11:57:12",
+        "artist": "New Order",
+        "album": "Low-Life",
+        "track": "Elegia (2015 Remaster)"
+    },
+    {
+        "datetime": "2020-06-04 12:02:07",
+        "artist": "New Order",
+        "album": "Low-Life",
+        "track": "Sooner Than You Think (2015 Remaster)"
+    },
+    {
+        "datetime": "2020-06-04 12:07:20",
+        "artist": "New Order",
+        "album": "Low-Life",
+        "track": "Sub-culture (2015 Remaster)"
+    },
+    {
+        "datetime": "2020-06-04 12:12:18",
+        "artist": "New Order",
+        "album": "Low-Life",
+        "track": "Face Up (2015 Remaster)"
+    },
+    {
+        "datetime": "2020-06-04 15:11:39",
+        "artist": "Gretchen Peters",
+        "album": "One To The Heart, One To The Head",
+        "track": "North Platte (feat. Tom Russell)"
+    },
+    {
+        "datetime": "2020-06-04 15:12:36",
+        "artist": "Gretchen Peters",
+        "album": "One To The Heart, One To The Head",
+        "track": "Prairie in the Sky (feat. Tom Russell)"
+    },
+    {
+        "datetime": "2020-06-04 15:17:16",
+        "artist": "Gretchen Peters",
+        "album": "One To The Heart, One To The Head",
+        "track": "Billy 4 (feat. Tom Russell)"
+    },
+    {
+        "datetime": "2020-06-04 15:22:53",
+        "artist": "Gretchen Peters",
+        "album": "One To The Heart, One To The Head",
+        "track": "Blue Mountains of Mexico (feat. Tom Russell)"
+    },
+    {
+        "datetime": "2020-06-04 15:26:30",
+        "artist": "Gretchen Peters",
+        "album": "One To The Heart, One To The Head",
+        "track": "These Cowboys Born out of Their Time (feat. Tom Russell)"
+    },
+    {
+        "datetime": "2020-06-04 15:30:42",
+        "artist": "Gretchen Peters",
+        "album": "One To The Heart, One To The Head",
+        "track": "Guadalupe (feat. Tom Russell)"
+    },
+    {
+        "datetime": "2020-06-04 15:36:21",
+        "artist": "Gretchen Peters",
+        "album": "One To The Heart, One To The Head",
+        "track": "Sweet & Shiny Eyes (feat. Tom Russell)"
+    },
+    {
+        "datetime": "2020-06-04 15:39:21",
+        "artist": "Gretchen Peters",
+        "album": "One To The Heart, One To The Head",
+        "track": "Wolves (feat. Tom Russell)"
+    },
+    {
+        "datetime": "2020-06-04 15:43:37",
+        "artist": "Gretchen Peters",
+        "album": "One To The Heart, One To The Head",
+        "track": "Snowin' on Raton (feat. Tom Russell)"
+    },
+    {
+        "datetime": "2020-06-04 15:48:00",
+        "artist": "Gretchen Peters",
+        "album": "One To The Heart, One To The Head",
+        "track": "Old Paint (feat. Tom Russell)"
+    },
+    {
+        "datetime": "2020-06-04 15:51:09",
+        "artist": "Gretchen Peters",
+        "album": "One To The Heart, One To The Head",
+        "track": "My Last Go Round (feat. Tom Russell)"
+    },
+    {
+        "datetime": "2020-06-04 15:56:00",
+        "artist": "Gretchen Peters",
+        "album": "One To The Heart, One To The Head",
+        "track": "If I Had a Gun (feat. Tom Russell)"
+    },
+    {
+        "datetime": "2020-06-04 16:03:30",
+        "artist": "Gretchen Peters",
+        "album": "One To The Heart, One To The Head",
+        "track": "Prairie Melancholy (feat. Tom Russell)"
+    },
+    {
+        "datetime": "2020-06-04 16:46:21",
+        "artist": "Laura Cantrell",
+        "album": "No Way There From Here",
+        "track": "All the Girls Are Complicated"
+    },
+    {
+        "datetime": "2020-06-04 16:49:24",
+        "artist": "Laura Cantrell",
+        "album": "No Way There From Here",
+        "track": "Starry Skies"
+    },
+    {
+        "datetime": "2020-06-04 16:52:53",
+        "artist": "Laura Cantrell",
+        "album": "No Way There From Here",
+        "track": "Letter She Sent"
+    },
+    {
+        "datetime": "2020-06-04 16:55:57",
+        "artist": "Laura Cantrell",
+        "album": "No Way There From Here",
+        "track": "No Way There From Here"
+    },
+    {
+        "datetime": "2020-06-04 17:00:33",
+        "artist": "Laura Cantrell",
+        "album": "No Way There From Here",
+        "track": "Glass Armour"
+    },
+    {
+        "datetime": "2020-06-04 17:03:39",
+        "artist": "Laura Cantrell",
+        "album": "No Way There From Here",
+        "track": "Beg or Borrow Days"
+    },
+    {
+        "datetime": "2020-06-04 17:06:29",
+        "artist": "Laura Cantrell",
+        "album": "No Way There From Here",
+        "track": "Driving Down Your Street"
+    },
+    {
+        "datetime": "2020-06-04 17:08:50",
+        "artist": "Laura Cantrell",
+        "album": "No Way There From Here",
+        "track": "When It Comes to You"
+    },
+    {
+        "datetime": "2020-06-04 17:11:27",
+        "artist": "Laura Cantrell",
+        "album": "No Way There From Here",
+        "track": "Can't Wait"
+    },
+    {
+        "datetime": "2020-06-04 17:14:41",
+        "artist": "Laura Cantrell",
+        "album": "No Way There From Here",
+        "track": "Barely Said a Thing"
+    },
+    {
+        "datetime": "2020-06-04 17:17:22",
+        "artist": "Laura Cantrell",
+        "album": "No Way There From Here",
+        "track": "Washday Blues"
+    },
+    {
+        "datetime": "2020-06-04 17:20:55",
+        "artist": "Laura Cantrell",
+        "album": "No Way There From Here",
+        "track": "Someday Sparrow"
+    },
+    {
+        "datetime": "2020-06-04 19:05:50",
+        "artist": "Talking Heads",
+        "album": "Speaking In Tongues",
+        "track": "This Must Be The Place (Naive Melody) (2005 Remastered Version )"
+    },
+    {
+        "datetime": "2020-06-05 13:52:30",
+        "artist": "Cocteau Twins",
+        "album": "Aikea-Guinea",
+        "track": "Aikea-Guinea"
+    },
+    {
+        "datetime": "2020-06-05 13:56:31",
+        "artist": "Cocteau Twins",
+        "album": "Aikea-Guinea",
+        "track": "Kookaburra"
+    },
+    {
+        "datetime": "2020-06-05 13:59:55",
+        "artist": "Cocteau Twins",
+        "album": "Aikea-Guinea",
+        "track": "Quisquose"
+    },
+    {
+        "datetime": "2020-06-05 14:04:09",
+        "artist": "Cocteau Twins",
+        "album": "Aikea-Guinea",
+        "track": "Rococo"
+    },
+    {
+        "datetime": "2020-06-05 14:11:51",
+        "artist": "T. Rex",
+        "album": "Bolan's Zip Gun",
+        "track": "Light Of Love"
+    },
+    {
+        "datetime": "2020-06-05 14:15:08",
+        "artist": "T. Rex",
+        "album": "Bolan's Zip Gun",
+        "track": "Solid Baby"
+    },
+    {
+        "datetime": "2020-06-05 14:17:45",
+        "artist": "T. Rex",
+        "album": "Bolan's Zip Gun",
+        "track": "Precious Star"
+    },
+    {
+        "datetime": "2020-06-05 14:20:38",
+        "artist": "T. Rex",
+        "album": "Bolan's Zip Gun",
+        "track": "Token of My Love"
+    },
+    {
+        "datetime": "2020-06-05 14:24:19",
+        "artist": "T. Rex",
+        "album": "Bolan's Zip Gun",
+        "track": "Space Boss"
+    },
+    {
+        "datetime": "2020-06-05 14:27:08",
+        "artist": "T. Rex",
+        "album": "Bolan's Zip Gun",
+        "track": "Think Zinc"
+    },
+    {
+        "datetime": "2020-06-05 14:30:34",
+        "artist": "T. Rex",
+        "album": "Bolan's Zip Gun",
+        "track": "Till Dawn"
+    },
+    {
+        "datetime": "2020-06-05 14:33:36",
+        "artist": "T. Rex",
+        "album": "Bolan's Zip Gun",
+        "track": "Girl in the Thunderbolt Suit"
+    },
+    {
+        "datetime": "2020-06-05 14:35:57",
+        "artist": "T. Rex",
+        "album": "Bolan's Zip Gun",
+        "track": "I Really Love You Babe"
+    },
+    {
+        "datetime": "2020-06-05 14:39:31",
+        "artist": "T. Rex",
+        "album": "Bolan's Zip Gun",
+        "track": "Golden Belt"
+    },
+    {
+        "datetime": "2020-06-05 14:42:13",
+        "artist": "T. Rex",
+        "album": "Bolan's Zip Gun",
+        "track": "Zip Gun Boogie"
+    },
+    {
+        "datetime": "2020-06-05 14:45:39",
+        "artist": "T. Rex",
+        "album": "Bolan's Zip Gun",
+        "track": "Do You Wanna Dance?"
+    },
+    {
+        "datetime": "2020-06-05 14:47:55",
+        "artist": "T. Rex",
+        "album": "Bolan's Zip Gun",
+        "track": "Dock of the Bay"
+    },
+    {
+        "datetime": "2020-06-05 15:09:16",
+        "artist": "Rodney Crowell",
+        "album": "Sex And Gasoline",
+        "track": "Sex And Gasoline"
+    },
+    {
+        "datetime": "2020-06-05 15:13:48",
+        "artist": "Rodney Crowell",
+        "album": "Sex And Gasoline",
+        "track": "Moving Work Of Art"
+    },
+    {
+        "datetime": "2020-06-05 15:18:20",
+        "artist": "Rodney Crowell",
+        "album": "Sex And Gasoline",
+        "track": "The Rise And Fall Of Intelligent Design"
+    },
+    {
+        "datetime": "2020-06-05 16:54:07",
+        "artist": "Rodney Crowell",
+        "album": "Sex And Gasoline",
+        "track": "Truth Decay"
+    },
+    {
+        "datetime": "2020-06-05 16:58:41",
+        "artist": "Rodney Crowell",
+        "album": "Sex And Gasoline",
+        "track": "I Want You #35"
+    },
+    {
+        "datetime": "2020-06-05 17:02:14",
+        "artist": "Rodney Crowell",
+        "album": "Sex And Gasoline",
+        "track": "I\u2019ve Done Everything I Can"
+    },
+    {
+        "datetime": "2020-06-05 17:07:51",
+        "artist": "Rodney Crowell",
+        "album": "Sex And Gasoline",
+        "track": "Who Do You Trust"
+    },
+    {
+        "datetime": "2020-06-05 17:12:01",
+        "artist": "Rodney Crowell",
+        "album": "Sex And Gasoline",
+        "track": "The Night\u2019s Just Right"
+    },
+    {
+        "datetime": "2020-06-05 17:15:55",
+        "artist": "Rodney Crowell",
+        "album": "Sex And Gasoline",
+        "track": "Funky And The Farm Boy"
+    },
+    {
+        "datetime": "2020-06-05 17:20:06",
+        "artist": "Rodney Crowell",
+        "album": "Sex And Gasoline",
+        "track": "Forty Winters"
+    },
+    {
+        "datetime": "2020-06-05 17:24:52",
+        "artist": "Rodney Crowell",
+        "album": "Sex And Gasoline",
+        "track": "Closer To Heaven"
+    },
+    {
+        "datetime": "2020-06-05 17:41:58",
+        "artist": "New Order",
+        "album": "Low-Life",
+        "track": "Face Up (2015 Remaster)"
+    },
+    {
+        "datetime": "2020-06-05 17:47:06",
+        "artist": "New Order",
+        "album": "Low-Life",
+        "track": "This Time of Night (2015 Remaster)"
+    },
+    {
+        "datetime": "2020-06-05 17:51:50",
+        "artist": "New Order",
+        "album": "Low-Life",
+        "track": "Sooner Than You Think (2015 Remaster)"
+    },
+    {
+        "datetime": "2020-06-05 17:57:03",
+        "artist": "New Order",
+        "album": "Low-Life",
+        "track": "Sub-culture (2015 Remaster)"
+    },
+    {
+        "datetime": "2020-06-05 18:02:01",
+        "artist": "New Order",
+        "album": "Low-Life",
+        "track": "Sunrise (2015 Remaster)"
+    },
+    {
+        "datetime": "2020-06-05 18:45:31",
+        "artist": "Tift Merritt",
+        "album": "Traveling Companion",
+        "track": "Lingering On"
+    },
+    {
+        "datetime": "2020-06-05 18:48:15",
+        "artist": "Tift Merritt",
+        "album": "Traveling Companion",
+        "track": "For Free"
+    },
+    {
+        "datetime": "2020-06-05 18:53:12",
+        "artist": "Tift Merritt",
+        "album": "Traveling Companion",
+        "track": "Real Good On My Own"
+    },
+    {
+        "datetime": "2020-06-05 18:56:09",
+        "artist": "Tift Merritt",
+        "album": "Traveling Companion",
+        "track": "Traveling Alone"
+    },
+    {
+        "datetime": "2020-06-05 19:02:03",
+        "artist": "Tom Robinson",
+        "album": "War Baby - Hope & Glory",
+        "track": "Atmospherics: Listen to the Radio"
+    },
+    {
+        "datetime": "2020-06-06 17:16:40",
+        "artist": "Gretchen Peters",
+        "album": "One To The Heart, One To The Head",
+        "track": "North Platte (feat. Tom Russell)"
+    },
+    {
+        "datetime": "2020-06-06 17:17:36",
+        "artist": "Gretchen Peters",
+        "album": "One To The Heart, One To The Head",
+        "track": "Prairie in the Sky (feat. Tom Russell)"
+    },
+    {
+        "datetime": "2020-06-06 17:22:17",
+        "artist": "Gretchen Peters",
+        "album": "One To The Heart, One To The Head",
+        "track": "Billy 4 (feat. Tom Russell)"
+    },
+    {
+        "datetime": "2020-06-06 17:27:53",
+        "artist": "Gretchen Peters",
+        "album": "One To The Heart, One To The Head",
+        "track": "Blue Mountains of Mexico (feat. Tom Russell)"
+    },
+    {
+        "datetime": "2020-06-06 17:31:31",
+        "artist": "Gretchen Peters",
+        "album": "One To The Heart, One To The Head",
+        "track": "These Cowboys Born out of Their Time (feat. Tom Russell)"
+    },
+    {
+        "datetime": "2020-06-06 17:35:43",
+        "artist": "Gretchen Peters",
+        "album": "One To The Heart, One To The Head",
+        "track": "Guadalupe (feat. Tom Russell)"
+    },
+    {
+        "datetime": "2020-06-06 17:41:22",
+        "artist": "Gretchen Peters",
+        "album": "One To The Heart, One To The Head",
+        "track": "Sweet & Shiny Eyes (feat. Tom Russell)"
+    },
+    {
+        "datetime": "2020-06-06 17:44:22",
+        "artist": "Gretchen Peters",
+        "album": "One To The Heart, One To The Head",
+        "track": "Wolves (feat. Tom Russell)"
+    },
+    {
+        "datetime": "2020-06-06 17:48:38",
+        "artist": "Gretchen Peters",
+        "album": "One To The Heart, One To The Head",
+        "track": "Snowin' on Raton (feat. Tom Russell)"
+    },
+    {
+        "datetime": "2020-06-06 17:53:01",
+        "artist": "Gretchen Peters",
+        "album": "One To The Heart, One To The Head",
+        "track": "Old Paint (feat. Tom Russell)"
+    },
+    {
+        "datetime": "2020-06-06 17:56:10",
+        "artist": "Gretchen Peters",
+        "album": "One To The Heart, One To The Head",
+        "track": "My Last Go Round (feat. Tom Russell)"
+    },
+    {
+        "datetime": "2020-06-06 17:59:53",
+        "artist": "Gretchen Peters",
+        "album": "One To The Heart, One To The Head",
+        "track": "North Platte (Reprise) [feat. Tom Russell]"
+    },
+    {
+        "datetime": "2020-06-06 18:01:00",
+        "artist": "Gretchen Peters",
+        "album": "One To The Heart, One To The Head",
+        "track": "If I Had a Gun (feat. Tom Russell)"
+    },
+    {
+        "datetime": "2020-06-06 18:04:11",
+        "artist": "Gretchen Peters",
+        "album": "One To The Heart, One To The Head",
+        "track": "Prairie Melancholy (feat. Tom Russell)"
+    },
+    {
+        "datetime": "2020-06-06 18:06:55",
+        "artist": "Gretchen Peters",
+        "album": "One To The Heart, One To The Head",
+        "track": "Prairie Melancholy (feat. Tom Russell)"
+    },
+    {
+        "datetime": "2020-06-07 11:08:15",
+        "artist": "Brigid Mae Power",
+        "album": "Head Above The Water",
+        "track": "On A City Night"
+    },
+    {
+        "datetime": "2020-06-07 11:13:24",
+        "artist": "Brigid Mae Power",
+        "album": "Head Above The Water",
+        "track": "Wearing Red That Eve"
+    },
+    {
+        "datetime": "2020-06-07 11:16:57",
+        "artist": "Brigid Mae Power",
+        "album": "Head Above The Water",
+        "track": "Wedding of a Friend"
+    },
+    {
+        "datetime": "2020-06-07 11:21:36",
+        "artist": "Brigid Mae Power",
+        "album": "Head Above The Water",
+        "track": "Not Yours to Own"
+    },
+    {
+        "datetime": "2020-06-07 11:25:00",
+        "artist": "Brigid Mae Power",
+        "album": "Head Above The Water",
+        "track": "I Was Named After You"
+    },
+    {
+        "datetime": "2020-06-07 11:31:07",
+        "artist": "Brigid Mae Power",
+        "album": "Head Above The Water",
+        "track": "We Weren't Sure"
+    },
+    {
+        "datetime": "2020-06-07 11:35:16",
+        "artist": "Brigid Mae Power",
+        "album": "Head Above The Water",
+        "track": "You Have a Quiet Power"
+    },
+    {
+        "datetime": "2020-06-07 11:40:03",
+        "artist": "Brigid Mae Power",
+        "album": "Head Above The Water",
+        "track": "I Had to Keep My Circle Small"
+    },
+    {
+        "datetime": "2020-06-07 11:45:21",
+        "artist": "Brigid Mae Power",
+        "album": "Head Above The Water",
+        "track": "The Blacksmith"
+    },
+    {
+        "datetime": "2020-06-07 11:50:49",
+        "artist": "Brigid Mae Power",
+        "album": "Head Above The Water",
+        "track": "Head Above the Water"
+    },
+    {
+        "datetime": "2020-06-08 09:53:31",
+        "artist": "Rod Picott",
+        "album": "Out Past The Wires",
+        "track": "Dead Reckoning"
+    },
+    {
+        "datetime": "2020-06-08 09:57:03",
+        "artist": "Rod Picott",
+        "album": "Out Past The Wires",
+        "track": "Straight Job"
+    },
+    {
+        "datetime": "2020-06-08 10:00:41",
+        "artist": "Rod Picott",
+        "album": "Out Past The Wires",
+        "track": "Blanket Of Stars"
+    },
+    {
+        "datetime": "2020-06-08 10:05:06",
+        "artist": "Rod Picott",
+        "album": "Out Past The Wires",
+        "track": "On The Way Down"
+    },
+    {
+        "datetime": "2020-06-08 10:07:45",
+        "artist": "Rod Picott",
+        "album": "Out Past The Wires",
+        "track": "Hard Luck Baby"
+    },
+    {
+        "datetime": "2020-06-08 10:11:03",
+        "artist": "Rod Picott",
+        "album": "Out Past The Wires",
+        "track": "The Shape Of You"
+    },
+    {
+        "datetime": "2020-06-08 10:14:26",
+        "artist": "Rod Picott",
+        "album": "Out Past The Wires",
+        "track": "Fire Inside"
+    },
+    {
+        "datetime": "2020-06-08 10:18:17",
+        "artist": "Rod Picott",
+        "album": "Out Past The Wires",
+        "track": "Take Home Pay"
+    },
+    {
+        "datetime": "2020-06-08 10:21:32",
+        "artist": "Rod Picott",
+        "album": "Out Past The Wires",
+        "track": "Date Of Grace"
+    },
+    {
+        "datetime": "2020-06-08 10:25:14",
+        "artist": "Rod Picott",
+        "album": "Out Past The Wires",
+        "track": "Diamonds In The Dirt"
+    },
+    {
+        "datetime": "2020-06-08 10:29:43",
+        "artist": "Rod Picott",
+        "album": "Out Past The Wires",
+        "track": "Holding On"
+    },
+    {
+        "datetime": "2020-06-08 10:33:20",
+        "artist": "Rod Picott",
+        "album": "Out Past The Wires",
+        "track": "We All Live On"
+    },
+    {
+        "datetime": "2020-06-08 10:36:27",
+        "artist": "Rod Picott",
+        "album": "Out Past The Wires",
+        "track": "Store Bought"
+    },
+    {
+        "datetime": "2020-06-08 10:39:08",
+        "artist": "Rod Picott",
+        "album": "Out Past The Wires",
+        "track": "Be My Bonnie"
+    },
+    {
+        "datetime": "2020-06-08 10:42:31",
+        "artist": "Rod Picott",
+        "album": "Out Past The Wires",
+        "track": "Bottom Of The Well"
+    },
+    {
+        "datetime": "2020-06-08 10:50:33",
+        "artist": "ABC",
+        "album": "Beauty Stab",
+        "track": "That Was Then But This Is Now"
+    },
+    {
+        "datetime": "2020-06-08 10:54:07",
+        "artist": "ABC",
+        "album": "Beauty Stab",
+        "track": "Love's A Dangerous Language"
+    },
+    {
+        "datetime": "2020-06-08 10:57:46",
+        "artist": "ABC",
+        "album": "Beauty Stab",
+        "track": "If I Ever Thought You'd Be Lonely"
+    },
+    {
+        "datetime": "2020-06-08 11:01:42",
+        "artist": "ABC",
+        "album": "Beauty Stab",
+        "track": "The Power Of Persuasion"
+    },
+    {
+        "datetime": "2020-06-08 11:05:13",
+        "artist": "ABC",
+        "album": "Beauty Stab",
+        "track": "Beauty Stab"
+    },
+    {
+        "datetime": "2020-06-08 11:50:16",
+        "artist": "ABC",
+        "album": "Beauty Stab",
+        "track": "By Default By Design"
+    },
+    {
+        "datetime": "2020-06-08 11:54:21",
+        "artist": "ABC",
+        "album": "Beauty Stab",
+        "track": "Hey Citizen!"
+    },
+    {
+        "datetime": "2020-06-08 11:58:17",
+        "artist": "ABC",
+        "album": "Beauty Stab",
+        "track": "King Money"
+    },
+    {
+        "datetime": "2020-06-08 12:02:19",
+        "artist": "ABC",
+        "album": "Beauty Stab",
+        "track": "Bite The Hand"
+    },
+    {
+        "datetime": "2020-06-08 12:05:24",
+        "artist": "ABC",
+        "album": "Beauty Stab",
+        "track": "Unzip"
+    },
+    {
+        "datetime": "2020-06-08 12:08:13",
+        "artist": "ABC",
+        "album": "Beauty Stab",
+        "track": "S.O.S."
+    },
+    {
+        "datetime": "2020-06-08 12:13:01",
+        "artist": "ABC",
+        "album": "Beauty Stab",
+        "track": "United Kingdom"
+    },
+    {
+        "datetime": "2020-06-08 12:16:21",
+        "artist": "ABC",
+        "album": "Beauty Stab",
+        "track": "Vertigo"
+    },
+    {
+        "datetime": "2020-06-08 13:16:33",
+        "artist": "Corb Lund",
+        "album": "Hair In My Eyes Like A Highland Steer",
+        "track": "Hair In My Eyes Like A Highland Steer"
+    },
+    {
+        "datetime": "2020-06-08 13:19:29",
+        "artist": "Corb Lund",
+        "album": "Hair In My Eyes Like A Highland Steer",
+        "track": "Truck Got Stuck"
+    },
+    {
+        "datetime": "2020-06-08 13:22:28",
+        "artist": "Corb Lund",
+        "album": "Hair In My Eyes Like A Highland Steer",
+        "track": "Always Keep An Edge On Your Knife"
+    },
+    {
+        "datetime": "2020-06-08 13:25:44",
+        "artist": "Corb Lund",
+        "album": "Hair In My Eyes Like A Highland Steer",
+        "track": "The Rodeo's Over (featuring Ian Tyson)"
+    },
+    {
+        "datetime": "2020-06-08 13:29:07",
+        "artist": "Corb Lund",
+        "album": "Hair In My Eyes Like A Highland Steer",
+        "track": "Hurtin' Albertan"
+    },
+    {
+        "datetime": "2020-06-08 13:33:48",
+        "artist": "Corb Lund",
+        "album": "Hair In My Eyes Like A Highland Steer",
+        "track": "Big Butch Bass Bull Fiddle"
+    },
+    {
+        "datetime": "2020-06-08 13:36:01",
+        "artist": "Corb Lund",
+        "album": "Hair In My Eyes Like A Highland Steer",
+        "track": "All I Wanna Do Is Play Cards"
+    },
+    {
+        "datetime": "2020-06-08 13:40:02",
+        "artist": "Corb Lund",
+        "album": "Hair In My Eyes Like A Highland Steer",
+        "track": "The Truth Comes Out"
+    },
+    {
+        "datetime": "2020-06-08 13:43:30",
+        "artist": "Corb Lund",
+        "album": "Hair In My Eyes Like A Highland Steer",
+        "track": "Counterfeiters' Blues"
+    },
+    {
+        "datetime": "2020-06-08 13:46:55",
+        "artist": "Corb Lund",
+        "album": "Hair In My Eyes Like A Highland Steer",
+        "track": "Good Copenhagen"
+    },
+    {
+        "datetime": "2020-06-08 13:50:20",
+        "artist": "Corb Lund",
+        "album": "Hair In My Eyes Like A Highland Steer",
+        "track": "Trouble In The Country"
+    },
+    {
+        "datetime": "2020-06-08 13:53:27",
+        "artist": "Corb Lund",
+        "album": "Hair In My Eyes Like A Highland Steer",
+        "track": "Little Foothills Heaven"
+    },
+    {
+        "datetime": "2020-06-08 13:56:24",
+        "artist": "Corb Lund",
+        "album": "Hair In My Eyes Like A Highland Steer",
+        "track": "The Truck Got Stuck Talkin' Blues (featuring Ramblin' Jack E"
+    },
+    {
+        "datetime": "2020-06-08 14:52:55",
+        "artist": "Eyeless in Gaza",
+        "album": "Back From The Rains",
+        "track": "Between These Dreams"
+    },
+    {
+        "datetime": "2020-06-08 14:53:36",
+        "artist": "Eyeless in Gaza",
+        "album": "Back From The Rains",
+        "track": "Twilight"
+    },
+    {
+        "datetime": "2020-06-08 14:57:26",
+        "artist": "Eyeless in Gaza",
+        "album": "Back From The Rains",
+        "track": "Back From The Rains"
+    },
+    {
+        "datetime": "2020-06-08 15:00:45",
+        "artist": "Eyeless in Gaza",
+        "album": "Back From The Rains",
+        "track": "Lie Still, Sleep Long"
+    },
+    {
+        "datetime": "2020-06-08 15:03:27",
+        "artist": "Eyeless in Gaza",
+        "album": "Back From The Rains",
+        "track": "Catch Me"
+    },
+    {
+        "datetime": "2020-06-08 15:07:34",
+        "artist": "Eyeless in Gaza",
+        "album": "Back From The Rains",
+        "track": "Evening Music"
+    },
+    {
+        "datetime": "2020-06-08 15:10:20",
+        "artist": "Eyeless in Gaza",
+        "album": "Back From The Rains",
+        "track": "She moves thru the fair"
+    },
+    {
+        "datetime": "2020-06-09 09:47:27",
+        "artist": "New Order",
+        "album": "Low-Life",
+        "track": "Love Vigilantes (2015 Remaster)"
+    },
+    {
+        "datetime": "2020-06-09 09:54:23",
+        "artist": "New Order",
+        "album": "Low-Life",
+        "track": "The Perfect Kiss (2015 Remaster)"
+    },
+    {
+        "datetime": "2020-06-09 09:59:12",
+        "artist": "New Order",
+        "album": "Low-Life",
+        "track": "This Time of Night (2015 Remaster)"
+    },
+    {
+        "datetime": "2020-06-09 10:03:57",
+        "artist": "New Order",
+        "album": "Low-Life",
+        "track": "Sunrise (2015 Remaster)"
+    },
+    {
+        "datetime": "2020-06-09 10:09:58",
+        "artist": "New Order",
+        "album": "Low-Life",
+        "track": "Elegia (2015 Remaster)"
+    },
+    {
+        "datetime": "2020-06-09 10:14:54",
+        "artist": "New Order",
+        "album": "Low-Life",
+        "track": "Sooner Than You Think (2015 Remaster)"
+    },
+    {
+        "datetime": "2020-06-09 10:20:06",
+        "artist": "New Order",
+        "album": "Low-Life",
+        "track": "Sub-culture (2015 Remaster)"
+    },
+    {
+        "datetime": "2020-06-09 10:25:04",
+        "artist": "New Order",
+        "album": "Low-Life",
+        "track": "Face Up (2015 Remaster)"
+    },
+    {
+        "datetime": "2020-06-09 11:37:11",
+        "artist": "ABC",
+        "album": "Beauty Stab",
+        "track": "That Was Then But This Is Now"
+    },
+    {
+        "datetime": "2020-06-09 11:40:45",
+        "artist": "ABC",
+        "album": "Beauty Stab",
+        "track": "Love's A Dangerous Language"
+    },
+    {
+        "datetime": "2020-06-09 11:44:24",
+        "artist": "ABC",
+        "album": "Beauty Stab",
+        "track": "If I Ever Thought You'd Be Lonely"
+    },
+    {
+        "datetime": "2020-06-09 11:48:20",
+        "artist": "ABC",
+        "album": "Beauty Stab",
+        "track": "The Power Of Persuasion"
+    },
+    {
+        "datetime": "2020-06-09 11:51:51",
+        "artist": "ABC",
+        "album": "Beauty Stab",
+        "track": "Beauty Stab"
+    },
+    {
+        "datetime": "2020-06-09 11:53:58",
+        "artist": "ABC",
+        "album": "Beauty Stab",
+        "track": "By Default By Design"
+    },
+    {
+        "datetime": "2020-06-09 11:58:04",
+        "artist": "ABC",
+        "album": "Beauty Stab",
+        "track": "Hey Citizen!"
+    },
+    {
+        "datetime": "2020-06-09 12:01:59",
+        "artist": "ABC",
+        "album": "Beauty Stab",
+        "track": "King Money"
+    },
+    {
+        "datetime": "2020-06-09 12:06:01",
+        "artist": "ABC",
+        "album": "Beauty Stab",
+        "track": "Bite The Hand"
+    },
+    {
+        "datetime": "2020-06-09 12:09:06",
+        "artist": "ABC",
+        "album": "Beauty Stab",
+        "track": "Unzip"
+    },
+    {
+        "datetime": "2020-06-09 12:11:56",
+        "artist": "ABC",
+        "album": "Beauty Stab",
+        "track": "S.O.S."
+    },
+    {
+        "datetime": "2020-06-09 12:16:43",
+        "artist": "ABC",
+        "album": "Beauty Stab",
+        "track": "United Kingdom"
+    },
+    {
+        "datetime": "2020-06-09 12:20:03",
+        "artist": "ABC",
+        "album": "Beauty Stab",
+        "track": "Vertigo"
+    },
+    {
+        "datetime": "2020-06-09 14:56:32",
+        "artist": "ABC",
+        "album": "Beauty Stab",
+        "track": "That Was Then But This Is Now"
+    },
+    {
+        "datetime": "2020-06-09 15:00:06",
+        "artist": "ABC",
+        "album": "Beauty Stab",
+        "track": "Love's A Dangerous Language"
+    },
+    {
+        "datetime": "2020-06-09 15:03:45",
+        "artist": "ABC",
+        "album": "Beauty Stab",
+        "track": "If I Ever Thought You'd Be Lonely"
+    },
+    {
+        "datetime": "2020-06-09 15:07:40",
+        "artist": "ABC",
+        "album": "Beauty Stab",
+        "track": "The Power Of Persuasion"
+    },
+    {
+        "datetime": "2020-06-09 15:11:12",
+        "artist": "ABC",
+        "album": "Beauty Stab",
+        "track": "Beauty Stab"
+    },
+    {
+        "datetime": "2020-06-09 15:13:19",
+        "artist": "ABC",
+        "album": "Beauty Stab",
+        "track": "By Default By Design"
+    },
+    {
+        "datetime": "2020-06-09 15:17:25",
+        "artist": "ABC",
+        "album": "Beauty Stab",
+        "track": "Hey Citizen!"
+    },
+    {
+        "datetime": "2020-06-09 15:21:20",
+        "artist": "ABC",
+        "album": "Beauty Stab",
+        "track": "King Money"
+    },
+    {
+        "datetime": "2020-06-09 15:25:22",
+        "artist": "ABC",
+        "album": "Beauty Stab",
+        "track": "Bite The Hand"
+    },
+    {
+        "datetime": "2020-06-09 18:13:37",
+        "artist": "ABC",
+        "album": "Beauty Stab",
+        "track": "That Was Then But This Is Now"
+    },
+    {
+        "datetime": "2020-06-09 18:17:12",
+        "artist": "ABC",
+        "album": "Beauty Stab",
+        "track": "Bite The Hand"
+    },
+    {
+        "datetime": "2020-06-09 18:20:18",
+        "artist": "ABC",
+        "album": "Beauty Stab",
+        "track": "By Default By Design"
+    },
+    {
+        "datetime": "2020-06-09 18:24:24",
+        "artist": "ABC",
+        "album": "Beauty Stab",
+        "track": "Beauty Stab"
+    },
+    {
+        "datetime": "2020-06-09 18:26:31",
+        "artist": "ABC",
+        "album": "Beauty Stab",
+        "track": "King Money"
+    },
+    {
+        "datetime": "2020-06-09 18:30:32",
+        "artist": "ABC",
+        "album": "Beauty Stab",
+        "track": "Love's A Dangerous Language"
+    },
+    {
+        "datetime": "2020-06-09 18:34:12",
+        "artist": "ABC",
+        "album": "Beauty Stab",
+        "track": "United Kingdom"
+    },
+    {
+        "datetime": "2020-06-09 18:37:32",
+        "artist": "ABC",
+        "album": "Beauty Stab",
+        "track": "If I Ever Thought You'd Be Lonely"
+    },
+    {
+        "datetime": "2020-06-09 18:41:27",
+        "artist": "ABC",
+        "album": "Beauty Stab",
+        "track": "Unzip"
+    },
+    {
+        "datetime": "2020-06-09 18:44:16",
+        "artist": "ABC",
+        "album": "Beauty Stab",
+        "track": "S.O.S."
+    },
+    {
+        "datetime": "2020-06-09 18:49:04",
+        "artist": "ABC",
+        "album": "Beauty Stab",
+        "track": "The Power Of Persuasion"
+    },
+    {
+        "datetime": "2020-06-09 18:52:36",
+        "artist": "ABC",
+        "album": "Beauty Stab",
+        "track": "Hey Citizen!"
+    },
+    {
+        "datetime": "2020-06-11 17:23:10",
+        "artist": "Simple Minds",
+        "album": "Sons And Fascination/Sister Feelings Call",
+        "track": "Love Song"
+    },
+    {
+        "datetime": "2020-06-11 17:28:16",
+        "artist": "Simple Minds",
+        "album": "Sons And Fascination/Sister Feelings Call",
+        "track": "Boys from Brazil"
+    },
+    {
+        "datetime": "2020-06-11 17:33:47",
+        "artist": "Simple Minds",
+        "album": "Sons And Fascination/Sister Feelings Call",
+        "track": "Wonderful in Young Life"
+    },
+    {
+        "datetime": "2020-06-11 17:39:08",
+        "artist": "Simple Minds",
+        "album": "Sons And Fascination/Sister Feelings Call",
+        "track": "Careful in Career"
+    },
+    {
+        "datetime": "2020-06-11 17:44:17",
+        "artist": "Simple Minds",
+        "album": "Sons And Fascination/Sister Feelings Call",
+        "track": "Sons and Fascination"
+    },
+    {
+        "datetime": "2020-06-11 17:49:40",
+        "artist": "Simple Minds",
+        "album": "Sons And Fascination/Sister Feelings Call",
+        "track": "The American"
+    },
+    {
+        "datetime": "2020-06-11 17:53:31",
+        "artist": "Simple Minds",
+        "album": "Sons And Fascination/Sister Feelings Call",
+        "track": "70 Cities As Love Brings the Fall"
+    },
+    {
+        "datetime": "2020-06-11 17:58:20",
+        "artist": "Simple Minds",
+        "album": "Sons And Fascination/Sister Feelings Call",
+        "track": "This Earth That You Walk Upon"
+    },
+    {
+        "datetime": "2020-06-11 18:03:48",
+        "artist": "Simple Minds",
+        "album": "Sons And Fascination/Sister Feelings Call",
+        "track": "Theme for Great Cities"
+    },
+    {
+        "datetime": "2020-06-11 18:09:39",
+        "artist": "Simple Minds",
+        "album": "Sons And Fascination/Sister Feelings Call",
+        "track": "20th Century Promised Land"
+    },
+    {
+        "datetime": "2020-06-11 18:25:18",
+        "artist": "Simple Minds",
+        "album": "Sparkle In The Rain",
+        "track": "Up On The Catwalk (2002 Digital Remaster)"
+    },
+    {
+        "datetime": "2020-06-12 10:44:34",
+        "artist": "The Beatles",
+        "album": "With The Beatles",
+        "track": "It Won't Be Long (Remastered 2009)"
+    },
+    {
+        "datetime": "2020-06-12 10:46:48",
+        "artist": "The Beatles",
+        "album": "With The Beatles",
+        "track": "All I've Got To Do (Remastered 2009)"
+    },
+    {
+        "datetime": "2020-06-12 10:48:50",
+        "artist": "The Beatles",
+        "album": "With The Beatles",
+        "track": "All My Loving (Remastered 2009)"
+    },
+    {
+        "datetime": "2020-06-12 10:50:58",
+        "artist": "The Beatles",
+        "album": "With The Beatles",
+        "track": "Don't Bother Me (Remastered 2009)"
+    },
+    {
+        "datetime": "2020-06-12 10:53:26",
+        "artist": "The Beatles",
+        "album": "With The Beatles",
+        "track": "Little Child (Remastered 2009)"
+    },
+    {
+        "datetime": "2020-06-12 10:55:13",
+        "artist": "The Beatles",
+        "album": "With The Beatles",
+        "track": "Till There Was You (Remastered 2009)"
+    },
+    {
+        "datetime": "2020-06-12 10:57:26",
+        "artist": "The Beatles",
+        "album": "With The Beatles",
+        "track": "Please Mister Postman (Remastered 2009)"
+    },
+    {
+        "datetime": "2020-06-12 11:00:01",
+        "artist": "The Beatles",
+        "album": "With The Beatles",
+        "track": "Roll Over Beethoven (Remastered 2009)"
+    },
+    {
+        "datetime": "2020-06-12 11:02:46",
+        "artist": "The Beatles",
+        "album": "With The Beatles",
+        "track": "Hold Me Tight (Remastered 2009)"
+    },
+    {
+        "datetime": "2020-06-12 11:05:18",
+        "artist": "The Beatles",
+        "album": "With The Beatles",
+        "track": "You Really Got A Hold On Me (Remastered 2009)"
+    },
+    {
+        "datetime": "2020-06-12 11:08:19",
+        "artist": "The Beatles",
+        "album": "With The Beatles",
+        "track": "I Wanna Be Your Man (Remastered 2009)"
+    },
+    {
+        "datetime": "2020-06-12 11:10:19",
+        "artist": "The Beatles",
+        "album": "With The Beatles",
+        "track": "Devil In Her Heart (Remastered 2009)"
+    },
+    {
+        "datetime": "2020-06-12 11:12:45",
+        "artist": "The Beatles",
+        "album": "With The Beatles",
+        "track": "Not A Second Time (Remastered 2009)"
+    },
+    {
+        "datetime": "2020-06-12 11:14:52",
+        "artist": "The Beatles",
+        "album": "With The Beatles",
+        "track": "Money (That's What I Want) (Remastered 2009)"
+    },
+    {
+        "datetime": "2020-06-12 14:01:48",
+        "artist": "Patty Griffin",
+        "album": "American Kid",
+        "track": "Go Wherever You Wanna Go"
+    },
+    {
+        "datetime": "2020-06-12 14:05:35",
+        "artist": "Patty Griffin",
+        "album": "American Kid",
+        "track": "Don't Let Me Die In Florida"
+    },
+    {
+        "datetime": "2020-06-12 14:09:23",
+        "artist": "Patty Griffin",
+        "album": "American Kid",
+        "track": "Ohio"
+    },
+    {
+        "datetime": "2020-06-12 14:14:35",
+        "artist": "Patty Griffin",
+        "album": "American Kid",
+        "track": "Wild Old Dog"
+    },
+    {
+        "datetime": "2020-06-12 14:19:23",
+        "artist": "Patty Griffin",
+        "album": "American Kid",
+        "track": "Mom & Dad's Waltz"
+    },
+    {
+        "datetime": "2020-06-12 14:22:18",
+        "artist": "Patty Griffin",
+        "album": "American Kid",
+        "track": "Faithful Son"
+    },
+    {
+        "datetime": "2020-06-12 14:27:13",
+        "artist": "Patty Griffin",
+        "album": "American Kid",
+        "track": "Highway Song"
+    },
+    {
+        "datetime": "2020-06-12 16:27:39",
+        "artist": "Patty Griffin",
+        "album": "American Kid",
+        "track": "That Kind Of Lonely"
+    },
+    {
+        "datetime": "2020-06-12 16:32:02",
+        "artist": "Patty Griffin",
+        "album": "American Kid",
+        "track": "Irish Boy"
+    },
+    {
+        "datetime": "2020-06-12 16:34:48",
+        "artist": "Patty Griffin",
+        "album": "American Kid",
+        "track": "Get Ready Marie"
+    },
+    {
+        "datetime": "2020-06-12 16:37:48",
+        "artist": "Patty Griffin",
+        "album": "American Kid",
+        "track": "Not A Bad Man"
+    },
+    {
+        "datetime": "2020-06-12 16:41:33",
+        "artist": "Patty Griffin",
+        "album": "American Kid",
+        "track": "Gonna Miss You When You're Gone"
+    },
+    {
+        "datetime": "2020-06-12 17:00:25",
+        "artist": "The Fall",
+        "album": "Totale's Turns (It's Now Or Never)",
+        "track": "Intro (Live)"
+    },
+    {
+        "datetime": "2020-06-12 17:01:12",
+        "artist": "The Fall",
+        "album": "Totale's Turns (It's Now Or Never)",
+        "track": "Fiery Jack (Live)"
+    },
+    {
+        "datetime": "2020-06-12 17:05:38",
+        "artist": "The Fall",
+        "album": "Totale's Turns (It's Now Or Never)",
+        "track": "Rowche Rumble (Live)"
+    },
+    {
+        "datetime": "2020-06-12 17:10:16",
+        "artist": "The Fall",
+        "album": "Totale's Turns (It's Now Or Never)",
+        "track": "Muzorewi's Daughter (Live)"
+    },
+    {
+        "datetime": "2020-06-12 17:13:57",
+        "artist": "The Fall",
+        "album": "Totale's Turns (It's Now Or Never)",
+        "track": "In My Area (Live)"
+    },
+    {
+        "datetime": "2020-06-12 17:18:09",
+        "artist": "The Fall",
+        "album": "Totale's Turns (It's Now Or Never)",
+        "track": "Choc-Stock (Live)"
+    },
+    {
+        "datetime": "2020-06-12 17:20:41",
+        "artist": "The Fall",
+        "album": "Totale's Turns (It's Now Or Never)",
+        "track": "Spectre vs. Rector (Live)"
+    },
+    {
+        "datetime": "2020-06-12 17:26:29",
+        "artist": "The Fall",
+        "album": "Totale's Turns (It's Now Or Never)",
+        "track": "Cary Grant's Wedding (Live)"
+    },
+    {
+        "datetime": "2020-06-12 17:31:46",
+        "artist": "The Fall",
+        "album": "Totale's Turns (It's Now Or Never)",
+        "track": "New Puritan (Live)"
+    },
+    {
+        "datetime": "2020-06-12 18:23:55",
+        "artist": "The Fall",
+        "album": "Totale's Turns (It's Now Or Never)",
+        "track": "No Xmas for John Quays (Live)"
+    },
+    {
+        "datetime": "2020-06-12 18:27:21",
+        "artist": "The Fall",
+        "album": "Totale's Turns (It's Now Or Never)",
+        "track": "No Xmas for John Quays (Live)"
+    },
+    {
+        "datetime": "2020-06-12 19:30:48",
+        "artist": "The Fall",
+        "album": "Totale's Turns (It's Now Or Never)",
+        "track": "The Container Drivers (Peel Session 24/9/80)"
+    },
+    {
+        "datetime": "2020-06-12 19:35:13",
+        "artist": "The Fall",
+        "album": "Totale's Turns (It's Now Or Never)",
+        "track": "Jawbone + The Air-Rifle (Peel Session 24/9/80)"
+    },
+    {
+        "datetime": "2020-06-12 19:38:38",
+        "artist": "The Fall",
+        "album": "Totale's Turns (It's Now Or Never)",
+        "track": "New Puritan (Peel Session 24/9/80)"
+    },
+    {
+        "datetime": "2020-06-13 15:26:49",
+        "artist": "Brigid Mae Power",
+        "album": "Head Above The Water",
+        "track": "On A City Night"
+    },
+    {
+        "datetime": "2020-06-13 15:32:16",
+        "artist": "Brigid Mae Power",
+        "album": "Head Above The Water",
+        "track": "Wearing Red That Eve"
+    },
+    {
+        "datetime": "2020-06-13 15:35:48",
+        "artist": "Brigid Mae Power",
+        "album": "Head Above The Water",
+        "track": "Wedding of a Friend"
+    },
+    {
+        "datetime": "2020-06-13 15:40:27",
+        "artist": "Brigid Mae Power",
+        "album": "Head Above The Water",
+        "track": "Not Yours to Own"
+    },
+    {
+        "datetime": "2020-06-13 15:43:53",
+        "artist": "Brigid Mae Power",
+        "album": "Head Above The Water",
+        "track": "I Was Named After You"
+    },
+    {
+        "datetime": "2020-06-13 19:45:07",
+        "artist": "Cocteau Twins",
+        "album": "Aikea-Guinea",
+        "track": "Aikea-Guinea"
+    },
+    {
+        "datetime": "2020-06-13 19:49:13",
+        "artist": "Cocteau Twins",
+        "album": "Aikea-Guinea",
+        "track": "Kookaburra"
+    },
+    {
+        "datetime": "2020-06-13 19:52:37",
+        "artist": "Cocteau Twins",
+        "album": "Aikea-Guinea",
+        "track": "Quisquose"
+    },
+    {
+        "datetime": "2020-06-13 19:56:51",
+        "artist": "Cocteau Twins",
+        "album": "Aikea-Guinea",
+        "track": "Rococo"
+    },
+    {
+        "datetime": "2020-06-14 17:23:04",
+        "artist": "Tift Merritt",
+        "album": "Night",
+        "track": "Only In Songs"
+    },
+    {
+        "datetime": "2020-06-14 17:26:58",
+        "artist": "Tift Merritt",
+        "album": "Night",
+        "track": "Franz Schubert: Night and Dreams (w/ Simone Dinnerstein)"
+    },
+    {
+        "datetime": "2020-06-14 17:30:52",
+        "artist": "Tift Merritt",
+        "album": "Night",
+        "track": "Don't Explain"
+    },
+    {
+        "datetime": "2020-06-14 17:35:03",
+        "artist": "Tift Merritt",
+        "album": "Night",
+        "track": "Henry Purcell: Dido's Lament (w/ Simone Dinnerstein)"
+    },
+    {
+        "datetime": "2020-06-14 17:38:06",
+        "artist": "Tift Merritt",
+        "album": "Night",
+        "track": "I Shall Weep At Night"
+    },
+    {
+        "datetime": "2020-06-14 17:42:55",
+        "artist": "Tift Merritt",
+        "album": "Night",
+        "track": "Wayfaring Stranger"
+    },
+    {
+        "datetime": "2020-06-14 17:46:35",
+        "artist": "Tift Merritt",
+        "album": "Night",
+        "track": "Prelude in B Minor"
+    },
+    {
+        "datetime": "2020-06-14 17:48:07",
+        "artist": "Tift Merritt",
+        "album": "Night",
+        "track": "Still Not Home"
+    },
+    {
+        "datetime": "2020-06-14 17:51:21",
+        "artist": "Tift Merritt",
+        "album": "Night",
+        "track": "I Will Give My Love An Apple"
+    },
+    {
+        "datetime": "2020-06-14 17:53:07",
+        "artist": "Tift Merritt",
+        "album": "Night",
+        "track": "Colors"
+    },
+    {
+        "datetime": "2020-06-14 17:56:38",
+        "artist": "Tift Merritt",
+        "album": "Night",
+        "track": "The Cohen Variations"
+    },
+    {
+        "datetime": "2020-06-14 18:03:21",
+        "artist": "Tift Merritt",
+        "album": "Night",
+        "track": "I Can See Clearly Now"
+    },
+    {
+        "datetime": "2020-06-14 18:16:47",
+        "artist": "Lloyd Cole",
+        "album": "Bad Vibes",
+        "track": "Morning Is Broken"
+    },
+    {
+        "datetime": "2020-06-14 18:22:24",
+        "artist": "Lloyd Cole",
+        "album": "Bad Vibes",
+        "track": "So You'd Like To Save The World"
+    },
+    {
+        "datetime": "2020-06-14 18:25:55",
+        "artist": "Lloyd Cole",
+        "album": "Bad Vibes",
+        "track": "Holier Than Thou"
+    },
+    {
+        "datetime": "2020-06-14 18:29:48",
+        "artist": "Lloyd Cole",
+        "album": "Bad Vibes",
+        "track": "Love You So What"
+    },
+    {
+        "datetime": "2020-06-14 18:33:14",
+        "artist": "Lloyd Cole",
+        "album": "Bad Vibes",
+        "track": "Wild Mushrooms"
+    },
+    {
+        "datetime": "2020-06-14 18:35:24",
+        "artist": "Lloyd Cole",
+        "album": "Bad Vibes",
+        "track": "My Way To You"
+    },
+    {
+        "datetime": "2020-06-14 18:39:44",
+        "artist": "Lloyd Cole",
+        "album": "Bad Vibes",
+        "track": "Too Much Of A Good Thing"
+    },
+    {
+        "datetime": "2020-06-14 18:44:48",
+        "artist": "Lloyd Cole",
+        "album": "Bad Vibes",
+        "track": "Fall Together"
+    },
+    {
+        "datetime": "2020-06-14 18:49:39",
+        "artist": "Lloyd Cole",
+        "album": "Bad Vibes",
+        "track": "Mister Wrong"
+    },
+    {
+        "datetime": "2020-06-14 18:53:03",
+        "artist": "Lloyd Cole",
+        "album": "Bad Vibes",
+        "track": "Seen The Future"
+    },
+    {
+        "datetime": "2020-06-15 13:22:40",
+        "artist": "Department S",
+        "album": "When All Is Said And All Is Done",
+        "track": "Kings of the World"
+    },
+    {
+        "datetime": "2020-06-15 13:26:54",
+        "artist": "Department S",
+        "album": "When All Is Said And All Is Done",
+        "track": "I Said You"
+    },
+    {
+        "datetime": "2020-06-15 13:31:22",
+        "artist": "Department S",
+        "album": "When All Is Said And All Is Done",
+        "track": "When All Is Said and All Is Done"
+    },
+    {
+        "datetime": "2020-06-15 15:28:36",
+        "artist": "Department S",
+        "album": "When All Is Said And All Is Done",
+        "track": "Long March"
+    },
+    {
+        "datetime": "2020-06-15 15:32:42",
+        "artist": "Department S",
+        "album": "When All Is Said And All Is Done",
+        "track": "Frozen Room"
+    },
+    {
+        "datetime": "2020-06-15 15:38:43",
+        "artist": "Department S",
+        "album": "When All Is Said And All Is Done",
+        "track": "I Believe"
+    },
+    {
+        "datetime": "2020-06-15 15:43:04",
+        "artist": "Department S",
+        "album": "When All Is Said And All Is Done",
+        "track": "Persia Dance"
+    },
+    {
+        "datetime": "2020-06-15 15:47:20",
+        "artist": "Department S",
+        "album": "When All Is Said And All Is Done",
+        "track": "On My Own Again"
+    },
+    {
+        "datetime": "2020-06-15 15:51:59",
+        "artist": "Department S",
+        "album": "When All Is Said And All Is Done",
+        "track": "Cause"
+    },
+    {
+        "datetime": "2020-06-15 15:58:04",
+        "artist": "Department S",
+        "album": "When All Is Said And All Is Done",
+        "track": "Age of Control"
+    },
+    {
+        "datetime": "2020-06-15 19:36:45",
+        "artist": "Sugar Black",
+        "album": "Blowin' In The Wind: A Reggae Tribute To Bob Dylan",
+        "track": "You're A Big Girl Now"
+    },
+    {
+        "datetime": "2020-06-15 19:41:13",
+        "artist": "Lehbanchleh",
+        "album": "Blowin' In The Wind: A Reggae Tribute To Bob Dylan",
+        "track": "Just Like a Woman"
+    },
+    {
+        "datetime": "2020-06-15 19:45:15",
+        "artist": "Mankind",
+        "album": "Blowin' In The Wind: A Reggae Tribute To Bob Dylan",
+        "track": "The Times They Are A-Changin'"
+    },
+    {
+        "datetime": "2020-06-16 09:56:23",
+        "artist": "Department S",
+        "album": "When All Is Said And All Is Done",
+        "track": "Kings of the World"
+    },
+    {
+        "datetime": "2020-06-16 10:00:37",
+        "artist": "Department S",
+        "album": "When All Is Said And All Is Done",
+        "track": "I Said You"
+    },
+    {
+        "datetime": "2020-06-16 10:05:05",
+        "artist": "Department S",
+        "album": "When All Is Said And All Is Done",
+        "track": "When All Is Said and All Is Done"
+    },
+    {
+        "datetime": "2020-06-16 10:09:26",
+        "artist": "Department S",
+        "album": "When All Is Said And All Is Done",
+        "track": "Long March"
+    },
+    {
+        "datetime": "2020-06-16 10:13:32",
+        "artist": "Department S",
+        "album": "When All Is Said And All Is Done",
+        "track": "Frozen Room"
+    },
+    {
+        "datetime": "2020-06-16 10:19:33",
+        "artist": "Department S",
+        "album": "When All Is Said And All Is Done",
+        "track": "I Believe"
+    },
+    {
+        "datetime": "2020-06-16 10:23:54",
+        "artist": "Department S",
+        "album": "When All Is Said And All Is Done",
+        "track": "Persia Dance"
+    },
+    {
+        "datetime": "2020-06-16 10:28:10",
+        "artist": "Department S",
+        "album": "When All Is Said And All Is Done",
+        "track": "On My Own Again"
+    },
+    {
+        "datetime": "2020-06-16 10:32:49",
+        "artist": "Department S",
+        "album": "When All Is Said And All Is Done",
+        "track": "Cause"
+    },
+    {
+        "datetime": "2020-06-16 10:38:53",
+        "artist": "Department S",
+        "album": "When All Is Said And All Is Done",
+        "track": "Age of Control"
+    },
+    {
+        "datetime": "2020-06-16 11:21:58",
+        "artist": "Department S",
+        "album": "When All Is Said And All Is Done",
+        "track": "Kings of the World"
+    },
+    {
+        "datetime": "2020-06-16 11:26:13",
+        "artist": "Department S",
+        "album": "When All Is Said And All Is Done",
+        "track": "I Said You"
+    },
+    {
+        "datetime": "2020-06-16 12:02:06",
+        "artist": "Department S",
+        "album": "When All Is Said And All Is Done",
+        "track": "When All Is Said and All Is Done"
+    },
+    {
+        "datetime": "2020-06-16 12:06:27",
+        "artist": "Department S",
+        "album": "When All Is Said And All Is Done",
+        "track": "Long March"
+    },
+    {
+        "datetime": "2020-06-16 12:10:34",
+        "artist": "Department S",
+        "album": "When All Is Said And All Is Done",
+        "track": "Frozen Room"
+    },
+    {
+        "datetime": "2020-06-16 12:16:34",
+        "artist": "Department S",
+        "album": "When All Is Said And All Is Done",
+        "track": "I Believe"
+    },
+    {
+        "datetime": "2020-06-16 12:20:55",
+        "artist": "Department S",
+        "album": "When All Is Said And All Is Done",
+        "track": "Persia Dance"
+    },
+    {
+        "datetime": "2020-06-16 12:25:11",
+        "artist": "Department S",
+        "album": "When All Is Said And All Is Done",
+        "track": "On My Own Again"
+    },
+    {
+        "datetime": "2020-06-16 12:29:50",
+        "artist": "Department S",
+        "album": "When All Is Said And All Is Done",
+        "track": "Cause"
+    },
+    {
+        "datetime": "2020-06-16 12:35:55",
+        "artist": "Department S",
+        "album": "When All Is Said And All Is Done",
+        "track": "Age of Control"
+    },
+    {
+        "datetime": "2020-06-16 17:30:33",
+        "artist": "The Clash",
+        "album": "The Clash",
+        "track": "Janie Jones"
+    },
+    {
+        "datetime": "2020-06-16 17:32:42",
+        "artist": "The Clash",
+        "album": "The Clash",
+        "track": "Remote Control"
+    },
+    {
+        "datetime": "2020-06-16 17:42:37",
+        "artist": "The Clash",
+        "album": "The Clash",
+        "track": "I'm So Bored with the U.S.A."
+    },
+    {
+        "datetime": "2020-06-16 17:45:02",
+        "artist": "The Clash",
+        "album": "The Clash",
+        "track": "White Riot"
+    },
+    {
+        "datetime": "2020-06-16 17:46:58",
+        "artist": "The Clash",
+        "album": "The Clash",
+        "track": "Hate & War"
+    },
+    {
+        "datetime": "2020-06-16 17:49:05",
+        "artist": "The Clash",
+        "album": "The Clash",
+        "track": "What's My Name"
+    },
+    {
+        "datetime": "2020-06-16 17:50:47",
+        "artist": "The Clash",
+        "album": "The Clash",
+        "track": "Deny"
+    },
+    {
+        "datetime": "2020-06-16 17:53:53",
+        "artist": "The Clash",
+        "album": "The Clash",
+        "track": "London's Burning"
+    },
+    {
+        "datetime": "2020-06-16 17:56:05",
+        "artist": "The Clash",
+        "album": "The Clash",
+        "track": "Career Opportunities"
+    },
+    {
+        "datetime": "2020-06-16 17:57:59",
+        "artist": "The Clash",
+        "album": "The Clash",
+        "track": "Cheat"
+    },
+    {
+        "datetime": "2020-06-16 18:00:05",
+        "artist": "The Clash",
+        "album": "The Clash",
+        "track": "Protex Blue"
+    },
+    {
+        "datetime": "2020-06-16 18:01:52",
+        "artist": "The Clash",
+        "album": "The Clash",
+        "track": "Police & Thieves (Remastered)"
+    },
+    {
+        "datetime": "2020-06-16 18:04:34",
+        "artist": "The Clash",
+        "album": "The Clash",
+        "track": "Police & Thieves (Remastered)"
+    },
+    {
+        "datetime": "2020-06-16 18:09:32",
+        "artist": "The Clash",
+        "album": "The Clash",
+        "track": "Garageland"
+    },
+    {
+        "datetime": "2020-06-17 09:54:08",
+        "artist": "Bob Dylan",
+        "album": "Tempest",
+        "track": "Duquesne Whistle"
+    },
+    {
+        "datetime": "2020-06-17 09:59:52",
+        "artist": "Bob Dylan",
+        "album": "Tempest",
+        "track": "Soon After Midnight"
+    },
+    {
+        "datetime": "2020-06-17 10:03:20",
+        "artist": "Bob Dylan",
+        "album": "Tempest",
+        "track": "Narrow Way"
+    },
+    {
+        "datetime": "2020-06-17 10:10:48",
+        "artist": "Bob Dylan",
+        "album": "Tempest",
+        "track": "Long and Wasted Years"
+    },
+    {
+        "datetime": "2020-06-17 10:19:54",
+        "artist": "Bob Dylan",
+        "album": "Tempest",
+        "track": "Pay in Blood"
+    },
+    {
+        "datetime": "2020-06-17 10:25:04",
+        "artist": "Bob Dylan",
+        "album": "Tempest",
+        "track": "Scarlet Town"
+    },
+    {
+        "datetime": "2020-06-17 13:46:57",
+        "artist": "Bob Dylan",
+        "album": "Tempest",
+        "track": "Early Roman Kings"
+    },
+    {
+        "datetime": "2020-06-17 13:52:11",
+        "artist": "Bob Dylan",
+        "album": "Tempest",
+        "track": "Tin Angel"
+    },
+    {
+        "datetime": "2020-06-17 15:02:29",
+        "artist": "Bob Dylan",
+        "album": "Tempest",
+        "track": "Tempest"
+    },
+    {
+        "datetime": "2020-06-17 15:16:24",
+        "artist": "Bob Dylan",
+        "album": "Tempest",
+        "track": "Roll on John"
+    },
+    {
+        "datetime": "2020-06-17 16:23:10",
+        "artist": "Bob Dylan",
+        "album": "Tempest",
+        "track": "Tempest"
+    },
+    {
+        "datetime": "2020-06-17 18:11:44",
+        "artist": "Bob Dylan",
+        "album": "Tempest",
+        "track": "Roll on John"
+    },
+    {
+        "datetime": "2020-06-18 10:57:40",
+        "artist": "Bob Dylan",
+        "album": "Tempest",
+        "track": "Duquesne Whistle"
+    },
+    {
+        "datetime": "2020-06-18 11:03:24",
+        "artist": "Bob Dylan",
+        "album": "Tempest",
+        "track": "Soon After Midnight"
+    },
+    {
+        "datetime": "2020-06-18 11:06:52",
+        "artist": "Bob Dylan",
+        "album": "Tempest",
+        "track": "Narrow Way"
+    },
+    {
+        "datetime": "2020-06-18 11:14:20",
+        "artist": "Bob Dylan",
+        "album": "Tempest",
+        "track": "Long and Wasted Years"
+    },
+    {
+        "datetime": "2020-06-18 11:18:06",
+        "artist": "Bob Dylan",
+        "album": "Tempest",
+        "track": "Pay in Blood"
+    },
+    {
+        "datetime": "2020-06-18 11:25:29",
+        "artist": "Bob Dylan",
+        "album": "Tempest",
+        "track": "Scarlet Town"
+    },
+    {
+        "datetime": "2020-06-18 11:32:44",
+        "artist": "Bob Dylan",
+        "album": "Tempest",
+        "track": "Early Roman Kings"
+    },
+    {
+        "datetime": "2020-06-18 11:37:58",
+        "artist": "Bob Dylan",
+        "album": "Tempest",
+        "track": "Tin Angel"
+    },
+    {
+        "datetime": "2020-06-18 13:48:18",
+        "artist": "Bob Dylan",
+        "album": "Tempest",
+        "track": "Tempest"
+    },
+    {
+        "datetime": "2020-06-18 14:02:12",
+        "artist": "Bob Dylan",
+        "album": "Tempest",
+        "track": "Roll on John"
+    },
+    {
+        "datetime": "2020-06-18 15:18:40",
+        "artist": "Rachel Harrington",
+        "album": "Celilo Falls",
+        "track": "House of Cards"
+    },
+    {
+        "datetime": "2020-06-18 15:21:50",
+        "artist": "Rachel Harrington",
+        "album": "Celilo Falls",
+        "track": "Here in My Bed"
+    },
+    {
+        "datetime": "2020-06-18 15:25:34",
+        "artist": "Rachel Harrington",
+        "album": "Celilo Falls",
+        "track": "Little Pink"
+    },
+    {
+        "datetime": "2020-06-18 15:27:57",
+        "artist": "Rachel Harrington",
+        "album": "Celilo Falls",
+        "track": "Goodbye Amsterdam"
+    },
+    {
+        "datetime": "2020-06-18 15:31:46",
+        "artist": "Rachel Harrington",
+        "album": "Celilo Falls",
+        "track": "You'll Do"
+    },
+    {
+        "datetime": "2020-06-18 15:34:36",
+        "artist": "Rachel Harrington",
+        "album": "Celilo Falls",
+        "track": "He Started Building My Mansion in Heaven Today"
+    },
+    {
+        "datetime": "2020-06-18 15:38:24",
+        "artist": "Rachel Harrington",
+        "album": "Celilo Falls",
+        "track": "You Don't Know"
+    },
+    {
+        "datetime": "2020-06-18 15:42:05",
+        "artist": "Rachel Harrington",
+        "album": "Celilo Falls",
+        "track": "Pretty Saro"
+    },
+    {
+        "datetime": "2020-06-18 15:44:41",
+        "artist": "Rachel Harrington",
+        "album": "Celilo Falls",
+        "track": "Bury Me Close"
+    },
+    {
+        "datetime": "2020-06-18 15:47:20",
+        "artist": "Rachel Harrington",
+        "album": "Celilo Falls",
+        "track": "Where You Are"
+    },
+    {
+        "datetime": "2020-06-18 15:51:12",
+        "artist": "Rachel Harrington",
+        "album": "Celilo Falls",
+        "track": "Spokane"
+    },
+    {
+        "datetime": "2020-06-18 15:55:49",
+        "artist": "Rachel Harrington",
+        "album": "Celilo Falls",
+        "track": "Let Me Sleep In Your Arms Tonight"
+    },
+    {
+        "datetime": "2020-06-18 15:58:42",
+        "artist": "Rachel Harrington",
+        "album": "Celilo Falls",
+        "track": "The Last Jubilee"
+    },
+    {
+        "datetime": "2020-06-18 16:54:59",
+        "artist": "Various",
+        "album": "UNCUT 2016-02",
+        "track": "Whitest Boy On The Beach"
+    },
+    {
+        "datetime": "2020-06-18 20:17:28",
+        "artist": "Prefab Sprout",
+        "album": "Protest Songs",
+        "track": "Dublin (Remastered)"
+    },
+    {
+        "datetime": "2020-06-18 20:21:39",
+        "artist": "Prefab Sprout",
+        "album": "Protest Songs",
+        "track": "Diana (Remastered)"
+    },
+    {
+        "datetime": "2020-06-18 20:25:52",
+        "artist": "Prefab Sprout",
+        "album": "Protest Songs",
+        "track": "The World Awake (Remastered)"
+    },
+    {
+        "datetime": "2020-06-18 20:30:20",
+        "artist": "Prefab Sprout",
+        "album": "Protest Songs",
+        "track": "'Til the Cows Come Home (Remastered)"
+    },
+    {
+        "datetime": "2020-06-18 20:34:33",
+        "artist": "Prefab Sprout",
+        "album": "Protest Songs",
+        "track": "Wicked Things (Remastered)"
+    },
+    {
+        "datetime": "2020-06-18 20:37:44",
+        "artist": "Prefab Sprout",
+        "album": "Protest Songs",
+        "track": "Pearly Gates (Remastered)"
+    },
+    {
+        "datetime": "2020-06-19 09:21:53",
+        "artist": "Bob Dylan",
+        "album": "Rough And Rowdy Ways",
+        "track": "I Contain Multitudes"
+    },
+    {
+        "datetime": "2020-06-19 09:26:31",
+        "artist": "Bob Dylan",
+        "album": "Rough And Rowdy Ways",
+        "track": "False Prophet"
+    },
+    {
+        "datetime": "2020-06-19 10:14:29",
+        "artist": "Various",
+        "album": "UNCUT 2016-11 Sterotypes",
+        "track": "Mamah Borthwick (A Sketch)"
+    },
+    {
+        "datetime": "2020-06-19 10:17:21",
+        "artist": "Various",
+        "album": "UNCUT 2016-11 Sterotypes",
+        "track": "Alarms"
+    },
+    {
+        "datetime": "2020-06-19 10:22:17",
+        "artist": "Various",
+        "album": "UNCUT 2016-11 Sterotypes",
+        "track": "Silver Chain"
+    },
+    {
+        "datetime": "2020-06-19 10:26:14",
+        "artist": "Various",
+        "album": "UNCUT 2016-11 Sterotypes",
+        "track": "The Olde Trip to Jerusalem"
+    },
+    {
+        "datetime": "2020-06-19 10:50:01",
+        "artist": "Various",
+        "album": "UNCUT 2016-11 Sterotypes",
+        "track": "Wanted To Want It Too"
+    },
+    {
+        "datetime": "2020-06-19 10:52:48",
+        "artist": "Various",
+        "album": "UNCUT 2016-11 Sterotypes",
+        "track": "Soma Gone Slapstick"
+    },
+    {
+        "datetime": "2020-06-19 10:57:00",
+        "artist": "Various",
+        "album": "UNCUT 2016-11 Sterotypes",
+        "track": "Buzq Blues"
+    },
+    {
+        "datetime": "2020-06-19 11:02:28",
+        "artist": "Various",
+        "album": "UNCUT 2016-11 Sterotypes",
+        "track": "Black Peak"
+    },
+    {
+        "datetime": "2020-06-19 11:06:41",
+        "artist": "Various",
+        "album": "UNCUT 2016-11 Sterotypes",
+        "track": "Pool Party"
+    },
+    {
+        "datetime": "2020-06-19 11:09:46",
+        "artist": "Various",
+        "album": "UNCUT 2016-11 Sterotypes",
+        "track": "Fever"
+    },
+    {
+        "datetime": "2020-06-19 16:31:49",
+        "artist": "Bob Dylan",
+        "album": "Rough And Rowdy Ways",
+        "track": "My Own Version of You"
+    },
+    {
+        "datetime": "2020-06-19 16:38:30",
+        "artist": "Bob Dylan",
+        "album": "Rough And Rowdy Ways",
+        "track": "I've Made Up My Mind to Give Myself to You"
+    },
+    {
+        "datetime": "2020-06-19 16:59:54",
+        "artist": "Prefab Sprout",
+        "album": "Protest Songs",
+        "track": "The World Awake (Remastered)"
+    },
+    {
+        "datetime": "2020-06-19 17:04:23",
+        "artist": "Prefab Sprout",
+        "album": "Protest Songs",
+        "track": "Life of Surprises (Remastered)"
+    },
+    {
+        "datetime": "2020-06-19 17:08:31",
+        "artist": "Prefab Sprout",
+        "album": "Protest Songs",
+        "track": "Horsechimes (Remastered)"
+    },
+    {
+        "datetime": "2020-06-19 17:12:55",
+        "artist": "Prefab Sprout",
+        "album": "Protest Songs",
+        "track": "Wicked Things (Remastered)"
+    },
+    {
+        "datetime": "2020-06-20 14:25:01",
+        "artist": "Bob Dylan",
+        "album": "Rough And Rowdy Ways",
+        "track": "Murder Most Foul"
+    },
+    {
+        "datetime": "2020-06-20 16:45:03",
+        "artist": "Bob Dylan",
+        "album": "Rough And Rowdy Ways",
+        "track": "I Contain Multitudes"
+    },
+    {
+        "datetime": "2020-06-20 16:49:40",
+        "artist": "Bob Dylan",
+        "album": "Rough And Rowdy Ways",
+        "track": "False Prophet"
+    },
+    {
+        "datetime": "2020-06-20 16:55:40",
+        "artist": "Bob Dylan",
+        "album": "Rough And Rowdy Ways",
+        "track": "My Own Version of You"
+    },
+    {
+        "datetime": "2020-06-20 17:04:25",
+        "artist": "Bob Dylan",
+        "album": "Rough And Rowdy Ways",
+        "track": "I've Made Up My Mind to Give Myself to You"
+    },
+    {
+        "datetime": "2020-06-20 17:10:57",
+        "artist": "Bob Dylan",
+        "album": "Rough And Rowdy Ways",
+        "track": "Black Rider"
+    },
+    {
+        "datetime": "2020-06-20 17:15:10",
+        "artist": "Bob Dylan",
+        "album": "Rough And Rowdy Ways",
+        "track": "Goodbye Jimmy Reed"
+    },
+    {
+        "datetime": "2020-06-20 18:30:12",
+        "artist": "Bob Dylan",
+        "album": "Rough And Rowdy Ways",
+        "track": "Black Rider"
+    },
+    {
+        "datetime": "2020-06-20 18:34:29",
+        "artist": "Bob Dylan",
+        "album": "Rough And Rowdy Ways",
+        "track": "I Contain Multitudes"
+    },
+    {
+        "datetime": "2020-06-20 18:48:36",
+        "artist": "Bob Dylan",
+        "album": "Rough And Rowdy Ways",
+        "track": "Mother of Muses"
+    },
+    {
+        "datetime": "2020-06-20 18:53:43",
+        "artist": "Phoebe Bridgers",
+        "album": "Stranger In The Alp",
+        "track": "Scott Street"
+    },
+    {
+        "datetime": "2020-06-20 18:58:53",
+        "artist": "Phoebe Bridgers",
+        "album": "Stranger In The Alps",
+        "track": "Chelsea"
+    },
+    {
+        "datetime": "2020-06-20 19:03:38",
+        "artist": "Phoebe Bridgers",
+        "album": "Stranger In The Alps",
+        "track": "Funeral"
+    },
+    {
+        "datetime": "2020-06-20 19:07:33",
+        "artist": "Phoebe Bridgers",
+        "album": "Stranger In The Alps",
+        "track": "Demi Moore"
+    },
+    {
+        "datetime": "2020-06-20 19:10:53",
+        "artist": "The Human League",
+        "album": "Travelogue",
+        "track": "Crow And A Baby (2003 Digital Remaster)"
+    },
+    {
+        "datetime": "2020-06-20 19:14:40",
+        "artist": "The Human League",
+        "album": "Travelogue",
+        "track": "WXJL Tonight (2003 Digital Remaster)"
+    },
+    {
+        "datetime": "2020-06-21 11:27:51",
+        "artist": "Bob Dylan",
+        "album": "Rough And Rowdy Ways",
+        "track": "I Contain Multitudes"
+    },
+    {
+        "datetime": "2020-06-21 12:44:49",
+        "artist": "Bob Dylan",
+        "album": "Triplicate",
+        "track": "It Gets Lonely Early"
+    },
+    {
+        "datetime": "2020-06-21 13:59:35",
+        "artist": "Bob Dylan",
+        "album": "Fallen Angels",
+        "track": "On a Little Street in Singapore"
+    },
+    {
+        "datetime": "2020-06-21 14:01:50",
+        "artist": "Bob Dylan",
+        "album": "Shadows In The Night",
+        "track": "The Night We Called It a Day"
+    },
+    {
+        "datetime": "2020-06-21 14:05:10",
+        "artist": "Bob Dylan",
+        "album": "Fallen Angels",
+        "track": "All Or Nothing At All"
+    },
+    {
+        "datetime": "2020-06-22 10:47:09",
+        "artist": "Bob Dylan",
+        "album": "Shadows In The Night",
+        "track": "Where Are You?"
+    },
+    {
+        "datetime": "2020-06-22 10:50:42",
+        "artist": "Bob Dylan",
+        "album": "Triplicate",
+        "track": "You Go to My Head"
+    },
+    {
+        "datetime": "2020-06-22 10:53:45",
+        "artist": "Bob Dylan",
+        "album": "Triplicate",
+        "track": "P.S. I Love You"
+    },
+    {
+        "datetime": "2020-06-22 10:58:00",
+        "artist": "Bob Dylan",
+        "album": "Triplicate",
+        "track": "But Beautiful"
+    },
+    {
+        "datetime": "2020-06-22 11:01:19",
+        "artist": "Bob Dylan",
+        "album": "Triplicate",
+        "track": "I Could Have Told You"
+    },
+    {
+        "datetime": "2020-06-22 11:04:55",
+        "artist": "Bob Dylan",
+        "album": "Shadows In The Night",
+        "track": "Stay With Me"
+    },
+    {
+        "datetime": "2020-06-22 11:07:47",
+        "artist": "Bob Dylan",
+        "album": "Fallen Angels",
+        "track": "Skylark"
+    },
+    {
+        "datetime": "2020-06-22 11:10:43",
+        "artist": "Bob Dylan",
+        "album": "Shadows In The Night",
+        "track": "The Night We Called It a Day"
+    },
+    {
+        "datetime": "2020-06-22 11:15:58",
+        "artist": "Bob Dylan",
+        "album": "Modern Times",
+        "track": "Thunder on the Mountain"
+    },
+    {
+        "datetime": "2020-06-22 11:21:52",
+        "artist": "Bob Dylan",
+        "album": "Modern Times",
+        "track": "Spirit on the Water"
+    },
+    {
+        "datetime": "2020-06-22 11:29:33",
+        "artist": "Bob Dylan",
+        "album": "Modern Times",
+        "track": "Rollin' and Tumblin'"
+    },
+    {
+        "datetime": "2020-06-22 13:52:43",
+        "artist": "Bob Dylan",
+        "album": "Modern Times",
+        "track": "When the Deal Goes Down"
+    },
+    {
+        "datetime": "2020-06-22 15:49:25",
+        "artist": "Bob Dylan",
+        "album": "Modern Times",
+        "track": "Someday Baby"
+    },
+    {
+        "datetime": "2020-06-22 15:54:20",
+        "artist": "Bob Dylan",
+        "album": "Modern Times",
+        "track": "Workingman's Blues #2"
+    },
+    {
+        "datetime": "2020-06-22 16:00:27",
+        "artist": "Bob Dylan",
+        "album": "Modern Times",
+        "track": "Beyond the Horizon"
+    },
+    {
+        "datetime": "2020-06-22 16:06:02",
+        "artist": "Bob Dylan",
+        "album": "Modern Times",
+        "track": "Nettie Moore"
+    },
+    {
+        "datetime": "2020-06-22 16:22:30",
+        "artist": "Bob Dylan",
+        "album": "Modern Times",
+        "track": "The Levee's Gonna Break"
+    },
+    {
+        "datetime": "2020-06-23 20:39:48",
+        "artist": "Bob Dylan",
+        "album": "",
+        "track": "I Contain Multitudes"
+    },
+    {
+        "datetime": "2020-06-24 12:11:04",
+        "artist": "Simple Minds",
+        "album": "Sparkle In The Rain",
+        "track": "Up On The Catwalk (2002 Digital Remaster)"
+    },
+    {
+        "datetime": "2020-06-24 14:24:35",
+        "artist": "Bob Dylan",
+        "album": "Rough And Rowdy Ways",
+        "track": "I Contain Multitudes"
+    },
+    {
+        "datetime": "2020-06-24 14:37:58",
+        "artist": "Bob Dylan",
+        "album": "Rough And Rowdy Ways",
+        "track": "False Prophet"
+    },
+    {
+        "datetime": "2020-06-24 14:43:58",
+        "artist": "Bob Dylan",
+        "album": "Rough And Rowdy Ways",
+        "track": "My Own Version of You"
+    },
+    {
+        "datetime": "2020-06-24 14:50:39",
+        "artist": "Bob Dylan",
+        "album": "Rough And Rowdy Ways",
+        "track": "I've Made Up My Mind to Give Myself to You"
+    },
+    {
+        "datetime": "2020-06-24 14:57:11",
+        "artist": "Bob Dylan",
+        "album": "Rough And Rowdy Ways",
+        "track": "Black Rider"
+    },
+    {
+        "datetime": "2020-06-24 15:01:24",
+        "artist": "Bob Dylan",
+        "album": "Rough And Rowdy Ways",
+        "track": "Goodbye Jimmy Reed"
+    },
+    {
+        "datetime": "2020-06-24 15:05:37",
+        "artist": "Bob Dylan",
+        "album": "Rough And Rowdy Ways",
+        "track": "Mother of Muses"
+    },
+    {
+        "datetime": "2020-06-24 15:10:06",
+        "artist": "Bob Dylan",
+        "album": "Rough And Rowdy Ways",
+        "track": "Crossing the Rubicon"
+    },
+    {
+        "datetime": "2020-06-24 15:17:29",
+        "artist": "Bob Dylan",
+        "album": "Rough And Rowdy Ways",
+        "track": "Key West (Philosopher Pirate)"
+    },
+    {
+        "datetime": "2020-06-24 15:27:03",
+        "artist": "Bob Dylan",
+        "album": "Rough And Rowdy Ways",
+        "track": "Murder Most Foul"
+    },
+    {
+        "datetime": "2020-06-24 15:43:58",
+        "artist": "Bob Dylan",
+        "album": "Rough And Rowdy Ways",
+        "track": "Duquesne Whistle"
+    },
+    {
+        "datetime": "2020-06-24 16:38:38",
+        "artist": "Talking Heads",
+        "album": "Fear Of Music (Deluxe Version)",
+        "track": "I Zimbra (2005 Remastered Version)"
+    },
+    {
+        "datetime": "2020-06-24 16:41:48",
+        "artist": "Talking Heads",
+        "album": "Fear Of Music (Deluxe Version)",
+        "track": "Mind (2005 Remastered Version)"
+    },
+    {
+        "datetime": "2020-06-24 16:46:00",
+        "artist": "Talking Heads",
+        "album": "Fear Of Music (Deluxe Version)",
+        "track": "Paper (2005 Remastered Version)"
+    },
+    {
+        "datetime": "2020-06-24 16:49:10",
+        "artist": "Talking Heads",
+        "album": "Fear Of Music (Deluxe Version)",
+        "track": "Cities (2005 Remastered Version)"
+    },
+    {
+        "datetime": "2020-06-24 16:53:24",
+        "artist": "Talking Heads",
+        "album": "Fear Of Music (Deluxe Version)",
+        "track": "Life During Wartime (2005 Remastered Version)"
+    },
+    {
+        "datetime": "2020-06-24 16:57:05",
+        "artist": "Talking Heads",
+        "album": "Fear Of Music (Deluxe Version)",
+        "track": "Memories Can't Wait (2005 Remastered Version )"
+    },
+    {
+        "datetime": "2020-06-24 17:00:35",
+        "artist": "Talking Heads",
+        "album": "Fear Of Music (Deluxe Version)",
+        "track": "Air (2005 Remastered Version )"
+    },
+    {
+        "datetime": "2020-06-24 17:04:09",
+        "artist": "Talking Heads",
+        "album": "Fear Of Music (Deluxe Version)",
+        "track": "Heaven (2005 Remastered Version )"
+    },
+    {
+        "datetime": "2020-06-24 17:08:11",
+        "artist": "Talking Heads",
+        "album": "Fear Of Music (Deluxe Version)",
+        "track": "Animals (2005 Remastered Version)"
+    },
+    {
+        "datetime": "2020-06-24 17:11:41",
+        "artist": "Talking Heads",
+        "album": "Fear Of Music (Deluxe Version)",
+        "track": "Electric Guitar (2005 Remastered Version)"
+    },
+    {
+        "datetime": "2020-06-24 17:14:42",
+        "artist": "Talking Heads",
+        "album": "Fear Of Music (Deluxe Version)",
+        "track": "Drugs (2005 Remastered Version)"
+    },
+    {
+        "datetime": "2020-06-24 17:19:57",
+        "artist": "Talking Heads",
+        "album": "Fear Of Music (Deluxe Version)",
+        "track": "Dancing for Money (unfinished outtake)"
+    },
+    {
+        "datetime": "2020-06-24 17:22:37",
+        "artist": "Talking Heads",
+        "album": "Fear Of Music (Deluxe Version)",
+        "track": "Life During Wartime (alternate version)"
+    },
+    {
+        "datetime": "2020-06-24 20:50:24",
+        "artist": "Bob Dylan",
+        "album": "Rough And Rowdy Ways",
+        "track": "I Contain Multitudes"
+    },
+    {
+        "datetime": "2020-06-24 20:57:06",
+        "artist": "Bob Dylan",
+        "album": "Rough And Rowdy Ways",
+        "track": "False Prophet"
+    },
+    {
+        "datetime": "2020-06-24 21:03:05",
+        "artist": "Bob Dylan",
+        "album": "Rough And Rowdy Ways",
+        "track": "My Own Version of You"
+    },
+    {
+        "datetime": "2020-06-24 21:09:47",
+        "artist": "Bob Dylan",
+        "album": "Rough And Rowdy Ways",
+        "track": "I've Made Up My Mind to Give Myself to You"
+    },
+    {
+        "datetime": "2020-06-24 21:16:19",
+        "artist": "Bob Dylan",
+        "album": "Rough And Rowdy Ways",
+        "track": "Black Rider"
+    },
+    {
+        "datetime": "2020-06-24 21:20:32",
+        "artist": "Bob Dylan",
+        "album": "Rough And Rowdy Ways",
+        "track": "Goodbye Jimmy Reed"
+    },
+    {
+        "datetime": "2020-06-24 21:24:45",
+        "artist": "Bob Dylan",
+        "album": "Rough And Rowdy Ways",
+        "track": "Mother of Muses"
+    },
+    {
+        "datetime": "2020-06-24 21:29:15",
+        "artist": "Bob Dylan",
+        "album": "Rough And Rowdy Ways",
+        "track": "Crossing the Rubicon"
+    },
+    {
+        "datetime": "2020-06-24 21:36:38",
+        "artist": "Bob Dylan",
+        "album": "Rough And Rowdy Ways",
+        "track": "Key West (Philosopher Pirate)"
+    },
+    {
+        "datetime": "2020-06-24 21:46:12",
+        "artist": "Bob Dylan",
+        "album": "Rough And Rowdy Ways",
+        "track": "Murder Most Foul"
+    },
+    {
+        "datetime": "2020-06-24 22:03:07",
+        "artist": "Prefab Sprout",
+        "album": "Protest Songs",
+        "track": "The World Awake (Remastered)"
+    },
+    {
+        "datetime": "2020-06-24 22:07:35",
+        "artist": "Prefab Sprout",
+        "album": "Protest Songs",
+        "track": "Life of Surprises (Remastered)"
+    },
+    {
+        "datetime": "2020-06-24 22:11:43",
+        "artist": "Prefab Sprout",
+        "album": "Protest Songs",
+        "track": "Horsechimes (Remastered)"
+    },
+    {
+        "datetime": "2020-06-24 22:16:07",
+        "artist": "Prefab Sprout",
+        "album": "Protest Songs",
+        "track": "Wicked Things (Remastered)"
+    },
+    {
+        "datetime": "2020-06-24 22:19:19",
+        "artist": "Prefab Sprout",
+        "album": "Protest Songs",
+        "track": "Dublin (Remastered)"
+    },
+    {
+        "datetime": "2020-06-25 00:10:05",
+        "artist": "Cocteau Twins",
+        "album": "Head Over Heels",
+        "track": "When Mama Was Moth"
+    },
+    {
+        "datetime": "2020-06-25 00:10:09",
+        "artist": "Cocteau Twins",
+        "album": "Head Over Heels",
+        "track": "When Mama Was Moth"
+    },
+    {
+        "datetime": "2020-06-25 00:21:05",
+        "artist": "Paul Weller",
+        "album": "True Meanings",
+        "track": "Bowie"
+    },
+    {
+        "datetime": "2020-06-25 14:27:44",
+        "artist": "Lloyd Cole",
+        "album": "Smile If You Want To (In New York - Collected Recordings 1988-1996)",
+        "track": "Memphis"
+    },
+    {
+        "datetime": "2020-06-25 14:30:06",
+        "artist": "Lloyd Cole",
+        "album": "Smile If You Want To (In New York - Collected Recordings 1988-1996)",
+        "track": "You're a Big Girl Now"
+    },
+    {
+        "datetime": "2020-06-25 14:34:43",
+        "artist": "Lloyd Cole",
+        "album": "Smile If You Want To (In New York - Collected Recordings 1988-1996)",
+        "track": "No More Love Songs"
+    },
+    {
+        "datetime": "2020-06-25 14:43:17",
+        "artist": "Lloyd Cole",
+        "album": "Smile If You Want To (In New York - Collected Recordings 1988-1996)",
+        "track": "Fool You Are (Demo)"
+    },
+    {
+        "datetime": "2020-06-25 14:46:41",
+        "artist": "Lloyd Cole",
+        "album": "Smile If You Want To (In New York - Collected Recordings 1988-1996)",
+        "track": "Santa Cruz"
+    },
+    {
+        "datetime": "2020-06-25 14:47:42",
+        "artist": "Lloyd Cole",
+        "album": "Smile If You Want To (In New York - Collected Recordings 1988-1996)",
+        "track": "Another Lover"
+    },
+    {
+        "datetime": "2020-06-25 14:51:51",
+        "artist": "Lloyd Cole",
+        "album": "Smile If You Want To (In New York - Collected Recordings 1988-1996)",
+        "track": "39 Down"
+    },
+    {
+        "datetime": "2020-06-25 14:54:20",
+        "artist": "Lloyd Cole",
+        "album": "Smile If You Want To (In New York - Collected Recordings 1988-1996)",
+        "track": "Went To Woodstock"
+    },
+    {
+        "datetime": "2020-06-25 14:56:47",
+        "artist": "Lloyd Cole",
+        "album": "Smile If You Want To (In New York - Collected Recordings 1988-1996)",
+        "track": "Love Like This Can't Last"
+    },
+    {
+        "datetime": "2020-06-25 14:59:07",
+        "artist": "Lloyd Cole",
+        "album": "Smile If You Want To (In New York - Collected Recordings 1988-1996)",
+        "track": "Alright People"
+    },
+    {
+        "datetime": "2020-06-25 15:07:19",
+        "artist": "Lloyd Cole",
+        "album": "Smile If You Want To (In New York - Collected Recordings 1988-1996)",
+        "track": "Man on the Verge"
+    },
+    {
+        "datetime": "2020-06-25 15:10:43",
+        "artist": "Lloyd Cole",
+        "album": "Smile If You Want To (In New York - Collected Recordings 1988-1996)",
+        "track": "Weakness"
+    },
+    {
+        "datetime": "2020-06-25 15:13:59",
+        "artist": "Lloyd Cole",
+        "album": "Smile If You Want To (In New York - Collected Recordings 1988-1996)",
+        "track": "Old Enough To Know Better"
+    },
+    {
+        "datetime": "2020-06-25 15:16:55",
+        "artist": "Lloyd Cole",
+        "album": "Smile If You Want To (In New York - Collected Recordings 1988-1996)",
+        "track": "I'm Gone"
+    },
+    {
+        "datetime": "2020-06-25 16:47:05",
+        "artist": "Haircut 100",
+        "album": "Greatest Hits Of Nick Heyward + Haircut 100",
+        "track": "Favourite Shirts (Boy Meets Girl)"
+    },
+    {
+        "datetime": "2020-06-25 16:54:13",
+        "artist": "Haircut 100",
+        "album": "Greatest Hits Of Nick Heyward + Haircut 100",
+        "track": "Love Plus One"
+    },
+    {
+        "datetime": "2020-06-25 16:57:45",
+        "artist": "Haircut 100",
+        "album": "Greatest Hits Of Nick Heyward + Haircut 100",
+        "track": "Fantastic Day"
+    },
+    {
+        "datetime": "2020-06-25 17:02:07",
+        "artist": "Haircut 100",
+        "album": "Greatest Hits Of Nick Heyward + Haircut 100",
+        "track": "Nobody's Fool"
+    },
+    {
+        "datetime": "2020-06-25 17:07:01",
+        "artist": "Nick Heyward",
+        "album": "Greatest Hits Of Nick Heyward + Haircut 100",
+        "track": "Whistle Down The Wind"
+    },
+    {
+        "datetime": "2020-06-25 17:10:41",
+        "artist": "Nick Heyward",
+        "album": "Greatest Hits Of Nick Heyward + Haircut 100",
+        "track": "Take That Situation (Rhythm Mix)"
+    },
+    {
+        "datetime": "2020-06-25 17:14:32",
+        "artist": "Nick Heyward",
+        "album": "Greatest Hits Of Nick Heyward + Haircut 100",
+        "track": "Blue Hat For A Blue Day"
+    },
+    {
+        "datetime": "2020-06-25 17:18:34",
+        "artist": "Nick Heyward",
+        "album": "Greatest Hits Of Nick Heyward + Haircut 100",
+        "track": "On A Sunday"
+    },
+    {
+        "datetime": "2020-06-25 17:22:33",
+        "artist": "Nick Heyward",
+        "album": "Greatest Hits Of Nick Heyward + Haircut 100",
+        "track": "Love All Day (And Night)"
+    },
+    {
+        "datetime": "2020-06-25 17:27:56",
+        "artist": "Nick Heyward",
+        "album": "Greatest Hits Of Nick Heyward + Haircut 100",
+        "track": "Warning Sign"
+    },
+    {
+        "datetime": "2020-06-25 17:33:46",
+        "artist": "Nick Heyward",
+        "album": "Greatest Hits Of Nick Heyward + Haircut 100",
+        "track": "Over The Weekend"
+    },
+    {
+        "datetime": "2020-06-25 17:40:22",
+        "artist": "Nick Heyward",
+        "album": "Greatest Hits Of Nick Heyward + Haircut 100",
+        "track": "Laura"
+    },
+    {
+        "datetime": "2020-06-25 17:43:47",
+        "artist": "Nick Heyward",
+        "album": "Greatest Hits Of Nick Heyward + Haircut 100",
+        "track": "The Kick Of Love"
+    },
+    {
+        "datetime": "2020-06-25 17:48:21",
+        "artist": "Haircut 100",
+        "album": "Greatest Hits Of Nick Heyward + Haircut 100",
+        "track": "Calling Captain Autumn"
+    },
+    {
+        "datetime": "2020-06-25 17:55:21",
+        "artist": "Nick Heyward",
+        "album": "Greatest Hits Of Nick Heyward + Haircut 100",
+        "track": "Goodbye Yesterday"
+    },
+    {
+        "datetime": "2020-06-25 18:01:49",
+        "artist": "Nick Heyward",
+        "album": "Greatest Hits Of Nick Heyward + Haircut 100",
+        "track": "The Day It Rained Forever"
+    },
+    {
+        "datetime": "2020-06-25 22:53:16",
+        "artist": "New Order",
+        "album": "Low-Life",
+        "track": "Elegia (2015 Remaster)"
+    },
+    {
+        "datetime": "2020-06-25 22:58:13",
+        "artist": "Prefab Sprout",
+        "album": "Jordan: The Comeback",
+        "track": "Jesse James Symphony (Remastered)"
+    },
+    {
+        "datetime": "2020-06-26 10:18:47",
+        "artist": "The Human League",
+        "album": "Travelogue",
+        "track": "The Black Hit Of Space (2003 Digital Remaster)"
+    },
+    {
+        "datetime": "2020-06-26 10:22:59",
+        "artist": "The Human League",
+        "album": "Travelogue",
+        "track": "Only After Dark (2003 Remaster)"
+    },
+    {
+        "datetime": "2020-06-26 10:26:49",
+        "artist": "The Human League",
+        "album": "Travelogue",
+        "track": "Life Kills (2003 Remaster)"
+    },
+    {
+        "datetime": "2020-06-26 10:29:57",
+        "artist": "The Human League",
+        "album": "Travelogue",
+        "track": "Dreams Of Leaving (2003 Digital Remaster)"
+    },
+    {
+        "datetime": "2020-06-26 10:35:47",
+        "artist": "The Human League",
+        "album": "Travelogue",
+        "track": "Toyota City (2003 Digital Remaster)"
+    },
+    {
+        "datetime": "2020-06-26 10:39:11",
+        "artist": "The Human League",
+        "album": "Travelogue",
+        "track": "Crow And A Baby (2003 Digital Remaster)"
+    },
+    {
+        "datetime": "2020-06-26 10:42:54",
+        "artist": "The Human League",
+        "album": "Travelogue",
+        "track": "The Touchables (2003 Remaster)"
+    },
+    {
+        "datetime": "2020-06-26 10:46:16",
+        "artist": "The Human League",
+        "album": "Travelogue",
+        "track": "Gordon's Gin (2003 Digital Remaster)"
+    },
+    {
+        "datetime": "2020-06-26 10:49:14",
+        "artist": "The Human League",
+        "album": "Travelogue",
+        "track": "Being Boiled"
+    },
+    {
+        "datetime": "2020-06-26 11:04:53",
+        "artist": "The Human League",
+        "album": "Travelogue",
+        "track": "WXJL Tonight (2003 Digital Remaster)"
+    },
+    {
+        "datetime": "2020-06-26 11:09:33",
+        "artist": "The Human League",
+        "album": "Travelogue",
+        "track": "Marianne (2003 Mix)"
+    },
+    {
+        "datetime": "2020-06-26 16:38:52",
+        "artist": "The Human League",
+        "album": "Travelogue",
+        "track": "Dancevision"
+    },
+    {
+        "datetime": "2020-06-26 16:41:14",
+        "artist": "The Human League",
+        "album": "Travelogue",
+        "track": "Rock 'N' Roll / Night Clubbing (2003 Mix)"
+    },
+    {
+        "datetime": "2020-06-26 16:47:38",
+        "artist": "The Human League",
+        "album": "Travelogue",
+        "track": "Tom Baker (2003 Mix)"
+    },
+    {
+        "datetime": "2020-06-26 16:51:40",
+        "artist": "The Human League",
+        "album": "Travelogue",
+        "track": "Boys And Girls (2003 Mix)"
+    },
+    {
+        "datetime": "2020-06-26 16:54:55",
+        "artist": "The Men",
+        "album": "Travelogue",
+        "track": "I Don't Depend On You (2003 Mix)"
+    },
+    {
+        "datetime": "2020-06-26 19:00:12",
+        "artist": "Orchestral Manoeuvres in the Dark",
+        "album": "Architecture And Morality",
+        "track": "The New Stone Age (2003 Digital Remaster)"
+    },
+    {
+        "datetime": "2020-06-26 19:03:35",
+        "artist": "Orchestral Manoeuvres in the Dark",
+        "album": "Architecture And Morality",
+        "track": "She's Leaving (2003 Digital Remaster)"
+    },
+    {
+        "datetime": "2020-06-26 19:07:03",
+        "artist": "Orchestral Manoeuvres in the Dark",
+        "album": "Architecture And Morality",
+        "track": "Souvenir (Remastered 2003)"
+    },
+    {
+        "datetime": "2020-06-27 14:29:53",
+        "artist": "Orchestral Manoeuvres in the Dark",
+        "album": "Architecture And Morality",
+        "track": "Sealand (2003 Digital Remaster)"
+    },
+    {
+        "datetime": "2020-06-27 14:37:41",
+        "artist": "Orchestral Manoeuvres in the Dark",
+        "album": "Architecture And Morality",
+        "track": "Joan of Arc"
+    },
+    {
+        "datetime": "2020-06-27 14:41:28",
+        "artist": "Orchestral Manoeuvres in the Dark",
+        "album": "Architecture And Morality",
+        "track": "Joan of Arc (Maid of Orleans)"
+    },
+    {
+        "datetime": "2020-06-27 14:45:40",
+        "artist": "Orchestral Manoeuvres in the Dark",
+        "album": "Architecture And Morality",
+        "track": "Architecture and Morality"
+    },
+    {
+        "datetime": "2020-06-27 14:49:25",
+        "artist": "Orchestral Manoeuvres in the Dark",
+        "album": "Architecture And Morality",
+        "track": "Georgia (2003 Digital Remaster)"
+    },
+    {
+        "datetime": "2020-06-27 14:52:48",
+        "artist": "Orchestral Manoeuvres in the Dark",
+        "album": "Architecture And Morality",
+        "track": "The Beginning and the End"
+    },
+    {
+        "datetime": "2020-06-27 14:56:38",
+        "artist": "Orchestral Manoeuvres in the Dark",
+        "album": "Architecture And Morality",
+        "track": "Extended Souvenir (2003 Digital Remaster)"
+    },
+    {
+        "datetime": "2020-06-27 15:00:53",
+        "artist": "Orchestral Manoeuvres in the Dark",
+        "album": "Architecture And Morality",
+        "track": "Motion And Heart (Amazon Version; 2003 Digital Remaster)"
+    },
+    {
+        "datetime": "2020-06-27 15:04:01",
+        "artist": "Orchestral Manoeuvres in the Dark",
+        "album": "Architecture And Morality",
+        "track": "Sacred Heart (2003 Digital Remaster)"
+    },
+    {
+        "datetime": "2020-06-27 15:07:31",
+        "artist": "Orchestral Manoeuvres in the Dark",
+        "album": "Architecture And Morality",
+        "track": "The Romance Of The Telescope (2003 Digital Remaster)"
+    },
+    {
+        "datetime": "2020-06-27 15:10:54",
+        "artist": "Orchestral Manoeuvres in the Dark",
+        "album": "Architecture And Morality",
+        "track": "Navigation (2003 Digital Remaster)"
+    },
+    {
+        "datetime": "2020-06-27 19:34:45",
+        "artist": "The Cure",
+        "album": "The Top",
+        "track": "Shake Dog Shake"
+    },
+    {
+        "datetime": "2020-06-27 19:39:47",
+        "artist": "The Cure",
+        "album": "The Top",
+        "track": "Wailing Wall"
+    },
+    {
+        "datetime": "2020-06-27 19:45:11",
+        "artist": "The Cure",
+        "album": "The Top",
+        "track": "Dressing Up"
+    },
+    {
+        "datetime": "2020-06-27 19:48:02",
+        "artist": "The Cure",
+        "album": "The Top",
+        "track": "The Birdmad Girl"
+    },
+    {
+        "datetime": "2020-06-27 19:52:08",
+        "artist": "The Cure",
+        "album": "The Top",
+        "track": "Give Me It"
+    },
+    {
+        "datetime": "2020-06-28 16:04:22",
+        "artist": "ABC",
+        "album": "Beauty Stab",
+        "track": "That Was Then But This Is Now"
+    },
+    {
+        "datetime": "2020-06-28 16:07:56",
+        "artist": "ABC",
+        "album": "Beauty Stab",
+        "track": "Love's A Dangerous Language"
+    },
+    {
+        "datetime": "2020-06-28 16:14:52",
+        "artist": "ABC",
+        "album": "Beauty Stab",
+        "track": "If I Ever Thought You'd Be Lonely"
+    },
+    {
+        "datetime": "2020-06-28 16:18:48",
+        "artist": "ABC",
+        "album": "Beauty Stab",
+        "track": "The Power Of Persuasion"
+    },
+    {
+        "datetime": "2020-06-28 16:22:19",
+        "artist": "ABC",
+        "album": "Beauty Stab",
+        "track": "Beauty Stab"
+    },
+    {
+        "datetime": "2020-06-28 16:24:26",
+        "artist": "ABC",
+        "album": "Beauty Stab",
+        "track": "By Default By Design"
+    },
+    {
+        "datetime": "2020-06-28 16:28:31",
+        "artist": "ABC",
+        "album": "Beauty Stab",
+        "track": "Hey Citizen!"
+    },
+    {
+        "datetime": "2020-06-28 16:32:27",
+        "artist": "ABC",
+        "album": "Beauty Stab",
+        "track": "King Money"
+    },
+    {
+        "datetime": "2020-06-28 23:51:34",
+        "artist": "Marc Bolan",
+        "album": "Zinc Alloy And The Hidden Riders Of Tomorrow",
+        "track": "The Groover"
+    },
+    {
+        "datetime": "2020-06-28 23:55:15",
+        "artist": "Bob Dylan",
+        "album": "Time Out Of Mind",
+        "track": "Can't Wait"
+    },
+    {
+        "datetime": "2020-06-29 08:39:11",
+        "artist": "Gillian Welch",
+        "album": "Soul Journey",
+        "track": "Look at Miss Ohio"
+    },
+    {
+        "datetime": "2020-06-29 08:43:25",
+        "artist": "Gillian Welch",
+        "album": "Soul Journey",
+        "track": "Make Me A Pallet On Your Floor"
+    },
+    {
+        "datetime": "2020-06-29 08:46:12",
+        "artist": "Gillian Welch",
+        "album": "Soul Journey",
+        "track": "Wayside / Back In Time"
+    },
+    {
+        "datetime": "2020-06-29 08:49:40",
+        "artist": "Gillian Welch",
+        "album": "Soul Journey",
+        "track": "I Had A Real Good Mother And Father"
+    },
+    {
+        "datetime": "2020-06-29 08:52:52",
+        "artist": "Gillian Welch",
+        "album": "Soul Journey",
+        "track": "One Monkey"
+    },
+    {
+        "datetime": "2020-06-29 08:58:31",
+        "artist": "Gillian Welch",
+        "album": "Soul Journey",
+        "track": "No One Knows My Name"
+    },
+    {
+        "datetime": "2020-06-29 09:01:46",
+        "artist": "Gillian Welch",
+        "album": "Soul Journey",
+        "track": "Lowlands"
+    },
+    {
+        "datetime": "2020-06-29 09:05:06",
+        "artist": "Gillian Welch",
+        "album": "Soul Journey",
+        "track": "One Little Song"
+    },
+    {
+        "datetime": "2020-06-29 09:08:19",
+        "artist": "Gillian Welch",
+        "album": "Soul Journey",
+        "track": "I Made A Lovers Prayer"
+    },
+    {
+        "datetime": "2020-06-29 09:13:23",
+        "artist": "Gillian Welch",
+        "album": "Soul Journey",
+        "track": "Wrecking Ball"
+    },
+    {
+        "datetime": "2020-06-29 23:00:58",
+        "artist": "Simple Minds",
+        "album": "Time Out Of Mind",
+        "track": "The American"
+    }
+]
