@@ -623,7 +623,8 @@
         "Head Above The Water": -1
     },
     "Brigitte Calls Me Baby": {
-        "Slumber Party": -1
+        "Slumber Party": 2026,
+        "The Future is our Way out": 2024
     },
     "British Birds": {
         "In Search Of Mr Rykyn": -1
@@ -1066,8 +1067,8 @@
         "Gold Und Liebe": -1
     },
     "Devine & Statton": {
-        "Cardiffians": -1,
-        "The Prince Of Wales": -1
+        "Cardiffians": 1990,
+        "The Prince Of Wales": 1988
     },
     "Dexys Midnight Runners": {
         "New Wave Hits Of The 80S": -1
@@ -1381,10 +1382,25 @@
         "": -1
     },
     "Eyeless in Gaza": {
-        "Back From The Rains": -1,
+        "All Under the leaves, the Leaves of Light": 1996,
+        "Answer Song & Dance": 2010,
+        "Back From The Rains": 1986,
+        "Bitter Apples": 1995,
+        "Butterfly Attitude": 2012,
+        "Caught in Flux": 1981,
         "Drumming The Beating Heart": -1,
-        "Drumming The Beating Heart / Pale Hands I Loved So Well": -1,
-        "Winter Sang": -1
+        "Drumming The Beating Heart / Pale Hands I Loved So Well": 1982,
+        "Everyone Feels Like a STranger": 2011,
+        "Fabulous Library": 1993,
+        "Inkhorn/One Star": 2019,
+        "Mania Sour": 2014,
+        "Photographs as Memories": 1981,
+        "Red rust September": 1983,
+        "Saw you in Remaining Pictures": 1994,
+        "Songs of the Beautiful Wanton": 2000,
+        "Summer salt & Subway Sun": 2008,
+        "Sun Blues": 2016,
+        "Winter Sang": 2018
     },
     "Ezra Furman": {
         "Transangelic Exodus": -1
@@ -2426,7 +2442,6 @@
         "Boys Heart": 2011,
         "Brady Square": 2019,
         "Cafe of Tiny Kindnesses": 2012,
-        "Church & The...": -1,
         "Collective Force": 2002,
         "Down To The Wood": 2002,
         "Gladsome": 2011,
@@ -2436,7 +2451,7 @@
         "High Bells Ring Thin": 1993,
         "Hybrid Society": 2024,
         "Lilac Tree": 1999,
-        "Live @ Glasgow Pavilion": -1,
+        "Live @ Glasgow Pavilion": 1990,
         "Live at Lincoln Cathedral": 2005,
         "Live at The New Roscoe": 2005,
         "Martin Stephenson": 1988,
@@ -2446,7 +2461,7 @@
         "Songs For The Floating World": 1999,
         "Surf 7": 2013,
         "Sweet Misdemeanour": 1995,
-        "The Church And The Minidisc": 2000,
+        "The Church & the Minidisc": 2000,
         "The Disciples of Merle and Doc": 2000,
         "The Haint Of The Budding Rose": 2003,
         "The Incredible Shrinking Band": 2001,
@@ -3252,10 +3267,13 @@
     },
     "Sharon Van Etten": {
         "(What's So Funny 'bout) Peace, Love And Understanding?": -1,
-        "Remind Me Tomorrow": -1,
-        "Sharon Van Etten & The Attachment Theory": -1,
-        "Tramp": -1,
-        "We've Been Going About This All Wrong": -1,
+        "Are We There": 2014,
+        "Because I Was in Love": 2009,
+        "Epic": 2010,
+        "Remind Me Tomorrow": 2019,
+        "Sharon Van Etten & The Attachment Theory": 2025,
+        "Tramp": 2012,
+        "We've Been Going About This All Wrong": 2022,
         "Words (Music From The Film \"Tig\")": -1
     },
     "She Drew the Gun": {
@@ -3310,7 +3328,7 @@
         "Acoustic": 2016,
         "Big Music": 2014,
         "Black and White 050505": 2005,
-        "Celebrate (Greatest Hits / Expanded Edition)": -1,
+        "Celebrate (Greatest Hits / Expanded Edition)": 2013,
         "Celebration": 1982,
         "Cry": 2002,
         "Direction Of The Heart": 2022,
@@ -3329,7 +3347,6 @@
         "Sons And Fascination/Sister Feelings Call": 1981,
         "Sparkle In The Rain": 1984,
         "Street Fighting Years": 1989,
-        "Time Out Of Mind": -1,
         "Up All Night": 2023,
         "Walk Between Worlds": 2018
     },
@@ -4291,6 +4308,7 @@
         "See You On The Moon": 2010,
         "Stitch Of The World": 2017,
         "Tambourine": 2004,
+        "Time And Patience": 2025,
         "Traveling Alone": 2012,
         "Traveling Companion": 2013
     },
@@ -4401,7 +4419,7 @@
         "Achtung Baby": 1991,
         "All That you Can't Leave Behind": 2000,
         "Boy": 1980,
-        "Days Of Ash Ep": -1,
+        "Days Of Ash Ep": 2026,
         "Electrical Storm (Remastered 2024)": -1,
         "How To Dismantle An Atom Bomb": 2004,
         "No Line On The Horizon": 2009,
@@ -4553,10 +4571,10 @@
         "Triple Seven": -1
     },
     "Wolf Alice": {
-        "Blue Weekend": -1,
-        "My Love Is Cool": -1,
-        "The Clearing": -1,
-        "Visions Of A Life": -1
+        "Blue Weekend": 2021,
+        "My Love Is Cool": 2015,
+        "The Clearing": 2025,
+        "Visions Of A Life": 2017
     },
     "Woods": {
         "Strange To Explain": -1
@@ -4617,7 +4635,7 @@
         "Moodie": -1
     },
     "case/lang/veirs": {
-        "Case/Lang/Veirs": -1
+        "Case/Lang/Veirs": 2016
     },
     "make/Re": {
         "Cleaning Out The Ashtrays CD2 Re": -1
