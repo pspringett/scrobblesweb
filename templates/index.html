@@ -1,0 +1,537 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Scrobbles — Album Chart</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: system-ui, -apple-system, sans-serif;
+      background: #0f0f14;
+      color: #e0e0e8;
+      min-height: 100vh;
+      padding: 2rem 1rem;
+    }
+
+    header {
+      max-width: 900px;
+      margin: 0 auto 2rem;
+    }
+
+    h1 {
+      font-size: 1.4rem;
+      font-weight: 600;
+      color: #fff;
+      letter-spacing: -0.02em;
+    }
+
+    .nav {
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+      margin-top: 1.25rem;
+      flex-wrap: wrap;
+    }
+
+    .nav button {
+      background: #1e1e2e;
+      border: 1px solid #333344;
+      color: #c0c0d0;
+      padding: 0.45rem 0.9rem;
+      border-radius: 6px;
+      cursor: pointer;
+      font-size: 0.9rem;
+      transition: background 0.15s, color 0.15s;
+    }
+
+    .nav button:hover:not(:disabled) {
+      background: #2a2a40;
+      color: #fff;
+    }
+
+    .nav button:disabled {
+      opacity: 0.3;
+      cursor: default;
+    }
+
+    #month-label {
+      font-size: 1.1rem;
+      font-weight: 600;
+      color: #a0a8ff;
+      min-width: 10rem;
+      text-align: center;
+    }
+
+    select {
+      background: #1e1e2e;
+      border: 1px solid #333344;
+      color: #e0e0e8;
+      padding: 0.45rem 0.7rem;
+      border-radius: 6px;
+      font-size: 0.9rem;
+      cursor: pointer;
+    }
+
+    select:focus { outline: 2px solid #5560ff; }
+
+    #chart-section {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+
+    #summary {
+      font-size: 0.85rem;
+      color: #6677aa;
+      margin-bottom: 1.25rem;
+    }
+
+    .chart {
+      display: flex;
+      flex-direction: column;
+      gap: 0.5rem;
+    }
+
+    .bar-row {
+      display: grid;
+      grid-template-columns: 1fr auto;
+      align-items: center;
+      gap: 0.75rem;
+    }
+
+    .bar-label {
+      font-size: 0.8rem;
+      color: #b0b8d0;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .bar-wrap {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+
+    .bar-track {
+      background: #1a1a2e;
+      border-radius: 4px;
+      height: 22px;
+      flex: 1;
+      min-width: 200px;
+      overflow: hidden;
+    }
+
+    .bar-fill {
+      height: 100%;
+      border-radius: 4px;
+      background: linear-gradient(90deg, #5560ff, #a070ff);
+      transition: width 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+    }
+
+    .bar-count {
+      font-size: 0.8rem;
+      font-weight: 600;
+      color: #8090cc;
+      min-width: 2.5rem;
+      text-align: right;
+    }
+
+    .bar-row:hover .bar-label { color: #fff; }
+    .bar-row:hover .bar-fill { filter: brightness(1.2); }
+
+    #loading {
+      text-align: center;
+      padding: 3rem;
+      color: #556;
+    }
+
+    #error-msg {
+      color: #ff6677;
+      padding: 1rem;
+      display: none;
+    }
+
+    .chart-container {
+      display: grid;
+      grid-template-columns: minmax(180px, 280px) 1fr auto;
+      gap: 0;
+      align-items: center;
+    }
+
+    .row-label {
+      font-size: 0.78rem;
+      color: #9090b8;
+      padding-right: 0.75rem;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+
+    .row-bar-track {
+      background: #1a1a2e;
+      border-radius: 4px;
+      height: 24px;
+      overflow: hidden;
+    }
+
+    .row-bar-fill {
+      height: 100%;
+      border-radius: 4px;
+      background: linear-gradient(90deg, #5560ff, #a070ff);
+      min-width: 2px;
+      transition: width 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+    }
+
+    .row-count {
+      font-size: 0.78rem;
+      font-weight: 700;
+      color: #8090cc;
+      padding-left: 0.6rem;
+      text-align: right;
+      min-width: 2.2rem;
+    }
+
+    .album-row {
+      display: contents;
+    }
+
+    .album-row:hover .row-label { color: #e0e8ff; }
+    .album-row:hover .row-bar-fill { filter: brightness(1.25); }
+
+    .row-spacer {
+      height: 6px;
+      grid-column: 1 / -1;
+    }
+
+    .row-label.rank-up {
+      color: #4caf82;
+    }
+
+    .row-bar-fill.rank-up {
+      background: linear-gradient(90deg, #2e7d52, #4caf82);
+    }
+
+    .mode-toggle {
+      display: flex;
+      gap: 0;
+      border: 1px solid #333344;
+      border-radius: 6px;
+      overflow: hidden;
+    }
+
+    .mode-toggle button {
+      border: none;
+      border-radius: 0;
+      padding: 0.45rem 1rem;
+    }
+
+    .mode-toggle button.active {
+      background: #5560ff;
+      color: #fff;
+    }
+
+    .nav-group {
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+    }
+
+    #year-nav { display: none; }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1 id="page-title">Album Plays by Month</h1>
+  <div class="nav">
+    <div class="mode-toggle">
+      <button id="btn-mode-all">All Time</button>
+      <button id="btn-mode-since2013">Since 2023</button>
+      <button id="btn-mode-year">By Year</button>
+      <button id="btn-mode-month" class="active">By Month</button>
+      <button id="btn-mode-rolling12">Last 12 Months</button>
+    </div>
+
+    <div class="nav-group" id="month-nav">
+      <button id="btn-prev">&#8592; Prev</button>
+      <span id="month-label"></span>
+      <button id="btn-next">Next &#8594;</button>
+      <select id="month-select" aria-label="Jump to month"></select>
+    </div>
+
+    <div class="nav-group" id="year-nav">
+      <button id="btn-year-prev">&#8592; Prev</button>
+      <span id="year-label" style="font-size:1.1rem;font-weight:600;color:#a0a8ff;min-width:4rem;text-align:center;"></span>
+      <button id="btn-year-next">Next &#8594;</button>
+      <select id="year-select" aria-label="Jump to year"></select>
+    </div>
+  </div>
+</header>
+
+<section id="chart-section">
+  <p id="summary"></p>
+  <div id="loading">Loading…</div>
+  <p id="error-msg"></p>
+  <div id="chart" class="chart-container" role="list" aria-label="Albums chart"></div>
+</section>
+
+<script>
+  const available = {{ available | tojson }};       // [[year, month], ...]
+  const availableYears = {{ available_years | tojson }};  // [2015, 2016, ...]
+
+  const MONTHS = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+
+  // ── State ────────────────────────────────────────────────────────────────
+  let mode = "month";   // "month" | "year" | "all" | "since2013" | "rolling12"
+  let monthIndex = available.findIndex(
+    ([y, m]) => y === {{ default_year }} && m === {{ default_month }}
+  );
+  if (monthIndex === -1) monthIndex = available.length - 1;
+  let yearIndex = availableYears.indexOf({{ default_year }});
+  if (yearIndex === -1) yearIndex = availableYears.length - 1;
+
+  // Rolling-12 cursor — independent of available[], can go beyond last data month
+  const [_lastY, _lastM] = available[available.length - 1];
+  let rollingYear  = _lastY;
+  let rollingMonth = _lastM;
+
+  // Max allowed rolling end: 12 months past the last data month (window would be empty beyond that)
+  function rollingMaxReached(y, m) {
+    return (y * 12 + m) > (_lastY * 12 + _lastM + 12);
+  }
+
+  function stepMonth(y, m, delta) {
+    m += delta;
+    while (m > 12) { m -= 12; y++; }
+    while (m < 1)  { m += 12; y--; }
+    return [y, m];
+  }
+
+  // ── Month select ─────────────────────────────────────────────────────────
+  const monthSelect = document.getElementById("month-select");
+  available.forEach(([y, m], i) => {
+    const opt = document.createElement("option");
+    opt.value = i;
+    opt.textContent = `${MONTHS[m - 1]} ${y}`;
+    monthSelect.appendChild(opt);
+  });
+  monthSelect.addEventListener("change", () => {
+    const i = parseInt(monthSelect.value, 10);
+    if (mode === "rolling12") {
+      [rollingYear, rollingMonth] = available[i];
+    } else {
+      monthIndex = i;
+    }
+    load();
+  });
+
+  // ── Year select ───────────────────────────────────────────────────────────
+  const yearSelect = document.getElementById("year-select");
+  availableYears.forEach((y, i) => {
+    const opt = document.createElement("option");
+    opt.value = i;
+    opt.textContent = y;
+    yearSelect.appendChild(opt);
+  });
+  yearSelect.addEventListener("change", () => {
+    yearIndex = parseInt(yearSelect.value, 10);
+    load();
+  });
+
+  // ── Month nav buttons ─────────────────────────────────────────────────────
+  document.getElementById("btn-prev").addEventListener("click", () => {
+    if (mode === "rolling12") {
+      const [ny, nm] = stepMonth(rollingYear, rollingMonth, -1);
+      // don't go before the very first data month
+      const [fy, fm] = available[0];
+      if (ny * 12 + nm >= fy * 12 + fm) { rollingYear = ny; rollingMonth = nm; load(); }
+    } else {
+      if (monthIndex > 0) { monthIndex--; load(); }
+    }
+  });
+  document.getElementById("btn-next").addEventListener("click", () => {
+    if (mode === "rolling12") {
+      const [ny, nm] = stepMonth(rollingYear, rollingMonth, 1);
+      if (!rollingMaxReached(ny, nm)) { rollingYear = ny; rollingMonth = nm; load(); }
+    } else {
+      if (monthIndex < available.length - 1) { monthIndex++; load(); }
+    }
+  });
+
+  // ── Year nav buttons ──────────────────────────────────────────────────────
+  document.getElementById("btn-year-prev").addEventListener("click", () => {
+    if (yearIndex > 0) { yearIndex--; load(); }
+  });
+  document.getElementById("btn-year-next").addEventListener("click", () => {
+    if (yearIndex < availableYears.length - 1) { yearIndex++; load(); }
+  });
+
+  // ── Mode toggle ───────────────────────────────────────────────────────────
+  document.getElementById("btn-mode-month").addEventListener("click",     () => setMode("month"));
+  document.getElementById("btn-mode-year").addEventListener("click",      () => setMode("year"));
+  document.getElementById("btn-mode-all").addEventListener("click",       () => setMode("all"));
+  document.getElementById("btn-mode-since2013").addEventListener("click", () => setMode("since2013"));
+  document.getElementById("btn-mode-rolling12").addEventListener("click", () => setMode("rolling12"));
+
+  const MODE_TITLES = {
+    month:     "Album Plays by Month",
+    year:      "Album Plays by Year",
+    all:       "All Time Album Plays",
+    since2013: "All Time Album Plays (Since 2023)",
+    rolling12: "Album Plays — Last 12 Months",
+  };
+
+  function setMode(m) {
+    mode = m;
+    ["month","year","all","since2013","rolling12"].forEach(id => {
+      document.getElementById(`btn-mode-${id}`).classList.toggle("active", m === id);
+    });
+    const showMonthNav = m === "month" || m === "rolling12";
+    document.getElementById("month-nav").style.display = showMonthNav ? "flex" : "none";
+    document.getElementById("year-nav").style.display  = m === "year"  ? "flex" : "none";
+    if (m === "rolling12") {
+      // Reset cursor to latest data month when entering this mode
+      rollingYear  = _lastY;
+      rollingMonth = _lastM;
+      updateRolling12Title();
+    } else {
+      document.getElementById("page-title").textContent = MODE_TITLES[m];
+    }
+    load();
+  }
+
+  // ── Nav state update ──────────────────────────────────────────────────────
+  function updateNav() {
+    if (mode === "month") {
+      document.getElementById("btn-prev").disabled = monthIndex === 0;
+      document.getElementById("btn-next").disabled = monthIndex === available.length - 1;
+      const [y, m] = available[monthIndex];
+      document.getElementById("month-label").textContent = `${MONTHS[m - 1]} ${y}`;
+      monthSelect.value = monthIndex;
+    } else if (mode === "rolling12") {
+      const [fy, fm] = available[0];
+      const [ny, nm] = stepMonth(rollingYear, rollingMonth, 1);
+      document.getElementById("btn-prev").disabled =
+        rollingYear * 12 + rollingMonth <= fy * 12 + fm;
+      document.getElementById("btn-next").disabled = rollingMaxReached(ny, nm);
+      document.getElementById("month-label").textContent =
+        `${MONTHS[rollingMonth - 1]} ${rollingYear}`;
+      // Sync select to nearest available month
+      const nearestIdx = available.reduce((best, [y, m], i) => {
+        const d = Math.abs(y * 12 + m - (rollingYear * 12 + rollingMonth));
+        return d < Math.abs(available[best][0] * 12 + available[best][1] - (rollingYear * 12 + rollingMonth)) ? i : best;
+      }, 0);
+      monthSelect.value = nearestIdx;
+      updateRolling12Title();
+    } else if (mode === "year") {
+      document.getElementById("btn-year-prev").disabled = yearIndex === 0;
+      document.getElementById("btn-year-next").disabled = yearIndex === availableYears.length - 1;
+      document.getElementById("year-label").textContent = availableYears[yearIndex];
+      yearSelect.value = yearIndex;
+    }
+  }
+
+  function updateRolling12Title() {
+    const [sy, sm] = stepMonth(rollingYear, rollingMonth, -11);
+    document.getElementById("page-title").textContent =
+      `Album Plays — ${MONTHS[sm-1]} ${sy} to ${MONTHS[rollingMonth-1]} ${rollingYear}`;
+  }
+
+  // ── Data loading ──────────────────────────────────────────────────────────
+  async function load() {
+    updateNav();
+    const chart   = document.getElementById("chart");
+    const loading = document.getElementById("loading");
+    const errMsg  = document.getElementById("error-msg");
+
+    chart.innerHTML = "";
+    loading.style.display = "block";
+    errMsg.style.display = "none";
+    document.getElementById("summary").textContent = "";
+
+    try {
+      let url;
+      if (mode === "month") {
+        const [year, month] = available[monthIndex];
+        url = `/api/albums/${year}/${month}`;
+      } else if (mode === "year") {
+        url = `/api/albums/${availableYears[yearIndex]}`;
+      } else if (mode === "all") {
+        url = `/api/albums/all`;
+      } else if (mode === "since2013") {
+        url = `/api/albums/since/2023`;
+      } else if (mode === "rolling12") {
+        url = `/api/albums/rolling12/${rollingYear}/${rollingMonth}`;
+      }
+      const res = await fetch(url);
+      if (!res.ok) throw new Error("No data available");
+      const data = await res.json();
+      loading.style.display = "none";
+      renderChart(data.albums);
+    } catch (e) {
+      loading.style.display = "none";
+      errMsg.textContent = e.message;
+      errMsg.style.display = "block";
+    }
+  }
+
+  // ── Chart rendering ───────────────────────────────────────────────────────
+  function renderChart(albums) {
+    const chart   = document.getElementById("chart");
+    const summary = document.getElementById("summary");
+
+    if (!albums.length) {
+      summary.textContent = "No data.";
+      return;
+    }
+
+    const totalTracks = albums.reduce((s, a) => s + a.count, 0);
+    const totalAlbums = albums.length;
+    summary.textContent = `${totalTracks} tracks across ${totalAlbums} album${totalAlbums !== 1 ? "s" : ""}`;
+
+    const max = albums[0].count;
+
+    albums.forEach((album, i) => {
+      const pct = max > 0 ? (album.count / max) * 100 : 0;
+
+      if (i > 0) {
+        const spacer = document.createElement("div");
+        spacer.className = "row-spacer";
+        chart.appendChild(spacer);
+      }
+
+      const rankUp = mode === "rolling12" && album.rank_change > 0;
+
+      const label = document.createElement("div");
+      label.className = "row-label" + (rankUp ? " rank-up" : "");
+      label.textContent = `${i + 1}. ${album.label}`;
+      label.title = album.label;
+      label.setAttribute("role", "listitem");
+
+      const track = document.createElement("div");
+      track.className = "row-bar-track";
+      const fill = document.createElement("div");
+      fill.className = "row-bar-fill" + (rankUp ? " rank-up" : "");
+      fill.style.width = "0%";
+      track.appendChild(fill);
+
+      const count = document.createElement("div");
+      count.className = "row-count";
+      count.textContent = album.count;
+
+      chart.appendChild(label);
+      chart.appendChild(track);
+      chart.appendChild(count);
+
+      requestAnimationFrame(() => {
+        requestAnimationFrame(() => { fill.style.width = pct + "%"; });
+      });
+    });
+  }
+
+  load();
+</script>
+</body>
+</html>
