@@ -39,7 +39,7 @@ Each record:
 }
 ```
 
-Each file is a JSON array of these objects, ordered chronologically. The `data/` directory is not committed to git.
+Each file is a JSON array of these objects, ordered chronologically. 
 
 ## Architecture
 
@@ -47,7 +47,7 @@ This is a Flask application. Expect:
 - `app.py` — Flask app factory and routes
 - `templates/` — Jinja2 HTML templates
 - `static/` — CSS/JS assets
-- `data/` — Local JSON data files (gitignored, not served directly)
+- `data/` — Local JSON data files
 
 Data is loaded from JSON files at request time or cached in memory at startup. No database.
 
