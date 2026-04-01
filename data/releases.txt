@@ -1,0 +1,4625 @@
+{
+    "'74": {
+        "The Best Of David Bowie, '69": -1
+    },
+    "02": {
+        "UNCUT 2016": -1
+    },
+    "02 What's Going On The Sound Of 2016": {
+        "UNCUT 2016": -1
+    },
+    "03 The Stars Are Out Tonight": {
+        "UNCUT 2016": -1
+    },
+    "04": {
+        "2011": -1,
+        "UNCUT 2016": -1
+    },
+    "04 On The Highway": {
+        "UNCUT 2016": -1
+    },
+    "05": {
+        "UNCUT 2016": -1,
+        "UNCUT 2017": -1
+    },
+    "06": {
+        "2010": -1,
+        "UNCUT 2016": -1
+    },
+    "06/10/18": {
+        "Live With The Royal Liverpool Philharmonic Orchestra": -1
+    },
+    "08 The Goldrush": {
+        "UNCUT 2016": -1
+    },
+    "09": {
+        "UNCUT 2016": -1
+    },
+    "100": {
+        "0": -1
+    },
+    "11 Stereotypes": {
+        "UNCUT 2017": -1
+    },
+    "11 Sterotypes": {
+        "UNCUT 2016": -1
+    },
+    "12": {
+        "UNCUT 2016": -1
+    },
+    "12 The Hustle": {
+        "UNCUT 2016": -1
+    },
+    "13Th Floor Elevators": {
+        "Easter Everywhere": -1
+    },
+    "1966": {
+        "Live 1962": -1
+    },
+    "1966: The Bootleg Series, Vol. 12": {
+        "The Cutting Edge 1965": -1
+    },
+    "1967": {
+        "Singles 1965": -1,
+        "The Searchers: The Pye Anthology 1963": -1
+    },
+    "1971": {
+        "The Anthology 1964": -1
+    },
+    "1974": {
+        "Beautiful Rivers And Mountains: The Psychedelic Rock Sound Of South Korea's Shin Joong Hyun 1958": -1
+    },
+    "1979": {
+        "Bauhaus": -1
+    },
+    "1983": {
+        "The John Peel Sessions 1979": -1
+    },
+    "1986": {
+        "(The Microcosm) : Visionary Music Of Continental Europe, 1970": -1,
+        "Birth Of A Nation: Inevitable Records: An Independent Liverpool 1979": -1,
+        "Skeletal Framework: The Cherry Red Recordings 1981": -1
+    },
+    "1987": {
+        "Stone Crush: Memphis Modern Soul 1977": -1
+    },
+    "1988 A Decade Of Spizz History": {
+        "1978": -1
+    },
+    "1989": {
+        "1984": -1,
+        "Collected Recordings 1983": -1
+    },
+    "1999": {
+        "Don't Just Sing: A Karin Krog Anthology 1963": -1
+    },
+    "1999)": {
+        "Selected Works (1972": -1
+    },
+    "20 Reggae Classics": {
+        "Essential Reggae": -1
+    },
+    "2001": {
+        "1992": -1
+    },
+    "2004": {
+        "The Complete Peel Sessions 1978": -1,
+        "The Singles 1984": -1
+    },
+    "2011": {
+        "1981": -1
+    },
+    "2015": {
+        "Solo: Songs And Collaborations 1982": -1
+    },
+    "2018": {
+        "Live Orchestral": -1
+    },
+    "2023": {
+        "Retrospective: Selected Recordings 1973": -1
+    },
+    "22": {
+        "Lloyd Cole Small Ensemble Slaughterhouse Studios 01": -1
+    },
+    "25Th Anniversary Edition": {
+        "Script Of The Bridge": -1
+    },
+    "30 Years Of Punk": {
+        "Anarchy In The UK": -1
+    },
+    "4": {
+        "Fever Dreams Pts 1": -1
+    },
+    "40Th Anniversary": {
+        "Pet Sounds": -1
+    },
+    "5 Corridor": {
+        "Curse Of The I": -1
+    },
+    "52's": {
+        "B": -1
+    },
+    "57)": {
+        "Transitions 1: Spaceship Bop (1955": -1
+    },
+    "70S Pop": {
+        "Original Hits": -1
+    },
+    "77": {
+        "The T.Rex Wax Co. Singles A's & B's 1972": -1
+    },
+    "81": {
+        "Maverick Years 80": -1
+    },
+    "82": {
+        "Don't Let Your Son Grow Up To Be A Cowboy: Unreleased Recordings 1981": -1,
+        "New Gold Dream (81": -1
+    },
+    "94 (In New York": {
+        "Demos 88": -1
+    },
+    "98": {
+        "The Singles 86": -1
+    },
+    "A Certain Ratio": {
+        "1982": -1,
+        "Acr Loco": -1,
+        "Sextet": -1,
+        "To Each": -1
+    },
+    "A Place to Bury Strangers": {
+        "Pinned": -1
+    },
+    "A Tribute to Loretta Lynn": {
+        "Butcher Holler": -1
+    },
+    "A Us": {
+        "Mindrocker": -1
+    },
+    "A Very Special Christmas": {
+        "Icon": -1
+    },
+    "ABC": {
+        "Beauty Stab": -1,
+        "New Wave Hits Of The 80S": -1,
+        "The Lexicon Of Love": -1,
+        "The Lexicon Of Love (Deluxe Edition)": -1,
+        "The Lexicon Of Love (Digitally Remastered)": -1,
+        "The Look Of Love": -1
+    },
+    "Aaron Weinstein": {
+        "Handful Of Stars, A": -1
+    },
+    "Ac Acoustics": {
+        "Understanding Music": -1
+    },
+    "Ac/Dc": {
+        "Back In Black": -1
+    },
+    "Adrianne Lenker": {
+        "Songs": -1
+    },
+    "Afel Bocoum": {
+        "Lind\u00c3\u00a9": -1
+    },
+    "Aircraft Friend": {
+        "My Anti": -1
+    },
+    "Alaska Reid": {
+        "Disenchanter": -1
+    },
+    "Aldous Harding": {
+        "Designer": -1
+    },
+    "Alejandro Escovedo": {
+        "The Crossing": -1
+    },
+    "Alex De Grassi": {
+        "The Water Garden": -1
+    },
+    "Alice Boman": {
+        "Dream On": -1
+    },
+    "Alison Moyet": {
+        "A Very Special Christmas 25Th Anniversary": -1,
+        "Alf (Deluxe Version)": -1,
+        "Other": -1
+    },
+    "Allison Moorer": {
+        "Alabama Song (International Version)": -1,
+        "Crows": -1,
+        "Down To Believing": -1
+    },
+    "Along Songs": {
+        "Road Trip Sing": -1
+    },
+    "Altered Images": {
+        "Altered Images 12 Inch Mix": 1982,
+        "Bite": 1983,
+        "Clara Libre": 2022,
+        "Happy Birthday": 1981,
+        "I Could Be Happy: The Best Of Altered Images": 1997,
+        "Mascara Streakz": 2022,
+        "Pinky Blue": 1982,
+        "The Collection": 2010
+    },
+    "Alton Ellis": {
+        "The Trojan: Rocksteady Collection": -1
+    },
+    "Amanda Shires": {
+        "Being Brave": -1,
+        "Carrying Lightning": -1,
+        "My Piece Of Land": -1,
+        "Take It Like A Man": -1,
+        "To The Sunset": -1
+    },
+    "Amy LaVere": {
+        "Anchors & Anvils": -1,
+        "Stranger Me": -1
+    },
+    "Andrew Combs": {
+        "All These Dreams": -1
+    },
+    "Andy Bell": {
+        "Love Comes In Waves": -1,
+        "The View From Halfway Down": -1
+    },
+    "Andy Golledge": {
+        "Young, Dumb & Wild": -1
+    },
+    "Andy Shauf": {
+        "The Neon Skyline": -1
+    },
+    "Andy Williams": {
+        "The Andy Williams Christmas Album": -1
+    },
+    "Angel Olsen": {
+        "Strange Cacti": -1
+    },
+    "Angie Palmer": {
+        "Meanwhile, As Night Falls...": -1,
+        "Old Sticks To Scare A Bird": -1,
+        "Road": -1,
+        "Tales Of Light And Darkness": -1
+    },
+    "Anne Mccue": {
+        "Blue Sky Thinkin'": -1,
+        "Roll": -1
+    },
+    "Aoife Nessa Frances": {
+        "Land Of No Junction": -1
+    },
+    "Aoife O'Donovan": {
+        "Fossils": -1
+    },
+    "Arbouretum": {
+        "Let It All In": -1
+    },
+    "Arcade Fire": {
+        "Everything Now": -1
+    },
+    "Aretha Franklin": {
+        "I Never Loved A Man The Way I Love You": -1,
+        "Soul Queen": -1
+    },
+    "Ariana Grande": {
+        "Santa Tell Me": -1
+    },
+    "Artery": {
+        "Oceans": -1
+    },
+    "Arthur Prysock": {
+        "The Great Gentlemen Of Jazz Vocals": -1
+    },
+    "Aswad": {
+        "Aswad": -1,
+        "New Chapter Of Dub": -1
+    },
+    "Aurora": {
+        "What Happened To The Heart?": -1
+    },
+    "Aztec Camera": {
+        "High Land, Hard Rain": -1,
+        "Knife": -1,
+        "Love": -1,
+        "Stray": -1
+    },
+    "B.A. Robertson": {
+        "Initial Success": -1
+    },
+    "B.E.F.": {
+        "Music For Stowaways": -1
+    },
+    "Badfinger": {
+        "No Dice (Remastered 2010 / Deluxe Edition)": -1
+    },
+    "Band Aid": {
+        "Do They Know Its Christmas?": -1
+    },
+    "Bandsplain": {
+        "Bandsplain": -1
+    },
+    "Barna Howard": {
+        "Quite A Feelin'": -1
+    },
+    "Basie (Remastered)": {
+        "Sinatra": -1
+    },
+    "Bastille": {
+        "Give Me The Future": -1
+    },
+    "Bat for Lashes": {
+        "The Haunted Man": -1,
+        "We've Only Just Begun": -1
+    },
+    "Bauhaus": {
+        "In The Flat Field": -1,
+        "The Bela Session": -1
+    },
+    "Baxter Dury": {
+        "The Night Chancers": -1
+    },
+    "Bay City Rollers": {
+        "Wouldn't You Like It": -1
+    },
+    "Bbc": {
+        "": -1
+    },
+    "Bbc Radio 3": {
+        "Drama On 3": -1
+    },
+    "Bdrmm": {
+        "I Don't Know": -1
+    },
+    "Be Your Own Pet": {
+        "Mommy": -1
+    },
+    "Beabadoobee": {
+        "Beatopia": -1
+    },
+    "Beabadoobee, Pinkpantheress": {
+        "Beatopia": -1
+    },
+    "Beach Fossils": {
+        "Somersault": -1
+    },
+    "Beach House": {
+        "7": -1
+    },
+    "Beak>": {
+        ">>>": -1
+    },
+    "Bee Gees": {
+        "Bee Gees' 1St": -1
+    },
+    "Being Dead": {
+        "EELS Volume 1": -1,
+        "EELS Volume 2": -1
+    },
+    "Belle and Sebastian": {
+        "Girls In Peacetime Want To Dance": -1
+    },
+    "Best Christmas Songs": {
+        "Candlelit Keys: Christmas Classics": -1
+    },
+    "Best Of Collection Vol. 3": {
+        "Christmas Gifts 2013": -1
+    },
+    "Best Of The Vapors": {
+        "Turning Japanese": -1
+    },
+    "Beth Nielsen Chapman": {
+        "Look": -1
+    },
+    "Betty Davis": {
+        "They Say I'm Different": -1
+    },
+    "Betweens": {
+        "The Go": -1
+    },
+    "Big Brother & the Holding Company": {
+        "Big Brother & The Holding Company": -1
+    },
+    "Big Thief": {
+        "Certainty": -1,
+        "U.F.O.F.": -1
+    },
+    "Bill Callahan": {
+        "Shepherd In A Sheepskin Vest": -1
+    },
+    "Bill Fay": {
+        "Countless Branches (Deluxe Edition)": -1
+    },
+    "Bill Frisell": {
+        "Americana": -1
+    },
+    "Bill Nelson": {
+        "Quit Dreaming (And Get On The Beam)": -1
+    },
+    "Billy Bragg": {
+        "Life's A Riot With Spy Vs. Spy (30Th Anniversary Edition)": -1
+    },
+    "Billy Idol": {
+        "Dancing With Myself (Rac Remix)": -1,
+        "New Wave Hits Of The 80S": -1
+    },
+    "Billy Joel": {
+        "An Innocent Man": -1
+    },
+    "Billy Ocean": {
+        "Ultimate Collection": -1
+    },
+    "Bing Crosby": {
+        "White Christmas": -1
+    },
+    "Birds of Chicago": {
+        "American Flowers": 2017,
+        "Birds Of Chicago": 2012,
+        "Live From Space": 2013,
+        "Love In Wartime": 2018,
+        "Real Midnight": 2016
+    },
+    "Black Marble": {
+        "It's Immaterial": -1
+    },
+    "Blancmange": {
+        "Mange Tout (Extended Version)": -1,
+        "Second Helpings": -1
+    },
+    "Blondie": {
+        "Autoamerican": -1,
+        "Blondie (Remastered)": -1,
+        "Eat To The Beat": -1,
+        "Greatest Hits: Blondie": -1,
+        "One Way Or Another": -1,
+        "Parallel Lines (Remastered)": -1,
+        "Parallel Lines: Deluxe Collector's Edition": -1,
+        "Plastic Letters": -1,
+        "Pollinator": -1
+    },
+    "Blooms & Barnacles": {
+        "Blooms & Barnacles": -1
+    },
+    "Blossom Dearie": {
+        "Once Upon A Summertime": -1
+    },
+    "Blue Bendy": {
+        "Closing Sound": -1,
+        "Suspension": -1
+    },
+    "Blue Orchids": {
+        "Scared To Get Happy": -1
+    },
+    "Blue \u00c3\u2013yster Cult": {
+        "70S 100 Hits": -1
+    },
+    "Bob Dylan": {
+        "": -1,
+        "Another Side of Bob Dylan": 1964,
+        "Before The Flood": 1974,
+        "Before The Flood (Disc 1)": 1974,
+        "Blonde On Blonde": 1966,
+        "Blood On The Tracks": 1975,
+        "Bob Dylan": 1962,
+        "Bob Dylan At Budokan": 1978,
+        "Bob Dylan At Budokan (Cd1)": 1978,
+        "Bringing It All Back Home": 1965,
+        "Christmas In The Heart": 2009,
+        "Desire": 1976,
+        "Down In The Groove": 1988,
+        "Dylan": 1973,
+        "Empire Burlesque": 1985,
+        "Fallen Angels": 2016,
+        "Good As I Been To You": 1992,
+        "Hard Rain": 1976,
+        "Highway 61 Revisited": 1965,
+        "Infidels": 1983,
+        "John Wesley Harding": 1967,
+        "Knocked Out Loaded": 1986,
+        "Live 1966 \"The Royal Albert Hall Concert\" The Bootleg Series Vol. 4": 1966,
+        "Love And Theft": 2001,
+        "Modern Times": 2006,
+        "Nashville Skyline": 1969,
+        "New Mornng": 1970,
+        "Oh Mercy": 1989,
+        "Pat Garrett & Billy The Kid [Soundtrack]": 1973,
+        "Planet Waves": 1974,
+        "Rough And Rowdy Ways": 2020,
+        "Saved": 1980,
+        "Self Portrait": 1970,
+        "Shadow Kingdom": 2023,
+        "Shadows In The Night": 2015,
+        "Shot Of Love": 1981,
+        "Slow Train Coming": 1979,
+        "Street Legal": 1978,
+        "Tempest": 2012,
+        "The Complete Budokan 1978 (Live)": 1978,
+        "The Freewheelin' Bob Dylan": 1963,
+        "The Times They Are A Changing": 1964,
+        "Time Out Of Mind": 1997,
+        "Together Through Life": 2009,
+        "Triplicate": 2017,
+        "Under The Red Sky": 1990,
+        "World Gone Wrong (Remastered)": 1993
+    },
+    "Bob Dylan and the Band": {
+        "The Basement Tapes": -1
+    },
+    "Bob Hund": {
+        "Bob Hund (Vinylljud 2019)": -1,
+        "Det \u00c3\u00b6Verexponerade G\u00c3\u00b6Mst\u00c3\u00a4Llet": -1,
+        "Ett Fall Och En L\u00c3\u00b6Sning": -1,
+        "Folkmusik F\u00c3\u00b6R Folk Som Inte Kan Bete Sig Som Folk": -1,
+        "Omslag: Martin Kann (Vinylljud 2019)": -1,
+        "Sten\u00c3\u00a5Ldern Kan B\u00c3\u00b6Rja (Vinylljud 2019)": -1,
+        "Stumfilm": -1
+    },
+    "Bob Marley": {
+        "Burnin'": -1
+    },
+    "Bob Marley & the Wailers": {
+        "Burnin'": -1,
+        "Burnin' (Deluxe Edition)": -1,
+        "Catch A Fire": -1,
+        "Catch A Fire (Deluxe Edition)": -1,
+        "Natty Dread (Remastered)": -1,
+        "Rastaman Vibration": -1
+    },
+    "Bobbie Gentry": {
+        "Ode To Billie Joe": -1
+    },
+    "Body Type": {
+        "Expired Candy": -1
+    },
+    "Bombino": {
+        "Deran": -1,
+        "Deran Deran Alkheir (Well Wishes)": -1
+    },
+    "Bon Iver": {
+        "I,I": -1
+    },
+    "Bonnie Tyler": {
+        "It's A Heartache": -1
+    },
+    "Bonnie Whitmore": {
+        "Last Will & Testament": -1
+    },
+    "Bonny Doon": {
+        "Longwave": -1
+    },
+    "Bonus": {
+        "Close To The Bone": -1,
+        "This Year's Model": -1
+    },
+    "Booker T. & the Mg's": {
+        "Green Onions": -1
+    },
+    "Books and Authors": {
+        "Books And Authors": -1
+    },
+    "Boubacar Traor\u00c3\u00a9": {
+        "Dounia Tabolo": -1
+    },
+    "Bound Eyes Are Blind To The Day": {
+        "Night": -1
+    },
+    "Bremen Radio 2003": {
+        "Folksinger Vol 1": -1
+    },
+    "Brenda Lee": {
+        "Essential Christmas": -1
+    },
+    "Brian Eno": {
+        "Another Green World": -1
+    },
+    "Brian Eno & David Byrne": {
+        "My Life In The Bush Of Ghosts": -1
+    },
+    "Brigid Dawson and the Mothers Network": {
+        "Ballet Of Apes": -1
+    },
+    "Brigid Mae Power": {
+        "Brigid Mae Power": -1,
+        "Head Above The Water": -1
+    },
+    "Brigitte Calls Me Baby": {
+        "Slumber Party": -1
+    },
+    "British Birds": {
+        "In Search Of Mr Rykyn": -1
+    },
+    "Brix Smith": {
+        "Valley Of The Dolls": -1
+    },
+    "Brotherhood of Man": {
+        "Greatest Hits: Brotherhood Of Man": -1
+    },
+    "Bruce Springsteen": {
+        "Born In The U.S.A.": -1,
+        "Born To Run": -1,
+        "Greetings From Asbury Park, N.J.": -1,
+        "Santa Claus Is Comin' To Town": -1,
+        "Springsteen On Broadway": -1,
+        "Streets Of Minneapolis": -1
+    },
+    "Bryan Adams": {
+        "Get Up (Deluxe)": -1
+    },
+    "Bryan Ferry": {
+        "Another Time, Another Place": -1,
+        "These Foolish Things": -1
+    },
+    "Bryan Ferry, Amelia Barratt": {
+        "Loose Talk": -1
+    },
+    "Buddy Holly": {
+        "My Greatest Songs": -1
+    },
+    "Buffalo Springfield": {
+        "Buffalo Springfield": -1,
+        "Retrospective (The Best Of Buffalo Springfield)": -1
+    },
+    "Buffy Sainte": {
+        "Illuminations": -1
+    },
+    "Burning Spear": {
+        "Marcus Garvey: The Best Of Burning Spear": -1
+    },
+    "Buzzcocks": {
+        "Spiral Scratch": -1
+    },
+    "Cage the Elephant": {
+        "Melophobia": -1
+    },
+    "Caleb Landry Jones": {
+        "The Mother Stone": -1
+    },
+    "Calexico": {
+        "The Thread That Keeps Us": -1
+    },
+    "Callaghan": {
+        "A History Of Now": -1
+    },
+    "Cara Dillon": {
+        "Cara Dillon": -1,
+        "Coming Home": -1,
+        "Wanderer": -1
+    },
+    "Cara Luft": {
+        "Tempting The Storm": -1,
+        "The Light Fantastic": -1
+    },
+    "Carly Simon": {
+        "Billboard #1S: The '70S": -1
+    },
+    "Carole King": {
+        "Tapestry": -1
+    },
+    "Caroline Herring": {
+        "Golden Apples Of The Sun": -1
+    },
+    "Caroline Rose": {
+        "Loner": -1
+    },
+    "Carrie Rodriguez": {
+        "Live In Louisville": -1,
+        "Love And Circumstance": -1,
+        "Seven Angels On A Bicycle": -1,
+        "She Ain't Me": -1
+    },
+    "Carrie Rodriguez and Ben Kyle": {
+        "We Still Love Our Country": -1
+    },
+    "Carrie Underwood": {
+        "Stretchy Pants": -1
+    },
+    "Cass McCombs": {
+        "Heartmind": -1
+    },
+    "Catatonia": {
+        "": -1,
+        "Equally Cursed And Blessed": -1
+    },
+    "Cate le Bon": {
+        "Reward": -1
+    },
+    "Catherine Wheel": {
+        "Ferment": -1
+    },
+    "Cavern of Anti": {
+        "Hormone Lemonade": -1
+    },
+    "Cbc Music": {
+        "": -1
+    },
+    "Chaka Khan": {
+        "I Feel For You": -1
+    },
+    "Chaparelle": {
+        "Western Pleasure": -1
+    },
+    "Chapter 4": {
+        "Chapter 4": -1
+    },
+    "Chapter 5": {
+        "Chapter 5": -1
+    },
+    "Charli Xcx": {
+        "Brat": -1
+    },
+    "Chatham County Line": {
+        "Chatham County Line": -1,
+        "Strange Fascination": -1
+    },
+    "China Crisis": {
+        "Difficult Shapes And Passive Rhythms Some People Think It's Fun To Entertain": -1,
+        "Wishful Thinking: The Very Best Of China Crisis": -1
+    },
+    "Chip & Carrie": {
+        "The New Bye & Bye": -1
+    },
+    "Chip Taylor": {
+        "On The Radio (Music From The Netflix Original Series Sex Education)": -1
+    },
+    "Chip Taylor & Carrie Rodriguez": {
+        "Live From The Ruhr Triennale October 2005": -1,
+        "Red Dog Tracks": -1
+    },
+    "Chris Carter": {
+        "Chemistry Lessons Volume 1": -1
+    },
+    "Chris Eckman": {
+        "Harney County": -1
+    },
+    "Chris Rea": {
+        "Dancing With Strangers (Deluxe Edition) [2019 Remaster]": -1,
+        "The Works": -1
+    },
+    "Chrissie Hynde": {
+        "Standing In The Doorway: Chrissie Hynde Sings Bob Dylan": -1
+    },
+    "Christian D. Berg": {
+        "": -1
+    },
+    "Christie": {
+        "Christie": -1,
+        "Yellow River": -1
+    },
+    "Christine and the Queens": {
+        "Chaleur Humaine": -1,
+        "Chris": -1
+    },
+    "Christy Moore": {
+        "The Unfinished Revolution": -1
+    },
+    "Chuck Johnson": {
+        "Balsams": -1
+    },
+    "Chuck Prophet": {
+        "Bobby Fuller Died For Your Sins": -1
+    },
+    "Cigarettes After Sex": {
+        "X's": -1
+    },
+    "Circu5": {
+        "Circu5": -1
+    },
+    "Clan of Xymox": {
+        "Clan Of Xymox": -1
+    },
+    "Cliff Richard": {
+        "40 Golden Greats": -1
+    },
+    "Clinic Stars": {
+        "Only Hinting": -1
+    },
+    "Coach Party": {
+        "Killjoy": -1
+    },
+    "Cocteau Twins": {
+        "Blue Bell Knoll": 1988,
+        "Echoes In A Shallow Bay": 1985,
+        "Four Calendar Cafe": 1993,
+        "Garlands": 1982,
+        "Head Over Heels": 1983,
+        "Heaven Or Las Vegas": 1990,
+        "Love's Easy Tears": 1986,
+        "Lullabies": 1982,
+        "Milk and Kisses": 1996,
+        "Peppermint Pig": 1983,
+        "Stars and Topsoil": 2000,
+        "The Moon And The Melodies": 1986,
+        "The Pink Opaque": 1985,
+        "The Spangle Maker": 1984,
+        "Tiny Dynamine": 1985,
+        "Treasure": 1984,
+        "Victorialand": 1986
+    },
+    "Collected Recordings 1988": {
+        "Smile If You Want To (In New York": -1
+    },
+    "Colvin & Earle": {
+        "Colvin & Earle": -1
+    },
+    "Connan Mockasin": {
+        "Jassbusters": -1
+    },
+    "Corb Lund": {
+        "Cabin Fever (Cabin Side)": -1,
+        "Cabin Fever (Fever Side)": -1,
+        "Counterfeit Blues": -1,
+        "Cover Your Tracks": -1,
+        "Hair In My Eyes Like A Highland Steer": -1,
+        "Horse Soldier! Horse Soldier!": -1,
+        "Things That Can't Be Undone": -1
+    },
+    "Corinne West": {
+        "Second Sight": -1
+    },
+    "Cornershop": {
+        "England Is A Garden": -1
+    },
+    "Count Basie": {
+        "The Count": -1
+    },
+    "Courting": {
+        "New Last Name": -1
+    },
+    "Courtney Barnett": {
+        "Tell Me How You Really Feel": -1,
+        "The Double Ep: A Sea Of Split Peas": -1,
+        "Things Take Time, Take Time": -1
+    },
+    "Courtney Marie Andrews": {
+        "Old Flowers": -1
+    },
+    "Cowboy Junkies": {
+        "All That Reckoning": 2018,
+        "AtlThe End Of Al Paths Taken": 2007,
+        "Black Eyed Man": 1992,
+        "Cowboy Junkies (Return Of The Grievous Angel: A Tribute To Gram Parsons)": -1,
+        "Demons: The Nomad Series, Vol. 2": 2011,
+        "Early 21st Century Blues": 2005,
+        "Ghosts": 2020,
+        "Lay It Down": 1996,
+        "Miles From Our Home": 1998,
+        "One Soul Now": 2004,
+        "Open": 2001,
+        "Pale Sun Crescent Moon": 1993,
+        "Renmin Park: The Nomad Series, Vol. 1": 2010,
+        "Sharon": 2022,
+        "Sing In My Meadow: The Nomad Series, Vol. 3": 2011,
+        "Songs Of The Recollection": 2022,
+        "Such Ferocious Beauty": 2023,
+        "The Caution Horses": 1990,
+        "The Trinity Session": 1988,
+        "The Wilderness: The Nomad Series, Vol. 4": 2012,
+        "Trinity Revisited": 2007,
+        "Whites Off Earth now!!": 1986
+    },
+    "Cream": {
+        "Disraeli Gears (Remastered)": -1
+    },
+    "Creedence Clearwater Revival": {
+        "Bayou Country": 1969,
+        "Cosmo's Factory": 1970,
+        "Creedence Clearwater Revival": 1968,
+        "Green River": 1969,
+        "Mardi Gras": 1972,
+        "Pendulum": 1970,
+        "Willy and the Poor Boys": 1969
+    },
+    "Creep Show": {
+        "Mr. Dynamite": -1
+    },
+    "Cristina": {
+        "Sleep It Off": -1
+    },
+    "Culture Club": {
+        "Colour By Numbers": -1,
+        "New Wave Hits Of The 80S": -1
+    },
+    "Curtis Mayfield": {
+        "The Very Best Of Curtis Mayfield": -1
+    },
+    "Cut Worms": {
+        "Cut Worms": -1
+    },
+    "Damien Jurado": {
+        "What's New, Tomboy?": -1
+    },
+    "Dana": {
+        "Girls (3 Cd Boxset)": -1
+    },
+    "Dangerous Music": {
+        "Cleaning Out The Ashtrays CD3": -1
+    },
+    "Daniel Bachman": {
+        "The Morning Star": -1
+    },
+    "Daniel Blumberg": {
+        "Minus": -1
+    },
+    "Darling West": {
+        "While I Was Asleep": -1
+    },
+    "Dave Brock": {
+        "Hawkwind": -1
+    },
+    "Dave Brubeck": {
+        "Dave Brubeck's Greatest Hits": -1
+    },
+    "Dave Grusin": {
+        "The Graduate": -1
+    },
+    "Dave Rawlings Machine": {
+        "A Friend Of A Friend": -1,
+        "Nashville Obsolete": -1
+    },
+    "David Bowie": {
+        "Aladdin Sane": 1973,
+        "Black Tie White Noise": 1993,
+        "Blackstar": 2016,
+        "Cat People": -1,
+        "Changesnowbowie": -1,
+        "Changesonebowie": -1,
+        "David Bowie": 1967,
+        "David Live (2005 mix)": 1974,
+        "David Live (Original Mix)": 1974,
+        "Diamond Dogs": 1974,
+        "Divine Symmetry": 2022,
+        "Earthling": 1997,
+        "Heathen": 2002,
+        "Heroes": 1977,
+        "Hours": 1999,
+        "Hunky Dory": 1971,
+        "Let's Dance": 1983,
+        "Live Nassau Coliseum '76": 1976,
+        "Lodger": 1979,
+        "London Boy": -1,
+        "Low": 1977,
+        "Metrobolist (Aka The Man Who Sold The World) [2020 Mix]": 1970,
+        "Montreal 1983: Cd1": 1983,
+        "Montreal 1983: Cd2": 1983,
+        "Never Let Me Down": 1987,
+        "Pin Ups": 1973,
+        "Reality": 2003,
+        "Scary Monsters (And Super Creeps)": 1980,
+        "Serious Moonlight": 1983,
+        "Sound And Vision": 1989,
+        "Space Oddity (2019 Mix)": -1,
+        "Stage": 1978,
+        "Station To Station": 1976,
+        "The Buddha Of Suburbia": 1993,
+        "The Gouster": 1975,
+        "The Man Who Sold The World": 1970,
+        "The Next Day": 2016,
+        "The Rise And Fall Of Ziggy Stardust And The Spiders From Mars": 1972,
+        "Tonight": 1984,
+        "Unplugged And Slightly Phased Live 1996": 1996,
+        "Vh1 Storytellers": -1,
+        "Welcome To The Blackout (Live London '78)": 1978,
+        "Young Americans": 1975,
+        "[Unknown Album]": -1,
+        "outside": 1995
+    },
+    "David Byrne": {
+        "American Utopia": -1
+    },
+    "David Byrne & St. Vincent": {
+        "Love This Giant": -1
+    },
+    "David Essex": {
+        "70S 100 Hits": -1,
+        "David Essex": -1
+    },
+    "David Rodigan": {
+        "David Rodigan Summmer Of Reggae": -1
+    },
+    "Dawes": {
+        "Passwords": -1
+    },
+    "Dawn Landes": {
+        "Meet Me At The River": -1
+    },
+    "Dawn Penn": {
+        "No, No, No": -1
+    },
+    "Dcoops": {
+        "": -1
+    },
+    "Dead Or Alive": {
+        "That's The Way I Like It: The Best Of Dead Or Alive": -1
+    },
+    "Deep Purple": {
+        "Who Do We Think We Are (Remastered)": -1
+    },
+    "Deerhunter": {
+        "Halcyon Digest": -1
+    },
+    "Definitely Dylan": {
+        "Definitely Dylan": -1
+    },
+    "Delacey": {
+        "Music": -1
+    },
+    "Delays": {
+        "Faded Seaside Glamour": -1
+    },
+    "Della Mae": {
+        "Family Reunion": -1
+    },
+    "Department S": {
+        "God Squad Saviour": -1,
+        "When All Is Said And All Is Done": -1
+    },
+    "Derek and the Dominos": {
+        "The Cream Of Clapton": -1
+    },
+    "Desmond Dekker & the Aces": {
+        "007: The Best Of Desmond Dekker": -1
+    },
+    "Destroyer": {
+        "Crimson Tide": -1
+    },
+    "Deutsch Amerikanische Freundschaft": {
+        "Gold Und Liebe": -1
+    },
+    "Devine & Statton": {
+        "Cardiffians": -1,
+        "The Prince Of Wales": -1
+    },
+    "Dexys Midnight Runners": {
+        "New Wave Hits Of The 80S": -1
+    },
+    "Diana Jones": {
+        "Song To A Refugee": -1
+    },
+    "Diana Krall": {
+        "Glad Rag Doll": -1,
+        "Wallflower (The Complete Sessions)": -1
+    },
+    "Die Nerven": {
+        "Fake": -1
+    },
+    "Difficult Pieces": {
+        "Cleaning Out The Ashtrays CD4": -1
+    },
+    "Diiv": {
+        "Frog In Boiling Water": -1
+    },
+    "Dinah Washington": {
+        "Buon Natale (Merry Christmas)": -1,
+        "For Those In Love": -1,
+        "Original Jazz Recordings (Digitally Remastered)": -1
+    },
+    "Dinosaur Jr.": {
+        "Bug (Remastered)": -1
+    },
+    "Dire Straits": {
+        "Dire Straits (Remastered)": -1
+    },
+    "Dirty Projectors": {
+        "Lamp Lit Prose": -1
+    },
+    "Dixie Chicks": {
+        "Fly": -1
+    },
+    "Doctor Who": {
+        "": -1
+    },
+    "Dolly Parton": {
+        "Once Upon A Christmas": -1,
+        "The Grass Is Blue": -1
+    },
+    "Dollybono": {
+        "": -1
+    },
+    "Don Drummond & the Skatalites": {
+        "Memorial Album": -1
+    },
+    "Don Letts and Turtle Bay Present Reggae 45": {
+        "Don Letts And Turtle Bay Present Reggae 45": -1
+    },
+    "Donnie & Joe Emerson": {
+        "Dreamin' Wild": -1
+    },
+    "Donovan": {
+        "Sunshine Superman (Stereo Special Edition)": -1
+    },
+    "Doves": {
+        "Some Cities": -1,
+        "The Last Broadcast": -1,
+        "The Places Between : The Best Of Doves": -1
+    },
+    "Dr. Feelgood": {
+        "Down By The Jetty": -1
+    },
+    "Drinks": {
+        "Hippo Lite": -1
+    },
+    "Drop Nineteens": {
+        "Hard Light": -1
+    },
+    "Dry Cleaning": {
+        "New Long Leg": -1,
+        "Stumpwork": -1
+    },
+    "Duke Garwood": {
+        "Rogues Gospel": -1,
+        "With Animals": -1
+    },
+    "Duran Duran": {
+        "Duran Duran": -1,
+        "Rio (Collector's Edition)": -1
+    },
+    "Dwight Yoakam": {
+        "Population: Me": -1
+    },
+    "EP": {
+        "Peace At Last": -1
+    },
+    "Earl Scruggs": {
+        "Earl Scruggs And Friends": -1
+    },
+    "Eartha Kitt": {
+        "Santa Baby": -1
+    },
+    "East 17": {
+        "Steam": -1
+    },
+    "Easy Star All": {
+        "Dub Side Of The Moon": -1
+    },
+    "Eberard Weber": {
+        "Works": -1
+    },
+    "Echo & the Bunnymen": {
+        "Crocodiles": 1980,
+        "Do It Clean : Crocodiles/Heaven Up Here Live": 2011,
+        "Echo & The Bunnymen": 1987,
+        "Evergreen": 1997,
+        "Flowers": 2001,
+        "Greatest Hits Live In Concert": 2005,
+        "Heaven Up Here": 1981,
+        "Live At The Royal Albert Hall": 1983,
+        "Meteorites": 2014,
+        "Ocean Rain": 1984,
+        "Ocean Rain Live 2008": 2008,
+        "Porcupine": 1983,
+        "Reverberation": 1990,
+        "Siberia": 2005,
+        "Songs To Learn And Sing": 1985,
+        "The Fountain": 2009,
+        "The Stars, The Oceans & The Moon": 2018,
+        "What Are You Going To Do With Your Life?": 1999
+    },
+    "Eddie & the Hot Rods": {
+        "Do Anything You Wanna Do: The Best Of": -1
+    },
+    "Edwyn Collins": {
+        "Badbea": 2019,
+        "Doctor Syntax": 2002,
+        "Elevation Days": 1995,
+        "Gorgeous George": 1994,
+        "Hellbent On Compromise": 1990,
+        "Home Again": 2007,
+        "Hope And Despair": 1989,
+        "I'm Not Following You": 1997,
+        "Knowledge": 2024,
+        "Losing Sleep": 2010,
+        "Nation Shall Speak Unto Nation": 2025,
+        "Understated": 2013
+    },
+    "Eilen Jewell": {
+        "Boundary County": 2006,
+        "Butcher Holler: A Tribute to Loretta Lynn": 2010,
+        "Down Hearted Blues": 2017,
+        "Get Behind The Wheel": 2023,
+        "Green River": 2020,
+        "Gypsy": 2019,
+        "Letters From Sinners & Strangers": 2007,
+        "Live At The Narrows": 2014,
+        "Queen Of The Minor Key": 2011,
+        "Sea Of Tears": 2009,
+        "Sundown Over Ghost Town": 2015
+    },
+    "Elastica": {
+        "Elastica": -1
+    },
+    "Eleanor Friedberger": {
+        "Rebound": -1
+    },
+    "Electric Light Orchestra": {
+        "A New World Record": -1,
+        "Out Of The Blue": -1
+    },
+    "Elephant Micah": {
+        "Genericana": -1
+    },
+    "Eliza Gilkyson": {
+        "2020": -1,
+        "Beautiful World": -1,
+        "Beautiful World ((Bonus Track Version))": -1,
+        "Hard Times In Babylon": -1,
+        "Land Of Milk And Honey": -1,
+        "Live From Austin, Tx": -1,
+        "Lost And Found": -1,
+        "Paradise Hotel": -1,
+        "Secularia": -1,
+        "Your Town Tonight": -1
+    },
+    "Eliza Gilkyson, Darryl Purpose": {
+        "Still The Birds": -1
+    },
+    "Elizabeth Cook": {
+        "Exodus Of Venus": -1
+    },
+    "Ella Fitzgerald": {
+        "Ella At Duke's Place": -1,
+        "Ella Sings The Cole Porter & Rodgers And Hart Songbook": -1
+    },
+    "Elton John": {
+        "Caribou (Remastered 1995)": -1,
+        "Caribou (Remastered)": -1,
+        "Diamonds (Deluxe)": -1,
+        "Elton John": -1,
+        "Elton John (Remastered Version)": -1,
+        "Goodbye Yellow Brick Road": -1,
+        "Goodbye Yellow Brick Road (Remastered)": -1,
+        "Honky Chateau": -1,
+        "Honky Chateau (Remastered)": -1,
+        "Too Low For Zero": -1
+    },
+    "Elvis Costello": {
+        "Hey Clockface": 2020,
+        "Kojak Variety": 1995,
+        "Look Now": 2018,
+        "Mighty Like A Rose": 1991,
+        "Momofuku": 2008,
+        "My Aim Is True": 1977,
+        "National Ransom": 2010,
+        "North": 2010,
+        "Out Of Our Idiot": 1987,
+        "Secret, Profane & Sugar Cane": 2009,
+        "Spike": 1989,
+        "The Boy Named If": 2022,
+        "The Delivery Man": 2004,
+        "When I Was Cruel": 1989
+    },
+    "Elvis Costello & the Attractions": {
+        "All This Useless Beauty": 1996,
+        "Almost Blue": 1981,
+        "Armed Forces": 1979,
+        "Blood And Chocolate": 1986,
+        "Brutal Youth": 1994,
+        "Get Happy!!": 1980,
+        "Get Happy!! Cd2": 1980,
+        "Goodbye Cruel World": 1984,
+        "Imperial Bedroom": 1982,
+        "King Of America": 1986,
+        "Live 1978": 1978,
+        "Punch The Clock": 1983,
+        "Spanish Model": 2021,
+        "This Year's Model": 1978,
+        "Trust": 1981
+    },
+    "Elvis Costello & the Imposters": {
+        "Look Now (Deluxe Edition)": -1
+    },
+    "Elvis Costello and the Roots": {
+        "Wise Up Ghost (Deluxe)": -1
+    },
+    "Emma Swift": {
+        "Blonde On The Tracks": -1,
+        "Down And Out In Party City": -1,
+        "Home Recordings": -1,
+        "No Happy Endings": -1,
+        "Nothing And Forever": -1,
+        "The Resurrection Game": -1,
+        "You Got Here First": -1
+    },
+    "Emma Tricca": {
+        "Aspirin Sun": -1
+    },
+    "Emmylou Harris": {
+        "All I Intended To Be": 2008,
+        "Angel Band": 1987,
+        "Blue Kentucky Girl": 1979,
+        "BlueBird": 1989,
+        "Brand New Dance": 1990,
+        "Cimaaron": 1981,
+        "Cowgirls Prayer": 1993,
+        "Elite Hotel": 1975,
+        "Evangeline": 1981,
+        "Gliding Bird": 1970,
+        "Hard Bargain": 2011,
+        "Light of the Stable": 1979,
+        "Luxury Liner": 1976,
+        "Old Yellow Moon": -1,
+        "Pieces Of The Sky": 1975,
+        "Quarter Moon in a Ten cent Town": 1978,
+        "Red Dirt Girl": 2000,
+        "Roses in the Snow": 1980,
+        "Stumble Into Grace": 2003,
+        "The 70's Studio Album Collection": -1,
+        "The Ballad of Sally Rose": 1985,
+        "Thirteen": 1986,
+        "White Shoes": 1983,
+        "Wrecking Ball": 1995
+    },
+    "English Teacher": {
+        "This Could Be Texas": -1
+    },
+    "Eric Bachmann": {
+        "No Recover": -1
+    },
+    "Eric Burdon & the Animals": {
+        "Greatest Hits": -1
+    },
+    "Eric Clapton": {
+        "461 Ocean Blvd. (Deluxe Edition)": -1
+    },
+    "Erin Rae": {
+        "Love Like Before": -1,
+        "Putting On Airs": -1
+    },
+    "Esperanza Spalding": {
+        "Chamber Music Society": -1
+    },
+    "Eurythmics": {
+        "Sweet Dreams (Are Made Of This)": -1
+    },
+    "Eurythmics, Annie Lennox, Dave Stewart": {
+        "Sweet Dreams ((Are Made Of This) [2018 Remastered])": -1
+    },
+    "Everything But the Girl": {
+        "Eden": -1,
+        "Scared To Get Happy": -1
+    },
+    "Exclusivevids1000": {
+        "": -1
+    },
+    "Eyeless in Gaza": {
+        "Back From The Rains": -1,
+        "Drumming The Beating Heart": -1,
+        "Drumming The Beating Heart / Pale Hands I Loved So Well": -1,
+        "Winter Sang": -1
+    },
+    "Ezra Furman": {
+        "Transangelic Exodus": -1
+    },
+    "Faces": {
+        "Ooh La La": -1
+    },
+    "Facs": {
+        "Negative Houses": -1
+    },
+    "Family": {
+        "Music In A Doll's House / Family Entertainment": -1
+    },
+    "Father John Misty": {
+        "Chlo\u00c3\u00ab And The Next 20Th Century": -1,
+        "God's Favorite Customer": -1,
+        "I Love You, Honeybear": -1,
+        "Just Dumb Enough To Try": -1,
+        "Pure Comedy": -1
+    },
+    "Feel": {
+        "I": -1
+    },
+    "Feist": {
+        "Metals": -1
+    },
+    "Felt": {
+        "Crumbling The Antiseptic Beauty/The Splendour Of Fear": -1,
+        "Ignite The Seven Cannons (Remastered Edition)": -1
+    },
+    "Field Music": {
+        "Making A New World": -1,
+        "Open Here": -1
+    },
+    "Fifty Foot Hose": {
+        "Cauldron": -1
+    },
+    "Fiona Apple": {
+        "Fetch The Bolt Cutters": -1
+    },
+    "First Aid Kit": {
+        "Stay Gold": -1
+    },
+    "Fleet Foxes": {
+        "Helplessness Blues": -1,
+        "Shore": -1
+    },
+    "Fleetwood Mac": {
+        "Rumours": -1,
+        "Tusk": -1
+    },
+    "Florence ": {
+        " the Machine": -1
+    },
+    "Focus": {
+        "Golden Oldies": -1
+    },
+    "Folly Group": {
+        "Down There!": -1
+    },
+    "Fontaines D.c.": {
+        "Dogrel": -1,
+        "Romance": -1
+    },
+    "Forma": {
+        "Semblance": -1
+    },
+    "Foster the People": {
+        "": -1
+    },
+    "Frank Sinatra": {
+        "Noel Inoubliable": -1,
+        "No\u00c3\u00abL Inoubliable": -1
+    },
+    "Frankie Cosmos": {
+        "Vessel": -1
+    },
+    "Frankie Goes to Hollywood": {
+        "Bang!... The Greatest Hits Of Frankie Goes To Hollywood": -1,
+        "Welcome To The Pleasuredome": -1
+    },
+    "Fran\u00c3\u00a7oise Hardy": {
+        "La Question": -1
+    },
+    "Fraser A. Gorman": {
+        "Slow Gum": -1
+    },
+    "Freakwater": {
+        "Scheherazade": -1,
+        "Springtime": -1
+    },
+    "Free": {
+        "70S Classic Rock": -1,
+        "All Right Now: The Collection": -1
+    },
+    "Fun Boy Three": {
+        "Fun Boy Three": -1,
+        "Waiting": -1
+    },
+    "Furniture": {
+        "The Wrong People": -1
+    },
+    "Fuzz": {
+        "Iii": -1
+    },
+    "Gang of Four": {
+        "Entertainment!": -1
+    },
+    "Garcia Peoples": {
+        "Nightcap At Wits' End": -1
+    },
+    "Gardens": {
+        "Flaws": -1
+    },
+    "Gary Numan": {
+        "Replicas": -1,
+        "The Pleasure Principle (Expanded Edition)": -1
+    },
+    "Gas": {
+        "Narkopop": -1
+    },
+    "Gazelle Twin": {
+        "Pastoral": -1
+    },
+    "George Harrison": {
+        "All Things Must Pass (50Th Anniversary)": -1
+    },
+    "George McCrae": {
+        "Rock Your Baby: The Best Of George Mccrae": -1
+    },
+    "George Strait": {
+        "Merry Christmas Wherever You Are": -1
+    },
+    "Gerry Rafferty": {
+        "Playlist: 70S Pop": -1
+    },
+    "Gershwin Songbook (Disc 1)": {
+        "Gershwin: 's Wonderful": -1
+    },
+    "Gigi Masin": {
+        "Les Nouvelles Musiques De Chambre, Vol. 2": -1
+    },
+    "Gillian Welch": {
+        "Revival": -1,
+        "Soul Journey": -1
+    },
+    "Gina Villalobos": {
+        "Live From KXLU Radio": -1
+    },
+    "Girls At Our Best!": {
+        "Scared To Get Happy": -1
+    },
+    "Gladys Knight & the Pips": {
+        "Ultimate Collection: Gladys Knight & The Pips": -1
+    },
+    "Glyders": {
+        "Forever": 2025
+    },
+    "Goat Girl": {
+        "On All Fours": -1
+    },
+    "Goldfrapp": {
+        "Felt Mountain": -1,
+        "Silver Eye": -1,
+        "The Singles": -1
+    },
+    "Gonna Fall": {
+        "A Hard Rain's A": -1
+    },
+    "Grace Jones": {
+        "Hurricane": -1
+    },
+    "Grace Petrie": {
+        "Queer As Folk": -1
+    },
+    "Graham Coxon": {
+        "The End Of The F***Ing World (Original Songs And Score)": -1
+    },
+    "Green Gartside": {
+        "Tangled Man": -1
+    },
+    "Greg Lake": {
+        "I Believe In Father Christmas": -1,
+        "Pure... Christmas": -1
+    },
+    "Gregory Isaacs": {
+        "Out Deh": -1
+    },
+    "Gretchen Peters": {
+        "Blackbirds": -1,
+        "Hello Cruel World": -1,
+        "One To The Heart, One To The Head": -1
+    },
+    "Gruff Rhys": {
+        "Babelsberg": -1
+    },
+    "Guided By Voices": {
+        "Space Gun": -1
+    },
+    "Guillemots": {
+        "Through The Windowpane": -1
+    },
+    "Guinea": {
+        "Aikea": -1
+    },
+    "Guy Clark": {
+        "My Favorite Picture Of You": -1
+    },
+    "Gwenifer Raymond": {
+        "You Never Were Much Of A Dancer": -1
+    },
+    "Gwenno": {
+        "Le Kov": -1
+    },
+    "H.C. Mcentire": {
+        "Lionheart": -1
+    },
+    "Hackensaw Boys": {
+        "Love What You Do": -1
+    },
+    "Haim": {
+        "Women in Music Pt. III": -1
+    },
+    "Haircut 100": {
+        "Greatest Hits Of Nick Heyward ": 1997,
+        "Pelican West Plus": 1982,
+        "The Very Best Of": -1
+    },
+    "Haley Bonar": {
+        "Impossible Dream": -1
+    },
+    "Haley Heynderickx": {
+        "I Need To Start A Garden": -1
+    },
+    "Harry Allen": {
+        "Upper West Side": -1
+    },
+    "Harry Connick, Jr.": {
+        "We Are In Love": -1
+    },
+    "Hatchie": {
+        "Sleep": -1,
+        "Sugar & Spice": -1,
+        "Sure": -1,
+        "Sure (Robin Guthrie Remix)": -1,
+        "Try": -1
+    },
+    "Hawkwind": {
+        "Hawkwind": -1,
+        "In Search Of Space": -1
+    },
+    "Hawkwind Zoo": {
+        "Hawkwind": -1
+    },
+    "Hayes Carll": {
+        "Kmag Yoyo (& Other American Stories)": -1,
+        "Little Rock": -1,
+        "Lovers And Leavers": -1,
+        "Trouble In Mind": -1,
+        "What It Is": -1
+    },
+    "Hazel O'connor": {
+        "A Singular Collection: The Best Of Hazel O'connor": -1
+    },
+    "Heaven 17": {
+        "Before After": 2005,
+        "Bigger Than America": 1996,
+        "Golden Age": -1,
+        "How Men Are": 1984,
+        "Naked As Advertised Versions 08": 2008,
+        "Penthouse And Pavement": 1981,
+        "Pleasure One": 1986,
+        "Teddy Bear, Duke and Psycho": 1988,
+        "The Luxury Gap": 1983
+    },
+    "Heavenly": {
+        "Heavenly vs Satan": 1991,
+        "Highway To Heavenly": 2026,
+        "Le Jardin De Heavenly": 1992,
+        "Operation heavenly": 1996,
+        "The Decline and Fall of heavenly": 1994
+    },
+    "Hello Forever": {
+        "Whatever It Is": -1
+    },
+    "Hem": {
+        "Departure And Farewell": 2013,
+        "Eveningland": 2004,
+        "Funnel Cloud (Bonus Track Version)": 2006,
+        "No Word From Tom": 2006,
+        "Rabbit Songs": 2002
+    },
+    "Hen Ogledd": {
+        "Free Humans": -1
+    },
+    "Hilary Woods": {
+        "Birthmarks": -1
+    },
+    "Honey Harper": {
+        "Starmaker": -1
+    },
+    "Hope & Glory": {
+        "War Baby": -1
+    },
+    "Horsegirl": {
+        "Phonetics On And On": -1
+    },
+    "Houndmouth": {
+        "Little Neon Limelight": -1
+    },
+    "Howard Jones": {
+        "Dream Into Action": -1
+    },
+    "Human League": {
+        "Travelogue": -1
+    },
+    "Hurrah!": {
+        "Scared To Get Happy": -1
+    },
+    "Hurray for the Riff Raff": {
+        "The Navigator": -1
+    },
+    "H\u00c3\u00bcsker D\u00c3\u00bc": {
+        "Candy Apple Grey": -1
+    },
+    "I Break Horses": {
+        "Warnings": -1
+    },
+    "Ian Dury": {
+        "Greatest": -1,
+        "New Boots And Panties!": -1
+    },
+    "Ian McCulloch": {
+        "Candleland": -1,
+        "Mysterio": -1
+    },
+    "Ian Shaw": {
+        "A Ghost In Every Bar (The Lyrics Of Fran Landesman)": -1
+    },
+    "Iggy Pop": {
+        "Brick By Brick": -1
+    },
+    "Imagination": {
+        "In The Heat Of The Night": -1
+    },
+    "Inhaler": {
+        "Cuts & Bruises": -1,
+        "It Won't Always Be Like This": -1
+    },
+    "Inshreds66": {
+        "": -1
+    },
+    "Inxs": {
+        "Kick": -1
+    },
+    "Iron & Wine": {
+        "Weed Garden": -1
+    },
+    "It'S Immaterial": {
+        "Life's Hard And Then You Die": -1,
+        "Song": -1
+    },
+    "J Mascis": {
+        "Elastic Days": -1
+    },
+    "JT Nero": {
+        "Demons/Demons": -1,
+        "Mountains/Forests": -1
+    },
+    "JT and the Clouds": {
+        "Caledonia": -1,
+        "The City's Hot Yeah The City's Hot": -1
+    },
+    "Jack Harris": {
+        "The Flame And The Pelican": -1,
+        "The Wide Afternoon": -1
+    },
+    "Jack Jones": {
+        "Paints A Tribute To Tony Bennett": -1
+    },
+    "Jackson Browne": {
+        "Running On Empty / Nothing But Time (Digital 45)": -1
+    },
+    "James Taylor": {
+        "Mud Slide Slim And The Blue Horizon": -1
+    },
+    "Jamestown Revival": {
+        "Utah": -1
+    },
+    "Jan Garbarek": {
+        "I Took Up The Runes": -1
+    },
+    "Jana Horn": {
+        "The Window Is The Dream": -1
+    },
+    "Jane": {
+        "Scared To Get Happy": -1
+    },
+    "Janis Joplin": {
+        "Pearl": -1
+    },
+    "Japan": {
+        "The Very Best Of": -1,
+        "Tin Drum": -1
+    },
+    "Jarv Is...": {
+        "Beyond The Pale": -1
+    },
+    "Jason Isbell": {
+        "Something More Than Free": -1
+    },
+    "Jason Isbell and the 400 Unit": {
+        "Here We Rest": -1,
+        "Reunions": -1,
+        "The Nashville Sound": -1,
+        "Weathervanes": -1
+    },
+    "Jason Mcmahon": {
+        "Odd West": -1
+    },
+    "Jcpenney": {
+        "": -1
+    },
+    "Jean": {
+        "Nostos": -1
+    },
+    "Jean Michel Jarre": {
+        "Oxyg\u00c3\u00a8Ne": -1
+    },
+    "Jean Toussaint": {
+        "Blue Black": -1
+    },
+    "Jeff Wayne": {
+        "The War Of The Worlds": -1
+    },
+    "Jefferson Airplane": {
+        "Surrealistic Pillow": -1
+    },
+    "Jess Williamson": {
+        "Cosmic Wink": -1
+    },
+    "Jessica Pratt": {
+        "Here In The Pitch": -1,
+        "Jessica Pratt": -1
+    },
+    "Jilted John": {
+        "True Love Stories": -1
+    },
+    "Jim Croce": {
+        "Greatest": -1
+    },
+    "Jim Ghedi": {
+        "A Hymn For Ancient Land": -1
+    },
+    "Jim James": {
+        "Uniform Distortion": -1
+    },
+    "Jim Lauderdale": {
+        "From Another World": -1,
+        "Headed For The Hills": -1,
+        "London Southern": -1
+    },
+    "Jim Sullivan": {
+        "U.F.O.": -1
+    },
+    "Jim White": {
+        "Misfit's Jubilee": -1
+    },
+    "Jimi Hendrix": {
+        "Are You Experienced": -1,
+        "Axis: Bold As Love": -1,
+        "Electric Ladyland": -1
+    },
+    "Jimmie Dale Gilmore": {
+        "Downey To Lubbock": -1
+    },
+    "Jimmy Dale Gilmore": {
+        "Kc Moan": -1
+    },
+    "Jo Passed": {
+        "Their Prime": -1
+    },
+    "Joan Baez": {
+        "Imagine": -1,
+        "Whistle Down The Wind": -1
+    },
+    "Joan Osborne": {
+        "Songs Of Bob Dylan": -1
+    },
+    "Joan Shelley": {
+        "Joan Shelley": -1,
+        "Like The River Loves The Sea": -1,
+        "The Spur": -1
+    },
+    "Joe Jackson": {
+        "I'm The Man": -1,
+        "Look Sharp!": -1,
+        "New Wave Hits Of The 80S": -1,
+        "Night And Day": -1
+    },
+    "Joe Strummer": {
+        "Streetcore": -1
+    },
+    "Joe Strummer And?the Mescaleros": {
+        "Cool As Folk": -1
+    },
+    "Joe Tex": {
+        "Greatest Hits": -1
+    },
+    "John Cale": {
+        "Paris 1919 (Remastered ": -1
+    },
+    "John Coltrane": {
+        "Giant Steps": -1
+    },
+    "John Coltrane & Johnny Hartman": {
+        "John Coltrane And Johnny Hartman (Hd Remastered Edition)": -1
+    },
+    "John Cooper Clarke": {
+        "O\u00c3\u00b9 Est La Maison De Fromage?": -1,
+        "Snap, Crackle & Bop": -1,
+        "Snap, Crackle & Bop (Expanded Edition)": -1
+    },
+    "John Denver": {
+        "Back Home Again": -1
+    },
+    "John Foxx": {
+        "Metamatic": -1,
+        "Metamatic...Plus": -1
+    },
+    "John Fullbright": {
+        "Songs": -1
+    },
+    "John Lennon": {
+        "Power To The People: The Hits": -1
+    },
+    "John Moreland": {
+        "Lp5": -1
+    },
+    "Johnny Hartman": {
+        "I Just Dropped By To Say Hello": -1
+    },
+    "Johnny Marks": {
+        "Essential Christmas": -1
+    },
+    "Jon Hassel": {
+        "Pastorale Vassant": -1
+    },
+    "Jon Hassell": {
+        "Listening To Pictures (Pentimento Volume One)": -1
+    },
+    "Jona Lewie": {
+        "Stop The Cavalry": -1
+    },
+    "Jonathan Richman and the Modern Lovers": {
+        "The Modern Lovers": -1
+    },
+    "Jonathan Wilson": {
+        "Rare Birds": -1
+    },
+    "Joni Mitchell": {
+        "Blue": -1,
+        "Clouds": -1,
+        "Song To A Seagull": -1
+    },
+    "Jorja Smith": {
+        "Stay Another Day": -1
+    },
+    "Josef K": {
+        "Postcard Singles": -1,
+        "Sorry For Laughing": -1,
+        "The Only Fun In Town": -1,
+        "Young And Stupid": -1
+    },
+    "Josh Ritter": {
+        "Fever Breaks": 2019,
+        "Gathering": 2017,
+        "Golden Age of Radio": 2002,
+        "Heaven, Or Someplace As Nice": 2024,
+        "Hello Starling": 2003,
+        "I Believe In You, My Honeydew": 2025,
+        "Josh Ritter": 2000,
+        "See Here, I Have Built You A Mansion (Rare And Unreleased)": 2020,
+        "Sermon On The Rocks": 2015,
+        "So Runs The World Away": 2010,
+        "Spectral Lines": 2023,
+        "The Animal Years": 2006,
+        "The Beast In His Tracks": 2013,
+        "The Historical Conquests of Josh Ritter": 2007
+    },
+    "Josh Rouse": {
+        "Nashville": -1
+    },
+    "Josh T. Pearson": {
+        "The Straight Hits!": -1
+    },
+    "Jos\u00c3\u00a9 Feliciano": {
+        "Feliz Navidad": -1
+    },
+    "Joy Division": {
+        "Closer": -1,
+        "Die Kalten Winde Des Winters": -1,
+        "Substance": -1,
+        "Substance 1987": -1,
+        "The Best Of": -1,
+        "Total": -1,
+        "Unknown Pleasures": -1,
+        "Unknown Pleasures (2019 Digital Master)": -1
+    },
+    "Juana Molina": {
+        "Halo": -1
+    },
+    "Julia Holter": {
+        "Aviary": -1,
+        "Have You In My Wilderness": -1
+    },
+    "Julia Jacklin": {
+        "Crushing": -1
+    },
+    "Julia Kent": {
+        "Temporal": -1
+    },
+    "Julian Lynch": {
+        "Rat\u00e2\u20ac\u2122S Spit": -1
+    },
+    "Juliana Hatfield": {
+        "Weird": -1
+    },
+    "Julie Byrne": {
+        "Not Even Happiness": -1
+    },
+    "Juniore": {
+        "Un, Deux, Trois": -1
+    },
+    "Just the Faqs": {
+        "Gannett Syndication Service": -1
+    },
+    "Justin Townes Earle": {
+        "Harlem River Blues": -1,
+        "Kids In The Street": -1,
+        "Nothing's Gonna Change The Way You Feel About Me Now": -1,
+        "Single Mothers": -1
+    },
+    "K.D. Lang": {
+        "Hymns Of The 49Th Parallel": -1
+    },
+    "Kacey Musgraves": {
+        "Deeper Well": -1,
+        "Golden Hour": -1,
+        "Pageant Material": -1,
+        "Same Trailer Different Park": -1
+    },
+    "Kacy & Clayton": {
+        "Carrying On": -1,
+        "The Siren's Song": -1
+    },
+    "Kaia Kater": {
+        "Grenades": -1
+    },
+    "Kamal Keila": {
+        "Muslims And Christians (Habibi Funk 008)": -1
+    },
+    "Kate Bush": {
+        "Hounds Of Love": -1,
+        "Lionheart": -1,
+        "Lionheart (2018 Remaster)": -1,
+        "The Kick Inside": -1,
+        "The Kick Inside (2018 Remaster)": -1
+    },
+    "Katherine Priddy": {
+        "The Eternal Rocks Beneath": 2021,
+        "The Pendulum Swing": 2024,
+        "These Frightening Machines": 2026
+    },
+    "Kathleen Edwards": {
+        "Failer": -1
+    },
+    "Kathryn Joseph": {
+        "From When I Wake The Want Is": -1
+    },
+    "Kathryn Williams, Anthony Kerr": {
+        "Resonator": -1
+    },
+    "Keeley Forsyth": {
+        "Debris": -1
+    },
+    "Keith West": {
+        "The Original Psychedelic Album": -1
+    },
+    "Kevin Morby": {
+        "Sundowner": -1
+    },
+    "Kim Carnes": {
+        "Mistaken Identity": -1
+    },
+    "King Tuff": {
+        "The Other": -1
+    },
+    "Knife Knights": {
+        "1 Time Mirage": -1
+    },
+    "Kraftwerk": {
+        "Autobahn": -1
+    },
+    "Kristin Hersh": {
+        "Strange Angels": -1
+    },
+    "Kurt Elling": {
+        "The Gate": -1
+    },
+    "Kurt Vile": {
+        "Bottle It In": -1
+    },
+    "L.A. Takedown": {
+        "Our Feeling Of Natural High": -1
+    },
+    "La": {
+        "Shelley's On Zenn": -1
+    },
+    "La F\u00c3\u00a9line": {
+        "Triomphe": -1
+    },
+    "Lankum": {
+        "Between The Earth And Sky": -1
+    },
+    "Larkin Poe": {
+        "Thick As Thieves": -1
+    },
+    "Laura Cantrell": {
+        "Just Like A Rose: The Anniversary Sessions": -1,
+        "No Way There From Here": -1,
+        "When The Roses Bloom Again": -1
+    },
+    "Laura Gibson": {
+        "Empire Builder": -1
+    },
+    "Laura Marling": {
+        "A Creature I Don't Know": 2011,
+        "Alas I Cannot Swim": 2008,
+        "I Speak Because I Can": 2010,
+        "Once I Was An Eagle": 2013,
+        "Patterns In Repeat": 2024,
+        "Sempa Femina": 2017,
+        "Short Movie": 2015,
+        "Song For Our Daughter": 2020
+    },
+    "Laura Veirs": {
+        "The Lookout": -1
+    },
+    "Laurel Canyon": {
+        "Laurel Canyon": -1
+    },
+    "Lauren Mayberry": {
+        "Vicious Creature": -1
+    },
+    "Lcd Soundsystem": {
+        "American Dream": -1
+    },
+    "Led Zeppelin": {
+        "Led Zeppelin": -1
+    },
+    "Lee Hazlewood": {
+        "A House Safe For Tigers Soundtrack": -1
+    },
+    "Lee Marvin": {
+        "Paint Your Wagon": -1
+    },
+    "Lena Horne": {
+        "Lena Horne Greatest Hits": -1
+    },
+    "Leonard Cohen": {
+        "Dear Heather": 2004,
+        "Death Of A Ladies Man": 1977,
+        "I'm Your Man": 1988,
+        "New Skin For The Old Ceremony": 1974,
+        "Old Ideas": 2012,
+        "Popular Problems": 2012,
+        "Recent Songs": 1979,
+        "Songs From A Room": 1969,
+        "Songs Of Leonard Cohen": 1967,
+        "Songs Of Love And Hate": 1971,
+        "Thanks For The Dance": 2019,
+        "The Essential Leonard Cohen": 1975,
+        "The Future": 1992,
+        "Various Positions": 1984,
+        "You Want It Darker": 2016
+    },
+    "Lera Lynn": {
+        "Resistor": -1,
+        "The Avenues": -1
+    },
+    "Let'S Eat Grandma": {
+        "I'm All Ears": -1
+    },
+    "Lettuce": {
+        "Crush [Explicit]": -1
+    },
+    "Level 42": {
+        "New Wave Hits Of The 80S": -1
+    },
+    "Life": {
+        "Low": -1
+    },
+    "Lime Garden": {
+        "One More Thing": -1
+    },
+    "Lisa Stansfield": {
+        "Affection": -1
+    },
+    "Lissie": {
+        "Covered Up With Flowers": -1
+    },
+    "Literal Cry Laughing After Greg Davies' Awful Impression": {
+        "": -1
+    },
+    "Live 1978": {
+        "This Year's Model": -1
+    },
+    "Live At The Royal Albert Hall 2016": {
+        "Architecture & Morality": -1,
+        "Dazzle Ships": -1
+    },
+    "Live From Paisley Abbey": {
+        "New Gold Dream": -1
+    },
+    "Live Los Angeles '74": {
+        "Cracked Actor": -1
+    },
+    "Live Tribute To Leonard Cohen": {
+        "Who By Fire": -1
+    },
+    "Lizanne Knott": {
+        "Excellent Day": -1
+    },
+    "Lizz Wright": {
+        "Dreaming Wide Awake": -1,
+        "The Orchard": -1
+    },
+    "Lloyd Cole": {
+        "Antidepressant": 2006,
+        "Bad Vibes": 1993,
+        "Bad Vibes Demos": 1993,
+        "Broken Record": 2010,
+        "Cleaning Out The Ashtrays CD1 One Red Wine Glass": 2009,
+        "Cleaning Out The Ashtrays CD3 Dangerous Music": 2009,
+        "Cleaning Out The Ashtrays CD4 Difficult Pieces": 2009,
+        "Don't Get Weird On Me Babe": 1991,
+        "Etc": 2001,
+        "Guesswork": 2019,
+        "Live At Brooklyn Bowl 2016": 2016,
+        "Live At Union Chapel 2016": 2016,
+        "Live at Brooklyn Bowl 2016": 2016,
+        "Lloyd Cole": 1990,
+        "Lloyd Cole Live Union Chapel 2023": 2023,
+        "Loaded: Live In New York": 2001,
+        "Love Story": 1995,
+        "Love Story Demos": 1995,
+        "Music In A Foreign Language": 2003,
+        "On Pain": 2023,
+        "Plastic Wood": 2001,
+        "Standards": 2013,
+        "The Negatives": 2000
+    },
+    "Lloyd Cole and the Commotions": {
+        "Easy Pieces": -1,
+        "Mainstream": -1,
+        "Rattlesnakes": -1
+    },
+    "Loaded 45Th Anniversary Edition": {
+        "Loaded: Re": -1
+    },
+    "Loma": {
+        "2020": -1,
+        "Acr Loco": -1,
+        "As Long As You Are": -1,
+        "Badala": -1,
+        "Barre": -1,
+        "Finds You Well": -1,
+        "Forgotten Days": -1,
+        "Free Humans": -1,
+        "I Fix My Gaze / Don't Shy Away": -1,
+        "Iii": -1,
+        "Loma": -1,
+        "Love Comes In Waves": -1,
+        "Misfit's Jubilee": -1,
+        "Nightcap At Wits' End": -1,
+        "Pine Trees": -1,
+        "Silver Ladders": -1,
+        "Song Machine, Season One: Strange Timez (Deluxe)": -1,
+        "Song To A Refugee": -1,
+        "Songs": -1,
+        "Soul Dance!": -1,
+        "The Ascension": -1,
+        "The View From Halfway Down": -1,
+        "Trouble": -1,
+        "Walking On A String": -1,
+        "Whatever It Is": -1
+    },
+    "London Grammar": {
+        "If You Wait": -1
+    },
+    "Lorelle Meets the Obsolete": {
+        "De Facto": -1
+    },
+    "Loretta Lynn": {
+        "Van Lear Rose": -1
+    },
+    "Lou Reed": {
+        "70S 100 Hits": -1,
+        "Coney Island Baby": -1,
+        "Transformer": -1
+    },
+    "Loudon Wainwright III": {
+        "Social Studies": -1,
+        "The BBC Sessions": -1,
+        "Years In The Making": -1
+    },
+    "Louisa Mark": {
+        "Breakout": -1
+    },
+    "Love": {
+        "Da Capo": -1,
+        "Da Capo (Deluxe Edition)": -1,
+        "Forever Changes": -1,
+        "Forever Changes (2015 Remaster)": -1
+    },
+    "Low": {
+        "Double Negative": -1
+    },
+    "Lucinda Williams": {
+        "Blessed": 2011,
+        "Car Wheels On A Gravel Road": 1998,
+        "Down Where The Spirits Meet The Bone": 2014,
+        "Essence": 2001,
+        "Good Souls Better Angels": 2020,
+        "Happy Woman Blues": 1980,
+        "Litle Honey": 2008,
+        "Lucinda Williams": 1988,
+        "Ramblin On My Mind": 1979,
+        "Stories From a Rock n Roll Heart": 2023,
+        "Sweet Old World": 1992,
+        "The Ghosts of Highway 20": 2016,
+        "Vanished Gardens": 2018,
+        "West": 2007,
+        "World Without Tears": 2003,
+        "World's Gone Wrong": 2026
+    },
+    "Lucy Dacus": {
+        "Historian": -1,
+        "No Burden": -1
+    },
+    "Luluc": {
+        "Sculptor": -1
+    },
+    "Lump": {
+        "Animal": -1
+    },
+    "Lyle Lovett": {
+        "The Road To Ensenada": -1
+    },
+    "Madeleine Peyroux": {
+        "Careless Love": -1,
+        "Dreamland": -1,
+        "Half The Perfect World": -1
+    },
+    "Madness": {
+        "Complete Madness": -1,
+        "Divine Madness": -1,
+        "Take It Or Leave It": -1
+    },
+    "Magazine": {
+        "Live And Intermittent": -1,
+        "The Correct Use Of Soap": -1
+    },
+    "Magik Markers": {
+        "2020": -1
+    },
+    "Manfred Mann": {
+        "Music For Sixties": -1
+    },
+    "Manfred Mann's Earth Band": {
+        "The Roaring Silence": -1,
+        "Watch": -1
+    },
+    "Marc Almond": {
+        "Tenement Symphony": -1,
+        "The Stars We Are": -1
+    },
+    "Marc Bolan": {
+        "Zinc Alloy And The Hidden Riders Of Tomorrow": -1
+    },
+    "Margaret Glaspy": {
+        "Emotions And Math": -1
+    },
+    "Margo Cilker": {
+        "Pohorylle": -1
+    },
+    "Margo Price": {
+        "Midwest Farmer's Daughter": -1,
+        "Strays": -1,
+        "Strays Ii": -1,
+        "That's How Rumors Get Started": -1
+    },
+    "Mariah Carey": {
+        "Merry Christmas": -1
+    },
+    "Marine Girls": {
+        "Lazy Ways/Beach Party": -1,
+        "Scared To Get Happy": -1
+    },
+    "Marissa Nadler": {
+        "For My Crimes": -1
+    },
+    "Mark Knopfler": {
+        "All The Roadrunning": -1
+    },
+    "Mark Knopfler & Emmylou Harris": {
+        "All The Roadrunning": -1
+    },
+    "Mark Knopfler and Emmylou Harris": {
+        "All The Roadrunning": -1
+    },
+    "Mark Lanegan": {
+        "Straight Songs Of Sorrow": -1
+    },
+    "Martha Wainwright": {
+        "Goodnight City": -1
+    },
+    "Martha and the Muffins": {
+        "Far Away In Time": -1,
+        "Faraway In Time": -1,
+        "Metro Music": -1
+    },
+    "Martin Stephenson": {
+        "Airdie": 2004,
+        "Beyond Leap": 2011,
+        "Beyond The Leap Beyond The Law": 1997,
+        "Bolivia": 2011,
+        "Boys Heart": 2011,
+        "Brady Square": 2019,
+        "Cafe of Tiny Kindnesses": 2012,
+        "Church & The...": -1,
+        "Collective Force": 2002,
+        "Down To The Wood": 2002,
+        "Gladsome": 2011,
+        "Hamilton Square": 2009,
+        "Hell's Half Acre": 2007,
+        "High 7 Moon 5": 2007,
+        "High Bells Ring Thin": 1993,
+        "Hybrid Society": 2024,
+        "Lilac Tree": 1999,
+        "Live @ Glasgow Pavilion": -1,
+        "Live at Lincoln Cathedral": 2005,
+        "Live at The New Roscoe": 2005,
+        "Martin Stephenson": 1988,
+        "Red Mans In Town": 1999,
+        "Rock'n'Roll Jamboree": 2011,
+        "Salutation Road": 2011,
+        "Songs For The Floating World": 1999,
+        "Surf 7": 2013,
+        "Sweet Misdemeanour": 1995,
+        "The Church And The Minidisc": 2000,
+        "The Disciples of Merle and Doc": 2000,
+        "The Haint Of The Budding Rose": 2003,
+        "The Incredible Shrinking Band": 2001,
+        "The Well of Harmony": 2002,
+        "Welcome To Scullyville": 2011,
+        "Wheel Of Fortune": 2005,
+        "When Its Gone Its Gone": 1988,
+        "Yogi In My House": 1995
+    },
+    "Martin Stephenson and the Daintees": {
+        "Back In The Day": -1,
+        "Bayswater Road": 2017,
+        "Boat To Bolivia": 1986,
+        "California Star": 2012,
+        "Chi chi And the Jaguar": 2019,
+        "Daintees Live @ Manchester Poly 1986": 1986,
+        "Gladsome, Humour & Blue": 1988,
+        "Haunted Highway": 2015,
+        "Howdy Honcho": 2021,
+        "Live At The Borderline, London": 1996,
+        "Live At The Glasgow Pavilion 1990": 1990,
+        "Live in the 21st Century": 2001,
+        "Miscellaneous Early": 1985,
+        "Salutation Road": 1990,
+        "The Boy's Heart": 1992,
+        "There Comes A Time": 1993,
+        "Western Eagle": 2008,
+        "You Belong To Blue": 2023
+    },
+    "Martin Stephenson, John Perry": {
+        "New Wave Connection": -1
+    },
+    "Martyn Bates": {
+        "Imagination Feels Like Poison": -1
+    },
+    "Marvin Gaye": {
+        "I Heard It Through The Grapevine / In The Groove (Stereo)": -1
+    },
+    "Mary Chapin Carpenter": {
+        "The Things That We Are Made Of": -1
+    },
+    "Mary Gauthier": {
+        "Live At Blue Rock": -1
+    },
+    "Mary Lattimore": {
+        "Hundreds Of Days": -1,
+        "Silver Ladders": -1
+    },
+    "Mary Lee's Corvette": {
+        "Blood On The Tracks": -1
+    },
+    "Mary Stallings": {
+        "Manhattan Moods": -1
+    },
+    "Mass Gothic": {
+        "I've Tortured You Long Enough": -1
+    },
+    "Mastered)": {
+        "The Warp Of Pure Fun (Re": -1
+    },
+    "Matty": {
+        "D\u00c3\u00a9J\u00c3\u00a0Vu": -1
+    },
+    "Max Romeo": {
+        "War Ina Babylon (Expanded Edition)": -1
+    },
+    "Mel & Kim": {
+        "F.L.M. (Deluxe Edition)": -1
+    },
+    "Melodies Echo Chamber": {
+        "Breathe In, Breath Out": -1
+    },
+    "Melody'S Echo Chamber": {
+        "Bon Voyage": -1,
+        "Unclouded": -1
+    },
+    "Men At Work": {
+        "Business As Usual": -1
+    },
+    "Menace Beach": {
+        "Black Rainbow Sound": -1
+    },
+    "Mercury Rev": {
+        "Born Horses": -1
+    },
+    "Mercy Girl": {
+        "Mercy Girl Singles": -1
+    },
+    "Michael Bubl\u00c3\u00a9": {
+        "Christmas Jams": -1
+    },
+    "Michael Head & the Red Elastic Band": {
+        "Dear Scott": -1
+    },
+    "Michael Leonhart Orchestra": {
+        "Shut Him Down": -1
+    },
+    "Michael Rault": {
+        "Dream Song": -1,
+        "It's A New Day Tonight": -1
+    },
+    "Middle of the Road": {
+        "70S 100 Hits": -1,
+        "Best Of": -1
+    },
+    "Mike Oldfield": {
+        "Essential Music Hits Vol 2": -1,
+        "Hergest Ridge": -1,
+        "Ommadawn": -1,
+        "The Mike Oldfield Collection": -1,
+        "Tubular Bells": -1,
+        "Tubular Bells Itunes Exclusive Box Set": -1
+    },
+    "Mind Over Mirrors": {
+        "Bellowing Sun": -1
+    },
+    "Mindy Smith": {
+        "One Moment More": -1,
+        "The Essential Mindy Smith": -1
+    },
+    "Mint Mile": {
+        "Ambertron": -1
+    },
+    "Miracle Legion": {
+        "Surprise Surprise Surprise": -1
+    },
+    "Miranda Lambert": {
+        "Platinum": -1
+    },
+    "Moaning": {
+        "Moaning": -1
+    },
+    "Moby Grape": {
+        "The Very Best Of Moby Grape Vintage": -1
+    },
+    "Modern English": {
+        "Mesh & Lace": -1
+    },
+    "Modern Nature": {
+        "Nature": -1
+    },
+    "Modern Studies": {
+        "The Weight Of The Sun": -1
+    },
+    "Mose Allison": {
+        "Local Color": -1
+    },
+    "Mott the Hoople": {
+        "All The Young Dudes": -1,
+        "All The Young Dudes (Expanded Edition)": -1
+    },
+    "Mount Moriah": {
+        "How To Dance": -1
+    },
+    "Mouse on Mars": {
+        "Dimensional People": -1
+    },
+    "Mr. Elevator": {
+        "Goodbye, Blue Sky": -1
+    },
+    "Mrgroovybassman": {
+        "": -1
+    },
+    "Mud": {
+        "The Very Best Of Mud": -1
+    },
+    "Mudhoney": {
+        "Digital Garbage": -1
+    },
+    "Mungo Jerry": {
+        "In The Summer Time": -1
+    },
+    "Murrough Mcbride": {
+        "": -1
+    },
+    "My Bloody Valentine": {
+        "Isn\u00e2\u20ac\u2122T Anything": -1,
+        "Loveless": -1
+    },
+    "Mykola Dmytrovych Leontovych": {
+        "Home Alone (Original Motion Picture Soundtrack) [Anniversary Edition]": -1
+    },
+    "Myrtle Park's Fishing Club": {
+        "Nothing To Be Afraid Of": -1
+    },
+    "M\u00c3\u00a9lissa Laveaux": {
+        "Radyo Siw\u00c3\u00a8L": -1
+    },
+    "Nacho Video": {
+        "": -1
+    },
+    "Nadia Reid": {
+        "Out Of My Province": -1
+    },
+    "Nadine": {
+        "Oh My": -1
+    },
+    "Nancy Sinatra, Lee Hazlewood": {
+        "Nancy & Lee": -1
+    },
+    "Nancy Wilson": {
+        "Nancy Wilson/Cannonball Adderley": -1
+    },
+    "Nap Eyes": {
+        "I'm Bad Now": -1,
+        "Snapshot Of A Beginner": -1
+    },
+    "Nat King Cole": {
+        "Christmas With Nat, Dean And Bing": -1,
+        "The Magic 0F Christmas": -1
+    },
+    "Natalie Prass": {
+        "Natalie Prass": -1,
+        "Side By Side (Live At Spacebomb Studios)": -1,
+        "The Future And The Past": -1
+    },
+    "Nathan Salsburg": {
+        "Third": -1
+    },
+    "Native Hipsters": {
+        "There Goes Concorde Again": -1
+    },
+    "Nena": {
+        "99 Luftballons": -1
+    },
+    "Neu Demo)": {
+        "In Heaven Above (4": -1
+    },
+    "New Order": {
+        "80S Forever": -1,
+        "Be A Rebel": -1,
+        "Brotherhood": 1986,
+        "Everything's Gone Green (2019 Remaster)": 1981,
+        "Get Ready": 2001,
+        "In Concert 1987": 1987,
+        "Live At Bestival 2012": 2012,
+        "Lost Siren": 2013,
+        "Low Life": 1985,
+        "Movement": 1981,
+        "Music Complete": 2015,
+        "Nomc15 (Live)": 2017,
+        "Power, Corruption & Lies": 1983,
+        "Republic": 1993,
+        "Singles": -1,
+        "Singles (2016 Remaster)": -1,
+        "Substance 1987": 1987,
+        "Technique": 1989,
+        "Top 100 80S": -1,
+        "Total": 2015,
+        "Waiting For The Sirens Call": 2005
+    },
+    "New York Dolls": {
+        "New York Dolls": -1
+    },
+    "Newdad": {
+        "Altar": 2025,
+        "Madra": 2024,
+        "Waves": 2021
+    },
+    "Nick Cave & the Bad Seeds": {
+        "From Her To Eternity (2009 Remastered Version)": -1,
+        "Ghosteen": -1,
+        "Murder Ballads (2011 Remastered Version)": -1,
+        "The Best Of": -1,
+        "The Boatman's Call": -1
+    },
+    "Nick Heyward": {
+        "From MOnday to Sunday": 1993,
+        "Greatest Hits Of Nick Heyward ": 1997,
+        "I Love You Avenue": 1988,
+        "North Of A Miracle": 1983,
+        "Open Sesame Seed": 2001,
+        "Pelican West": 1982,
+        "Postcards from Home": 1986,
+        "Tangled": 1995,
+        "The Apple Bed": 1998,
+        "The Mermaid and the Lighthouse Keeper": 2006,
+        "Woodland Echoes": 2017
+    },
+    "Nick Lowe": {
+        "Jesus Of Cool (Deluxe Edition)": -1
+    },
+    "Nico": {
+        "Chelsea Girl": -1
+    },
+    "Nicolas Godin": {
+        "Concrete And Glass": -1
+    },
+    "Nightbus": {
+        "Nightbus Singles": -1
+    },
+    "Nina Simone": {
+        "Sings The Blues": -1
+    },
+    "Noah and the Whale": {
+        "Peaceful, The World Lays Me Down": -1
+    },
+    "Norman Greenbaum": {
+        "Spirit In The Sky \"The Definitive Anthology\"": -1
+    },
+    "Nouvelle Vague, Marina C\u00c3\u00a9leste": {
+        "Bande \u00c3\u00a0 Part": -1
+    },
+    "Odetta Hartman": {
+        "Old Rockhounds Never Die": -1
+    },
+    "Oh Sees": {
+        "Smote Reverser": -1
+    },
+    "Olivia Chaney": {
+        "Shelter": -1
+    },
+    "Omd": {
+        "Dazzle Ships Live At The Museum Of Liverpool": -1
+    },
+    "On": {
+        "Hell": -1
+    },
+    "One Red Wine Glass": {
+        "Cleaning Out The Ashtrays CD1": -1
+    },
+    "Ooioo": {
+        "Nijimusi": -1
+    },
+    "Orange Juice": {
+        "": -1,
+        "Coals To Newcastle": 2010,
+        "Rip It Up": 1982,
+        "Texas Fever": 1984,
+        "The Esteemed Orange Juice": 1992,
+        "The Glasgow School": 2005,
+        "The Orange Juice": 1984,
+        "The Very Best Of": -1,
+        "You Can't Hide Your Love Forever": 1982
+    },
+    "Orchestral Manoeuvres in the Dark": {
+        "Architecture & Morality": -1,
+        "Architecture And Morality": 1981,
+        "Bauhaus Staircase": 2023,
+        "Crush": 1985,
+        "Dazzle Ships": 1983,
+        "Dazzle Ships Live At The Museum Of Liverpool": 2014,
+        "English Electric": 2013,
+        "History Of Modern": 2010,
+        "Junk Culture": 1984,
+        "Liberator": 1993,
+        "Live At The Empire Theatre Liverpool. 04.11.19.": 2019,
+        "Live At The Royal Albert Hall 2016": 2016,
+        "New Wave Hits Of The 80S": -1,
+        "Orchestral Manoeuvres In The Dark": 1980,
+        "Organisation": 1980,
+        "Sugar Tax": 1991,
+        "The Pacific Age": 1986,
+        "The Punishment Of Luxury": 2017,
+        "Universal": 1996
+    },
+    "Original Soundtrack": {
+        "Rockers": -1
+    },
+    "Original Soundtrack)": {
+        "I'm Not There (Music From The Motion Picture": -1
+    },
+    "Palace Theatre": {
+        "Live 1990": -1
+    },
+    "Papa M": {
+        "A Broke Moon Rises": -1
+    },
+    "Paramore": {
+        "This Is Why": -1
+    },
+    "Patti Smith": {
+        "Horses": -1
+    },
+    "Patty Griffin": {
+        "American Kid": -1,
+        "Children Running Through": -1,
+        "Impossible Dream": -1,
+        "Servant Of Love": -1
+    },
+    "Paul & Linda Mccartney": {
+        "Ram (Paul Mccartney Archive Collection)": -1
+    },
+    "Paul Haig": {
+        "Swing In 82": -1
+    },
+    "Paul McCartney": {
+        "Mccartney": -1,
+        "Mccartney II (Special Edition)": -1
+    },
+    "Paul Weller": {
+        "22 Dreams": 2010,
+        "66": 2024,
+        "A Kind Revolution (Deluxe)": 2017,
+        "As Is now": 2005,
+        "Fat Pop": 2021,
+        "Heavy Soul": 1997,
+        "Heliocentric": 2000,
+        "Illumnication": 2002,
+        "On Sunset (Deluxe)": 2020,
+        "Paul Weller": 1992,
+        "Saturns Pattern": 2015,
+        "Sonic Kicks": 2012,
+        "Stanley Road": 1995,
+        "Studio 150": 2004,
+        "True Meanings": 2018,
+        "Wake Up The Nation": 2012,
+        "Wild Wood": 1993
+    },
+    "Peel.Rocks Magazine": {
+        "": -1
+    },
+    "Peter Gabriel": {
+        "So (Special Edition)": -1
+    },
+    "Peter Hammill": {
+        "Other World": -1
+    },
+    "Peter Tosh": {
+        "The Toughest": -1
+    },
+    "Peter Twiddy": {
+        "": -1
+    },
+    "Peter, Paul & Mary": {
+        "Album 1700": -1
+    },
+    "Philip Glass": {
+        "Glass: Low Symphony, From The Music Of David Bowie & Brian Eno": -1
+    },
+    "Philscreen": {
+        "": -1
+    },
+    "Phoebe Bridgers": {
+        "Punisher": -1,
+        "Stranger In The Alp": -1,
+        "Stranger In The Alps": -1
+    },
+    "Phoenix": {
+        "Alpha Zulu": -1
+    },
+    "Pillow Queens": {
+        "Name Your Sorrow": -1
+    },
+    "Pilot": {
+        "Second Flight": -1
+    },
+    "Piney Gir": {
+        "You Are Here": -1
+    },
+    "Pink Floyd": {
+        "The Best Of Pink Floyd (A Foot In The Door)": -1,
+        "The Piper At The Gates Of Dawn": -1
+    },
+    "Pixies": {
+        "Surfer Rosa (Remastered)": -1
+    },
+    "Pj Harvey": {
+        "I Inside The Old Year Dying": -1
+    },
+    "Placebo": {
+        "Shout": -1
+    },
+    "Plastic Bertrand": {
+        "Plastic Bertrand": -1,
+        "\u00c3\u2021A Plane Pour Moi": -1
+    },
+    "Pop 1980": {
+        "The Sun Shines Here: The Roots Of Indie": -1
+    },
+    "Porridge Radio": {
+        "7 Seconds": -1,
+        "Every Bad (Expanded Edition)": -1
+    },
+    "Prefab Sprout": {
+        "Andromeda Heights": 1997,
+        "From Langley Park To Memphis": 1988,
+        "I Trawl The Megahertz": 2003,
+        "Jordan: The Comeback": 1990,
+        "Let's Change The World With Msuic": 2009,
+        "Protest Songs": 1989,
+        "Steve McQueen": 1985,
+        "Swoon": 1984,
+        "The Collection": 2001,
+        "The Gunman And Other Stories": 2001,
+        "Youtube": -1,
+        "crimson red": 2013
+    },
+    "Pretenders": {
+        "Get Close (Expanded & Remastered)": -1,
+        "Hate For Sale": -1,
+        "Learning To Crawl (Expanded & Remastered)": -1
+    },
+    "Prince": {
+        "Sign \"O\" The Times": -1
+    },
+    "Procol Harum": {
+        "Happy Together": -1
+    },
+    "Pulp": {
+        "More": -1
+    },
+    "Pulp, Chilly Gonzales": {
+        "More": -1
+    },
+    "Purple Mountains": {
+        "Purple Mountains": -1
+    },
+    "Queen": {
+        "A Kind Of Magic (2011 Remaster)": -1,
+        "Greatest Hits (Remastered)": -1,
+        "The Platinum Collection (2011 Remaster)": -1
+    },
+    "R.E.M.": {
+        "Document (R.E.M. No. 5)": -1,
+        "Fables Of The Reconstruction": -1,
+        "Lifes Rich Pageant (Deluxe Edition)": -1,
+        "New Wave Hits Of The 80S": -1,
+        "Out Of Time (25Th Anniversary Edition)": -1
+    },
+    "Rachel Harrington": {
+        "Celilo Falls": -1,
+        "City Of Refuge": -1,
+        "The Bootlegger's Daughter": -1
+    },
+    "Randy Newman": {
+        "Sail Away (Expanded & Remastered)": -1
+    },
+    "Ray Davies": {
+        "Americana": -1,
+        "Our Country: Americana Act 2": -1
+    },
+    "Re": {
+        "Cleaning Out The Ashtrays CD2": -1
+    },
+    "Real Estate": {
+        "Atlas": -1,
+        "The Main Thing": -1
+    },
+    "Recorded / Remastered)": {
+        "Tainted Love (Re": -1
+    },
+    "Reims 2022": {
+        "Folksinger Vol 5": -1
+    },
+    "Remaster)": {
+        "All Summer Long (2001": -1
+    },
+    "Remastered": {
+        "In The Summertime": -1
+    },
+    "Revelators Sound System": {
+        "Revelators": -1
+    },
+    "Rex Garvin & the Mighty Cravers": {
+        "Rex Garvin & The Mighty Cravers": -1
+    },
+    "Rhcptv1": {
+        "": -1
+    },
+    "Rhiannon Giddens": {
+        "There Is No Other (With Francesco Turrisi) [Deluxe Version]": -1
+    },
+    "Rhino": {
+        "": -1
+    },
+    "Rhyton": {
+        "Redshift": -1
+    },
+    "Richard Dawson": {
+        "2020": -1,
+        "Peasant": -1
+    },
+    "Richard Thompson": {
+        "13 Rivers": -1
+    },
+    "Rick Astley": {
+        "Whenever You Need Somebody": -1
+    },
+    "Ricky Nelson, the Stone Canyon Band": {
+        "Greatest Hits": -1
+    },
+    "Ride": {
+        "Nowhere": -1
+    },
+    "Rides: The Best Of 1986": {
+        "Blue Skies & Free": -1
+    },
+    "Robert Forster": {
+        "Calling From A Country Phone (Bonus Tracks)": -1,
+        "Inferno": -1,
+        "Songs To Play": -1,
+        "Strawberries": -1,
+        "The Candle And The Flame": -1
+    },
+    "Robert Palmer": {
+        "Clues": -1
+    },
+    "Robert Plant": {
+        "Carry Fire": -1,
+        "Charlie Patton Highway (Turn It Up, Pt. 1)": -1,
+        "Fate Of Nations": -1,
+        "Raise The Roof (Deluxe Edition)": -1,
+        "Raising Sand": -1,
+        "Too Much Alike (With Patty Griffin)": -1
+    },
+    "Robert Plant & Alison Krauss": {
+        "Raising Sand": -1
+    },
+    "Rod Picott": {
+        "Out Past The Wires": -1
+    },
+    "Rod Picott and Amanda Shires": {
+        "Sew Your Heart With Wires": -1
+    },
+    "Rod Stewart": {
+        "Every Picture Tells A Story": -1,
+        "Gasoline Alley": -1,
+        "Merry Christmas, Baby": -1,
+        "Never A Dull Moment": -1,
+        "Some Guys Have All The Luck": -1,
+        "Unplugged... And Seated": -1,
+        "Unplugged....And Seated": -1
+    },
+    "Roddy Frame": {
+        "Seven Dials": -1,
+        "Surf": -1,
+        "The North Star": -1,
+        "Western Skies": -1
+    },
+    "Rodney Crowell": {
+        "Acoustic Classics": 2018,
+        "Ain't Living Long Like This": 1978,
+        "Airline Highway": 2025,
+        "But What Will the Neigbours Think": 1980,
+        "Chrismas Everywheer": 2018,
+        "Close Ties": 2017,
+        "Diamonds % Dirt": 1988,
+        "Fate's Right Hand": 2003,
+        "Jewel of the South": 1995,
+        "Keys to the Highway": 1989,
+        "Let the Picture Paint Itself": 1994,
+        "Life is Messy": 1992,
+        "Rodney Crowell": 1981,
+        "Sex And Gasoline": 2008,
+        "Street Language": 1986,
+        "Tarpaper Sky": 2014,
+        "Texas": 2019,
+        "The Chicago Sessions": 2023,
+        "The Houston Kid": 2001,
+        "The Outsider": 2005,
+        "Triage": 2021
+    },
+    "Roky Erickson": {
+        "Gremlins Have Pictures": -1
+    },
+    "Rolling Blackouts Coastal Fever": {
+        "Hope Downs": -1
+    },
+    "Romi Mayes": {
+        "Achin In Yer Bones": -1,
+        "Sweet Somethin' Steady": -1
+    },
+    "Rosalyn": {
+        "": -1
+    },
+    "Rosanne Cash": {
+        "10 Song demo": 1996,
+        "Black Cadillac": 2006,
+        "Interiors": 1990,
+        "King's record Shop": 1987,
+        "Rhythm & Romance": 1985,
+        "Right Or Wrong": 1980,
+        "Rosanne Cash": 1978,
+        "Rules Of Travel": 2003,
+        "Seven Year Ache": 1981,
+        "She Remembers Everything": 2018,
+        "Somewhere In The Stars": 1982,
+        "The List": 2009,
+        "The River & The Thread": 2014,
+        "The Wheel": 1993
+    },
+    "Rose City Band": {
+        "Summerlong": -1
+    },
+    "Roxy Music": {
+        "Avalon": 1982,
+        "Country Life": 1974,
+        "Flesh And Blood": 1980,
+        "For Your Pleasure": 1973,
+        "Manifesto": 1979,
+        "More Than This: The Best Of Bryan Ferry ": 1995,
+        "Roxy Music": 1972,
+        "Siren": 1975,
+        "Stranded": 1973
+    },
+    "Roy Budd": {
+        "Get Carter (Original Motion Picture Soundtrack)": -1
+    },
+    "Rudy Thomas": {
+        "Heartbeat": -1
+    },
+    "Rufus Wainwright": {
+        "Unfollow The Rules": -1
+    },
+    "Rvg": {
+        "A Quality Of Mercy": -1
+    },
+    "Ry Cooder": {
+        "The Prodigal Son": -1
+    },
+    "Ryan Adams": {
+        "Ashes & Fire": -1
+    },
+    "Ryley Walker": {
+        "Deafman Glance": -1
+    },
+    "Sam Fender": {
+        "Hypersonic Missiles": -1
+    },
+    "Sam Samudio": {
+        "Sam Hard And Heavy": -1
+    },
+    "Sam Smith": {
+        "Have Yourself A Merry Little Christmas": -1
+    },
+    "Sam the Sham & the Pharaohs": {
+        "Sam The Sham & The Pharoahs, Vol. 1": -1
+    },
+    "Samantha Crain": {
+        "Under Branch & Thorn & Tree": -1
+    },
+    "Sampa the Great": {
+        "The Return": -1
+    },
+    "Santana": {
+        "Abraxas": -1
+    },
+    "Sara Watkins": {
+        "Young In All The Wrong Ways": -1
+    },
+    "Sarah Jarosz": {
+        "Undercurrent": -1
+    },
+    "Sarah Louise": {
+        "Nighttime Birds And Morning Stars": -1
+    },
+    "Sarah MacDougall": {
+        "Across The Atlantic": -1,
+        "All The Hours I Have Left To Tell You Anything": -1,
+        "Empire": -1,
+        "Grand Canyon": -1,
+        "The Greatest Ones Alive": -1
+    },
+    "Sarah Vaughan": {
+        "No Count Sarah": -1
+    },
+    "School of Seven Bells": {
+        "Ablaze": -1,
+        "On My Heart": -1,
+        "Open Your Eyes": -1,
+        "SVIIB": -1
+    },
+    "Scott Mckenzie": {
+        "San Francisco": -1
+    },
+    "Scott Walker": {
+        "And Who Sall Go To The Ball?": 2007,
+        "Any Day Now": 1973,
+        "Bish Bosch": 2012,
+        "Climate Of Hunter": 1984,
+        "Scott": 1967,
+        "Scott 2": 1968,
+        "Scott 3": 1969,
+        "Scott 4": 1969,
+        "Soused": 2014,
+        "Stretch": 1973,
+        "The Drift": 2006,
+        "The Moviegower": 1972,
+        "Til The Band Comes In": 1970,
+        "Tilt": 1995,
+        "We Had It All": 1974
+    },
+    "Scritti Politti": {
+        "Early": -1,
+        "Songs To Remember": -1
+    },
+    "Sea Power": {
+        "Everything Was Forever": -1
+    },
+    "Sex Pistols": {
+        "Never Mind The Bollocks, Here\u00e2\u20ac\u2122S The Sex Pistols": -1
+    },
+    "Shack": {
+        "...Here's Tom With The Weather": -1
+    },
+    "Shakey Graves": {
+        "And The War Came": -1,
+        "Can't Wake Up": -1
+    },
+    "Shania Twain": {
+        "Greatest Hits (International Version)": -1
+    },
+    "Sharon Van Etten": {
+        "(What's So Funny 'bout) Peace, Love And Understanding?": -1,
+        "Remind Me Tomorrow": -1,
+        "Sharon Van Etten & The Attachment Theory": -1,
+        "Tramp": -1,
+        "We've Been Going About This All Wrong": -1,
+        "Words (Music From The Film \"Tig\")": -1
+    },
+    "She Drew the Gun": {
+        "Revolution Of Mind": -1
+    },
+    "Shelby Lynne": {
+        "Consequences of the Crown": 2024,
+        "Epic Recordings": 2000,
+        "I Am Shelby Lynne (Bonus Track Version)": 1999,
+        "I Can't Imagine": 2015,
+        "Identity Crisis": 2003,
+        "Just A Little Lovin'": 2008,
+        "Love, Shelby": 2001,
+        "Not Dark Yet": 2017,
+        "Restless": 1995,
+        "Revelation Road": 2011,
+        "Shelby Lynne": 2020,
+        "Soft Talk": 1991,
+        "Suit Yourself": 2005,
+        "Sunrise": 1989,
+        "Tears, Lies And Alibis": 2010,
+        "Temptation": 1993,
+        "The Healing: A Tone Recordings": 2020,
+        "The Servant": 2021,
+        "Tough All Over": 1990
+    },
+    "Shelby Lynne, Allison Moorer": {
+        "Not Dark Yet": -1
+    },
+    "Sheryl Crow": {
+        "Feels Like Home": -1
+    },
+    "Shirley Horn": {
+        "Jazz Blues Divas": -1
+    },
+    "Shotgun Jimmie, the Burning Hell, Ariel Sharratt, Mathias Kom": {
+        "Hardly Working": -1
+    },
+    "Shovels & Rope": {
+        "Little Seeds": -1
+    },
+    "Sia": {
+        "Everyday Is Christmas": -1
+    },
+    "Simon & Garfunkel": {
+        "The Graduate": -1
+    },
+    "Simone Felice": {
+        "The Projector": -1
+    },
+    "Simple Minds": {
+        "Acoustic": 2016,
+        "Big Music": 2014,
+        "Black and White 050505": 2005,
+        "Celebrate (Greatest Hits / Expanded Edition)": -1,
+        "Celebration": 1982,
+        "Cry": 2002,
+        "Direction Of The Heart": 2022,
+        "Early Gold": 2003,
+        "Empires And Dance": 1980,
+        "Good News From The Next World": 1995,
+        "Graffiti Soul": 2009,
+        "Life In A Day": 1979,
+        "Live In The City Of Angels": 2019,
+        "Neapolis": 1998,
+        "New Gold Dream": 1982,
+        "New Wave Hits Of The 80S": -1,
+        "Once Upon A Time": 1985,
+        "Real Life": 1991,
+        "Reel To Real Cacophony": 1979,
+        "Sons And Fascination/Sister Feelings Call": 1981,
+        "Sparkle In The Rain": 1984,
+        "Street Fighting Years": 1989,
+        "Time Out Of Mind": -1,
+        "Up All Night": 2023,
+        "Walk Between Worlds": 2018
+    },
+    "Simple Minds, Kt Tunstall": {
+        "Acoustic": -1
+    },
+    "Sing Karaoke Sing": {
+        "100% 80's (100 Classic Hits)": -1
+    },
+    "Single": {
+        "I'd Rather Go Blind": -1
+    },
+    "Siouxsie and the Banshees": {
+        "Hyaena (Remastered And Expanded)": -1,
+        "Kaleidoscope (Remastered & Expanded)": -1,
+        "The Best Of Siouxsie And The Banshees": -1,
+        "The Scream": -1
+    },
+    "Sized Worlds": {
+        "Earth": -1
+    },
+    "Sky News": {
+        "": -1
+    },
+    "Slade": {
+        "Christmas Jukebox": -1,
+        "Cum On Feel The Hitz: The Best Of Slade": -1,
+        "Greatest Hits": -1,
+        "Sladest (Expanded)": -1
+    },
+    "Sleater": {
+        "No Cities To Love": -1
+    },
+    "Slow Hands": {
+        "Bye": -1
+    },
+    "Slowdive": {
+        "Everything Is Alive": -1,
+        "Just For A Day": -1,
+        "Slowdive": -1,
+        "Souvlaki": -1
+    },
+    "Slug": {
+        "Higgledypiggledy": -1
+    },
+    "Sly & the Family Stone": {
+        "A Whole New Thing": -1
+    },
+    "Small Faces": {
+        "Innovations In British Psychedelia": -1,
+        "Ogdens' Nut Gone Flake": -1,
+        "The Singles Collection": -1,
+        "Ultimate Collection": -1
+    },
+    "Soft Cell": {
+        "New Wave Hits Of The 80S": -1,
+        "Non Stop Erotic Cabaret (Deluxe Edition / Remastered 2008)": -1,
+        "The Singles": -1
+    },
+    "Soft Machine": {
+        "The Soft Machine (Remastered And Expanded)": -1
+    },
+    "Softladification": {
+        "": -1
+    },
+    "Songhoy Blues": {
+        "Barre": -1
+    },
+    "Sonny & Cher": {
+        "In Case You're In Love": -1
+    },
+    "Sotonpressarchive": {
+        "": -1
+    },
+    "Soundtrack": {
+        "Home Alone": -1
+    },
+    "Spandau Ballet": {
+        "Diamond": 1982,
+        "Heart Like a Sky": 1989,
+        "Journeys To Glory": 1981,
+        "One More": 2009,
+        "Parade": 1984,
+        "Through the Barricades": 1986,
+        "True": 1984
+    },
+    "Spare Snare": {
+        "Sounds Recorded By Steve Albini": -1
+    },
+    "Sparks": {
+        "Hippopotamus": -1,
+        "Kimono My House": -1
+    },
+    "Spiritualized": {
+        "And Nothing Hurt": -1
+    },
+    "Squeeze": {
+        "Up The Junction": -1
+    },
+    "Squirrel Flower": {
+        "I Was Born Swimming": -1
+    },
+    "St. Vincent": {
+        "Actor": -1,
+        "All Born Screaming": -1,
+        "Daddy's Home": -1,
+        "Marry Me": -1,
+        "Masseduction": -1,
+        "Strange Mercy": -1
+    },
+    "Stance": {
+        "Sub": -1
+    },
+    "Status Quo": {
+        "On The Level": -1,
+        "The Complete Pye Collection": -1
+    },
+    "Stealers Wheel": {
+        "Stealers Wheel": -1
+    },
+    "Steely Dan": {
+        "Can't Buy A Thrill": -1
+    },
+    "Stephen Malkmus": {
+        "Traditional Techniques": -1
+    },
+    "Stephenson'S Rocketts": {
+        "Rock N Roll Jamboree": -1
+    },
+    "Steve Earle": {
+        "Ghosts Of West Virginia": -1
+    },
+    "Steve Gunn": {
+        "The Unseen In Between": -1
+    },
+    "Steve Harley": {
+        "Playlist: 70S Pop": -1,
+        "The Best Years Of Our Lives (Deluxe Version)": -1
+    },
+    "Steve Harley & Cockney Rebel": {
+        "More Than Somewhat: The Very Best Of": -1
+    },
+    "Steve Harley & Cockney Rebel, Steve Harley": {
+        "Make Me Smile: The Best Of Steve Harley & Cockney Rebel": -1
+    },
+    "Steve Mason": {
+        "Brothers & Sisters": -1
+    },
+    "Steve Winwood": {
+        "Chronicles": -1
+    },
+    "Steve Wynn": {
+        "Make It Up To You (Unreleased Studio Outtake)": -1
+    },
+    "Stevie Nicks": {
+        "A Very Special Christmas 25Th Anniversary": -1,
+        "Bella Donna (2016 Remastered)": -1
+    },
+    "Stevie Parker": {
+        "The Cure": -1
+    },
+    "Stevie Wonder": {
+        "Miami Lighthouse For The Blind Presents: Instrumental Magic": -1,
+        "Songs In The Key Of Life": -1
+    },
+    "Stick in the Wheel": {
+        "Follow Them True": -1
+    },
+    "Still House Plants": {
+        "If I Don't Make It, I Love U": -1
+    },
+    "Stop Erotic Cabaret": {
+        "Non": -1
+    },
+    "Strawbs": {
+        "Halcyon Days": -1
+    },
+    "Striking Matches": {
+        "Nothing But The Silence": -1
+    },
+    "Suede": {
+        "Suede": -1
+    },
+    "Sufjan Stevens": {
+        "Carrie & Lowell": -1,
+        "The Ascension": -1
+    },
+    "Supreme Jubilees": {
+        "It'll All Be Over": -1
+    },
+    "Suzanne Vega": {
+        "Days Of Open Hand": -1,
+        "Flying With Angels": -1,
+        "Solitude Standing": -1,
+        "Suzanne Vega": -1,
+        "Tales From The Realm Of The Queen Of Pentacles": -1
+    },
+    "Suzi Quatro": {
+        "A's, B's And Rarities": -1,
+        "Suzi Quatro": -1
+    },
+    "Swamp Dogg": {
+        "Sorry You Couldn't Make It": -1
+    },
+    "Sweet": {
+        "Desolation Boulevard (New Extended Version)": -1,
+        "Sweet Fanny Adams": -1,
+        "Throwback Tunes: Classic Rock": -1
+    },
+    "Sylvan Esso, Collections of Colonies of Bees": {
+        "Funeral Singers": -1
+    },
+    "T. Rex": {
+        "77": -1,
+        "A Beard Of Stars": 1970,
+        "Billy Super Duper": 1982,
+        "Bolan's Zip Gun": 1975,
+        "Classic Hits": -1,
+        "Dandy In The Underworld (Deluxe Edition)": -1977,
+        "Electric Warrior": 1971,
+        "Futuristic Dragon": 1976,
+        "Futuristic Dragon (Deluxe Edition)": -1,
+        "Get It On: The Collection": 1986,
+        "Hot Love (Alternative Version)": 2020,
+        "Light of Love": 1974,
+        "T. Rex": 1970,
+        "Tanx": 1973,
+        "The Slider": 1972,
+        "Zinc Alloy and the Hidden Riders of Tomorrow": 1974
+    },
+    "Taco": {
+        "Best Of Taco": -1
+    },
+    "Talking Heads": {
+        "Fear Of Music (Deluxe Version)": -1,
+        "Little Creatures": -1,
+        "More Songs About Buildings And Food (Deluxe Version)": -1,
+        "Remain In Light": -1,
+        "Speaking In Tongues": -1,
+        "Stop Making Sense": -1,
+        "Stop Making Sense (Deluxe Edition) [Live]": -1,
+        "Talking Heads '77 (Deluxe Version)": -1,
+        "True Stories": -1
+    },
+    "Tallies": {
+        "Patina": -1
+    },
+    "Tamara Todevska": {
+        "Eurovision Song Contest Tel Aviv 2019": -1
+    },
+    "Tamikrest": {
+        "Tamota\u00c3\u00afT": -1
+    },
+    "Taylor Swift": {
+        "Christmas Tree Farm": -1,
+        "Evermore": -1
+    },
+    "Tears for Fears": {
+        "Songs From The Big Chair": -1,
+        "The Hurting": -1
+    },
+    "Television": {
+        "Marquee Moon": -1
+    },
+    "Texas": {
+        "Southside": -1
+    },
+    "That Petrol Emotion": {
+        "Babble": -1
+    },
+    "The Action": {
+        "Keep On Holding On": -1
+    },
+    "The Afghan Whigs": {
+        "In Spades": -1
+    },
+    "The Allman Brothers Band": {
+        "Dreams": -1
+    },
+    "The Archies": {
+        "Sugar, Sugar": -1
+    },
+    "The Art Of Bluff": {
+        "Nah=Poo": -1
+    },
+    "The Associates": {
+        "Fourth Drawer Down": -1,
+        "Popera: The Singles Collection": -1,
+        "Sulk": -1
+    },
+    "The Association": {
+        "Insight Out": -1
+    },
+    "The Band": {
+        "Cahoots": -1,
+        "Music From Big Pink": -1,
+        "Northern Lights \u00e2\u20ac\u201c Southern Cross": -1,
+        "The Band": -1
+    },
+    "The Bathers": {
+        "Kelvingrove Baby": -1
+    },
+    "The Beach Boys": {
+        "Pet Sounds": -1,
+        "Smiley Smile": -1
+    },
+    "The Beatles": {
+        "A Hard Day's Night": 1964,
+        "Abbey Road": 1969,
+        "Beatles For Sale": 1964,
+        "Help!": 1965,
+        "Let It Be": 1970,
+        "Magical Mystery Tour": 1967,
+        "Please Please Me": 1963,
+        "Revolver": 1966,
+        "Rubber Soul": 1965,
+        "Sgt. Pepper's Lonely Hearts Club Band": 1967,
+        "The Beatles": 1968,
+        "With The Beatles": 1963,
+        "Yellow Submarine": 1969
+    },
+    "The Belair Lip Bombs": {
+        "Again": 2025,
+        "Lush Life": 2023
+    },
+    "The Best Of": {
+        "Favourite Songs": -1
+    },
+    "The Best Of Altered Images": {
+        "Reflected Images": -1
+    },
+    "The Best Of Yazoo": {
+        "Only Yazoo": -1
+    },
+    "The Big Moon": {
+        "Love In The 4Th Dimension": -1
+    },
+    "The Black Keys": {
+        "Delta Kream": -1
+    },
+    "The Blue Nile": {
+        "A Walk Across The Rooftops": -1
+    },
+    "The Bluebells": {
+        "In The 21St Century": -1
+    },
+    "The Bonzo Dog Band": {
+        "Gorilla": -1
+    },
+    "The Buggles": {
+        "New Wave Hits Of The 80S": -1
+    },
+    "The Burning Hell": {
+        "Garbage Island": -1,
+        "Ghost Palace": -1
+    },
+    "The Byrds": {
+        "The Byrds": -1,
+        "The Essential Byrds": -1
+    },
+    "The Chameleons": {
+        "Script Of The Bridge (Remastered)": -1
+    },
+    "The Charlatans": {
+        "Playing In The Hall": -1
+    },
+    "The Chicks": {
+        "Gaslighter": -1
+    },
+    "The Chocolate Watch Band": {
+        "Garage Band Classics": -1
+    },
+    "The Church": {
+        "Heyday": -1,
+        "Starfish": -1
+    },
+    "The Church of Leeds Parish Choir": {
+        "A Traditional Christmas": -1
+    },
+    "The Civil Wars": {
+        "Barton Hollow": -1,
+        "Live At Eddie's Attic": -1
+    },
+    "The Clash": {
+        "Combat Rock": -1,
+        "Combat Rock (Remastered)": -1,
+        "London Calling (Remastered)": -1,
+        "The Clash": -1,
+        "The Clash (Remastered)": -1
+    },
+    "The Collection": {
+        "Missing You": -1
+    },
+    "The Collection (50 Of The Greatest Original Xmas Hits)": {
+        "Christmas": -1
+    },
+    "The Complete Singles": {
+        "Dyke's Greatest Hits": -1
+    },
+    "The Comsat Angels": {
+        "Waiting For A Miracle": -1
+    },
+    "The Cool Greenhouse": {
+        "The Cool Greenhouse": -1
+    },
+    "The Corrs": {
+        "Forgiven, Not Forgotten": -1,
+        "Jupiter Calling": -1,
+        "Talk On Corners": -1,
+        "The Corrs Unplugged": -1
+    },
+    "The Cravats": {
+        "Dustbin Of Sound": -1
+    },
+    "The Cult": {
+        "Love": -1
+    },
+    "The Cure": {
+        "": -1,
+        "4:13 Dream": 2008,
+        "Bloodflowers": 2000,
+        "Disintegration": 1989,
+        "Faith": 1981,
+        "Greatest Hits": 2001,
+        "Kiss Me, Kiss Me, Kiss Me": 1987,
+        "Mixed Up": 1990,
+        "Peel Sessions 1981": 1981,
+        "Pornography": 1982,
+        "Seventeen Seconds": 1980,
+        "Songs Of A Lost World": 2024,
+        "Staring At The Sea: The Singles": 1986,
+        "The Cure": 2004,
+        "The Head On The Door": 1985,
+        "The Top": 1984,
+        "Three Imaginary Boys": 1979,
+        "Wild Mood Swings": 1996,
+        "Wish": 1992
+    },
+    "The Decemberists": {
+        "I'll Be Your Girl": -1,
+        "The King Is Dead": -1,
+        "What A Terrible World, What A Beautiful World": -1
+    },
+    "The Delines": {
+        "The Imperial": -1
+    },
+    "The Divine Comedy": {
+        "A Secret History\u00e2\u20ac\u00a6 The Best Of The Divine Comedy": -1
+    },
+    "The Doors": {
+        "The Doors": -1,
+        "The Doors (50Th Anniversary Deluxe Edition)": -1
+    },
+    "The Dream Syndicate": {
+        "3 X 4: The Bangles, The Three O'clock, The Dream Syndicate, Rain Parade": -1,
+        "The Universe Inside": -1
+    },
+    "The Durutti Column": {
+        "The Guitar And Other Machines": -1
+    },
+    "The Dust Poets": {
+        "World At Large": -1
+    },
+    "The Easybeats": {
+        "Friday On My Mind": -1
+    },
+    "The Electric Prunes": {
+        "The Electric Prunes": -1
+    },
+    "The Factory Years (Bonus Disc)": {
+        "Movement": -1
+    },
+    "The Fall": {
+        "Ben Sinister": 1986,
+        "Code: Selfish": 1992,
+        "Dragnet": 1979,
+        "Extricate": 1990,
+        "Grotesque (After The Gramme)": 1980,
+        "Hex Enduction Hour": 1982,
+        "I Am Kurious Oranj": 1988,
+        "Live At The Witch Trials": 1979,
+        "Live In London 1980: The Legendary Chaos Tape": 1982,
+        "Perverted By Language": 1983,
+        "Room To Live": 1982,
+        "Shift-Work": 1991,
+        "Slates": 1981,
+        "Slates (Live)": 2024,
+        "The Frenz Experiment": 1988,
+        "The Infotainment Scan": 1993,
+        "The Wonderful and Frightening World of": 1984,
+        "This Nations Saving Grace": 1985,
+        "Totale's Turns (It's Now Or Never)": 1980,
+        "Words Of Expectation 1": 2003,
+        "Words Of Expectation 2": 2003
+    },
+    "The Fallen Leaves": {
+        "That's Right": -1
+    },
+    "The Feelies": {
+        "Some Kinda Love: Performing The Music Of The Velvet Underground": -1,
+        "The Good Earth": -1
+    },
+    "The Felice Brothers": {
+        "From Dreams To Dust": -1
+    },
+    "The Fire Engines": {
+        "Codex Teenage Premonition": -1
+    },
+    "The French Impressionists": {
+        "A Selection Of Songs": -1
+    },
+    "The Go": {
+        "16 Lovers Lane": -1,
+        "16 Lovers Lane (Remastered)": -1,
+        "Cut It Out": -1,
+        "Liberty Belle And The Black Diamond Express": -1,
+        "Liberty Belle And The Black Diamond Express (Remastered)": -1,
+        "New Wave Hits Of The 80S": -1,
+        "Right Here": -1,
+        "Tallulah": -1
+    },
+    "The Goon Sax": {
+        "We're Not Talking": -1
+    },
+    "The Greatest Hits": {
+        "40 Years": -1
+    },
+    "The Housemartins": {
+        "London 0 Hull 4": -1
+    },
+    "The Human League": {
+        "All The Best": -1,
+        "Crash": -1,
+        "Dare!": -1,
+        "New Wave Hits Of The 80S": -1,
+        "Travelogue": -1
+    },
+    "The Incredible String Band": {
+        "The 5000 Spirits Or The Layers Of The Onion": -1
+    },
+    "The Innocence Mission": {
+        "Sun On The Square": -1
+    },
+    "The J. Geils Band": {
+        "Freeze Frame": -1
+    },
+    "The Jackson 5": {
+        "Greatest Hits": -1
+    },
+    "The Jam": {
+        "In The City (Remastered Version)": -1,
+        "Setting Sons": -1,
+        "Snap": -1,
+        "Sound Affects (Remastered Version)": -1,
+        "The Gift": -1,
+        "The Gift (Remastered Version)": -1
+    },
+    "The Jayhawks": {
+        "Paging Mr. Proust": -1,
+        "Smile (Expanded Edition)": -1,
+        "Xoxo": -1
+    },
+    "The Jesus and Mary Chain": {
+        "Darklands (Expanded Version)": -1,
+        "Psychocandy": -1
+    },
+    "The Jimi Hendrix Experience": {
+        "Electric Ladyland": -1
+    },
+    "The Kinks": {
+        "Something Else By The Kinks (Bonus Track Edition)": -1,
+        "The Kink Kontroversy": -1
+    },
+    "The Last Dinner Party": {
+        "Prelude To Ecstasy": -1
+    },
+    "The Last Poets": {
+        "Understand What Black Is": -1
+    },
+    "The Late Late Show With James Corden": {
+        "": -1
+    },
+    "The Lemonheads": {
+        "Car Button Cloth": -1
+    },
+    "The Len Price 3": {
+        "Kentish Longtails": -1
+    },
+    "The Limi\u00c3\u00b1anas": {
+        "Shadow People": -1
+    },
+    "The Linda Lindas": {
+        "Growing Up": -1,
+        "No Obligation": -1
+    },
+    "The Lost Brothers": {
+        "Halfway Towards A Healing": -1
+    },
+    "The Low Anthem": {
+        "Oh My God, Charlie Darwin": -1,
+        "The Salt Doll Went To Measure The Depth Of The Sea": -1
+    },
+    "The Magnetic Fields": {
+        "Quickies": -1
+    },
+    "The Mamas & the Papas": {
+        "The Mamas & The Papas": -1
+    },
+    "The Massed Carnaby Street John Cooper Clarkes": {
+        "Nme/Rough Trade C81": -1
+    },
+    "The Mavericks": {
+        "In Time": -1,
+        "Mono": -1
+    },
+    "The Mellstock Band": {
+        "Songs Of Thomas Hardy's Wessex": -1
+    },
+    "The Men": {
+        "Drift": -1,
+        "Travelogue": -1
+    },
+    "The Mighty Wah!": {
+        "A Word To The Wise Guy": -1
+    },
+    "The Mission": {
+        "Gods Own Medicine": -1
+    },
+    "The Monkees": {
+        "The Best Of The Monkees": -1,
+        "The Birds, The Bees, & The Monkees": -1,
+        "The Monkees Collection": -1
+    },
+    "The Monochrome Set": {
+        "Scared To Get Happy": -1
+    },
+    "The Moody Blues": {
+        "This Is The Moody Blues": -1,
+        "To Our Children's Children's Children": -1
+    },
+    "The Motels": {
+        "New Wave Hits Of The 80S": -1
+    },
+    "The Move": {
+        "Hits'n'flips": -1,
+        "Move (2007 Remaster)": -1
+    },
+    "The National": {
+        "First Two Pages Of Frankenstein": -1
+    },
+    "The New Basement Tapes": {
+        "Lost On The River (Deluxe Edition)": -1
+    },
+    "The New Wave Music Podcast": {
+        "The New Wave Music Podcast": -1
+    },
+    "The News 247": {
+        "": -1
+    },
+    "The Nightingales": {
+        "Scared To Get Happy": -1
+    },
+    "The Nomad Series Volume 1": {
+        "Renmin Park": -1
+    },
+    "The Other Years": {
+        "The Other Years": -1
+    },
+    "The Pale Fountains": {
+        "Pacific Street": -1,
+        "Something On My Mind": -1
+    },
+    "The Panhandle Mystery Band": {
+        "Just Like Moby Dick": -1
+    },
+    "The Passions": {
+        "I'm In Love With A German Film Star": -1
+    },
+    "The Piney Gir Country Roadshow": {
+        "Hold Yer Horses": -1
+    },
+    "The Pogues": {
+        "Fairytale Of New York": -1,
+        "If I Should Fall From Grace With God (Expanded Edition)": -1
+    },
+    "The Police": {
+        "New Wave Hits Of The 80S": -1,
+        "Outlandos D'amour (Remastered)": -1,
+        "Reggatta De Blanc": -1
+    },
+    "The Pretenders": {
+        "Learning To Crawl": -1
+    },
+    "The Pretty Things": {
+        "S.F. Sorrow": -1,
+        "The Pretty Things": -1
+    },
+    "The Proclaimers": {
+        "Sunshine On Leith": -1,
+        "This Is The Story": -1
+    },
+    "The Psychedelic Furs": {
+        "Mirror Moves": -1
+    },
+    "The Redlands Palomino Company": {
+        "Broken Carelessly": -1,
+        "By the Time You Hear This ...We'll Be Gone": -1,
+        "Don't Fade": -1,
+        "Take Me Home": -1
+    },
+    "The Replacements": {
+        "Tim (Expanded)": -1
+    },
+    "The Rolling Stones": {
+        "A Bigger Bang": 2005,
+        "Aftermath": 1966,
+        "Beggars Banquet": 1968,
+        "Between The Buttons": 1967,
+        "Black And Blue": 1976,
+        "Blue & Lonesome": 2016,
+        "Bridges To Babylon": 1997,
+        "Dirty Work": 1986,
+        "Emotional Rescue": 1980,
+        "Exile On Main St.": 1972,
+        "Goats Head Soup": 1973,
+        "Grrr!": 2012,
+        "Hackney Diamonds": 2023,
+        "It's Only Rock'n Roll": 1974,
+        "Let It Bleed": 1969,
+        "Live 1965 (Music From Charlie Is My Darling)": -1,
+        "More Hot Rocks (Big Hits & Fazed Cookies)": -1,
+        "Out Of Our Heads": 1965,
+        "Some Girls": 1978,
+        "Steel Wheels": 1989,
+        "Sticky Fingers": 1971,
+        "Tattoo You": 1981,
+        "The Rolling Stones (Uk)": 1964,
+        "The Rolling Stones No.2": 1965,
+        "Their Satanic Majesties Request": 1967,
+        "Undercover": 1983,
+        "Voodoo Lounge": 1994
+    },
+    "The Ronettes": {
+        "Holiday Pop": -1,
+        "Weihnachten Workout": -1
+    },
+    "The Schwa": {
+        "Gotta Get Away": -1
+    },
+    "The Sea and Cake": {
+        "Any Day": -1
+    },
+    "The Seeds": {
+        "The Seeds": -1
+    },
+    "The Shadows of Knight": {
+        "Back Door Men": -1
+    },
+    "The Singles": {
+        "Staring At The Sea": -1
+    },
+    "The Smile": {
+        "A Light For Attracting Attention": -1
+    },
+    "The Smiths": {
+        "Complete": -1,
+        "Hatful Of Hollow": -1,
+        "Meat Is Murder": -1,
+        "Strangeways, Here We Come": -1,
+        "The Queen Is Dead": -1,
+        "The Smiths": -1,
+        "The Sound Of The Smiths": -1
+    },
+    "The Smoke": {
+        "It's Smoke Time": -1
+    },
+    "The Songs Of Leonard Cohen": {
+        "Tower Of Song": -1
+    },
+    "The Sound": {
+        "All Fall Down": -1
+    },
+    "The Specials": {
+        "Ska Box Anthology": -1,
+        "The Specials": -1
+    },
+    "The Spencer Davis Group": {
+        "I'm A Man": -1
+    },
+    "The Staple Singers": {
+        "The Best Of": -1
+    },
+    "The Stooges": {
+        "The Stooges": -1
+    },
+    "The Stranglers": {
+        "La Folie": -1
+    },
+    "The Style Council": {
+        "Cafe Bleu": 1984,
+        "Confessions of a Pop Group": 1988,
+        "Introducing The Style Council": 1983,
+        "Modernism: A New Decade": 1989,
+        "Our Favourite Shop": 1985,
+        "The Cost Of Loving": 1987
+    },
+    "The Sugarcubes": {
+        "Life's Too Good": -1
+    },
+    "The Sundays": {
+        "Reading, Writing & Arithmetic": -1
+    },
+    "The Teardrop Explodes": {
+        "Wilder": -1
+    },
+    "The Temper Trap": {
+        "Conditions": -1,
+        "Conditions Remixed": -1
+    },
+    "The Temptations": {
+        "Sky's The Limit": -1
+    },
+    "The Thin White Duke": {
+        "": -1
+    },
+    "The Third Bardo": {
+        "I'm Five Years Ahead Of My Time": -1
+    },
+    "The Triffids": {
+        "Born Sandy Devotional": -1
+    },
+    "The Turtles": {
+        "Happy Together": -1
+    },
+    "The Twang": {
+        "Love It When I Feel Like This (Uk Comm Cd Album)": -1
+    },
+    "The Twilight Sad": {
+        "Nobody Wants To Be Here & Nobody Wants To Leave": -1
+    },
+    "The Undertones": {
+        "Dig Yourself Deep": -1,
+        "Get What You Need": -1,
+        "Hypnotised": -1,
+        "Hypnotised (2016 Remastered)": -1,
+        "Positive Touch": -1,
+        "The Sin Of Pride": -1,
+        "The Undertones": -1
+    },
+    "The Vagaband": {
+        "Town & Country": -1
+    },
+    "The Vapors": {
+        "New Clear Days": -1
+    },
+    "The Velvet Underground": {
+        "1969 Velvet Underground Live Volume 1": 1974,
+        "1969 Velvet Underground Live Volume 2": 1974,
+        "Another View": 1986,
+        "Loaded": 1970,
+        "Squeeze": 1973,
+        "The Complete Matrix Tapes #1": 2015,
+        "The Complete Matrix Tapes #2": 2015,
+        "The Complete Matrix Tapes #3": 2015,
+        "The Complete Matrix Tapes #4": 2015,
+        "The Velvet Underground": 1969,
+        "The Velvet Underground & Nico": 1967,
+        "V.U.": 1985,
+        "White Light / White Heat": 1968
+    },
+    "The Very Best Of The Scaffold": {
+        "Thank U Very Much": -1
+    },
+    "The Waifs": {
+        "Up All Night": -1
+    },
+    "The Wailers": {
+        "Burnin'": -1,
+        "Legend \u00e2\u20ac\u201c The Best Of Bob Marley & The Wailers": -1
+    },
+    "The Wailin' Jennys": {
+        "40 Days": -1,
+        "Firecracker": -1
+    },
+    "The Walker Brothers": {
+        "No Regrets: The Best Of Scott Walker & The Walker Brothers": -1
+    },
+    "The War on Drugs": {
+        "A Deeper Understanding": -1,
+        "I Don\u00e2\u20ac\u2122T Live Here Anymore": -1
+    },
+    "The Waterboys": {
+        "An Appointment With Mr Yeats": -1,
+        "Fisherman's Blues": -1,
+        "Good Luck, Seeker": -1,
+        "Modern Blues": -1,
+        "Out Of All This Blue (Deluxe)": -1,
+        "This Is The Sea (Deluxe Version)": -1,
+        "Where The Action Is": -1,
+        "Where The Action Is (Deluxe)": -1
+    },
+    "The Wave Pictures": {
+        "Brushes With Happiness": -1,
+        "The Burnt Match": -1
+    },
+    "The Weather Station": {
+        "Humanhood": -1,
+        "Ignorance": -1,
+        "Loyalty": -1,
+        "Shore": -1,
+        "The Weather Station": -1
+    },
+    "The Wedding Present": {
+        "Tommy": -1
+    },
+    "The Who": {
+        "My Generation": -1,
+        "The Who Sell Out (Deluxe Edition)": -1
+    },
+    "The Yardbirds": {
+        "Heart Full Of Soul": -1,
+        "The Essential Yardbirds": -1
+    },
+    "The Youngbloods": {
+        "The Youngbloods": -1
+    },
+    "The Zephyrs": {
+        "For Sapphire Needle": -1
+    },
+    "The Zombies": {
+        "Odessey And Oracle (Mono Remastered)": -1
+    },
+    "Them": {
+        "Bang: The Bert Berns Story (Original Motion Picture Soundtrack)": -1
+    },
+    "Thepnutno2": {
+        "": -1
+    },
+    "They Might Be Giants": {
+        "They Might Be Giants": -1
+    },
+    "This Mortal Coil": {
+        "It'll End In Tears (Remastered)": -1
+    },
+    "Those Were The Days": {
+        "Dreamboats & Miniskirts": -1
+    },
+    "Throwing Muses": {
+        "The Real Ramona": -1
+    },
+    "Thundercat": {
+        "It Is What It Is": -1
+    },
+    "Tift Merritt": {
+        "Another Country": 2008,
+        "Bramble Rose": 2002,
+        "Buckingham Solo": 2009,
+        "Night": 2013,
+        "See You On The Moon": 2010,
+        "Stitch Of The World": 2017,
+        "Tambourine": 2004,
+        "Traveling Alone": 2012,
+        "Traveling Companion": 2013
+    },
+    "Tim Buckley": {
+        "Starsailor": -1
+    },
+    "Tin Machine": {
+        "Sound And Vision": -1
+    },
+    "Todd Rundgren": {
+        "Runt": -1
+    },
+    "Tom Baird": {
+        "Seventh Sea": -1
+    },
+    "Tom Robinson Band": {
+        "Power In The Darkness": -1
+    },
+    "Tom Tom Club": {
+        "Close To The Bone": -1,
+        "Stop Making Sense (Deluxe Edition) [Live]": -1,
+        "Tom Tom Club": -1
+    },
+    "Tom Waits": {
+        "Closing Time": -1,
+        "Rain Dogs": -1,
+        "Small Change": -1
+    },
+    "Tomberlin": {
+        "At Weddings": -1
+    },
+    "Tomorrow": {
+        "Tomorrow": -1
+    },
+    "Tones on Tail": {
+        "Everything!": -1
+    },
+    "Toni Basil": {
+        "Word Of Mouth": -1
+    },
+    "Toots and the Maytals": {
+        "In The Dark": -1
+    },
+    "Tower of Song": {
+        "In City And In Forest": -1
+    },
+    "Tracey Thorn": {
+        "A Distant Shore": -1,
+        "A Distant Shore (Expanded Edition)": -1,
+        "Record": -1
+    },
+    "Track Maxi": {
+        "Eight Miles High/Makes No Sense At All (4": -1
+    },
+    "Tracy Bryant": {
+        "Hush": -1
+    },
+    "Tracyanne & Danny": {
+        "Tracyanne & Danny": -1
+    },
+    "Traffic": {
+        "Mr. Fantasy": -1
+    },
+    "Travis": {
+        "The Man Who": -1
+    },
+    "Travis Linville": {
+        "See You Around": -1
+    },
+    "Trembling Bells": {
+        "Dungeness": -1
+    },
+    "Trio": {
+        "New Wave Hits Of The 80S": -1
+    },
+    "Tubeway Army": {
+        "Replicas (Remastered)": -1,
+        "Tubeway Army": -1
+    },
+    "Tune": {
+        "Love, Loss, And Auto": -1
+    },
+    "Turnstile": {
+        "Never Enough": -1
+    },
+    "Tv21": {
+        "Scared To Get Happy": -1
+    },
+    "Two Circles": {
+        "The Underworld & You": -1
+    },
+    "Ty Segall": {
+        "Freedom's Goblin": -1
+    },
+    "Tyler Childers": {
+        "Purgatory": -1
+    },
+    "U": {
+        "Rock With I": -1
+    },
+    "U Roy": {
+        "40 Greatest Hits": -1
+    },
+    "U.S. Girls": {
+        "Heavy Light": -1
+    },
+    "U2": {
+        "Achtung Baby": 1991,
+        "All That you Can't Leave Behind": 2000,
+        "Boy": 1980,
+        "Days Of Ash Ep": -1,
+        "Electrical Storm (Remastered 2024)": -1,
+        "How To Dismantle An Atom Bomb": 2004,
+        "No Line On The Horizon": 2009,
+        "October": 1981,
+        "Pop": 1997,
+        "Rattle And Hum": 1986,
+        "Songs Of Experience": 2017,
+        "Songs Of Innocence": 2014,
+        "Songs Of Surrender": 2023,
+        "The Joshua Tree": 1985,
+        "The Unforgettable Fire": 1984,
+        "Under A Blood Red Sky": 1983,
+        "War": 1983,
+        "Zooropa": 1993
+    },
+    "UB40": {
+        "New Wave Hits Of The 80S": -1,
+        "Present Arms": -1,
+        "Signing Off": -1
+    },
+    "Ultravox": {
+        "Ha! Ha! Ha!": -1
+    },
+    "Unknown Mortal Orchestra": {
+        "Sex & Food": -1
+    },
+    "Van Morrison": {
+        "Astral Weeks": -1,
+        "His Band And The Street Choir": -1
+    },
+    "Various": {
+        "30 Years Of Punk": -1,
+        "Angelheaded Hipster: The Songs Of Marc Bolan & T. Rex": -1,
+        "Blowin' In The Wind: A Reggae Tribute To Bob Dylan": -1,
+        "Crazy Heart Soundtrack": -1,
+        "Eurovision Song Contest Lisbon 2018": -1,
+        "I'm Not There": -1,
+        "I'm Your Fan: The Songs Of Leonard Cohen": -1,
+        "I\u00e2\u20ac\u2122Ll Be Your Mirror: A Tribute To The Velvet Underground & Nico": -1,
+        "Life On Mars Original Soundtrack": -1,
+        "Nme C81": -1,
+        "Original Soundtrack": -1,
+        "Return of the Grievous Angel: A Tribute to Gram Parsons": -1,
+        "The Psychedelic Scene": -1,
+        "The Story Of Trojan Records": -1
+    },
+    "Vegas Water Taxi": {
+        "Long Time Caller, First Time Listener": 2026
+    },
+    "Vibracobra23 Dulosis": {
+        "": -1
+    },
+    "Vild I Skogen": {
+        "Silence": -1
+    },
+    "Villagers": {
+        "Darling Arithmetic (Deluxe Version)": -1
+    },
+    "Violent Femmes": {
+        "Violent Femmes": -1
+    },
+    "Virginia Wing": {
+        "Be Released": -1,
+        "Ecstatic Arrow": -1
+    },
+    "Visage": {
+        "Fade To Grey:  The Best Of Visage": -1,
+        "Fade To Grey: The Best Of Visage": -1
+    },
+    "Visagevevo": {
+        "": -1
+    },
+    "Volume 2": {
+        "Themes": -1
+    },
+    "Walter Salas": {
+        "Work, Pt. 1": -1
+    },
+    "Wand": {
+        "Perfume": -1
+    },
+    "Wang Chung": {
+        "New Wave Hits Of The 80S": -1
+    },
+    "Waxahatchee": {
+        "Saint Cloud": -1,
+        "Tigers Blood": -1
+    },
+    "Waxahatchee, Mj Lenderman": {
+        "Tigers Blood": -1
+    },
+    "Waylon Jennings": {
+        "Dreaming My Dreams": -1,
+        "Ultimate Waylon Jennings": -1
+    },
+    "Wednesday": {
+        "Rat Saw God": -1
+    },
+    "Weekend": {
+        "La Variete": -1,
+        "Live At Ronnie Scotts": -1,
+        "Scared To Get Happy": -1,
+        "The '81 Demos": -1,
+        "The Singles": -1
+    },
+    "Wet Leg": {
+        "Moisturizer": -1,
+        "Wet Leg": -1
+    },
+    "Weyes Blood": {
+        "And In The Darkness, Hearts Aglow": -1,
+        "Titanic Rising": -1
+    },
+    "Wham!": {
+        "Last Christmas": -1
+    },
+    "When in Rome": {
+        "New Wave Hits Of The 80S": -1,
+        "When In Rome": -1
+    },
+    "White Denim": {
+        "Performance": -1
+    },
+    "White Fence": {
+        "I Have To Feed Larry's Hawk": -1,
+        "Joy": -1
+    },
+    "Whitelands": {
+        "Compilation": 2019,
+        "Nightbound Eyes Are Blind To The Day": 2024,
+        "Old News": 2018,
+        "Sunlight Echoes": 2026,
+        "Whitelands": 2018
+    },
+    "William Tyler": {
+        "Goes West": -1,
+        "Music From First Cow": -1
+    },
+    "Willie Nelson": {
+        "Acquaintance": -1
+    },
+    "Willie Nelson & Asleep At the Wheel": {
+        "Willie And The Wheel": -1
+    },
+    "Wire": {
+        "Cactused": -1
+    },
+    "Wishy": {
+        "Triple Seven": -1
+    },
+    "Wolf Alice": {
+        "Blue Weekend": -1,
+        "My Love Is Cool": -1,
+        "The Clearing": -1,
+        "Visions Of A Life": -1
+    },
+    "Woods": {
+        "Strange To Explain": -1
+    },
+    "World Party": {
+        "Private Revolution": -1
+    },
+    "Wye Oak": {
+        "The Louder I Call, The Faster It Runs": -1
+    },
+    "X": {
+        "Germ Free Adolescents (Deluxe Edition)": -1
+    },
+    "Xtc": {
+        "Drums And Wires": -1
+    },
+    "Xylouris White": {
+        "Mother": -1
+    },
+    "Yazoo": {
+        "In Your Room": -1,
+        "Reconnected": -1,
+        "Upstairs at Erics": -1,
+        "You And Me Both": -1
+    },
+    "Yes": {
+        "Fragile (Deluxe Edition)": -1
+    },
+    "Yin Yin": {
+        "The Rabbit That Hunts Tigers": -1
+    },
+    "Yo La Tengo": {
+        "I Can Hear The Heart Beating As One": -1
+    },
+    "Yoko Ono": {
+        "Lennon Bermuda": -1
+    },
+    "Yonatan Gat": {
+        "Universalists": -1
+    },
+    "Yonder Mountain String Band": {
+        "Old Hands": -1
+    },
+    "Yorkston/Thorne/Khan": {
+        "Navarasa : Nine Emotions": -1
+    },
+    "You Tell Me": {
+        "Foreign Parts": -1
+    },
+    "Young Fathers": {
+        "Cocoa Sugar": -1
+    },
+    "Young Marble Giants": {
+        "Colossal Youth": -1,
+        "Colossal Youth (40Th Anniversary Edition)": -1
+    },
+    "Yuno": {
+        "Moodie": -1
+    },
+    "case/lang/veirs": {
+        "Case/Lang/Veirs": -1
+    },
+    "make/Re": {
+        "Cleaning Out The Ashtrays CD2 Re": -1
+    }
+}

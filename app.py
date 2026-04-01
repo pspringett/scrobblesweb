@@ -17,6 +17,12 @@ Scrobble = dict[str, str]
 AlbumEntry = dict[str, object]
 
 
+def _album_key(scrobble: Scrobble) -> str:
+    artist = scrobble.get("artist", "Unknown Artist")
+    album = scrobble.get("album", "Unknown Album")
+    return f"{artist} \u2014 {album}"
+
+
 def _load_releases() -> dict[str, dict[str, int]]:
     """Load releases.txt, returning {artist: {album: year}}."""
     if not os.path.exists(RELEASES_PATH):
@@ -25,8 +31,26 @@ def _load_releases() -> dict[str, dict[str, int]]:
         return json.load(f)
 
 
+def _build_alltime_counts() -> Counter[str]:
+    """Build a Counter of all-time play counts keyed by 'Artist — Album'."""
+    counts: Counter[str] = Counter()
+    for year in sorted(os.listdir(DATA_DIR)) if os.path.isdir(DATA_DIR) else []:
+        year_dir = os.path.join(DATA_DIR, year)
+        if not os.path.isdir(year_dir):
+            continue
+        for filename in sorted(os.listdir(year_dir)):
+            if not filename.endswith("-tracks.json"):
+                continue
+            path = os.path.join(year_dir, filename)
+            with open(path, encoding="utf-8") as f:
+                for s in json.load(f):
+                    counts[_album_key(s)] += 1
+    return counts
+
+
 # Loaded once at startup
 RELEASES: dict[str, dict[str, int]] = _load_releases()
+ALLTIME_COUNTS: Counter[str] = _build_alltime_counts()
 
 
 def get_available_months() -> list[tuple[int, int]]:
@@ -65,16 +89,25 @@ def load_month_data(year: int, month: int) -> Optional[list[Scrobble]]:
         return json.load(f)
 
 
-def _album_key(scrobble: Scrobble) -> str:
-    artist = scrobble.get("artist", "Unknown Artist")
-    album = scrobble.get("album", "Unknown Album")
-    return f"{artist} \u2014 {album}"
-
-
 def _split_label(label: str) -> tuple[str, str]:
     """Split 'Artist — Album' label into (artist, album)."""
     parts = label.split(" \u2014 ", 1)
     return (parts[0], parts[1]) if len(parts) == 2 else (label, "")
+
+
+def _enrich(counts: Counter[str]) -> list[AlbumEntry]:
+    """Convert a play-count Counter into a sorted list of enriched album entries."""
+    entries: list[AlbumEntry] = []
+    for label, count in counts.most_common():
+        artist, album = _split_label(label)
+        entries.append({
+            "label": label,
+            "artist": artist,
+            "album": album,
+            "count": count,
+            "has_releases": artist in RELEASES,
+        })
+    return entries
 
 
 @app.route("/")
@@ -102,10 +135,7 @@ def api_albums(year: int, month: int) -> tuple[Response, int] | Response:
     for s in scrobbles:
         counts[_album_key(s)] += 1
 
-    albums: list[AlbumEntry] = [
-        {"label": label, "count": count} for label, count in counts.most_common()
-    ]
-    return jsonify({"year": year, "month": month, "albums": albums})
+    return jsonify({"year": year, "month": month, "albums": _enrich(counts)})
 
 
 @app.route("/api/albums/<int:year>")
@@ -122,10 +152,7 @@ def api_albums_year(year: int) -> tuple[Response, int] | Response:
             for s in scrobbles:
                 counts[_album_key(s)] += 1
 
-    albums: list[AlbumEntry] = [
-        {"label": label, "count": count} for label, count in counts.most_common()
-    ]
-    return jsonify({"year": year, "albums": albums})
+    return jsonify({"year": year, "albums": _enrich(counts)})
 
 
 def aggregate_albums(from_year: Optional[int] = None) -> list[AlbumEntry]:
@@ -139,17 +166,7 @@ def aggregate_albums(from_year: Optional[int] = None) -> list[AlbumEntry]:
             for s in scrobbles:
                 counts[_album_key(s)] += 1
 
-    entries: list[AlbumEntry] = []
-    for label, count in counts.most_common():
-        artist, album = _split_label(label)
-        entries.append({
-            "label": label,
-            "artist": artist,
-            "album": album,
-            "count": count,
-            "has_releases": artist in RELEASES,
-        })
-    return entries
+    return _enrich(counts)
 
 
 def _rolling12_counts(year: int, month: int) -> Counter[str]:
@@ -188,9 +205,17 @@ def api_albums_rolling12(year: int, month: int) -> Response:
 
     albums: list[AlbumEntry] = []
     for rank, (label, count) in enumerate(current.most_common(), 1):
+        artist, album = _split_label(label)
         prev_rank = prev_ranks.get(label)
         rank_change: Optional[int] = (prev_rank - rank) if prev_rank is not None else None
-        albums.append({"label": label, "count": count, "rank_change": rank_change})
+        albums.append({
+            "label": label,
+            "artist": artist,
+            "album": album,
+            "count": count,
+            "has_releases": artist in RELEASES,
+            "rank_change": rank_change,
+        })
 
     return jsonify({"year": year, "month": month, "albums": albums})
 
@@ -213,7 +238,14 @@ def api_artist(artist: str) -> tuple[Response, int] | Response:
         return jsonify({"error": "Artist not found"}), 404
 
     albums: list[dict[str, object]] = sorted(
-        [{"album": album, "year": year} for album, year in discography.items()],
+        [
+            {
+                "album": album,
+                "year": year,
+                "plays": ALLTIME_COUNTS.get(f"{artist} \u2014 {album}", 0),
+            }
+            for album, year in discography.items()
+        ],
         key=lambda x: (x["year"] == -1, x["year"]),  # unknowns last
     )
     return jsonify({"artist": artist, "albums": albums})

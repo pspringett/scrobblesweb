@@ -287,10 +287,10 @@
     }
 
     .modal-album-row {
-      display: flex;
-      justify-content: space-between;
+      display: grid;
+      grid-template-columns: auto 1fr auto;
       align-items: baseline;
-      gap: 1rem;
+      gap: 0.75rem;
       font-size: 0.82rem;
       padding: 0.3rem 0;
       border-bottom: 1px solid #22223a;
@@ -298,6 +298,8 @@
 
     .modal-album-name { color: #d0d8f0; }
     .modal-album-year { color: #5566aa; flex-shrink: 0; }
+    .modal-album-plays { color: #7080bb; flex-shrink: 0; font-size: 0.78rem; }
+    .modal-album-plays.has-plays { color: #a0a8ff; font-weight: 600; }
 
     #modal-close {
       align-self: flex-end;
@@ -582,7 +584,7 @@
       }
 
       const rankUp = mode === "rolling12" && album.rank_change > 0;
-      const showArtistLink = (mode === "all" || mode === "since2013") && album.has_releases;
+      const showArtistLink = album.has_releases;
 
       const label = document.createElement("div");
       label.className = "row-label" + (rankUp ? " rank-up" : "");
@@ -651,17 +653,25 @@
       if (!res.ok) throw new Error("Not found");
       const data = await res.json();
       modalList.innerHTML = "";
-      data.albums.forEach(({ album, year }) => {
+      data.albums.forEach(({ album, year, plays }) => {
         const row = document.createElement("div");
         row.className = "modal-album-row";
+
         const name = document.createElement("span");
         name.className = "modal-album-name";
         name.textContent = album;
+
         const yr = document.createElement("span");
         yr.className = "modal-album-year";
         yr.textContent = year > 0 ? year : "—";
-        row.appendChild(name);
+
+        const playsEl = document.createElement("span");
+        playsEl.className = "modal-album-plays" + (plays > 0 ? " has-plays" : "");
+        playsEl.textContent = plays > 0 ? `${plays} plays` : "";
+
         row.appendChild(yr);
+        row.appendChild(name);
+        row.appendChild(playsEl);
         modalList.appendChild(row);
       });
     } catch {
