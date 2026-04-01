@@ -239,9 +239,88 @@
     }
 
     #year-nav { display: none; }
+
+    .artist-link {
+      color: inherit;
+      text-decoration: none;
+      border-bottom: 1px dotted #5560ff;
+      cursor: pointer;
+    }
+    .artist-link:hover { color: #a0a8ff; border-bottom-color: #a0a8ff; }
+
+    /* Modal */
+    #modal-backdrop {
+      display: none;
+      position: fixed;
+      inset: 0;
+      background: rgba(0,0,0,0.7);
+      z-index: 100;
+      align-items: center;
+      justify-content: center;
+    }
+    #modal-backdrop.open { display: flex; }
+
+    #modal {
+      background: #1a1a2e;
+      border: 1px solid #333344;
+      border-radius: 10px;
+      padding: 1.75rem 2rem;
+      max-width: 480px;
+      width: 90%;
+      max-height: 80vh;
+      display: flex;
+      flex-direction: column;
+      gap: 1rem;
+    }
+
+    #modal-title {
+      font-size: 1.1rem;
+      font-weight: 700;
+      color: #fff;
+    }
+
+    #modal-list {
+      overflow-y: auto;
+      display: flex;
+      flex-direction: column;
+      gap: 0.35rem;
+    }
+
+    .modal-album-row {
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+      gap: 1rem;
+      font-size: 0.82rem;
+      padding: 0.3rem 0;
+      border-bottom: 1px solid #22223a;
+    }
+
+    .modal-album-name { color: #d0d8f0; }
+    .modal-album-year { color: #5566aa; flex-shrink: 0; }
+
+    #modal-close {
+      align-self: flex-end;
+      background: none;
+      border: 1px solid #333344;
+      color: #9090b8;
+      padding: 0.3rem 0.8rem;
+      border-radius: 5px;
+      cursor: pointer;
+      font-size: 0.85rem;
+    }
+    #modal-close:hover { background: #2a2a40; color: #fff; }
   </style>
 </head>
 <body>
+
+<div id="modal-backdrop">
+  <div id="modal" role="dialog" aria-modal="true" aria-labelledby="modal-title">
+    <div id="modal-title"></div>
+    <div id="modal-list"></div>
+    <button id="modal-close">Close</button>
+  </div>
+</div>
 
 <header>
   <h1 id="page-title">Album Plays by Month</h1>
@@ -503,12 +582,28 @@
       }
 
       const rankUp = mode === "rolling12" && album.rank_change > 0;
+      const showArtistLink = (mode === "all" || mode === "since2013") && album.has_releases;
 
       const label = document.createElement("div");
       label.className = "row-label" + (rankUp ? " rank-up" : "");
-      label.textContent = `${i + 1}. ${album.label}`;
-      label.title = album.label;
       label.setAttribute("role", "listitem");
+
+      if (showArtistLink) {
+        const pos = document.createTextNode(`${i + 1}. `);
+        const link = document.createElement("a");
+        link.className = "artist-link";
+        link.textContent = album.artist;
+        link.href = "#";
+        link.addEventListener("click", (e) => { e.preventDefault(); openArtistModal(album.artist); });
+        const albumPart = document.createTextNode(` \u2014 ${album.album}`);
+        label.appendChild(pos);
+        label.appendChild(link);
+        label.appendChild(albumPart);
+        label.title = album.label;
+      } else {
+        label.textContent = `${i + 1}. ${album.label}`;
+        label.title = album.label;
+      }
 
       const track = document.createElement("div");
       track.className = "row-bar-track";
@@ -532,6 +627,47 @@
   }
 
   load();
+
+  // ── Artist modal ──────────────────────────────────────────────────────────
+  const backdrop = document.getElementById("modal-backdrop");
+  const modalTitle = document.getElementById("modal-title");
+  const modalList = document.getElementById("modal-list");
+
+  document.getElementById("modal-close").addEventListener("click", closeModal);
+  backdrop.addEventListener("click", (e) => { if (e.target === backdrop) closeModal(); });
+  document.addEventListener("keydown", (e) => { if (e.key === "Escape") closeModal(); });
+
+  function closeModal() {
+    backdrop.classList.remove("open");
+  }
+
+  async function openArtistModal(artist) {
+    modalTitle.textContent = artist;
+    modalList.innerHTML = "<div style='color:#556;padding:0.5rem 0'>Loading…</div>";
+    backdrop.classList.add("open");
+
+    try {
+      const res = await fetch(`/api/artist/${encodeURIComponent(artist)}`);
+      if (!res.ok) throw new Error("Not found");
+      const data = await res.json();
+      modalList.innerHTML = "";
+      data.albums.forEach(({ album, year }) => {
+        const row = document.createElement("div");
+        row.className = "modal-album-row";
+        const name = document.createElement("span");
+        name.className = "modal-album-name";
+        name.textContent = album;
+        const yr = document.createElement("span");
+        yr.className = "modal-album-year";
+        yr.textContent = year > 0 ? year : "—";
+        row.appendChild(name);
+        row.appendChild(yr);
+        modalList.appendChild(row);
+      });
+    } catch {
+      modalList.innerHTML = "<div style='color:#ff6677'>Could not load discography.</div>";
+    }
+  }
 </script>
 </body>
 </html>

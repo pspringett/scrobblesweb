@@ -11,9 +11,22 @@ from flask.wrappers import Response
 app = Flask(__name__)
 
 DATA_DIR = os.path.join(os.path.dirname(__file__), "data")
+RELEASES_PATH = os.path.join(DATA_DIR, "releases.txt")
 
 Scrobble = dict[str, str]
 AlbumEntry = dict[str, object]
+
+
+def _load_releases() -> dict[str, dict[str, int]]:
+    """Load releases.txt, returning {artist: {album: year}}."""
+    if not os.path.exists(RELEASES_PATH):
+        return {}
+    with open(RELEASES_PATH, encoding="utf-8") as f:
+        return json.load(f)
+
+
+# Loaded once at startup
+RELEASES: dict[str, dict[str, int]] = _load_releases()
 
 
 def get_available_months() -> list[tuple[int, int]]:
@@ -56,6 +69,12 @@ def _album_key(scrobble: Scrobble) -> str:
     artist = scrobble.get("artist", "Unknown Artist")
     album = scrobble.get("album", "Unknown Album")
     return f"{artist} \u2014 {album}"
+
+
+def _split_label(label: str) -> tuple[str, str]:
+    """Split 'Artist — Album' label into (artist, album)."""
+    parts = label.split(" \u2014 ", 1)
+    return (parts[0], parts[1]) if len(parts) == 2 else (label, "")
 
 
 @app.route("/")
@@ -119,7 +138,18 @@ def aggregate_albums(from_year: Optional[int] = None) -> list[AlbumEntry]:
         if scrobbles:
             for s in scrobbles:
                 counts[_album_key(s)] += 1
-    return [{"label": label, "count": count} for label, count in counts.most_common()]
+
+    entries: list[AlbumEntry] = []
+    for label, count in counts.most_common():
+        artist, album = _split_label(label)
+        entries.append({
+            "label": label,
+            "artist": artist,
+            "album": album,
+            "count": count,
+            "has_releases": artist in RELEASES,
+        })
+    return entries
 
 
 def _rolling12_counts(year: int, month: int) -> Counter[str]:
@@ -173,6 +203,20 @@ def api_albums_all() -> Response:
 @app.route("/api/albums/since/<int:from_year>")
 def api_albums_since(from_year: int) -> Response:
     return jsonify({"from_year": from_year, "albums": aggregate_albums(from_year=from_year)})
+
+
+@app.route("/api/artist/<path:artist>")
+def api_artist(artist: str) -> tuple[Response, int] | Response:
+    """Return discography for an artist from releases.txt, sorted by year."""
+    discography = RELEASES.get(artist)
+    if discography is None:
+        return jsonify({"error": "Artist not found"}), 404
+
+    albums: list[dict[str, object]] = sorted(
+        [{"album": album, "year": year} for album, year in discography.items()],
+        key=lambda x: (x["year"] == -1, x["year"]),  # unknowns last
+    )
+    return jsonify({"artist": artist, "albums": albums})
 
 
 if __name__ == "__main__":
