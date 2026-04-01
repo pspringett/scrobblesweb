@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//h/dev//**)",
+      "Read(//c/Users//**)",
+      "Bash(.venv/Scripts/python.exe -c \"\nfrom app import get_available_months, load_month_data\nfrom collections import Counter\n\nmonths = get_available_months\\(\\)\nprint\\('Available months:', len\\(months\\), months[0], 'to', months[-1]\\)\n\ndata = load_month_data\\(2026, 1\\)\nprint\\('Jan 2026 scrobbles:', len\\(data\\)\\)\n\ncounts = Counter\\(\\)\nfor s in data:\n    key = s['artist'] + ' \\\\xe2\\\\x80\\\\x94 ' + s['album']\n    counts[key] += 1\nfor label, count in counts.most_common\\(5\\):\n    print\\(count, label\\)\n\")",
+      "Bash(.venv/Scripts/python.exe -c \"\nfrom app import get_available_years, load_month_data, get_available_months\nfrom collections import Counter\n\nyears = get_available_years\\(\\)\nprint\\('Years:', years\\)\n\nmonths = get_available_months\\(\\)\nyear_months = [m for y, m in months if y == 2025]\ncounts = Counter\\(\\)\nfor month in year_months:\n    data = load_month_data\\(2025, month\\)\n    if data:\n        for s in data:\n            key = s['artist'] + ' / ' + s['album']\n            counts[key] += 1\n\nprint\\('2025: total scrobbles across', len\\(year_months\\), 'months'\\)\nprint\\('Top 5:'\\)\nfor label, count in counts.most_common\\(5\\):\n    print\\(count, label[:60]\\)\n\")",
+      "Bash(.venv/Scripts/python.exe -c \"\nfrom app import aggregate_albums, get_available_months\n\nall_albums = aggregate_albums\\(\\)\nsince_2013 = aggregate_albums\\(from_year=2013\\)\n\nprint\\('All time - total albums:', len\\(all_albums\\)\\)\nprint\\('All time - top 3:'\\)\nfor a in all_albums[:3]: print\\(' ', a['count'], a['label'][:50]\\)\n\nprint\\('Since 2013 - total albums:', len\\(since_2013\\)\\)\nprint\\('Same result?', len\\(all_albums\\) == len\\(since_2013\\)\\)\nprint\\('Earliest year in data:', min\\(y for y,m in get_available_months\\(\\)\\)\\)\n\")",
+      "Bash(.venv/Scripts/pip.exe freeze:*)"
+    ]
+  }
+}
