@@ -88,5 +88,95 @@
         "artist": "Simple Minds",
         "album": "Empires And Dance",
         "track": "This Fear Of Gods (Remastered 2002)"
+    },
+    {
+        "datetime": "2026-04-02 22:09:20",
+        "artist": "Anne Mccue",
+        "album": "Roll",
+        "track": "Stupid"
+    },
+    {
+        "datetime": "2026-04-02 23:36:05",
+        "artist": "Emma Swift",
+        "album": "You Got Here First",
+        "track": "You Got Here First"
+    },
+    {
+        "datetime": "2026-04-02 23:39:37",
+        "artist": "Emma Swift",
+        "album": "Down And Out In Party City",
+        "track": "Down And Out In Party City"
+    },
+    {
+        "datetime": "2026-04-03 13:42:09",
+        "artist": "Emma Swift",
+        "album": "You Got Here First",
+        "track": "You Got Here First"
+    },
+    {
+        "datetime": "2026-04-03 13:45:40",
+        "artist": "Emma Swift",
+        "album": "Down And Out In Party City",
+        "track": "Down And Out In Party City"
+    },
+    {
+        "datetime": "2026-04-03 13:49:43",
+        "artist": "Emma Swift",
+        "album": "I Didn't Mean To Get Weird On You, Baby",
+        "track": "I Didn't Mean To Get Weird On You, Baby"
+    },
+    {
+        "datetime": "2026-04-03 13:54:04",
+        "artist": "Simple Minds",
+        "album": "Empires And Dance",
+        "track": "Celebrate (Remastered 2002)"
+    },
+    {
+        "datetime": "2026-04-03 13:59:24",
+        "artist": "Simple Minds",
+        "album": "Empires And Dance",
+        "track": "This Fear Of Gods (Remastered 2002)"
+    },
+    {
+        "datetime": "2026-04-03 14:06:26",
+        "artist": "Simple Minds",
+        "album": "Empires And Dance",
+        "track": "Capital City (Remastered 2002)"
+    },
+    {
+        "datetime": "2026-04-03 14:25:18",
+        "artist": "U2",
+        "album": "Days Of Ash Ep",
+        "track": "American Obituary"
+    },
+    {
+        "datetime": "2026-04-03 14:30:44",
+        "artist": "U2",
+        "album": "Days Of Ash Ep",
+        "track": "The Tears Of Things"
+    },
+    {
+        "datetime": "2026-04-03 14:34:40",
+        "artist": "U2",
+        "album": "Days Of Ash Ep",
+        "track": "Song Of The Future"
+    },
+    {
+        "datetime": "2026-04-03 14:35:58",
+        "artist": "U2",
+        "album": "Days Of Ash Ep",
+        "track": "Wildpeace"
+    },
+    {
+        "datetime": "2026-04-03 14:40:02",
+        "artist": "U2",
+        "album": "Days Of Ash Ep",
+        "track": "One\u00a0Life At A Time"
+    },
+    {
+        "datetime": "2026-04-03 14:44:29",
+        "artist": "U2",
+        "album": "Days Of Ash Ep",
+        "track": "Yours Eternally"
     }
 ]
