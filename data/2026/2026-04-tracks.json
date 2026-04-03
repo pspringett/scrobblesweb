@@ -178,5 +178,41 @@
         "artist": "U2",
         "album": "Days Of Ash Ep",
         "track": "Yours Eternally"
+    },
+    {
+        "datetime": "2026-04-03 17:41:29",
+        "artist": "Katherine Priddy",
+        "album": "These Frightening Machines",
+        "track": "Madeleine"
+    },
+    {
+        "datetime": "2026-04-03 17:45:06",
+        "artist": "Katherine Priddy",
+        "album": "These Frightening Machines",
+        "track": "Matches"
+    },
+    {
+        "datetime": "2026-04-03 17:49:59",
+        "artist": "Katherine Priddy",
+        "album": "These Frightening Machines",
+        "track": "I'm Always Willing"
+    },
+    {
+        "datetime": "2026-04-03 17:53:43",
+        "artist": "Katherine Priddy",
+        "album": "These Frightening Machines",
+        "track": "Could This Be Enough?"
+    },
+    {
+        "datetime": "2026-04-03 17:56:58",
+        "artist": "Katherine Priddy",
+        "album": "These Frightening Machines",
+        "track": "A Matter of Time"
+    },
+    {
+        "datetime": "2026-04-03 18:01:53",
+        "artist": "Katherine Priddy",
+        "album": "These Frightening Machines",
+        "track": "Hurricane"
     }
 ]
