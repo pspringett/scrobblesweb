@@ -1312,13 +1312,13 @@
         "Wise Up Ghost (Deluxe)": -1
     },
     "Emma Swift": {
-        "Blonde On The Tracks": -1,
-        "Down And Out In Party City": -1,
-        "Home Recordings": -1,
-        "No Happy Endings": -1,
-        "Nothing And Forever": -1,
-        "The Resurrection Game": -1,
-        "You Got Here First": -1
+        "Blonde On The Tracks": 2020,
+        "Down And Out In Party City": 2026,
+        "Home Recordings": 2025,
+        "No Happy Endings": 2025,
+        "Nothing And Forever": 2025,
+        "The Resurrection Game": 2025,
+        "You Got Here First": 2026
     },
     "Emma Tricca": {
         "Aspirin Sun": -1
