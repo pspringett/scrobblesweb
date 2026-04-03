@@ -283,8 +283,11 @@
         "Tales Of Light And Darkness": -1
     },
     "Anne Mccue": {
-        "Blue Sky Thinkin'": -1,
-        "Roll": -1
+        "Blue Sky Thinkin'": 2015,
+        "East of Electric": 2008,
+        "Koala Motel": 2006,
+        "Roll": 2004,
+        "Wholly Roller Coaster": 2025
     },
     "Aoife Nessa Frances": {
         "Land Of No Junction": -1
@@ -624,7 +627,7 @@
     },
     "Brigitte Calls Me Baby": {
         "Slumber Party": 2026,
-        "The Future is our Way out": 2024
+        "The Future Is Our Way Out": 2024
     },
     "British Birds": {
         "In Search Of Mr Rykyn": -1
@@ -2265,9 +2268,9 @@
         "The Negatives": 2000
     },
     "Lloyd Cole and the Commotions": {
-        "Easy Pieces": -1,
-        "Mainstream": -1,
-        "Rattlesnakes": -1
+        "Easy Pieces": 1985,
+        "Mainstream": 1987,
+        "Rattlesnakes": 1984
     },
     "Loaded 45Th Anniversary Edition": {
         "Loaded: Re": -1
@@ -2535,8 +2538,10 @@
         "Breathe In, Breath Out": -1
     },
     "Melody'S Echo Chamber": {
-        "Bon Voyage": -1,
-        "Unclouded": -1
+        "Bon Voyage": 2018,
+        "Emotiaonal Eternal": 2022,
+        "Melody's Echo Chamber": 2012,
+        "Unclouded": 2025
     },
     "Men At Work": {
         "Business As Usual": -1
@@ -3700,8 +3705,16 @@
         "New Wave Hits Of The 80S": -1
     },
     "The Burning Hell": {
-        "Garbage Island": -1,
-        "Ghost Palace": -1
+        "Baby": 2009,
+        "Flux Capacitor": 2011,
+        "Garbage Island": 2022,
+        "Ghost Palace": 2025,
+        "Happy Birthday": 2008,
+        "People": 2013,
+        "Public Library": 2016,
+        "Revival Beach": 2017,
+        "This Charmed Life": 2010,
+        "Tick Tock": 2006
     },
     "The Byrds": {
         "The Byrds": -1,
