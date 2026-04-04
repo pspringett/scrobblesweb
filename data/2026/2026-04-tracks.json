@@ -286,5 +286,23 @@
         "artist": "Emma Swift",
         "album": "I Didn't Mean To Get Weird On You, Baby",
         "track": "I Didn't Mean To Get Weird On You, Baby"
+    },
+    {
+        "datetime": "2026-04-04 17:00:01",
+        "artist": "Katherine Priddy",
+        "album": "These Frightening Machines",
+        "track": "Table Four"
+    },
+    {
+        "datetime": "2026-04-04 17:01:28",
+        "artist": "Katherine Priddy",
+        "album": "These Frightening Machines",
+        "track": "I'm Always Willing"
+    },
+    {
+        "datetime": "2026-04-04 17:06:03",
+        "artist": "Simple Minds",
+        "album": "Empires And Dance",
+        "track": "I Travel (Remastered 2002)"
     }
 ]
