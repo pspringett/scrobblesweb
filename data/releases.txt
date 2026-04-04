@@ -288,8 +288,7 @@
         "East of Electric": 2008,
         "Koala Motel": 2006,
         "Roll": 2004,
-        "Yo-Yos, Marbles and a Piece of String": 2014,
-
+        "Yo-Yos, Marbles and a Piece of String": 2014
     },
     "Aoife Nessa Frances": {
         "Land Of No Junction": -1
