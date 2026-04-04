@@ -304,5 +304,17 @@
         "artist": "Simple Minds",
         "album": "Empires And Dance",
         "track": "I Travel (Remastered 2002)"
+    },
+    {
+        "datetime": "2026-04-04 17:26:26",
+        "artist": "Emma Swift",
+        "album": "Live At Layman Drug Company 2025",
+        "track": "Nothing And Forever"
+    },
+    {
+        "datetime": "2026-04-04 17:30:49",
+        "artist": "Emma Swift",
+        "album": "Live At Layman Drug Company 2025",
+        "track": "No Happy Endings"
     }
 ]
