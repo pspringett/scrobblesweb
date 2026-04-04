@@ -214,5 +214,71 @@
         "artist": "Katherine Priddy",
         "album": "These Frightening Machines",
         "track": "Hurricane"
+    },
+    {
+        "datetime": "2026-04-03 22:29:58",
+        "artist": "Emma Swift",
+        "album": "Home Recordings",
+        "track": "Famous BlueRaincoat (home recordng)"
+    },
+    {
+        "datetime": "2026-04-03 22:34:08",
+        "artist": "Emma Swift",
+        "album": "Home Recordings",
+        "track": "The Needle and the Damage Done (home recording)"
+    },
+    {
+        "datetime": "2026-04-03 22:41:15",
+        "artist": "Po' Girl",
+        "album": "Po' Girl",
+        "track": "Gone in Pawn"
+    },
+    {
+        "datetime": "2026-04-03 22:44:33",
+        "artist": "Po' Girl",
+        "album": "Po' Girl",
+        "track": "Bad Luck Day Baby"
+    },
+    {
+        "datetime": "2026-04-03 22:48:29",
+        "artist": "Po' Girl",
+        "album": "Po' Girl",
+        "track": "City Song"
+    },
+    {
+        "datetime": "2026-04-03 22:52:36",
+        "artist": "Po' Girl",
+        "album": "Po' Girl",
+        "track": "Bleak St."
+    },
+    {
+        "datetime": "2026-04-03 22:56:10",
+        "artist": "Po' Girl",
+        "album": "Po' Girl",
+        "track": "Shameless"
+    },
+    {
+        "datetime": "2026-04-03 23:00:19",
+        "artist": "Po' Girl",
+        "album": "Po' Girl",
+        "track": "Malaise Days"
+    },
+    {
+        "datetime": "2026-04-03 23:04:14",
+        "artist": "Po' Girl",
+        "album": "Po' Girl",
+        "track": "Cold Hungry Blues"
+    },
+    {
+        "datetime": "2026-04-04 13:58:38",
+        "artist": "Anne Mccue",
+        "album": "Roll",
+        "track": "Stupid"
+    },
+    {
+        "datetime": "2026-04-04 14:06:37",
+        "artist": "Emma Swift",
+        "album": "I Didn't Mean To Get Weird On You, Baby",
+        "track": "I Didn't Mean To Get Weird On You, Baby"
     }
 ]
