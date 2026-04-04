@@ -2951,9 +2951,9 @@
         "Deer in the Night": 2008,
         "Follow Your Bliss": 2010,
         "Home To You": 2007,
-        "Lve=ive": 2009,
+        "Live": 2009,
         "Po' Girl": 2003,
-        "Vagabond Lullabies": 2004,
+        "Vagabond Lullabies": 2004
     },
     "Pop 1980": {
         "The Sun Shines Here: The Roots Of Indie": -1
