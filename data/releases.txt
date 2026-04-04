@@ -284,10 +284,12 @@
     },
     "Anne Mccue": {
         "Blue Sky Thinkin'": 2015,
+        "Broken Promise Land": 2010,
         "East of Electric": 2008,
         "Koala Motel": 2006,
         "Roll": 2004,
-        "Wholly Roller Coaster": 2025
+        "Yo-Yos, Marbles and a Piece of String": 2014,
+
     },
     "Aoife Nessa Frances": {
         "Land Of No Junction": -1
@@ -1136,6 +1138,9 @@
         "The Last Broadcast": -1,
         "The Places Between : The Best Of Doves": -1
     },
+    "Dr Feelgood": {
+        "Private Practice": -1
+    },
     "Dr. Feelgood": {
         "Down By The Jetty": -1
     },
@@ -1318,6 +1323,8 @@
         "Blonde On The Tracks": 2020,
         "Down And Out In Party City": 2026,
         "Home Recordings": 2025,
+        "I Didn't Mean To Get Weird On You, Baby": 2025,
+        "Live At Layman Drug Company 2025": 2025,
         "No Happy Endings": 2025,
         "Nothing And Forever": 2025,
         "The Resurrection Game": 2025,
@@ -1581,6 +1588,9 @@
     },
     "Graham Coxon": {
         "The End Of The F***Ing World (Original Songs And Score)": -1
+    },
+    "Greatest Hits": {
+        "Gold": -1
     },
     "Green Gartside": {
         "Tangled Man": -1
@@ -2395,6 +2405,9 @@
     "Marc Bolan": {
         "Zinc Alloy And The Hidden Riders Of Tomorrow": -1
     },
+    "Marc Bolan & T. Rex": {
+        "The Collection": -1
+    },
     "Margaret Glaspy": {
         "Emotions And Math": -1
     },
@@ -2933,6 +2946,15 @@
     "Plastic Bertrand": {
         "Plastic Bertrand": -1,
         "\u00c3\u2021A Plane Pour Moi": -1
+    },
+    "Po' Girl": {
+        "B-side Recordings": 2006,
+        "Deer in the Night": 2008,
+        "Follow Your Bliss": 2010,
+        "Home To You": 2007,
+        "Lve=ive": 2009,
+        "Po' Girl": 2003,
+        "Vagabond Lullabies": 2004,
     },
     "Pop 1980": {
         "The Sun Shines Here: The Roots Of Indie": -1
@@ -3636,6 +3658,9 @@
     },
     "The Art Of Bluff": {
         "Nah=Poo": -1
+    },
+    "The Assembly": {
+        "Never Never": -1
     },
     "The Associates": {
         "Fourth Drawer Down": -1,
