@@ -180,12 +180,17 @@
         "Icon": -1
     },
     "ABC": {
-        "Beauty Stab": -1,
+        "Abracadabra": 1991,
+        "Alphabet City": 1987,
+        "Beauty Stab": 1983,
+        "How to Be a ... Zillionaire": 1985,
         "New Wave Hits Of The 80S": -1,
-        "The Lexicon Of Love": -1,
-        "The Lexicon Of Love (Deluxe Edition)": -1,
-        "The Lexicon Of Love (Digitally Remastered)": -1,
-        "The Look Of Love": -1
+        "Skyscraping": 1997,
+        "The Lexicon Of Love": 1982,
+        "The Lexicon Of Love II": 2016,
+        "The Look Of Love": 2001,
+        "Traffic": 2008,
+        "Up": 1989
     },
     "Aaron Weinstein": {
         "Handful Of Stars, A": -1
@@ -2401,9 +2406,6 @@
         "Tenement Symphony": -1,
         "The Stars We Are": -1
     },
-    "Marc Bolan": {
-        "Zinc Alloy And The Hidden Riders Of Tomorrow": -1
-    },
     "Marc Bolan & T. Rex": {
         "The Collection": -1
     },
@@ -2516,7 +2518,24 @@
         "I Heard It Through The Grapevine / In The Groove (Stereo)": -1
     },
     "Mary Chapin Carpenter": {
-        "The Things That We Are Made Of": -1
+        "A Place in the World": 1996,
+        "Ashes and Roses": 2012,
+        "Between Here and Gone": 2004,
+        "Come Darkness, Comes Light: Twelve Songs of Christmas": 2008,
+        "Come On Come On": 1992,
+        "Hometown Girl": 1987,
+        "Looking for the Thread": 2025,
+        "Personal History": 2025,
+        "Shooting Straight in the Dark": 1990,
+        "Sometimes Just the Sky": 2018,
+        "Songs From the Movie": 2014,
+        "State of the Heart": 1989,
+        "Stones On the Road": 1994,
+        "The Age of Miracles": 2010,
+        "The Dirt and the Stars":2020,
+        "The calling": 2007,
+        "The Things That We Are Made Of": 2016,
+        "Time*, Sex*, Love*": 2001
     },
     "Mary Gauthier": {
         "Live At Blue Rock": -1
@@ -3594,14 +3613,13 @@
         "Dandy In The Underworld (Deluxe Edition)": -1977,
         "Electric Warrior": 1971,
         "Futuristic Dragon": 1976,
-        "Futuristic Dragon (Deluxe Edition)": -1,
         "Get It On: The Collection": 1986,
         "Hot Love (Alternative Version)": 2020,
         "Light of Love": 1974,
         "T. Rex": 1970,
         "Tanx": 1973,
         "The Slider": 1972,
-        "Zinc Alloy and the Hidden Riders of Tomorrow": 1974
+        "Zinc Alloy And The Hidden Riders Of Tomorrow": 1974
     },
     "Taco": {
         "Best Of Taco": -1
