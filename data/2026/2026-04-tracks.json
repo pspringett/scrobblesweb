@@ -622,5 +622,47 @@
         "artist": "Searows",
         "album": "Death In The Business Of Whaling",
         "track": "Photograph of a Cyclone"
+    },
+    {
+        "datetime": "2026-04-06 22:00:47",
+        "artist": "Edwyn Collins",
+        "album": "The Testimonial Ep \u2014 Live At The Royal Festival Hall 2025",
+        "track": "Falling and Laughing - Live"
+    },
+    {
+        "datetime": "2026-04-06 22:04:49",
+        "artist": "Edwyn Collins",
+        "album": "The Testimonial Ep \u2014 Live At The Royal Festival Hall 2025",
+        "track": "The Campaign For Real Rock - Live"
+    },
+    {
+        "datetime": "2026-04-06 22:10:34",
+        "artist": "Edwyn Collins",
+        "album": "The Testimonial Ep \u2014 Live At The Royal Festival Hall 2025",
+        "track": "Intuition Told Me/Simply Thrilled Honey - Live"
+    },
+    {
+        "datetime": "2026-04-06 22:14:51",
+        "artist": "Edwyn Collins",
+        "album": "The Testimonial Ep \u2014 Live At The Royal Festival Hall 2025",
+        "track": "Rip It Up - Live"
+    },
+    {
+        "datetime": "2026-04-06 22:19:39",
+        "artist": "David Bowie",
+        "album": "David Live (2005 mix)",
+        "track": "1984 (Live) [2005 Mix] [2016 Remaster]"
+    },
+    {
+        "datetime": "2026-04-06 22:23:12",
+        "artist": "David Bowie",
+        "album": "David Live (2005 mix)",
+        "track": "Rebel Rebel (Live) [2005 Mix] [2016 Remaster]"
+    },
+    {
+        "datetime": "2026-04-06 22:25:54",
+        "artist": "David Bowie",
+        "album": "David Live (2005 mix)",
+        "track": "Moonage Daydream (Live) [2005 Mix] [2016 Remaster]"
     }
 ]
