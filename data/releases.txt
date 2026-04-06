@@ -1827,13 +1827,21 @@
         "Beyond The Pale": -1
     },
     "Jason Isbell": {
-        "Something More Than Free": -1
+        "Foxes in te Snow": 2025,
+        "Sirens of the Ditch": 2007,
+        "Something More Than Free": 20151,
+        "Southeastern": 2013
     },
     "Jason Isbell and the 400 Unit": {
-        "Here We Rest": -1,
-        "Reunions": -1,
-        "The Nashville Sound": -1,
-        "Weathervanes": -1
+        "Georgia Blue": 2021,
+        "Jason Isbell and the 400 Unit": 2009,
+        "Live from Alabama": 2012,
+        "Live from the Ryman": 2018,
+        "Live from the Ryman, Vol 2": 2024,
+        "Here We Rest": 2011,
+        "Reunions": 2020,
+        "The Nashville Sound": 2017,
+        "Weathervanes": 2023
     },
     "Jason Mcmahon": {
         "Odd West": -1
@@ -1887,9 +1895,9 @@
         "Misfit's Jubilee": -1
     },
     "Jimi Hendrix": {
-        "Are You Experienced": -1,
-        "Axis: Bold As Love": -1,
-        "Electric Ladyland": -1
+        "Are You Experienced": 1967,
+        "Axis: Bold As Love": 1967,
+        "Electric Ladyland": 1968
     },
     "Jimmie Dale Gilmore": {
         "Downey To Lubbock": -1
@@ -2056,10 +2064,16 @@
         "Gannett Syndication Service": -1
     },
     "Justin Townes Earle": {
-        "Harlem River Blues": -1,
-        "Kids In The Street": -1,
-        "Nothing's Gonna Change The Way You Feel About Me Now": -1,
-        "Single Mothers": -1
+        "Absent Fathers": 2015,
+        "All in: Uneleased & Rarities (The new West Years)": 2024,
+        "Harlem River Blues": 2010,
+        "Kids In The Street": 2017,
+        "Midnight at the Movies": 2009,
+        "Nothing's Gonna Change The Way You Feel About Me Now": 2012,
+        "Single Mothers": 2014,
+        "The Good Life": 2008,
+        "The Saint of Lost Causes": 2019,
+        "Yuma": 2007
     },
     "K.D. Lang": {
         "Hymns Of The 49Th Parallel": -1
@@ -3255,11 +3269,11 @@
         "Nighttime Birds And Morning Stars": -1
     },
     "Sarah MacDougall": {
-        "Across The Atlantic": -1,
-        "All The Hours I Have Left To Tell You Anything": -1,
-        "Empire": -1,
-        "Grand Canyon": -1,
-        "The Greatest Ones Alive": -1
+        "Across The Atlantic": 2009,
+        "All The Hours I Have Left To Tell You Anything": 2018,
+        "Empire": 2018,
+        "Grand Canyon": 2015,
+        "The Greatest Ones Alive": 2011
     },
     "Sarah Vaughan": {
         "No Count Sarah": -1
@@ -4107,10 +4121,10 @@
         "Mirror Moves": -1
     },
     "The Redlands Palomino Company": {
-        "Broken Carelessly": -1,
-        "By the Time You Hear This ...We'll Be Gone": -1,
-        "Don't Fade": -1,
-        "Take Me Home": -1
+        "Broken Carelessly": 2014,
+        "By the Time You Hear This ...We'll Be Gone": 2004,
+        "Don't Fade": 2011,
+        "Take Me Home": 2007
     },
     "The Replacements": {
         "Tim (Expanded)": -1
@@ -4167,13 +4181,13 @@
         "A Light For Attracting Attention": -1
     },
     "The Smiths": {
-        "Complete": -1,
-        "Hatful Of Hollow": -1,
-        "Meat Is Murder": -1,
-        "Strangeways, Here We Come": -1,
-        "The Queen Is Dead": -1,
-        "The Smiths": -1,
-        "The Sound Of The Smiths": -1
+        "Complete": 2011,
+        "Hatful Of Hollow": 1984,
+        "Meat Is Murder": 1985,
+        "Strangeways, Here We Come": 1987,
+        "The Queen Is Dead": 1986,
+        "The Smiths": 1984,
+        "The Sound Of The Smiths": 2008
     },
     "The Smoke": {
         "It's Smoke Time": -1
