@@ -604,5 +604,23 @@
         "artist": "Emma Swift",
         "album": "Live At Layman Drug Company 2025",
         "track": "Catholic Girls Are Easy"
+    },
+    {
+        "datetime": "2026-04-06 14:54:25",
+        "artist": "Searows",
+        "album": "Death In The Business Of Whaling",
+        "track": "Belly of the Whale"
+    },
+    {
+        "datetime": "2026-04-06 14:58:19",
+        "artist": "Searows",
+        "album": "Death In The Business Of Whaling",
+        "track": "Kill What You Eat"
+    },
+    {
+        "datetime": "2026-04-06 15:03:20",
+        "artist": "Searows",
+        "album": "Death In The Business Of Whaling",
+        "track": "Photograph of a Cyclone"
     }
 ]
