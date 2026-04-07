@@ -760,5 +760,47 @@
         "artist": "Martin Stephenson",
         "album": "Lilac Tree",
         "track": "New Found Light"
+    },
+    {
+        "datetime": "2026-04-07 21:09:11",
+        "artist": "David Bowie",
+        "album": "David Bowie (Aka Space Oddity) [2015 Remaster]",
+        "track": "Space Oddity (2015 Remaster)"
+    },
+    {
+        "datetime": "2026-04-07 21:14:30",
+        "artist": "David Bowie",
+        "album": "David Bowie (Aka Space Oddity) [2015 Remaster]",
+        "track": "Unwashed And Somewhat Slightly Dazed (2015 remaster)"
+    },
+    {
+        "datetime": "2026-04-07 21:21:25",
+        "artist": "David Bowie",
+        "album": "David Bowie (Aka Space Oddity) [2015 Remaster]",
+        "track": "Letter to Hermione (2015 Remaster)"
+    },
+    {
+        "datetime": "2026-04-07 21:24:03",
+        "artist": "David Bowie",
+        "album": "David Bowie (Aka Space Oddity) [2015 Remaster]",
+        "track": "Cygnet Committee (2015 Remaster)"
+    },
+    {
+        "datetime": "2026-04-07 21:33:43",
+        "artist": "David Bowie",
+        "album": "David Bowie (Aka Space Oddity) [2015 Remaster]",
+        "track": "Janine (2015 Remaster)"
+    },
+    {
+        "datetime": "2026-04-07 21:37:10",
+        "artist": "David Bowie",
+        "album": "David Bowie (Aka Space Oddity) [2015 Remaster]",
+        "track": "An Occasional Dream (2015 Remaster)"
+    },
+    {
+        "datetime": "2026-04-07 21:40:12",
+        "artist": "David Bowie",
+        "album": "David Bowie (Aka Space Oddity) [2015 Remaster]",
+        "track": "Wild Eyed Boy From Freecloud (2015 Remaster)"
     }
 ]
