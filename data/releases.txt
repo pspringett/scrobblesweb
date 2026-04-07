@@ -567,12 +567,19 @@
         "Burnin'": -1
     },
     "Bob Marley & the Wailers": {
-        "Burnin'": -1,
-        "Burnin' (Deluxe Edition)": -1,
-        "Catch A Fire": -1,
-        "Catch A Fire (Deluxe Edition)": -1,
-        "Natty Dread (Remastered)": -1,
-        "Rastaman Vibration": -1
+        "Burnin'": 1973,
+        "Catch A Fire": 1973,
+        "Confrontation": 1983,
+        "Exodus": 1977,
+        "Kaya": 1978,
+        "Natty Dread": 1974,
+        "Rastaman Vibration": 1976,
+        "Soul Rebels": 1970,
+        "Soul Revolution Part II": 1971,
+        "Survival": 1979,
+        "The Best of the Wailers": 1970
+        "The Wailing Wailers": 1965,
+        "Uprising": 1980
     },
     "Bobbie Gentry": {
         "Ode To Billie Joe": -1
@@ -4292,9 +4299,6 @@
     "The Waifs": {
         "Up All Night": -1
     },
-    "The Wailers": {
-        "Burnin'": -1,
-        "Legend \u00e2\u20ac\u201c The Best Of Bob Marley & The Wailers": -1
     },
     "The Wailin' Jennys": {
         "40 Days": -1,
