@@ -577,7 +577,7 @@
         "Soul Rebels": 1970,
         "Soul Revolution Part II": 1971,
         "Survival": 1979,
-        "The Best of the Wailers": 1970
+        "The Best of the Wailers": 1970,
         "The Wailing Wailers": 1965,
         "Uprising": 1980
     },
@@ -4298,7 +4298,6 @@
     },
     "The Waifs": {
         "Up All Night": -1
-    },
     },
     "The Wailin' Jennys": {
         "40 Days": -1,
