@@ -169,6 +169,26 @@ def aggregate_albums(from_year: Optional[int] = None) -> list[AlbumEntry]:
     return _enrich(counts)
 
 
+def aggregate_artists(from_year: Optional[int] = None, only_year: Optional[int] = None) -> list[AlbumEntry]:
+    """Aggregate total play counts per artist, optionally filtered by year range."""
+    counts: Counter[str] = Counter()
+    for year, month in get_available_months():
+        if from_year is not None and year < from_year:
+            continue
+        if only_year is not None and year != only_year:
+            continue
+        scrobbles = load_month_data(year, month)
+        if scrobbles:
+            for s in scrobbles:
+                artist = s.get("artist", "Unknown Artist")
+                counts[artist] += 1
+
+    return [
+        {"label": artist, "artist": artist, "count": count, "has_releases": artist in RELEASES}
+        for artist, count in counts.most_common()
+    ]
+
+
 def _rolling12_counts(year: int, month: int) -> Counter[str]:
     """Return a Counter of album play counts for the 12 months ending at year/month."""
     counts: Counter[str] = Counter()
@@ -228,6 +248,24 @@ def api_albums_all() -> Response:
 @app.route("/api/albums/since/<int:from_year>")
 def api_albums_since(from_year: int) -> Response:
     return jsonify({"from_year": from_year, "albums": aggregate_albums(from_year=from_year)})
+
+
+@app.route("/api/artists/all")
+def api_artists_all() -> Response:
+    return jsonify({"artists": aggregate_artists()})
+
+
+@app.route("/api/artists/since/<int:from_year>")
+def api_artists_since(from_year: int) -> Response:
+    return jsonify({"from_year": from_year, "artists": aggregate_artists(from_year=from_year)})
+
+
+@app.route("/api/artists/<int:year>")
+def api_artists_year(year: int) -> tuple[Response, int] | Response:
+    artists = aggregate_artists(only_year=year)
+    if not artists:
+        return jsonify({"error": "No data for this year"}), 404
+    return jsonify({"year": year, "artists": artists})
 
 
 @app.route("/api/artist/<path:artist>")
