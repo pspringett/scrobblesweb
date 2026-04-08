@@ -886,5 +886,41 @@
         "artist": "Tyrannosaurus Rex",
         "album": "A Beard Of Stars",
         "track": "Elemental Child"
+    },
+    {
+        "datetime": "2026-04-08 21:12:36",
+        "artist": "David Bowie",
+        "album": "David Bowie (aka Space Oddity)",
+        "track": "Unwashed And Somewhat Slightly Dazed (2015 remaster)"
+    },
+    {
+        "datetime": "2026-04-08 21:19:31",
+        "artist": "David Bowie",
+        "album": "David Bowie (aka Space Oddity)",
+        "track": "Letter to Hermione (2015 Remaster)"
+    },
+    {
+        "datetime": "2026-04-08 21:22:08",
+        "artist": "David Bowie",
+        "album": "David Bowie (aka Space Oddity)",
+        "track": "Cygnet Committee (2015 Remaster)"
+    },
+    {
+        "datetime": "2026-04-08 21:31:49",
+        "artist": "David Bowie",
+        "album": "David Bowie (aka Space Oddity)",
+        "track": "Janine (2015 Remaster)"
+    },
+    {
+        "datetime": "2026-04-08 21:35:16",
+        "artist": "David Bowie",
+        "album": "David Bowie (aka Space Oddity)",
+        "track": "An Occasional Dream (2015 Remaster)"
+    },
+    {
+        "datetime": "2026-04-08 21:38:17",
+        "artist": "David Bowie",
+        "album": "David Bowie (aka Space Oddity)",
+        "track": "Wild Eyed Boy From Freecloud (2015 Remaster)"
     }
 ]
