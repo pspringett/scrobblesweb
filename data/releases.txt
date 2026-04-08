@@ -3633,7 +3633,7 @@
         "Billy Super Duper": 1982,
         "Bolan's Zip Gun": 1975,
         "Classic Hits": -1,
-        "Dandy In The Underworld (Deluxe Edition)": -1977,
+        "Dandy In The Underworld": 1977,
         "Electric Warrior": 1971,
         "Futuristic Dragon": 1976,
         "Get It On: The Collection": 1986,

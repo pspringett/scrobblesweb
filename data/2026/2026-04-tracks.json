@@ -811,49 +811,49 @@
     },
     {
         "datetime": "2026-04-08 11:51:21",
-        "artist": "Tyrannosaurus Rex",
+        "artist": "T. Rex",
         "album": "A Beard Of Stars",
         "track": "Prelude"
     },
     {
         "datetime": "2026-04-08 11:52:26",
-        "artist": "Tyrannosaurus Rex",
+        "artist": "T. Rex",
         "album": "A Beard Of Stars",
         "track": "A Daye Laye"
     },
     {
         "datetime": "2026-04-08 11:54:24",
-        "artist": "Tyrannosaurus Rex",
+        "artist": "T. Rex",
         "album": "A Beard Of Stars",
         "track": "Woodland Bop"
     },
     {
         "datetime": "2026-04-08 11:56:04",
-        "artist": "Tyrannosaurus Rex",
+        "artist": "T. Rex",
         "album": "A Beard Of Stars",
         "track": "Fist Heart Mighty Dawn Dart"
     },
     {
         "datetime": "2026-04-08 11:58:50",
-        "artist": "Tyrannosaurus Rex",
+        "artist": "T. Rex",
         "album": "A Beard Of Stars",
         "track": "Pavilions Of Sun"
     },
     {
         "datetime": "2026-04-08 12:01:40",
-        "artist": "Tyrannosaurus Rex",
+        "artist": "T. Rex",
         "album": "A Beard Of Stars",
         "track": "Organ Blues"
     },
     {
         "datetime": "2026-04-08 12:04:29",
-        "artist": "Tyrannosaurus Rex",
+        "artist": "T. Rex",
         "album": "A Beard Of Stars",
         "track": "By The Light Of The Magical Moon"
     },
     {
         "datetime": "2026-04-08 12:07:22",
-        "artist": "Tyrannosaurus Rex",
+        "artist": "T. Rex",
         "album": "A Beard Of Stars",
         "track": "Wind Cheetah"
     },
@@ -865,25 +865,25 @@
     },
     {
         "datetime": "2026-04-08 12:11:39",
-        "artist": "Tyrannosaurus Rex",
+        "artist": "T. Rex",
         "album": "A Beard Of Stars",
         "track": "Great Horse"
     },
     {
         "datetime": "2026-04-08 12:16:05",
-        "artist": "Tyrannosaurus Rex",
+        "artist": "T. Rex",
         "album": "A Beard Of Stars",
         "track": "Lofty Skies"
     },
     {
         "datetime": "2026-04-08 12:19:00",
-        "artist": "Tyrannosaurus Rex",
+        "artist": "T. Rex",
         "album": "A Beard Of Stars",
         "track": "Dove"
     },
     {
         "datetime": "2026-04-08 12:21:07",
-        "artist": "Tyrannosaurus Rex",
+        "artist": "T. Rex",
         "album": "A Beard Of Stars",
         "track": "Elemental Child"
     },
@@ -922,5 +922,29 @@
         "artist": "David Bowie",
         "album": "David Bowie (aka Space Oddity)",
         "track": "Wild Eyed Boy From Freecloud (2015 Remaster)"
+    },
+    {
+        "datetime": "2026-04-08 21:46:34",
+        "artist": "David Bowie",
+        "album": "David Bowie (aka Space Oddity)",
+        "track": "Memory of a Free Festival (2015 Remaster)"
+    },
+    {
+        "datetime": "2026-04-08 21:54:07",
+        "artist": "Emma Swift",
+        "album": "You Got Here First",
+        "track": "You Got Here First"
+    },
+    {
+        "datetime": "2026-04-08 21:57:42",
+        "artist": "Emma Swift",
+        "album": "Down And Out In Party City",
+        "track": "Down And Out In Party City"
+    },
+    {
+        "datetime": "2026-04-08 22:01:46",
+        "artist": "Emma Swift",
+        "album": "I Didn't Mean To Get Weird On You, Baby",
+        "track": "I Didn't Mean To Get Weird On You, Baby"
     }
 ]
