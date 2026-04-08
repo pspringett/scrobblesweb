@@ -868,5 +868,23 @@
         "artist": "Tyrannosaurus Rex",
         "album": "A Beard Of Stars",
         "track": "Great Horse"
+    },
+    {
+        "datetime": "2026-04-08 12:16:05",
+        "artist": "Tyrannosaurus Rex",
+        "album": "A Beard Of Stars",
+        "track": "Lofty Skies"
+    },
+    {
+        "datetime": "2026-04-08 12:19:00",
+        "artist": "Tyrannosaurus Rex",
+        "album": "A Beard Of Stars",
+        "track": "Dove"
+    },
+    {
+        "datetime": "2026-04-08 12:21:07",
+        "artist": "Tyrannosaurus Rex",
+        "album": "A Beard Of Stars",
+        "track": "Elemental Child"
     }
 ]
