@@ -808,5 +808,65 @@
         "artist": "David Bowie",
         "album": "Bowie At The Beeb",
         "track": "Let Me Sleep Beside You (Dave Lee Travis Show) [Recorded 20.10.69] [2000 Remaster]"
+    },
+    {
+        "datetime": "2026-04-08 11:51:21",
+        "artist": "Tyrannosaurus Rex",
+        "album": "A Beard Of Stars",
+        "track": "Prelude"
+    },
+    {
+        "datetime": "2026-04-08 11:52:26",
+        "artist": "Tyrannosaurus Rex",
+        "album": "A Beard Of Stars",
+        "track": "A Daye Laye"
+    },
+    {
+        "datetime": "2026-04-08 11:54:24",
+        "artist": "Tyrannosaurus Rex",
+        "album": "A Beard Of Stars",
+        "track": "Woodland Bop"
+    },
+    {
+        "datetime": "2026-04-08 11:56:04",
+        "artist": "Tyrannosaurus Rex",
+        "album": "A Beard Of Stars",
+        "track": "Fist Heart Mighty Dawn Dart"
+    },
+    {
+        "datetime": "2026-04-08 11:58:50",
+        "artist": "Tyrannosaurus Rex",
+        "album": "A Beard Of Stars",
+        "track": "Pavilions Of Sun"
+    },
+    {
+        "datetime": "2026-04-08 12:01:40",
+        "artist": "Tyrannosaurus Rex",
+        "album": "A Beard Of Stars",
+        "track": "Organ Blues"
+    },
+    {
+        "datetime": "2026-04-08 12:04:29",
+        "artist": "Tyrannosaurus Rex",
+        "album": "A Beard Of Stars",
+        "track": "By The Light Of The Magical Moon"
+    },
+    {
+        "datetime": "2026-04-08 12:07:22",
+        "artist": "Tyrannosaurus Rex",
+        "album": "A Beard Of Stars",
+        "track": "Wind Cheetah"
+    },
+    {
+        "datetime": "2026-04-08 12:10:01",
+        "artist": "T. Rex",
+        "album": "A Beard Of Stars",
+        "track": "A Beard Of Stars"
+    },
+    {
+        "datetime": "2026-04-08 12:11:39",
+        "artist": "Tyrannosaurus Rex",
+        "album": "A Beard Of Stars",
+        "track": "Great Horse"
     }
 ]
