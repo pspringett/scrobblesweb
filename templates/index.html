@@ -240,6 +240,24 @@
 
     #year-nav { display: none; }
 
+    .type-toggle {
+      display: none;
+      gap: 0;
+      border: 1px solid #333344;
+      border-radius: 6px;
+      overflow: hidden;
+    }
+    .type-toggle.visible { display: flex; }
+    .type-toggle button {
+      border: none;
+      border-radius: 0;
+      padding: 0.45rem 1rem;
+    }
+    .type-toggle button.active {
+      background: #3a5540;
+      color: #4caf82;
+    }
+
     .artist-link {
       color: inherit;
       text-decoration: none;
@@ -335,6 +353,11 @@
       <button id="btn-mode-rolling12">Last 12 Months</button>
     </div>
 
+    <div class="type-toggle" id="type-toggle">
+      <button id="btn-type-albums" class="active">Albums</button>
+      <button id="btn-type-artists">Artists</button>
+    </div>
+
     <div class="nav-group" id="month-nav">
       <button id="btn-prev">&#8592; Prev</button>
       <span id="month-label"></span>
@@ -365,7 +388,9 @@
   const MONTHS = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
 
   // ── State ────────────────────────────────────────────────────────────────
-  let mode = "month";   // "month" | "year" | "all" | "since2013" | "rolling12"
+  let mode = "month";         // "month" | "year" | "all" | "since2013" | "rolling12"
+  let chartType = "albums";   // "albums" | "artists"
+  const ARTIST_MODES = new Set(["all", "since2013", "year"]);
   let monthIndex = available.findIndex(
     ([y, m]) => y === {{ default_year }} && m === {{ default_month }}
   );
@@ -449,6 +474,18 @@
     if (yearIndex < availableYears.length - 1) { yearIndex++; load(); }
   });
 
+  // ── Chart type toggle ─────────────────────────────────────────────────────
+  document.getElementById("btn-type-albums").addEventListener("click",  () => setChartType("albums"));
+  document.getElementById("btn-type-artists").addEventListener("click", () => setChartType("artists"));
+
+  function setChartType(t) {
+    chartType = t;
+    document.getElementById("btn-type-albums").classList.toggle("active",  t === "albums");
+    document.getElementById("btn-type-artists").classList.toggle("active", t === "artists");
+    document.getElementById("page-title").textContent = modeTitle(mode, t);
+    load();
+  }
+
   // ── Mode toggle ───────────────────────────────────────────────────────────
   document.getElementById("btn-mode-month").addEventListener("click",     () => setMode("month"));
   document.getElementById("btn-mode-year").addEventListener("click",      () => setMode("year"));
@@ -456,19 +493,31 @@
   document.getElementById("btn-mode-since2013").addEventListener("click", () => setMode("since2013"));
   document.getElementById("btn-mode-rolling12").addEventListener("click", () => setMode("rolling12"));
 
-  const MODE_TITLES = {
-    month:     "Album Plays by Month",
-    year:      "Album Plays by Year",
-    all:       "All Time Album Plays",
-    since2013: "All Time Album Plays (Since 2023)",
-    rolling12: "Album Plays — Last 12 Months",
-  };
+  function modeTitle(m, t) {
+    const noun = t === "artists" ? "Artist" : "Album";
+    const titles = {
+      month:     `${noun} Plays by Month`,
+      year:      `${noun} Plays by Year`,
+      all:       `All Time ${noun} Plays`,
+      since2013: `All Time ${noun} Plays (Since 2023)`,
+      rolling12: `${noun} Plays — Last 12 Months`,
+    };
+    return titles[m] ?? "";
+  }
 
   function setMode(m) {
     mode = m;
     ["month","year","all","since2013","rolling12"].forEach(id => {
       document.getElementById(`btn-mode-${id}`).classList.toggle("active", m === id);
     });
+    // Reset to albums when switching to a mode that doesn't support artists
+    if (!ARTIST_MODES.has(m)) {
+      chartType = "albums";
+      document.getElementById("btn-type-albums").classList.add("active");
+      document.getElementById("btn-type-artists").classList.remove("active");
+    }
+    document.getElementById("type-toggle").classList.toggle("visible", ARTIST_MODES.has(m));
+
     const showMonthNav = m === "month" || m === "rolling12";
     document.getElementById("month-nav").style.display = showMonthNav ? "flex" : "none";
     document.getElementById("year-nav").style.display  = m === "year"  ? "flex" : "none";
@@ -478,7 +527,7 @@
       rollingMonth = _lastM;
       updateRolling12Title();
     } else {
-      document.getElementById("page-title").textContent = MODE_TITLES[m];
+      document.getElementById("page-title").textContent = modeTitle(m, chartType);
     }
     load();
   }
@@ -534,23 +583,24 @@
 
     try {
       let url;
-      if (mode === "month") {
-        const [year, month] = available[monthIndex];
-        url = `/api/albums/${year}/${month}`;
-      } else if (mode === "year") {
-        url = `/api/albums/${availableYears[yearIndex]}`;
-      } else if (mode === "all") {
-        url = `/api/albums/all`;
-      } else if (mode === "since2013") {
-        url = `/api/albums/since/2023`;
-      } else if (mode === "rolling12") {
-        url = `/api/albums/rolling12/${rollingYear}/${rollingMonth}`;
+      if (chartType === "artists") {
+        if (mode === "all")       url = `/api/artists/all`;
+        else if (mode === "since2013") url = `/api/artists/since/2023`;
+        else if (mode === "year") url = `/api/artists/${availableYears[yearIndex]}`;
+      } else {
+        if (mode === "month") {
+          const [year, month] = available[monthIndex];
+          url = `/api/albums/${year}/${month}`;
+        } else if (mode === "year")      url = `/api/albums/${availableYears[yearIndex]}`;
+        else if (mode === "all")         url = `/api/albums/all`;
+        else if (mode === "since2013")   url = `/api/albums/since/2023`;
+        else if (mode === "rolling12")   url = `/api/albums/rolling12/${rollingYear}/${rollingMonth}`;
       }
       const res = await fetch(url);
       if (!res.ok) throw new Error("No data available");
       const data = await res.json();
       loading.style.display = "none";
-      renderChart(data.albums);
+      renderChart(data.albums ?? data.artists);
     } catch (e) {
       loading.style.display = "none";
       errMsg.textContent = e.message;
@@ -569,8 +619,9 @@
     }
 
     const totalTracks = albums.reduce((s, a) => s + a.count, 0);
-    const totalAlbums = albums.length;
-    summary.textContent = `${totalTracks} tracks across ${totalAlbums} album${totalAlbums !== 1 ? "s" : ""}`;
+    const totalItems  = albums.length;
+    const noun = chartType === "artists" ? "artist" : "album";
+    summary.textContent = `${totalTracks} tracks across ${totalItems} ${noun}${totalItems !== 1 ? "s" : ""}`;
 
     const max = albums[0].count;
 
@@ -597,10 +648,11 @@
         link.textContent = album.artist;
         link.href = "#";
         link.addEventListener("click", (e) => { e.preventDefault(); openArtistModal(album.artist); });
-        const albumPart = document.createTextNode(` \u2014 ${album.album}`);
         label.appendChild(pos);
         label.appendChild(link);
-        label.appendChild(albumPart);
+        if (chartType !== "artists") {
+          label.appendChild(document.createTextNode(` \u2014 ${album.album}`));
+        }
         label.title = album.label;
       } else {
         label.textContent = `${i + 1}. ${album.label}`;
