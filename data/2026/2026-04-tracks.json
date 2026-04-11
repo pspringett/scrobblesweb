@@ -1114,5 +1114,47 @@
         "artist": "Lucinda Williams",
         "album": "World's Gone Wrong",
         "track": "Something's Gotta Give (feat. Brittney Spencer)"
+    },
+    {
+        "datetime": "2026-04-11 17:33:10",
+        "artist": "Emma Swift",
+        "album": "Home Recordings",
+        "track": "Famous BlueRaincoat (home recordng)"
+    },
+    {
+        "datetime": "2026-04-11 17:37:19",
+        "artist": "Emma Swift",
+        "album": "Home Recordings",
+        "track": "The Needle and the Damage Done (home recording)"
+    },
+    {
+        "datetime": "2026-04-11 17:41:35",
+        "artist": "U2",
+        "album": "Days Of Ash Ep",
+        "track": "American Obituary"
+    },
+    {
+        "datetime": "2026-04-11 17:46:00",
+        "artist": "U2",
+        "album": "Days Of Ash Ep",
+        "track": "The Tears Of Things"
+    },
+    {
+        "datetime": "2026-04-11 17:51:26",
+        "artist": "U2",
+        "album": "Days Of Ash Ep",
+        "track": "Song Of The Future"
+    },
+    {
+        "datetime": "2026-04-11 17:55:22",
+        "artist": "U2",
+        "album": "Days Of Ash Ep",
+        "track": "Wildpeace"
+    },
+    {
+        "datetime": "2026-04-11 17:56:42",
+        "artist": "U2",
+        "album": "Days Of Ash Ep",
+        "track": "One\u00a0Life At A Time"
     }
 ]
