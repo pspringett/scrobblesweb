@@ -1210,5 +1210,41 @@
         "artist": "Creedence Clearwater Revival",
         "album": "Bayou Country",
         "track": "Penthouse Pauper - Album Version"
+    },
+    {
+        "datetime": "2026-04-12 17:55:03",
+        "artist": "Creedence Clearwater Revival",
+        "album": "Bayou Country",
+        "track": "Good Golly Miss Molly"
+    },
+    {
+        "datetime": "2026-04-12 17:57:48",
+        "artist": "Creedence Clearwater Revival",
+        "album": "Bayou Country",
+        "track": "Graveyard Train - Album Version"
+    },
+    {
+        "datetime": "2026-04-12 18:06:27",
+        "artist": "Creedence Clearwater Revival",
+        "album": "Bayou Country",
+        "track": "Keep On Chooglin' - Album Version"
+    },
+    {
+        "datetime": "2026-04-12 18:15:20",
+        "artist": "Emma Swift",
+        "album": "You Got Here First",
+        "track": "You Got Here First"
+    },
+    {
+        "datetime": "2026-04-12 18:18:49",
+        "artist": "Emma Swift",
+        "album": "Down And Out In Party City",
+        "track": "Down And Out In Party City"
+    },
+    {
+        "datetime": "2026-04-12 18:22:52",
+        "artist": "Emma Swift",
+        "album": "I Didn't Mean To Get Weird On You, Baby",
+        "track": "I Didn't Mean To Get Weird On You, Baby"
     }
 ]
