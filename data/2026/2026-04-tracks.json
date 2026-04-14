@@ -1330,5 +1330,53 @@
         "artist": "The Rolling Stones",
         "album": "Let It Bleed",
         "track": "Love In Vain - Remastered 2019"
+    },
+    {
+        "datetime": "2026-04-14 21:41:42",
+        "artist": "The Rolling Stones",
+        "album": "Let It Bleed",
+        "track": "Live With Me - Remastered 2019"
+    },
+    {
+        "datetime": "2026-04-14 21:45:16",
+        "artist": "The Rolling Stones",
+        "album": "Let It Bleed",
+        "track": "Let It Bleed - Remastered 2019"
+    },
+    {
+        "datetime": "2026-04-14 21:50:59",
+        "artist": "David Bowie",
+        "album": "David Bowie (aka Space Oddity)",
+        "track": "An Occasional Dream (2015 Remaster)"
+    },
+    {
+        "datetime": "2026-04-14 21:54:02",
+        "artist": "David Bowie",
+        "album": "David Bowie (aka Space Oddity)",
+        "track": "Wild Eyed Boy From Freecloud (2015 Remaster)"
+    },
+    {
+        "datetime": "2026-04-14 21:58:56",
+        "artist": "David Bowie",
+        "album": "David Bowie (aka Space Oddity)",
+        "track": "God Knows I'm Good (2015 Remaster)"
+    },
+    {
+        "datetime": "2026-04-14 22:02:49",
+        "artist": "Newdad",
+        "album": "Altar",
+        "track": "Misery"
+    },
+    {
+        "datetime": "2026-04-14 22:06:29",
+        "artist": "Newdad",
+        "album": "Altar",
+        "track": "Sinking Kind Of Feeling"
+    },
+    {
+        "datetime": "2026-04-14 22:09:59",
+        "artist": "Newdad",
+        "album": "Altar",
+        "track": "Puzzle"
     }
 ]
