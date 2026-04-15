@@ -1414,5 +1414,35 @@
         "artist": "U2",
         "album": "Easter Lily Ep",
         "track": "COEXIST (I Will Bless The Lord At All Times?)"
+    },
+    {
+        "datetime": "2026-04-15 14:23:06",
+        "artist": "Robert Forster",
+        "album": "Strawberries",
+        "track": "Such A Shame"
+    },
+    {
+        "datetime": "2026-04-15 14:28:52",
+        "artist": "Robert Forster",
+        "album": "Strawberries",
+        "track": "All Of The Time"
+    },
+    {
+        "datetime": "2026-04-15 14:33:13",
+        "artist": "Robert Forster",
+        "album": "Strawberries",
+        "track": "Good To Cry"
+    },
+    {
+        "datetime": "2026-04-15 14:35:41",
+        "artist": "Robert Forster",
+        "album": "Strawberries",
+        "track": "Diamonds"
+    },
+    {
+        "datetime": "2026-04-15 14:41:11",
+        "artist": "Robert Forster",
+        "album": "Strawberries",
+        "track": "Breakfast On The Train"
     }
 ]
