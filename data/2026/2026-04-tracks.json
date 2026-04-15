@@ -1378,5 +1378,41 @@
         "artist": "Newdad",
         "album": "Altar",
         "track": "Puzzle"
+    },
+    {
+        "datetime": "2026-04-15 13:50:12",
+        "artist": "U2",
+        "album": "Easter Lily Ep",
+        "track": "Song For Hal"
+    },
+    {
+        "datetime": "2026-04-15 13:54:51",
+        "artist": "U2",
+        "album": "Easter Lily Ep",
+        "track": "In A Life"
+    },
+    {
+        "datetime": "2026-04-15 13:59:26",
+        "artist": "U2",
+        "album": "Easter Lily Ep",
+        "track": "Scars"
+    },
+    {
+        "datetime": "2026-04-15 14:04:44",
+        "artist": "U2",
+        "album": "Easter Lily Ep",
+        "track": "Resurrection Song"
+    },
+    {
+        "datetime": "2026-04-15 14:09:48",
+        "artist": "U2",
+        "album": "Easter Lily Ep",
+        "track": "Easter Parade"
+    },
+    {
+        "datetime": "2026-04-15 14:15:57",
+        "artist": "U2",
+        "album": "Easter Lily Ep",
+        "track": "COEXIST (I Will Bless The Lord At All Times?)"
     }
 ]
