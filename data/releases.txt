@@ -402,8 +402,9 @@
         "Bee Gees' 1St": -1
     },
     "Being Dead": {
-        "EELS Volume 1": -1,
-        "EELS Volume 2": -1
+        "EELS Volume 1": 2024,
+        "EELS Volume 2": 2024,
+        "When Horses Would Run": 2023
     },
     "Belle and Sebastian": {
         "Girls In Peacetime Want To Dance": -1
@@ -753,7 +754,7 @@
         "I Feel For You": -1
     },
     "Chaparelle": {
-        "Western Pleasure": -1
+        "Western Pleasure": 2024
     },
     "Chapter 4": {
         "Chapter 4": -1
@@ -1372,7 +1373,7 @@
         "Wrecking Ball": 1995
     },
     "English Teacher": {
-        "This Could Be Texas": -1
+        "This Could Be Texas": 2024
     },
     "Eric Bachmann": {
         "No Recover": -1
@@ -2438,10 +2439,11 @@
         "Pohorylle": -1
     },
     "Margo Price": {
-        "Midwest Farmer's Daughter": -1,
-        "Strays": -1,
-        "Strays Ii": -1,
-        "That's How Rumors Get Started": -1
+        "All American Made": 2017,
+        "Midwest Farmer's Daughter": 2016,
+        "Strays": 2023,
+        "Strays Ii": 2023,
+        "That's How Rumors Get Started": 2020
     },
     "Mariah Carey": {
         "Merry Christmas": -1
@@ -3118,11 +3120,15 @@
         "Blue Skies & Free": -1
     },
     "Robert Forster": {
-        "Calling From A Country Phone (Bonus Tracks)": -1,
-        "Inferno": -1,
-        "Songs To Play": -1,
-        "Strawberries": -1,
-        "The Candle And The Flame": -1
+        "Calling From A Country Phone (Bonus Tracks)": 1993,
+        "Danger in the Past": 1990,
+        "I Had a New York Girlfriend": 1994,
+        "Inferno": 2019,
+        "Songs To Play": 2015,
+        "Strawberries": 2025,
+        "The Candle And The Flame": 2023,
+        "The Evangelist": 2008,
+        "Warm Nights": 1996
     },
     "Robert Palmer": {
         "Clues": -1
@@ -3451,10 +3457,11 @@
         "Bye": -1
     },
     "Slowdive": {
-        "Everything Is Alive": -1,
-        "Just For A Day": -1,
-        "Slowdive": -1,
-        "Souvlaki": -1
+        "Everything Is Alive": 2023,
+        "Just For A Day": 1991,
+        "Pygmalion": 1995,
+        "Slowdive": 2017,
+        "Souvlaki": 1993
     },
     "Slug": {
         "Higgledypiggledy": -1
@@ -3606,11 +3613,21 @@
         "It'll All Be Over": -1
     },
     "Suzanne Vega": {
-        "Days Of Open Hand": -1,
-        "Flying With Angels": -1,
-        "Solitude Standing": -1,
-        "Suzanne Vega": -1,
-        "Tales From The Realm Of The Queen Of Pentacles": -1
+        "99.9F": 1992,
+        "An Evening of New York Songs and Stories": 2020,
+        "Beauty & Crime": 2007,
+        "Days Of Open Hand": 1990,
+        "Flying With Angels": 2025,
+        "Live at the Speakeas": 2014,
+        "Live in London 1986": 1986,
+        "Lover, Beloved: Songs from an an Evening with Carson McCullors": 2016,
+        "Nine Objects of Desire": 1996,
+        "Sessions at West 54th": 1997,
+        "Solitude Standing": 1987,
+        "Solitude Standing: Live at the Barbican": 2013,
+        "Songs in read and Gray": 2001,
+        "Suzanne Vega": 1985,
+        "Tales From The Realm Of The Queen Of Pentacles": 2014
     },
     "Suzi Quatro": {
         "A's, B's And Rarities": -1,
