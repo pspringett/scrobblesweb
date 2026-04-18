@@ -1636,5 +1636,35 @@
         "artist": "The Mavericks",
         "album": "Trampoline (Expanded Edition)",
         "track": "I Should Know"
+    },
+    {
+        "datetime": "2026-04-18 23:17:56",
+        "artist": "Anne Mccue",
+        "album": "Roll",
+        "track": "Where the Darkness Grows"
+    },
+    {
+        "datetime": "2026-04-18 23:25:23",
+        "artist": "Anne Mccue",
+        "album": "Roll",
+        "track": "Machine Gun"
+    },
+    {
+        "datetime": "2026-04-18 23:33:38",
+        "artist": "Anne Mccue",
+        "album": "Roll",
+        "track": "Roll"
+    },
+    {
+        "datetime": "2026-04-18 23:38:34",
+        "artist": "Anne Mccue",
+        "album": "Roll",
+        "track": "Crazy Beautiful Child"
+    },
+    {
+        "datetime": "2026-04-18 23:42:43",
+        "artist": "Anne Mccue",
+        "album": "Roll",
+        "track": "Stupid"
     }
 ]
