@@ -1594,5 +1594,47 @@
         "artist": "Creedence Clearwater Revival",
         "album": "Bayou Country",
         "track": "Born on the Bayou"
+    },
+    {
+        "datetime": "2026-04-18 22:43:43",
+        "artist": "Creedence Clearwater Revival",
+        "album": "Bayou Country",
+        "track": "Graveyard Train - Album Version"
+    },
+    {
+        "datetime": "2026-04-18 22:52:21",
+        "artist": "Creedence Clearwater Revival",
+        "album": "Bayou Country",
+        "track": "Good Golly Miss Molly"
+    },
+    {
+        "datetime": "2026-04-18 22:55:06",
+        "artist": "Creedence Clearwater Revival",
+        "album": "Bayou Country",
+        "track": "Penthouse Pauper - Album Version"
+    },
+    {
+        "datetime": "2026-04-18 22:58:46",
+        "artist": "Creedence Clearwater Revival",
+        "album": "Bayou Country",
+        "track": "Proud Mary"
+    },
+    {
+        "datetime": "2026-04-18 23:02:44",
+        "artist": "The Mavericks",
+        "album": "Trampoline (Expanded Edition)",
+        "track": "Dance The Night Away"
+    },
+    {
+        "datetime": "2026-04-18 23:07:07",
+        "artist": "The Mavericks",
+        "album": "Trampoline (Expanded Edition)",
+        "track": "Tell Me Why"
+    },
+    {
+        "datetime": "2026-04-18 23:10:56",
+        "artist": "The Mavericks",
+        "album": "Trampoline (Expanded Edition)",
+        "track": "I Should Know"
     }
 ]
