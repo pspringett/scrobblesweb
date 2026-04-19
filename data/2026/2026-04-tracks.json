@@ -1702,5 +1702,29 @@
         "artist": "Martin Stephenson",
         "album": "Lilac Tree",
         "track": "Folksinger"
+    },
+    {
+        "datetime": "2026-04-19 13:43:54",
+        "artist": "David Bowie",
+        "album": "David Live (2005 mix)",
+        "track": "1984 (Live) [2005 Mix] [2016 Remaster]"
+    },
+    {
+        "datetime": "2026-04-19 13:47:16",
+        "artist": "David Bowie",
+        "album": "David Live (2005 mix)",
+        "track": "1984 (Live) [2005 Mix] [2016 Remaster]"
+    },
+    {
+        "datetime": "2026-04-19 13:49:28",
+        "artist": "David Bowie",
+        "album": "David Live (2005 mix)",
+        "track": "Rock 'N' Roll Suicide (Live) [2005 Mix] [2016 Remaster]"
+    },
+    {
+        "datetime": "2026-04-19 13:54:28",
+        "artist": "Creedence Clearwater Revival",
+        "album": "Bayou Country",
+        "track": "Penthouse Pauper - Album Version"
     }
 ]
