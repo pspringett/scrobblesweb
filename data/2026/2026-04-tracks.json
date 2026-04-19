@@ -1750,5 +1750,23 @@
         "artist": "David Bowie",
         "album": "David Bowie (aka Space Oddity)",
         "track": "Cygnet Committee (2015 Remaster)"
+    },
+    {
+        "datetime": "2026-04-19 21:11:58",
+        "artist": "Creedence Clearwater Revival",
+        "album": "Bayou Country",
+        "track": "Born on the Bayou"
+    },
+    {
+        "datetime": "2026-04-19 21:17:14",
+        "artist": "Creedence Clearwater Revival",
+        "album": "Bayou Country",
+        "track": "Bootleg"
+    },
+    {
+        "datetime": "2026-04-19 21:20:17",
+        "artist": "Creedence Clearwater Revival",
+        "album": "Bayou Country",
+        "track": "Graveyard Train - Album Version"
     }
 ]
