@@ -1798,5 +1798,53 @@
         "artist": "Emma Swift",
         "album": "Blonde On The Tracks",
         "track": "sad eyed lady of the lowlands"
+    },
+    {
+        "datetime": "2026-04-20 13:40:32",
+        "artist": "Emma Swift",
+        "album": "Blonde On The Tracks",
+        "track": "The Man In Me"
+    },
+    {
+        "datetime": "2026-04-20 13:43:59",
+        "artist": "Emma Swift",
+        "album": "Blonde On The Tracks",
+        "track": "going going gone"
+    },
+    {
+        "datetime": "2026-04-20 13:47:29",
+        "artist": "Emma Swift",
+        "album": "Blonde On The Tracks",
+        "track": "you're a big girl now"
+    },
+    {
+        "datetime": "2026-04-20 13:52:57",
+        "artist": "Emma Swift",
+        "album": "Blonde On The Tracks",
+        "track": "I Contain Multitudes (Live)"
+    },
+    {
+        "datetime": "2026-04-20 13:58:11",
+        "artist": "Emma Swift",
+        "album": "Blonde On The Tracks",
+        "track": "Simple Twist of Fate (Live)"
+    },
+    {
+        "datetime": "2026-04-20 14:02:33",
+        "artist": "Emma Swift",
+        "album": "Blonde On The Tracks",
+        "track": "Going Going Gone (Live)"
+    },
+    {
+        "datetime": "2026-04-20 14:05:48",
+        "artist": "Chaparelle",
+        "album": "Western Pleasure",
+        "track": "Bleeding Hearts"
+    },
+    {
+        "datetime": "2026-04-20 14:09:09",
+        "artist": "Chaparelle",
+        "album": "Western Pleasure",
+        "track": "Devil's Music"
     }
 ]
