@@ -1768,5 +1768,35 @@
         "artist": "Creedence Clearwater Revival",
         "album": "Bayou Country",
         "track": "Graveyard Train - Album Version"
+    },
+    {
+        "datetime": "2026-04-20 12:58:30",
+        "artist": "Emma Swift",
+        "album": "Blonde On The Tracks",
+        "track": "queen jane approximately"
+    },
+    {
+        "datetime": "2026-04-20 13:12:13",
+        "artist": "Emma Swift",
+        "album": "Blonde On The Tracks",
+        "track": "I Contain Multitudes"
+    },
+    {
+        "datetime": "2026-04-20 13:17:20",
+        "artist": "Emma Swift",
+        "album": "Blonde On The Tracks",
+        "track": "one of us must know (sooner or later)"
+    },
+    {
+        "datetime": "2026-04-20 13:23:40",
+        "artist": "Emma Swift",
+        "album": "Blonde On The Tracks",
+        "track": "simple twist of fate"
+    },
+    {
+        "datetime": "2026-04-20 13:28:00",
+        "artist": "Emma Swift",
+        "album": "Blonde On The Tracks",
+        "track": "sad eyed lady of the lowlands"
     }
 ]
