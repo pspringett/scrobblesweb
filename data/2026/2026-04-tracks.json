@@ -2314,5 +2314,59 @@
         "artist": "Paul Weller",
         "album": "66",
         "track": "Soul Wandering"
+    },
+    {
+        "datetime": "2026-04-22 16:25:02",
+        "artist": "Everything But the Girl",
+        "album": "Eden",
+        "track": "Each and Every One"
+    },
+    {
+        "datetime": "2026-04-22 16:27:50",
+        "artist": "Everything But the Girl",
+        "album": "Eden",
+        "track": "Bittersweet"
+    },
+    {
+        "datetime": "2026-04-22 16:30:41",
+        "artist": "Everything But the Girl",
+        "album": "Eden",
+        "track": "Tender Blue"
+    },
+    {
+        "datetime": "2026-04-22 16:33:46",
+        "artist": "Everything But the Girl",
+        "album": "Eden",
+        "track": "Another Bridge"
+    },
+    {
+        "datetime": "2026-04-22 16:35:59",
+        "artist": "Everything But the Girl",
+        "album": "Eden",
+        "track": "The Spice Of Life"
+    },
+    {
+        "datetime": "2026-04-22 16:39:30",
+        "artist": "Everything But the Girl",
+        "album": "Eden",
+        "track": "The Dustbowl"
+    },
+    {
+        "datetime": "2026-04-22 16:41:10",
+        "artist": "Everything But the Girl",
+        "album": "Eden",
+        "track": "Crabwalk"
+    },
+    {
+        "datetime": "2026-04-22 16:44:33",
+        "artist": "Everything But the Girl",
+        "album": "Eden",
+        "track": "Even So"
+    },
+    {
+        "datetime": "2026-04-22 16:47:05",
+        "artist": "Everything But the Girl",
+        "album": "Eden",
+        "track": "Frost And Fire"
     }
 ]
