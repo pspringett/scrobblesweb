@@ -2110,5 +2110,59 @@
         "artist": "Elvis Costello",
         "album": "This Year's Model (2021 Remaster / Deluxe)",
         "track": "Roadette Song - Live"
+    },
+    {
+        "datetime": "2026-04-22 11:15:29",
+        "artist": "The Cure",
+        "album": "Seventeen Seconds",
+        "track": "A Reflection"
+    },
+    {
+        "datetime": "2026-04-22 11:17:48",
+        "artist": "The Cure",
+        "album": "Seventeen Seconds",
+        "track": "Play for Today"
+    },
+    {
+        "datetime": "2026-04-22 11:21:27",
+        "artist": "The Cure",
+        "album": "Seventeen Seconds",
+        "track": "Secrets"
+    },
+    {
+        "datetime": "2026-04-22 11:24:47",
+        "artist": "The Cure",
+        "album": "Seventeen Seconds",
+        "track": "In Your House"
+    },
+    {
+        "datetime": "2026-04-22 11:28:54",
+        "artist": "The Cure",
+        "album": "Seventeen Seconds",
+        "track": "Three"
+    },
+    {
+        "datetime": "2026-04-22 11:31:30",
+        "artist": "The Cure",
+        "album": "Seventeen Seconds",
+        "track": "The Final Sound"
+    },
+    {
+        "datetime": "2026-04-22 11:32:22",
+        "artist": "The Cure",
+        "album": "Seventeen Seconds",
+        "track": "A Forest"
+    },
+    {
+        "datetime": "2026-04-22 11:38:16",
+        "artist": "The Cure",
+        "album": "Seventeen Seconds",
+        "track": "M"
+    },
+    {
+        "datetime": "2026-04-22 11:41:20",
+        "artist": "The Cure",
+        "album": "Seventeen Seconds",
+        "track": "At Night"
     }
 ]
