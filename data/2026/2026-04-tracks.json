@@ -2164,5 +2164,29 @@
         "artist": "The Cure",
         "album": "Seventeen Seconds",
         "track": "At Night"
+    },
+    {
+        "datetime": "2026-04-22 11:51:15",
+        "artist": "U2",
+        "album": "Easter Lily Ep",
+        "track": "Song For Hal"
+    },
+    {
+        "datetime": "2026-04-22 11:55:53",
+        "artist": "U2",
+        "album": "Easter Lily Ep",
+        "track": "In A Life"
+    },
+    {
+        "datetime": "2026-04-22 12:00:27",
+        "artist": "U2",
+        "album": "Easter Lily Ep",
+        "track": "Scars"
+    },
+    {
+        "datetime": "2026-04-22 12:05:44",
+        "artist": "U2",
+        "album": "Easter Lily Ep",
+        "track": "Resurrection Song"
     }
 ]
