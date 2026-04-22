@@ -2290,5 +2290,29 @@
         "artist": "Paul Weller",
         "album": "66",
         "track": "Rise Up Singing"
+    },
+    {
+        "datetime": "2026-04-22 15:46:25",
+        "artist": "Paul Weller",
+        "album": "66",
+        "track": "A Glimpse Of You"
+    },
+    {
+        "datetime": "2026-04-22 15:49:59",
+        "artist": "Paul Weller",
+        "album": "66",
+        "track": "Sleepy Hollow"
+    },
+    {
+        "datetime": "2026-04-22 15:53:20",
+        "artist": "Paul Weller",
+        "album": "66",
+        "track": "In Full Flight"
+    },
+    {
+        "datetime": "2026-04-22 15:57:19",
+        "artist": "Paul Weller",
+        "album": "66",
+        "track": "Soul Wandering"
     }
 ]
