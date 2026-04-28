@@ -2488,5 +2488,11 @@
         "artist": "Wolf Alice",
         "album": "The Clearing",
         "track": "Midnight Song"
+    },
+    {
+        "datetime": "2026-04-28 16:53:00",
+        "artist": "Wolf Alice",
+        "album": "Blue Weekend",
+        "track": "The Beach"
     }
 ]
