@@ -2578,5 +2578,29 @@
         "artist": "Martin Stephenson",
         "album": "Lilac Tree",
         "track": "2 Sorrows"
+    },
+    {
+        "datetime": "2026-04-30 21:56:48",
+        "artist": "Creedence Clearwater Revival",
+        "album": "Bayou Country",
+        "track": "Born on the Bayou"
+    },
+    {
+        "datetime": "2026-04-30 22:02:05",
+        "artist": "Creedence Clearwater Revival",
+        "album": "Bayou Country",
+        "track": "Bootleg"
+    },
+    {
+        "datetime": "2026-04-30 22:05:08",
+        "artist": "Creedence Clearwater Revival",
+        "album": "Bayou Country",
+        "track": "Graveyard Train - Album Version"
+    },
+    {
+        "datetime": "2026-04-30 22:13:47",
+        "artist": "Creedence Clearwater Revival",
+        "album": "Bayou Country",
+        "track": "Penthouse Pauper - Album Version"
     }
 ]
