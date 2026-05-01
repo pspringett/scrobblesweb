@@ -34,5 +34,35 @@
         "artist": "Whitelands",
         "album": "Sunlight Echoes",
         "track": "Sparklebaby"
+    },
+    {
+        "datetime": "2026-05-01 19:15:22",
+        "artist": "Whitelands",
+        "album": "Sunlight Echoes",
+        "track": "Blankspace"
+    },
+    {
+        "datetime": "2026-05-01 19:18:28",
+        "artist": "Whitelands",
+        "album": "Sunlight Echoes",
+        "track": "I Am No God, An Effigy"
+    },
+    {
+        "datetime": "2026-05-01 19:23:01",
+        "artist": "Whitelands",
+        "album": "Sunlight Echoes",
+        "track": "Dark Horse"
+    },
+    {
+        "datetime": "2026-05-01 19:26:13",
+        "artist": "Whitelands",
+        "album": "Sunlight Echoes",
+        "track": "Mirrors"
+    },
+    {
+        "datetime": "2026-05-01 19:30:38",
+        "artist": "Whitelands",
+        "album": "Sunlight Echoes",
+        "track": "Golden Daze"
     }
 ]
