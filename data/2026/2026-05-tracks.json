@@ -196,5 +196,29 @@
         "artist": "Lime Garden",
         "album": "Maybe Not Tonight",
         "track": "Do You Know What I'm Thinking"
+    },
+    {
+        "datetime": "2026-05-02 19:25:25",
+        "artist": "David Bowie",
+        "album": "David Live (2005 mix)",
+        "track": "1984 (Live) [2005 Mix] [2016 Remaster]"
+    },
+    {
+        "datetime": "2026-05-02 19:28:49",
+        "artist": "David Bowie",
+        "album": "David Live (2005 mix)",
+        "track": "Rebel Rebel (Live) [2005 Mix] [2016 Remaster]"
+    },
+    {
+        "datetime": "2026-05-02 19:31:31",
+        "artist": "David Bowie",
+        "album": "David Live (2005 mix)",
+        "track": "Moonage Daydream (Live) [2005 Mix] [2016 Remaster]"
+    },
+    {
+        "datetime": "2026-05-02 19:36:39",
+        "artist": "David Bowie",
+        "album": "David Live (2005 mix)",
+        "track": "Sweet Thing / Candidate / Sweet Thing (Live) [2005 Mix] [2016 Remaster]"
     }
 ]
