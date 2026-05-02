@@ -162,16 +162,22 @@
         "The Singles 86": -1
     },
     "A Certain Ratio": {
-        "1982": -1,
-        "Acr Loco": -1,
-        "Sextet": -1,
-        "To Each": -1
+        "1982": 2023,
+        "ACR Loco": 2020,
+        "acr:mcr": 1990,
+        "Change the Station": 1997,
+        "Force": 1986,
+        "Good Together": 1989,
+        "I'd Like to See You Again": 1982,
+        "It All Comes Down to This": 2024,
+        "Mind Made Up": 2008,
+        "Sextet": 1982,
+        "The Graveyard and the Ballroom": 1980,
+        "To Each...": 1981,
+        "Up in Downsville": 1992
     },
     "A Place to Bury Strangers": {
         "Pinned": -1
-    },
-    "A Tribute to Loretta Lynn": {
-        "Butcher Holler": -1
     },
     "A Us": {
         "Mindrocker": -1
@@ -2699,8 +2705,9 @@
         "": -1
     },
     "My Bloody Valentine": {
-        "Isn\u00e2\u20ac\u2122T Anything": -1,
-        "Loveless": -1
+        "Isn't Anything": 1988,
+        "Loveless": 1991,
+        "m b v": 2013
     },
     "Mykola Dmytrovych Leontovych": {
         "Home Alone (Original Motion Picture Soundtrack) [Anniversary Edition]": -1
