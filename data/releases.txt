@@ -288,10 +288,10 @@
         "Strange Cacti": -1
     },
     "Angie Palmer": {
-        "Meanwhile, As Night Falls...": -1,
-        "Old Sticks To Scare A Bird": -1,
-        "Road": -1,
-        "Tales Of Light And Darkness": -1
+        "Meanwhile, As Night Falls...": 2008,
+        "Old Sticks To Scare A Bird": 2012,
+        "Road": 2004,
+        "Tales Of Light And Darkness": 2006
     },
     "Anne Mccue": {
         "Blue Sky Thinkin'": 2015,
