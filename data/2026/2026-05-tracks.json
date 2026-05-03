@@ -268,5 +268,41 @@
         "artist": "David Bowie",
         "album": "David Live (2005 mix)",
         "track": "1984 (Live) [2005 Mix] [2016 Remaster]"
+    },
+    {
+        "datetime": "2026-05-03 11:37:31",
+        "artist": "David Bowie",
+        "album": "David Live (2005 mix)",
+        "track": "Aladdin Sane (Live) [2005 Mix] [2016 Remaster]"
+    },
+    {
+        "datetime": "2026-05-03 11:42:34",
+        "artist": "David Bowie",
+        "album": "David Live (2005 mix)",
+        "track": "All the Young Dudes (Live) [2005 Mix] [2016 Remaster]"
+    },
+    {
+        "datetime": "2026-05-03 11:46:49",
+        "artist": "David Bowie",
+        "album": "David Live (2005 mix)",
+        "track": "Cracked Actor (Live) [2005 Mix] [2016 Remaster]"
+    },
+    {
+        "datetime": "2026-05-03 11:50:16",
+        "artist": "David Bowie",
+        "album": "David Live (2005 mix)",
+        "track": "Rock 'N' Roll with Me (Live) [2005 Mix] [2016 Remaster]"
+    },
+    {
+        "datetime": "2026-05-03 11:55:53",
+        "artist": "Robert Forster",
+        "album": "Strawberries",
+        "track": "All Of The Time"
+    },
+    {
+        "datetime": "2026-05-03 12:00:14",
+        "artist": "Robert Forster",
+        "album": "Strawberries",
+        "track": "Such A Shame"
     }
 ]
