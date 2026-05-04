@@ -550,5 +550,53 @@
         "artist": "Lime Garden",
         "album": "Maybe Not Tonight",
         "track": "Do You Know What I'm Thinking"
+    },
+    {
+        "datetime": "2026-05-04 21:27:54",
+        "artist": "Simple Minds",
+        "album": "Empires And Dance",
+        "track": "Thirty Frames A Second (Remastered 2002)"
+    },
+    {
+        "datetime": "2026-05-04 21:33:11",
+        "artist": "Simple Minds",
+        "album": "Empires And Dance",
+        "track": "Kant Kino (Remastered 2002)"
+    },
+    {
+        "datetime": "2026-05-04 21:35:05",
+        "artist": "Simple Minds",
+        "album": "Empires And Dance",
+        "track": "Room (Remastered 2002)"
+    },
+    {
+        "datetime": "2026-05-04 21:38:07",
+        "artist": "The Belair Lip Bombs",
+        "album": "Again",
+        "track": "Hey You"
+    },
+    {
+        "datetime": "2026-05-04 21:41:49",
+        "artist": "The Belair Lip Bombs",
+        "album": "Again",
+        "track": "If You've Got The Time"
+    },
+    {
+        "datetime": "2026-05-04 21:45:42",
+        "artist": "The Belair Lip Bombs",
+        "album": "Again",
+        "track": "Smiling"
+    },
+    {
+        "datetime": "2026-05-04 21:48:56",
+        "artist": "The Belair Lip Bombs",
+        "album": "Again",
+        "track": "Burning Up"
+    },
+    {
+        "datetime": "2026-05-04 21:53:00",
+        "artist": "The Belair Lip Bombs",
+        "album": "Again",
+        "track": "Price Of A Man"
     }
 ]
