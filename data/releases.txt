@@ -4352,11 +4352,13 @@
         "The Burnt Match": -1
     },
     "The Weather Station": {
-        "Humanhood": -1,
-        "Ignorance": -1,
-        "Loyalty": -1,
-        "Shore": -1,
-        "The Weather Station": -1
+        "All of It Was Mine": 2011,
+        "How is it that I should Look at the Stars": 2022,
+        "Humanhood": 2025,
+        "Ignorance": 2021,
+        "Loyalty": 2015,
+        "The Line": 2009,
+        "The Weather Station": 2017
     },
     "The Wedding Present": {
         "Tommy": -1
