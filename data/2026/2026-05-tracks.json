@@ -1,11 +1,5 @@
 [
     {
-        "datetime": "2026-05-01 11:12:46",
-        "artist": "Martin Stephenson",
-        "album": "Lilac Tree",
-        "track": "2 Sorrows"
-    },
-    {
         "datetime": "2026-05-01 15:42:29",
         "artist": "Whitelands",
         "album": "Sunlight Echoes",
@@ -340,12 +334,6 @@
         "artist": "Vegas Water Taxi",
         "album": "Long Time Caller, First Time Listener",
         "track": "Jamie XX"
-    },
-    {
-        "datetime": "2026-05-03 14:42:57",
-        "artist": "Martin Stephenson",
-        "album": "Lilac Tree",
-        "track": "2 Sorrows"
     },
     {
         "datetime": "2026-05-03 21:28:52",
