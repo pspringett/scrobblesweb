@@ -670,5 +670,35 @@
         "artist": "Emma Swift",
         "album": "Live At Layman Drug Company 2025",
         "track": "Going Where The Lonely Go"
+    },
+    {
+        "datetime": "2026-05-05 22:24:57",
+        "artist": "Emma Swift",
+        "album": "Live At Layman Drug Company 2025",
+        "track": "Signing Off With Love"
+    },
+    {
+        "datetime": "2026-05-05 22:31:17",
+        "artist": "Emma Swift",
+        "album": "Live At Layman Drug Company 2025",
+        "track": "Visions of Joanna"
+    },
+    {
+        "datetime": "2026-05-05 22:37:34",
+        "artist": "David Bowie",
+        "album": "David Bowie (aka Space Oddity)",
+        "track": "Unwashed And Somewhat Slightly Dazed (2015 remaster)"
+    },
+    {
+        "datetime": "2026-05-05 22:44:28",
+        "artist": "David Bowie",
+        "album": "David Bowie (aka Space Oddity)",
+        "track": "Letter to Hermione (2015 Remaster)"
+    },
+    {
+        "datetime": "2026-05-05 22:47:05",
+        "artist": "David Bowie",
+        "album": "David Bowie (aka Space Oddity)",
+        "track": "Cygnet Committee (2015 Remaster)"
     }
 ]
