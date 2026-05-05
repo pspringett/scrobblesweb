@@ -616,5 +616,35 @@
         "artist": "Creedence Clearwater Revival",
         "album": "Bayou Country",
         "track": "Keep On Chooglin' - Album Version"
+    },
+    {
+        "datetime": "2026-05-05 20:50:11",
+        "artist": "Angie Palmer",
+        "album": "Tales Of Light And Darkness",
+        "track": "Fool's Gold"
+    },
+    {
+        "datetime": "2026-05-05 20:56:07",
+        "artist": "Angie Palmer",
+        "album": "Tales Of Light And Darkness",
+        "track": "Down On Zero Street"
+    },
+    {
+        "datetime": "2026-05-05 21:01:49",
+        "artist": "Angie Palmer",
+        "album": "Tales Of Light And Darkness",
+        "track": "Ravens"
+    },
+    {
+        "datetime": "2026-05-05 21:07:46",
+        "artist": "Angie Palmer",
+        "album": "Tales Of Light And Darkness",
+        "track": "Premonition Blues"
+    },
+    {
+        "datetime": "2026-05-05 21:13:09",
+        "artist": "Angie Palmer",
+        "album": "Tales Of Light And Darkness",
+        "track": "Columbus For a Day"
     }
 ]
