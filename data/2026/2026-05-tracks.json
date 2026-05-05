@@ -646,5 +646,29 @@
         "artist": "Angie Palmer",
         "album": "Tales Of Light And Darkness",
         "track": "Columbus For a Day"
+    },
+    {
+        "datetime": "2026-05-05 22:06:55",
+        "artist": "Emma Swift",
+        "album": "Live At Layman Drug Company 2025",
+        "track": "Nothing And Forever"
+    },
+    {
+        "datetime": "2026-05-05 22:11:14",
+        "artist": "Emma Swift",
+        "album": "Live At Layman Drug Company 2025",
+        "track": "No Happy Endings"
+    },
+    {
+        "datetime": "2026-05-05 22:15:07",
+        "artist": "Emma Swift",
+        "album": "Live At Layman Drug Company 2025",
+        "track": "Down And Out In Party City"
+    },
+    {
+        "datetime": "2026-05-05 22:19:53",
+        "artist": "Emma Swift",
+        "album": "Live At Layman Drug Company 2025",
+        "track": "Going Where The Lonely Go"
     }
 ]
