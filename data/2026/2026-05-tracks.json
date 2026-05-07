@@ -904,5 +904,41 @@
         "artist": "Sharon Van Etten",
         "album": "Sharon Van Etten & The Attachment Theory",
         "track": "Somethin\u2019 Ain\u2019t Right"
+    },
+    {
+        "datetime": "2026-05-07 22:24:27",
+        "artist": "Sharon Van Etten",
+        "album": "Sharon Van Etten & The Attachment Theory",
+        "track": "Fading Beauty"
+    },
+    {
+        "datetime": "2026-05-07 22:30:43",
+        "artist": "Sharon Van Etten",
+        "album": "Sharon Van Etten & The Attachment Theory",
+        "track": "I Want You Here"
+    },
+    {
+        "datetime": "2026-05-07 22:37:31",
+        "artist": "Simple Minds",
+        "album": "Empires And Dance",
+        "track": "I Travel (Remastered 2002)"
+    },
+    {
+        "datetime": "2026-05-07 22:41:37",
+        "artist": "Simple Minds",
+        "album": "Empires And Dance",
+        "track": "Today I Died Again (Remastered 2002)"
+    },
+    {
+        "datetime": "2026-05-07 22:46:16",
+        "artist": "Simple Minds",
+        "album": "Empires And Dance",
+        "track": "Celebrate (Remastered 2002)"
+    },
+    {
+        "datetime": "2026-05-07 22:51:26",
+        "artist": "Simple Minds",
+        "album": "Empires And Dance",
+        "track": "This Fear Of Gods (Remastered 2002)"
     }
 ]
