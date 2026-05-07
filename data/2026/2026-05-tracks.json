@@ -892,5 +892,17 @@
         "artist": "Anne Mccue",
         "album": "Roll",
         "track": "Machine Gun"
+    },
+    {
+        "datetime": "2026-05-07 22:13:04",
+        "artist": "Sharon Van Etten",
+        "album": "Sharon Van Etten & The Attachment Theory",
+        "track": "I Can\u2019t Imagine (Why You Feel This Way)"
+    },
+    {
+        "datetime": "2026-05-07 22:16:14",
+        "artist": "Sharon Van Etten",
+        "album": "Sharon Van Etten & The Attachment Theory",
+        "track": "Somethin\u2019 Ain\u2019t Right"
     }
 ]
