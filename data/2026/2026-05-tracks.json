@@ -946,5 +946,29 @@
         "artist": "Simple Minds",
         "album": "Empires And Dance",
         "track": "Capital City (Remastered 2002)"
+    },
+    {
+        "datetime": "2026-05-08 14:50:54",
+        "artist": "T. Rex",
+        "album": "A Beard Of Stars",
+        "track": "Prelude"
+    },
+    {
+        "datetime": "2026-05-08 14:52:01",
+        "artist": "T. Rex",
+        "album": "A Beard Of Stars",
+        "track": "A Daye Laye"
+    },
+    {
+        "datetime": "2026-05-08 14:59:58",
+        "artist": "T. Rex",
+        "album": "A Beard Of Stars",
+        "track": "Prelude"
+    },
+    {
+        "datetime": "2026-05-08 15:01:04",
+        "artist": "T. Rex",
+        "album": "A Beard Of Stars",
+        "track": "A Daye Laye"
     }
 ]
