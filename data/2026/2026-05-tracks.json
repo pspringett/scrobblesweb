@@ -1018,5 +1018,17 @@
         "artist": "Anne Mccue",
         "album": "Roll",
         "track": "Stupid"
+    },
+    {
+        "datetime": "2026-05-08 17:21:25",
+        "artist": "Anne Mccue",
+        "album": "Roll",
+        "track": "Crazy Beautiful Child"
+    },
+    {
+        "datetime": "2026-05-08 17:26:25",
+        "artist": "Anne Mccue",
+        "album": "Roll",
+        "track": "Hangman"
     }
 ]
