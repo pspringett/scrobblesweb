@@ -970,5 +970,29 @@
         "artist": "T. Rex",
         "album": "A Beard Of Stars",
         "track": "A Daye Laye"
+    },
+    {
+        "datetime": "2026-05-08 15:03:01",
+        "artist": "T. Rex",
+        "album": "A Beard Of Stars",
+        "track": "Woodland Bop"
+    },
+    {
+        "datetime": "2026-05-08 15:04:41",
+        "artist": "T. Rex",
+        "album": "A Beard Of Stars",
+        "track": "Fist Heart Mighty Dawn Dart"
+    },
+    {
+        "datetime": "2026-05-08 15:32:13",
+        "artist": "T. Rex",
+        "album": "A Beard Of Stars",
+        "track": "Pavilions Of Sun"
+    },
+    {
+        "datetime": "2026-05-08 15:35:03",
+        "artist": "T. Rex",
+        "album": "A Beard Of Stars",
+        "track": "Organ Blues"
     }
 ]
