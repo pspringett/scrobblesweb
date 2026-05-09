@@ -2449,7 +2449,7 @@
         "All American Made": 2017,
         "Midwest Farmer's Daughter": 2016,
         "Strays": 2023,
-        "Strays Ii": 2023,
+        "Strays II": 2023,
         "That's How Rumors Get Started": 2020
     },
     "Mariah Carey": {
@@ -3786,7 +3786,9 @@
         "A Walk Across The Rooftops": -1
     },
     "The Bluebells": {
-        "In The 21St Century": -1
+        "In the 21st Century": 2023,
+        "Sisters": 1984,
+        "This is...The Bluebells": 2026
     },
     "The Bonzo Dog Band": {
         "Gorilla": -1
