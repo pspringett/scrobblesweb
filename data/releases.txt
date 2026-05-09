@@ -1340,14 +1340,11 @@
     },
     "Emma Swift": {
         "Blonde On The Tracks": 2020,
-        "Down And Out In Party City": 2026,
+        "Emma Swift Singles 2026": 2026,
         "Home Recordings": 2025,
-        "I Didn't Mean To Get Weird On You, Baby": 2025,
         "Live At Layman Drug Company 2025": 2025,
-        "No Happy Endings": 2025,
-        "Nothing And Forever": 2025,
-        "The Resurrection Game": 2025,
-        "You Got Here First": 2026
+        "Live At Bowery Ballroom 2025": 2025,
+        "The Resurrection Game": 2025
     },
     "Emma Tricca": {
         "Aspirin Sun": -1
