@@ -3963,15 +3963,18 @@
     "The French Impressionists": {
         "A Selection Of Songs": -1
     },
-    "The Go": {
-        "16 Lovers Lane": -1,
-        "16 Lovers Lane (Remastered)": -1,
-        "Cut It Out": -1,
-        "Liberty Belle And The Black Diamond Express": -1,
-        "Liberty Belle And The Black Diamond Express (Remastered)": -1,
-        "New Wave Hits Of The 80S": -1,
-        "Right Here": -1,
-        "Tallulah": -1
+    "The Go-Betweens": {
+        "16 Lovers Lane": 1988,
+        "Before Hollywood": 1983,
+        "Bright Yellow Bright Orange": 2003,
+        "Cut It Out": 1987,
+        "Liberty Belle And The Black Diamond Express": 1986,
+        "Oceans Apart": 2005,
+        "Right Here": 1987,
+        "Send Me a Lullaby": 1981,
+        "Spring HIll Fair": 1984,
+        "The Friends of Rachel Worth": 2000,
+        "Tallulah": 1987
     },
     "The Goon Sax": {
         "We're Not Talking": -1
