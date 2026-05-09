@@ -3302,9 +3302,12 @@
     },
     "School of Seven Bells": {
         "Ablaze": -1,
+        "Alpinisms": 2008,
+        "Disconnect From Desire": 2010,
+        "Ghostory": 2012,
         "On My Heart": -1,
         "Open Your Eyes": -1,
-        "SVIIB": -1
+        "SVIIB": 2016
     },
     "Scott Mckenzie": {
         "San Francisco": -1
