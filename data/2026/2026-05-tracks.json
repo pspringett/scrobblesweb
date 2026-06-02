@@ -1324,5 +1324,479 @@
         "artist": "Emma Swift",
         "album": "Emma Swift Singles 2026",
         "track": "I Didn't Mean To Get Weird On You, Baby"
+    },
+    {
+        "datetime": "2026-05-19 06:39:00",
+        "artist": "Emma Swift",
+        "album": "Blonde On The Tracks",
+        "track": "queen jane approximately"
+    },
+    {
+        "datetime": "2026-05-19 06:43:38",
+        "artist": "Emma Swift",
+        "album": "Blonde On The Tracks",
+        "track": "I Contain Multitudes"
+    },
+    {
+        "datetime": "2026-05-19 06:48:45",
+        "artist": "Emma Swift",
+        "album": "Blonde On The Tracks",
+        "track": "one of us must know (sooner or later)"
+    },
+    {
+        "datetime": "2026-05-19 06:55:02",
+        "artist": "Emma Swift",
+        "album": "Blonde On The Tracks",
+        "track": "simple twist of fate"
+    },
+    {
+        "datetime": "2026-05-19 06:59:22",
+        "artist": "Emma Swift",
+        "album": "Blonde On The Tracks",
+        "track": "sad eyed lady of the lowlands"
+    },
+    {
+        "datetime": "2026-05-19 07:11:36",
+        "artist": "Emma Swift",
+        "album": "Blonde On The Tracks",
+        "track": "The Man In Me"
+    },
+    {
+        "datetime": "2026-05-19 07:15:03",
+        "artist": "Emma Swift",
+        "album": "Blonde On The Tracks",
+        "track": "going going gone"
+    },
+    {
+        "datetime": "2026-05-19 07:18:33",
+        "artist": "Emma Swift",
+        "album": "Blonde On The Tracks",
+        "track": "you're a big girl now"
+    },
+    {
+        "datetime": "2026-05-19 07:39:32",
+        "artist": "Bob Dylan",
+        "album": "Bob Dylan",
+        "track": "You're No Good"
+    },
+    {
+        "datetime": "2026-05-19 07:41:20",
+        "artist": "Bob Dylan",
+        "album": "Bob Dylan",
+        "track": "Talkin' New York"
+    },
+    {
+        "datetime": "2026-05-19 07:44:41",
+        "artist": "Bob Dylan",
+        "album": "Bob Dylan",
+        "track": "In My Time of Dyin'"
+    },
+    {
+        "datetime": "2026-05-19 14:35:32",
+        "artist": "Bob Dylan",
+        "album": "Bob Dylan",
+        "track": "Man of Constant Sorrow"
+    },
+    {
+        "datetime": "2026-05-19 14:38:42",
+        "artist": "Bob Dylan",
+        "album": "Bob Dylan",
+        "track": "Fixin' to Die"
+    },
+    {
+        "datetime": "2026-05-19 14:41:06",
+        "artist": "Bob Dylan",
+        "album": "Bob Dylan",
+        "track": "Pretty Peggy-O"
+    },
+    {
+        "datetime": "2026-05-19 14:44:33",
+        "artist": "Bob Dylan",
+        "album": "Bob Dylan",
+        "track": "Highway 51 Blues"
+    },
+    {
+        "datetime": "2026-05-19 14:47:26",
+        "artist": "Bob Dylan",
+        "album": "Bob Dylan",
+        "track": "Gospel Plow"
+    },
+    {
+        "datetime": "2026-05-19 14:49:14",
+        "artist": "Bob Dylan",
+        "album": "Bob Dylan",
+        "track": "Baby, Let Me Follow You Down"
+    },
+    {
+        "datetime": "2026-05-19 14:51:51",
+        "artist": "Bob Dylan",
+        "album": "Bob Dylan",
+        "track": "House of the Risin' Sun"
+    },
+    {
+        "datetime": "2026-05-19 14:57:13",
+        "artist": "Bob Dylan",
+        "album": "Bob Dylan",
+        "track": "Freight Train Blues"
+    },
+    {
+        "datetime": "2026-05-19 14:59:35",
+        "artist": "Bob Dylan",
+        "album": "Bob Dylan",
+        "track": "Song to Woody"
+    },
+    {
+        "datetime": "2026-05-19 15:02:20",
+        "artist": "Bob Dylan",
+        "album": "Bob Dylan",
+        "track": "See That My Grave Is Kept Clean"
+    },
+    {
+        "datetime": "2026-05-21 04:47:49",
+        "artist": "Simple Minds",
+        "album": "New Gold Dream",
+        "track": "Someone Somewhere (In Summertime)"
+    },
+    {
+        "datetime": "2026-05-21 04:52:29",
+        "artist": "Simple Minds",
+        "album": "New Gold Dream",
+        "track": "Colours Fly and Catherine Wheel"
+    },
+    {
+        "datetime": "2026-05-21 04:56:18",
+        "artist": "Simple Minds",
+        "album": "New Gold Dream",
+        "track": "Promised You a Miracle"
+    },
+    {
+        "datetime": "2026-05-21 05:00:45",
+        "artist": "Simple Minds",
+        "album": "New Gold Dream",
+        "track": "Big Sleep"
+    },
+    {
+        "datetime": "2026-05-21 05:05:46",
+        "artist": "Simple Minds",
+        "album": "New Gold Dream",
+        "track": "Somebody Up There Likes You"
+    },
+    {
+        "datetime": "2026-05-22 13:54:13",
+        "artist": "Simple Minds",
+        "album": "New Gold Dream",
+        "track": "New Gold Dream (81/82/83/84)"
+    },
+    {
+        "datetime": "2026-05-22 13:59:52",
+        "artist": "Simple Minds",
+        "album": "New Gold Dream",
+        "track": "Glittering Prize"
+    },
+    {
+        "datetime": "2026-05-22 14:04:25",
+        "artist": "Simple Minds",
+        "album": "New Gold Dream",
+        "track": "Hunter and the Hunted"
+    },
+    {
+        "datetime": "2026-05-22 14:10:20",
+        "artist": "Simple Minds",
+        "album": "New Gold Dream",
+        "track": "King Is White and in the Crowd"
+    },
+    {
+        "datetime": "2026-05-22 14:18:13",
+        "artist": "Simple Minds",
+        "album": "New Gold Dream",
+        "track": "Promised You A Miracle - US Remix"
+    },
+    {
+        "datetime": "2026-05-22 14:24:18",
+        "artist": "Simple Minds",
+        "album": "New Gold Dream",
+        "track": "Promised You A Miracle - US Dub"
+    },
+    {
+        "datetime": "2026-05-22 14:30:06",
+        "artist": "Simple Minds",
+        "album": "New Gold Dream",
+        "track": "Promised You A Miracle - David Jenson Show / 1982"
+    },
+    {
+        "datetime": "2026-05-22 14:34:30",
+        "artist": "Simple Minds",
+        "album": "New Gold Dream",
+        "track": "In Trance As Mission - David Jenson Show / 1982"
+    },
+    {
+        "datetime": "2026-05-22 14:39:04",
+        "artist": "Simple Minds",
+        "album": "New Gold Dream",
+        "track": "King Is White And In The Crowd - Session Version"
+    },
+    {
+        "datetime": "2026-05-22 14:44:59",
+        "artist": "Bob Dylan",
+        "album": "Bob Dylan",
+        "track": "You're No Good"
+    },
+    {
+        "datetime": "2026-05-22 14:46:42",
+        "artist": "Bob Dylan",
+        "album": "Bob Dylan",
+        "track": "Talkin' New York"
+    },
+    {
+        "datetime": "2026-05-22 14:50:04",
+        "artist": "Bob Dylan",
+        "album": "Bob Dylan",
+        "track": "In My Time of Dyin'"
+    },
+    {
+        "datetime": "2026-05-22 14:52:45",
+        "artist": "Bob Dylan",
+        "album": "Bob Dylan",
+        "track": "Man of Constant Sorrow"
+    },
+    {
+        "datetime": "2026-05-22 14:55:56",
+        "artist": "Bob Dylan",
+        "album": "Bob Dylan",
+        "track": "Fixin' to Die"
+    },
+    {
+        "datetime": "2026-05-22 14:58:19",
+        "artist": "Bob Dylan",
+        "album": "Bob Dylan",
+        "track": "Pretty Peggy-O"
+    },
+    {
+        "datetime": "2026-05-23 14:19:38",
+        "artist": "Bob Dylan",
+        "album": "Bob Dylan",
+        "track": "Highway 51 Blues"
+    },
+    {
+        "datetime": "2026-05-23 14:22:30",
+        "artist": "Bob Dylan",
+        "album": "Bob Dylan",
+        "track": "Gospel Plow"
+    },
+    {
+        "datetime": "2026-05-23 14:24:18",
+        "artist": "Bob Dylan",
+        "album": "Bob Dylan",
+        "track": "Baby, Let Me Follow You Down"
+    },
+    {
+        "datetime": "2026-05-23 14:26:56",
+        "artist": "Bob Dylan",
+        "album": "Bob Dylan",
+        "track": "House of the Risin' Sun"
+    },
+    {
+        "datetime": "2026-05-23 14:32:17",
+        "artist": "Bob Dylan",
+        "album": "Bob Dylan",
+        "track": "Freight Train Blues"
+    },
+    {
+        "datetime": "2026-05-23 14:34:39",
+        "artist": "Bob Dylan",
+        "album": "Bob Dylan",
+        "track": "Song to Woody"
+    },
+    {
+        "datetime": "2026-05-23 14:37:25",
+        "artist": "Bob Dylan",
+        "album": "Bob Dylan",
+        "track": "See That My Grave Is Kept Clean"
+    },
+    {
+        "datetime": "2026-05-23 14:40:43",
+        "artist": "Leonard Cohen",
+        "album": "Live In Dublin",
+        "track": "Dance Me to the End of Love - Live in Dublin"
+    },
+    {
+        "datetime": "2026-05-23 14:46:40",
+        "artist": "Leonard Cohen",
+        "album": "Live In Dublin",
+        "track": "The Future - Live in Dublin"
+    },
+    {
+        "datetime": "2026-05-23 14:53:26",
+        "artist": "Leonard Cohen",
+        "album": "Live In Dublin",
+        "track": "Bird on the Wire - Live in Dublin"
+    },
+    {
+        "datetime": "2026-05-26 03:36:57",
+        "artist": "Bob Dylan",
+        "album": "The Freewheelin' Bob Dylan",
+        "track": "Blowin' in the Wind"
+    },
+    {
+        "datetime": "2026-05-26 03:39:47",
+        "artist": "Bob Dylan",
+        "album": "The Freewheelin' Bob Dylan",
+        "track": "Girl From the North Country"
+    },
+    {
+        "datetime": "2026-05-26 03:48:17",
+        "artist": "Bob Dylan",
+        "album": "The Freewheelin' Bob Dylan",
+        "track": "Masters of War"
+    },
+    {
+        "datetime": "2026-05-26 03:55:32",
+        "artist": "Bob Dylan",
+        "album": "The Freewheelin' Bob Dylan",
+        "track": "Down the Highway"
+    },
+    {
+        "datetime": "2026-05-26 03:59:04",
+        "artist": "Bob Dylan",
+        "album": "The Freewheelin' Bob Dylan",
+        "track": "Bob Dylan's Blues"
+    },
+    {
+        "datetime": "2026-05-26 04:01:32",
+        "artist": "Bob Dylan",
+        "album": "The Freewheelin' Bob Dylan",
+        "track": "A Hard Rain's a-Gonna Fall"
+    },
+    {
+        "datetime": "2026-05-26 04:08:25",
+        "artist": "Bob Dylan",
+        "album": "The Freewheelin' Bob Dylan",
+        "track": "Don't Think Twice, It's All Right"
+    },
+    {
+        "datetime": "2026-05-26 04:12:06",
+        "artist": "Bob Dylan",
+        "album": "The Freewheelin' Bob Dylan",
+        "track": "Bob Dylan's Dream"
+    },
+    {
+        "datetime": "2026-05-26 04:17:09",
+        "artist": "Bob Dylan",
+        "album": "The Freewheelin' Bob Dylan",
+        "track": "Oxford Town"
+    },
+    {
+        "datetime": "2026-05-26 04:18:59",
+        "artist": "Bob Dylan",
+        "album": "The Freewheelin' Bob Dylan",
+        "track": "Talkin' World War III Blues"
+    },
+    {
+        "datetime": "2026-05-26 04:25:27",
+        "artist": "Bob Dylan",
+        "album": "The Freewheelin' Bob Dylan",
+        "track": "Corrina, Corrina"
+    },
+    {
+        "datetime": "2026-05-26 04:28:11",
+        "artist": "Bob Dylan",
+        "album": "The Freewheelin' Bob Dylan",
+        "track": "Honey, Just Allow Me One More Chance"
+    },
+    {
+        "datetime": "2026-05-26 04:30:12",
+        "artist": "Bob Dylan",
+        "album": "The Freewheelin' Bob Dylan",
+        "track": "I Shall Be Free"
+    },
+    {
+        "datetime": "2026-05-31 06:15:14",
+        "artist": "Simple Minds",
+        "album": "Empires And Dance",
+        "track": "I Travel (Remastered 2002)"
+    },
+    {
+        "datetime": "2026-05-31 06:19:21",
+        "artist": "Simple Minds",
+        "album": "Empires And Dance",
+        "track": "Today I Died Again (Remastered 2002)"
+    },
+    {
+        "datetime": "2026-05-31 06:25:13",
+        "artist": "Simple Minds",
+        "album": "Empires And Dance",
+        "track": "Celebrate (Remastered 2002)"
+    },
+    {
+        "datetime": "2026-05-31 06:30:23",
+        "artist": "Simple Minds",
+        "album": "Empires And Dance",
+        "track": "This Fear Of Gods (Remastered 2002)"
+    },
+    {
+        "datetime": "2026-05-31 14:29:09",
+        "artist": "Simple Minds",
+        "album": "Empires And Dance",
+        "track": "Capital City (Remastered 2002)"
+    },
+    {
+        "datetime": "2026-05-31 14:35:27",
+        "artist": "Simple Minds",
+        "album": "Empires And Dance",
+        "track": "Constantinople Line (Remastered 2002)"
+    },
+    {
+        "datetime": "2026-05-31 14:40:11",
+        "artist": "Simple Minds",
+        "album": "Empires And Dance",
+        "track": "Twist/Run/Repulsion (Remastered 2002)"
+    },
+    {
+        "datetime": "2026-05-31 14:44:51",
+        "artist": "Simple Minds",
+        "album": "Empires And Dance",
+        "track": "Thirty Frames A Second (Remastered 2002)"
+    },
+    {
+        "datetime": "2026-05-31 14:49:56",
+        "artist": "Simple Minds",
+        "album": "Empires And Dance",
+        "track": "Kant Kino (Remastered 2002)"
+    },
+    {
+        "datetime": "2026-05-31 14:51:49",
+        "artist": "Simple Minds",
+        "album": "Empires And Dance",
+        "track": "Room (Remastered 2002)"
+    },
+    {
+        "datetime": "2026-05-31 14:58:08",
+        "artist": "Simple Minds",
+        "album": "New Gold Dream",
+        "track": "Promised You A Miracle - David Jenson Show / 1982"
+    },
+    {
+        "datetime": "2026-05-31 15:02:34",
+        "artist": "Simple Minds",
+        "album": "New Gold Dream",
+        "track": "Promised You a Miracle"
+    },
+    {
+        "datetime": "2026-05-31 15:07:17",
+        "artist": "Simple Minds",
+        "album": "New Gold Dream",
+        "track": "In Trance As Mission - David Jenson Show / 1982"
+    },
+    {
+        "datetime": "2026-05-31 15:12:09",
+        "artist": "Bob Dylan",
+        "album": "The Freewheelin' Bob Dylan",
+        "track": "Bob Dylan's Blues"
+    },
+    {
+        "datetime": "2026-05-31 15:14:38",
+        "artist": "Bob Dylan",
+        "album": "The Freewheelin' Bob Dylan",
+        "track": "A Hard Rain's a-Gonna Fall"
     }
 ]
