@@ -82,5 +82,41 @@
         "artist": "Leonard Cohen",
         "album": "Live In Dublin",
         "track": "So Long, Marianne - Live in Dublin"
+    },
+    {
+        "datetime": "2026-06-03 21:48:29",
+        "artist": "Orchestral Manoeuvres in the Dark",
+        "album": "Bauhaus Staircase",
+        "track": "Bauhaus Staircase"
+    },
+    {
+        "datetime": "2026-06-03 21:52:26",
+        "artist": "Orchestral Manoeuvres in the Dark",
+        "album": "Bauhaus Staircase",
+        "track": "Anthropocene"
+    },
+    {
+        "datetime": "2026-06-03 21:58:15",
+        "artist": "Orchestral Manoeuvres in the Dark",
+        "album": "Bauhaus Staircase",
+        "track": "Look At You Now"
+    },
+    {
+        "datetime": "2026-06-03 22:01:36",
+        "artist": "Orchestral Manoeuvres in the Dark",
+        "album": "Bauhaus Staircase",
+        "track": "G.E.M."
+    },
+    {
+        "datetime": "2026-06-03 22:04:35",
+        "artist": "Orchestral Manoeuvres in the Dark",
+        "album": "Bauhaus Staircase",
+        "track": "Where We Started"
+    },
+    {
+        "datetime": "2026-06-03 22:07:00",
+        "artist": "Orchestral Manoeuvres in the Dark",
+        "album": "Bauhaus Staircase",
+        "track": "Veruschka"
     }
 ]
