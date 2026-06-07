@@ -172,5 +172,29 @@
         "artist": "Orchestral Manoeuvres in the Dark",
         "album": "Bauhaus Staircase",
         "track": "Kleptocracy"
+    },
+    {
+        "datetime": "2026-06-07 19:38:54",
+        "artist": "Orchestral Manoeuvres in the Dark",
+        "album": "Bauhaus Staircase",
+        "track": "Evolution Of Species"
+    },
+    {
+        "datetime": "2026-06-07 19:41:59",
+        "artist": "Orchestral Manoeuvres in the Dark",
+        "album": "Bauhaus Staircase",
+        "track": "Healing"
+    },
+    {
+        "datetime": "2026-06-07 19:47:06",
+        "artist": "The Bluebells",
+        "album": "This is...The Bluebells",
+        "track": "Sing Like Little Birds Sing"
+    },
+    {
+        "datetime": "2026-06-07 19:50:17",
+        "artist": "The Bluebells",
+        "album": "This is...The Bluebells",
+        "track": "What I See Up On The Roof"
     }
 ]
