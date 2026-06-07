@@ -154,5 +154,23 @@
         "artist": "Nell Davies",
         "album": "Nell Davies Singles 2026",
         "track": "Go Big or Go Home"
+    },
+    {
+        "datetime": "2026-06-07 19:25:00",
+        "artist": "Orchestral Manoeuvres in the Dark",
+        "album": "Bauhaus Staircase",
+        "track": "Slow Train"
+    },
+    {
+        "datetime": "2026-06-07 19:28:57",
+        "artist": "Orchestral Manoeuvres in the Dark",
+        "album": "Bauhaus Staircase",
+        "track": "Don't Go"
+    },
+    {
+        "datetime": "2026-06-07 19:32:26",
+        "artist": "Orchestral Manoeuvres in the Dark",
+        "album": "Bauhaus Staircase",
+        "track": "Kleptocracy"
     }
 ]
