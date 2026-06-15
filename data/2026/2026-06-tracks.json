@@ -352,5 +352,23 @@
         "artist": "Simple Minds",
         "album": "Once Upon A Time",
         "track": "Don't You (Forget About Me)"
+    },
+    {
+        "datetime": "2026-06-15 13:35:29",
+        "artist": "Simple Minds",
+        "album": "Once Upon A Time",
+        "track": "Sanctify Yourself (Dub Version)"
+    },
+    {
+        "datetime": "2026-06-15 13:41:44",
+        "artist": "The Bluebells",
+        "album": "This Is...The Bluebells",
+        "track": "Sing Like Little Birds Sing"
+    },
+    {
+        "datetime": "2026-06-15 13:44:52",
+        "artist": "The Bluebells",
+        "album": "This Is...The Bluebells",
+        "track": "What I See Up On The Roof"
     }
 ]
