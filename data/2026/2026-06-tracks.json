@@ -538,5 +538,29 @@
         "artist": "The Fall",
         "album": "Hex Enduction Hour",
         "track": "And This Day"
+    },
+    {
+        "datetime": "2026-06-15 16:06:07",
+        "artist": "U2",
+        "album": "Easter Lily Ep",
+        "track": "In A Life"
+    },
+    {
+        "datetime": "2026-06-15 16:10:41",
+        "artist": "U2",
+        "album": "Easter Lily Ep",
+        "track": "Scars"
+    },
+    {
+        "datetime": "2026-06-15 16:15:58",
+        "artist": "U2",
+        "album": "Easter Lily Ep",
+        "track": "Resurrection Song"
+    },
+    {
+        "datetime": "2026-06-15 16:21:01",
+        "artist": "U2",
+        "album": "Easter Lily Ep",
+        "track": "Easter Parade"
     }
 ]
