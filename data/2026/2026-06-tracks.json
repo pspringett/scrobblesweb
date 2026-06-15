@@ -316,5 +316,41 @@
         "artist": "Simple Minds",
         "album": "Once Upon A Time",
         "track": "Ghost Dancing"
+    },
+    {
+        "datetime": "2026-06-15 12:40:43",
+        "artist": "Simple Minds",
+        "album": "Once Upon A Time",
+        "track": "Alive and Kicking"
+    },
+    {
+        "datetime": "2026-06-15 12:46:09",
+        "artist": "Simple Minds",
+        "album": "Once Upon A Time",
+        "track": "Oh Jungleland"
+    },
+    {
+        "datetime": "2026-06-15 12:51:22",
+        "artist": "Simple Minds",
+        "album": "Once Upon A Time",
+        "track": "I Wish You Were Here"
+    },
+    {
+        "datetime": "2026-06-15 12:56:05",
+        "artist": "Simple Minds",
+        "album": "Once Upon A Time",
+        "track": "Sanctify Yourself"
+    },
+    {
+        "datetime": "2026-06-15 13:01:03",
+        "artist": "Simple Minds",
+        "album": "Once Upon A Time",
+        "track": "Come a Long Way"
+    },
+    {
+        "datetime": "2026-06-15 13:06:12",
+        "artist": "Simple Minds",
+        "album": "Once Upon A Time",
+        "track": "Don't You (Forget About Me)"
     }
 ]
