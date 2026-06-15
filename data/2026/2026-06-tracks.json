@@ -508,5 +508,35 @@
         "artist": "The Fall",
         "album": "Hex Enduction Hour",
         "track": "Mere Pseud Mag. Ed."
+    },
+    {
+        "datetime": "2026-06-15 15:32:03",
+        "artist": "The Fall",
+        "album": "Hex Enduction Hour",
+        "track": "Winter 2"
+    },
+    {
+        "datetime": "2026-06-15 15:36:33",
+        "artist": "The Fall",
+        "album": "Hex Enduction Hour",
+        "track": "Just Stop S'ways"
+    },
+    {
+        "datetime": "2026-06-15 15:39:57",
+        "artist": "The Fall",
+        "album": "Hex Enduction Hour",
+        "track": "Who Makes the Nazis?"
+    },
+    {
+        "datetime": "2026-06-15 15:44:27",
+        "artist": "The Fall",
+        "album": "Hex Enduction Hour",
+        "track": "Iceland"
+    },
+    {
+        "datetime": "2026-06-15 15:51:10",
+        "artist": "The Fall",
+        "album": "Hex Enduction Hour",
+        "track": "And This Day"
     }
 ]
