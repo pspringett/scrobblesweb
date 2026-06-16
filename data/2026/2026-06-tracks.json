@@ -664,5 +664,17 @@
         "artist": "Josh Ritter",
         "album": "I Believe In You, My Honeydew",
         "track": "The Throne"
+    },
+    {
+        "datetime": "2026-06-16 13:45:40",
+        "artist": "The Redlands Palomino Company",
+        "album": "Broken Carelessly",
+        "track": "In These Lines"
+    },
+    {
+        "datetime": "2026-06-16 14:07:44",
+        "artist": "The Redlands Palomino Company",
+        "album": "Broken Carelessly",
+        "track": "Solitary Strangers"
     }
 ]
