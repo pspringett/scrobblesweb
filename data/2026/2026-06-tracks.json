@@ -742,5 +742,53 @@
         "artist": "The Redlands Palomino Company",
         "album": "Broken Carelessly",
         "track": "Band Song"
+    },
+    {
+        "datetime": "2026-06-17 10:21:34",
+        "artist": "Leonard Cohen",
+        "album": "Various Positions",
+        "track": "Dance Me to the End of Love"
+    },
+    {
+        "datetime": "2026-06-17 10:26:14",
+        "artist": "Leonard Cohen",
+        "album": "Various Positions",
+        "track": "Coming Back to You"
+    },
+    {
+        "datetime": "2026-06-17 10:29:50",
+        "artist": "Leonard Cohen",
+        "album": "Various Positions",
+        "track": "The Law"
+    },
+    {
+        "datetime": "2026-06-17 10:34:19",
+        "artist": "Leonard Cohen",
+        "album": "Various Positions",
+        "track": "Night Comes On"
+    },
+    {
+        "datetime": "2026-06-17 10:39:01",
+        "artist": "Leonard Cohen",
+        "album": "Various Positions",
+        "track": "Hallelujah"
+    },
+    {
+        "datetime": "2026-06-17 10:43:41",
+        "artist": "Leonard Cohen",
+        "album": "Various Positions",
+        "track": "The Captain"
+    },
+    {
+        "datetime": "2026-06-17 10:47:51",
+        "artist": "Leonard Cohen",
+        "album": "Various Positions",
+        "track": "Hunter's Lullaby"
+    },
+    {
+        "datetime": "2026-06-17 10:50:18",
+        "artist": "Leonard Cohen",
+        "album": "Various Positions",
+        "track": "Heart with No Companion"
     }
 ]
