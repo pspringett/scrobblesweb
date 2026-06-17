@@ -976,5 +976,23 @@
         "artist": "Suzanne Vega",
         "album": "Suzanne Vega",
         "track": "Neighborhood Girls"
+    },
+    {
+        "datetime": "2026-06-17 13:13:50",
+        "artist": "Sharon Van Etten",
+        "album": "Sharon Van Etten & The Attachment Theory",
+        "track": "Afterlife"
+    },
+    {
+        "datetime": "2026-06-17 13:17:58",
+        "artist": "Sharon Van Etten",
+        "album": "Sharon Van Etten & The Attachment Theory",
+        "track": "Idiot Box"
+    },
+    {
+        "datetime": "2026-06-17 13:23:25",
+        "artist": "Sharon Van Etten",
+        "album": "Sharon Van Etten & The Attachment Theory",
+        "track": "Trouble"
     }
 ]
