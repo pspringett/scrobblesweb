@@ -994,5 +994,35 @@
         "artist": "Sharon Van Etten",
         "album": "Sharon Van Etten & The Attachment Theory",
         "track": "Trouble"
+    },
+    {
+        "datetime": "2026-06-20 13:16:35",
+        "artist": "Haircut 100",
+        "album": "Boxing The Compass",
+        "track": "Come Back To Me"
+    },
+    {
+        "datetime": "2026-06-20 13:19:52",
+        "artist": "Haircut 100",
+        "album": "Boxing The Compass",
+        "track": "Vanishing Point"
+    },
+    {
+        "datetime": "2026-06-20 13:23:44",
+        "artist": "Haircut 100",
+        "album": "Boxing The Compass",
+        "track": "Soulbird"
+    },
+    {
+        "datetime": "2026-06-20 13:27:09",
+        "artist": "Haircut 100",
+        "album": "Boxing The Compass",
+        "track": "Raincloud"
+    },
+    {
+        "datetime": "2026-06-20 13:30:45",
+        "artist": "Haircut 100",
+        "album": "Boxing The Compass",
+        "track": "Sunshine"
     }
 ]
