@@ -1024,5 +1024,23 @@
         "artist": "Haircut 100",
         "album": "Boxing The Compass",
         "track": "Sunshine"
+    },
+    {
+        "datetime": "2026-06-20 17:08:26",
+        "artist": "Haircut 100",
+        "album": "Boxing The Compass",
+        "track": "The Unloving Plum"
+    },
+    {
+        "datetime": "2026-06-20 17:11:39",
+        "artist": "Haircut 100",
+        "album": "Boxing The Compass",
+        "track": "Someone"
+    },
+    {
+        "datetime": "2026-06-20 17:15:54",
+        "artist": "Haircut 100",
+        "album": "Boxing The Compass",
+        "track": "Thats A Start"
     }
 ]
