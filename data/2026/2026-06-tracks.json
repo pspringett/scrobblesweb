@@ -1132,5 +1132,23 @@
         "artist": "Haircut 100",
         "album": "Boxing The Compass",
         "track": "Soulbird"
+    },
+    {
+        "datetime": "2026-06-21 22:02:21",
+        "artist": "Robert Forster",
+        "album": "Strawberries",
+        "track": "Tell It Back To Me"
+    },
+    {
+        "datetime": "2026-06-21 22:05:57",
+        "artist": "Robert Forster",
+        "album": "Strawberries",
+        "track": "Foolish I Know"
+    },
+    {
+        "datetime": "2026-06-21 22:09:54",
+        "artist": "Robert Forster",
+        "album": "Strawberries",
+        "track": "Such A Shame"
     }
 ]
