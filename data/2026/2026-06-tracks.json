@@ -1288,5 +1288,35 @@
         "artist": "Haircut 100",
         "album": "Boxing The Compass",
         "track": "Raincloud"
+    },
+    {
+        "datetime": "2026-06-27 22:52:58",
+        "artist": "Simple Minds",
+        "album": "Empires And Dance",
+        "track": "I Travel (Remastered 2002)"
+    },
+    {
+        "datetime": "2026-06-27 22:57:04",
+        "artist": "Simple Minds",
+        "album": "Empires And Dance",
+        "track": "Today I Died Again (Remastered 2002)"
+    },
+    {
+        "datetime": "2026-06-27 23:01:44",
+        "artist": "Simple Minds",
+        "album": "Empires And Dance",
+        "track": "Celebrate (Remastered 2002)"
+    },
+    {
+        "datetime": "2026-06-27 23:06:54",
+        "artist": "Simple Minds",
+        "album": "Empires And Dance",
+        "track": "This Fear Of Gods (Remastered 2002)"
+    },
+    {
+        "datetime": "2026-06-27 23:13:56",
+        "artist": "Simple Minds",
+        "album": "Empires And Dance",
+        "track": "Capital City (Remastered 2002)"
     }
 ]
