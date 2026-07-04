@@ -340,5 +340,23 @@
         "artist": "Haircut 100",
         "album": "Boxing The Compass",
         "track": "Come Back To Me"
+    },
+    {
+        "datetime": "2026-07-04 22:28:56",
+        "artist": "Haircut 100",
+        "album": "Boxing The Compass",
+        "track": "Soulbird"
+    },
+    {
+        "datetime": "2026-07-04 22:32:21",
+        "artist": "Haircut 100",
+        "album": "Boxing The Compass",
+        "track": "Raincloud"
+    },
+    {
+        "datetime": "2026-07-04 22:35:57",
+        "artist": "Haircut 100",
+        "album": "Boxing The Compass",
+        "track": "Sunshine"
     }
 ]
