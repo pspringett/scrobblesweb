@@ -370,5 +370,17 @@
         "artist": "Haircut 100",
         "album": "Boxing The Compass",
         "track": "Dynamite"
+    },
+    {
+        "datetime": "2026-07-07 17:32:53",
+        "artist": "Sharon Van Etten",
+        "album": "Sharon Van Etten & The Attachment Theory",
+        "track": "Live Forever"
+    },
+    {
+        "datetime": "2026-07-07 17:38:35",
+        "artist": "Sharon Van Etten",
+        "album": "Sharon Van Etten & The Attachment Theory",
+        "track": "Afterlife"
     }
 ]
