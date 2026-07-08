@@ -466,5 +466,17 @@
         "artist": "Creedence Clearwater Revival",
         "album": "Green River",
         "track": "The Night Time Is The Right Time (Remastered 1985)"
+    },
+    {
+        "datetime": "2026-07-08 15:30:03",
+        "artist": "Haircut 100",
+        "album": "Boxing The Compass",
+        "track": "The Unloving Plum"
+    },
+    {
+        "datetime": "2026-07-08 15:33:16",
+        "artist": "Haircut 100",
+        "album": "Boxing The Compass",
+        "track": "Someone"
     }
 ]
