@@ -418,5 +418,47 @@
         "artist": "Sharon Van Etten",
         "album": "Sharon Van Etten & The Attachment Theory",
         "track": "Fading Beauty"
+    },
+    {
+        "datetime": "2026-07-08 10:32:59",
+        "artist": "Creedence Clearwater Revival",
+        "album": "Green River",
+        "track": "Green River (Remastered 1985)"
+    },
+    {
+        "datetime": "2026-07-08 10:35:37",
+        "artist": "Creedence Clearwater Revival",
+        "album": "Green River",
+        "track": "Commotion (Remastered 1985)"
+    },
+    {
+        "datetime": "2026-07-08 10:38:22",
+        "artist": "Creedence Clearwater Revival",
+        "album": "Green River",
+        "track": "Tombstone Shadow (Remastered 1985)"
+    },
+    {
+        "datetime": "2026-07-08 10:42:02",
+        "artist": "Creedence Clearwater Revival",
+        "album": "Green River",
+        "track": "Wrote A Song For Everyone (Remastered 1985)"
+    },
+    {
+        "datetime": "2026-07-08 10:47:00",
+        "artist": "Creedence Clearwater Revival",
+        "album": "Green River",
+        "track": "Bad Moon Rising (Remastered 1985)"
+    },
+    {
+        "datetime": "2026-07-08 10:49:23",
+        "artist": "Creedence Clearwater Revival",
+        "album": "Green River",
+        "track": "Lodi (Remastered 1985)"
+    },
+    {
+        "datetime": "2026-07-08 10:52:36",
+        "artist": "Creedence Clearwater Revival",
+        "album": "Green River",
+        "track": "Cross-Tie Walker (Remastered 1985)"
     }
 ]
