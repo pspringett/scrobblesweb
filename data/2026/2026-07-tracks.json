@@ -478,5 +478,23 @@
         "artist": "Haircut 100",
         "album": "Boxing The Compass",
         "track": "Someone"
+    },
+    {
+        "datetime": "2026-07-08 15:37:30",
+        "artist": "Haircut 100",
+        "album": "Boxing The Compass",
+        "track": "Thats A Start"
+    },
+    {
+        "datetime": "2026-07-08 15:41:06",
+        "artist": "Haircut 100",
+        "album": "Boxing The Compass",
+        "track": "Dynamite"
+    },
+    {
+        "datetime": "2026-07-08 15:44:21",
+        "artist": "Haircut 100",
+        "album": "Boxing The Compass",
+        "track": "A Wonderful Life"
     }
 ]
