@@ -910,5 +910,23 @@
         "artist": "Emma Swift",
         "album": "Live At Bowery Ballroom 2025",
         "track": "Going Where The Lonely Go"
+    },
+    {
+        "datetime": "2026-07-20 16:00:02",
+        "artist": "Emma Swift",
+        "album": "Live At Bowery Ballroom 2025",
+        "track": "The Resurrection Game"
+    },
+    {
+        "datetime": "2026-07-20 16:05:34",
+        "artist": "Emma Swift",
+        "album": "Live At Bowery Ballroom 2025",
+        "track": "Catholic Girls Are Easy"
+    },
+    {
+        "datetime": "2026-07-20 16:10:50",
+        "artist": "Emma Swift",
+        "album": "Live At Bowery Ballroom 2025",
+        "track": "Beautiful Ruins"
     }
 ]
