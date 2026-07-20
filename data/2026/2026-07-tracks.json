@@ -904,5 +904,11 @@
         "artist": "David Bowie",
         "album": "Low",
         "track": "Be My Wife (2017 remaster)"
+    },
+    {
+        "datetime": "2026-07-20 15:55:03",
+        "artist": "Emma Swift",
+        "album": "Live At Bowery Ballroom 2025",
+        "track": "Going Where The Lonely Go"
     }
 ]
