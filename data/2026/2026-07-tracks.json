@@ -1102,5 +1102,41 @@
         "artist": "Haircut 100",
         "album": "Boxing The Compass",
         "track": "A Wonderful Life"
+    },
+    {
+        "datetime": "2026-07-21 13:20:51",
+        "artist": "David Bowie",
+        "album": "Lodger (2017 Remaster)",
+        "track": "Fantastic Voyage (2017 remaster)"
+    },
+    {
+        "datetime": "2026-07-21 13:23:49",
+        "artist": "David Bowie",
+        "album": "Lodger (2017 Remaster)",
+        "track": "African Night Flight (2017 remaster)"
+    },
+    {
+        "datetime": "2026-07-21 13:26:46",
+        "artist": "David Bowie",
+        "album": "Lodger (2017 Remaster)",
+        "track": "Move On (2017 remaster)"
+    },
+    {
+        "datetime": "2026-07-21 13:30:06",
+        "artist": "David Bowie",
+        "album": "Lodger (2017 Remaster)",
+        "track": "Yassassin (Turkish For: Long Live) [2017 Remaster]"
+    },
+    {
+        "datetime": "2026-07-21 13:34:19",
+        "artist": "David Bowie",
+        "album": "Lodger (2017 Remaster)",
+        "track": "Red Sails (2017 remaster)"
+    },
+    {
+        "datetime": "2026-07-21 13:38:04",
+        "artist": "David Bowie",
+        "album": "Lodger (2017 Remaster)",
+        "track": "D.J. (2017 remaster)"
     }
 ]
