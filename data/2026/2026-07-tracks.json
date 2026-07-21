@@ -1138,5 +1138,59 @@
         "artist": "David Bowie",
         "album": "Lodger (2017 Remaster)",
         "track": "D.J. (2017 remaster)"
+    },
+    {
+        "datetime": "2026-07-21 13:42:05",
+        "artist": "David Bowie",
+        "album": "Lodger (2017 Remaster)",
+        "track": "Look Back In Anger (2017 remaster)"
+    },
+    {
+        "datetime": "2026-07-21 13:45:14",
+        "artist": "David Bowie",
+        "album": "Lodger (2017 Remaster)",
+        "track": "Boys Keep Swinging (2017 remaster)"
+    },
+    {
+        "datetime": "2026-07-21 13:48:32",
+        "artist": "David Bowie",
+        "album": "Lodger (2017 Remaster)",
+        "track": "Repetition (2017 remaster)"
+    },
+    {
+        "datetime": "2026-07-21 13:51:32",
+        "artist": "David Bowie",
+        "album": "Lodger (2017 Remaster)",
+        "track": "Red Money (2017 remaster)"
+    },
+    {
+        "datetime": "2026-07-21 13:55:52",
+        "artist": "Orchestral Manoeuvres in the Dark",
+        "album": "The Punishment Of Luxury",
+        "track": "The Punishment of Luxury"
+    },
+    {
+        "datetime": "2026-07-21 13:59:17",
+        "artist": "Orchestral Manoeuvres in the Dark",
+        "album": "The Punishment Of Luxury",
+        "track": "Isotype"
+    },
+    {
+        "datetime": "2026-07-21 14:05:27",
+        "artist": "Orchestral Manoeuvres in the Dark",
+        "album": "The Punishment Of Luxury",
+        "track": "Robot Man"
+    },
+    {
+        "datetime": "2026-07-21 14:08:27",
+        "artist": "Orchestral Manoeuvres in the Dark",
+        "album": "The Punishment Of Luxury",
+        "track": "What Have We Done"
+    },
+    {
+        "datetime": "2026-07-21 14:12:14",
+        "artist": "Orchestral Manoeuvres in the Dark",
+        "album": "The Punishment Of Luxury",
+        "track": "Precision & Decay"
     }
 ]
