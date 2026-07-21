@@ -1048,5 +1048,53 @@
         "artist": "Roxy Music",
         "album": "The Best Of Roxy Music",
         "track": "Virginia Plain"
+    },
+    {
+        "datetime": "2026-07-21 12:03:29",
+        "artist": "Haircut 100",
+        "album": "Boxing The Compass",
+        "track": "Come Back To Me"
+    },
+    {
+        "datetime": "2026-07-21 12:06:46",
+        "artist": "Haircut 100",
+        "album": "Boxing The Compass",
+        "track": "Vanishing Point"
+    },
+    {
+        "datetime": "2026-07-21 12:10:37",
+        "artist": "Haircut 100",
+        "album": "Boxing The Compass",
+        "track": "Soulbird"
+    },
+    {
+        "datetime": "2026-07-21 12:14:01",
+        "artist": "Haircut 100",
+        "album": "Boxing The Compass",
+        "track": "Raincloud"
+    },
+    {
+        "datetime": "2026-07-21 12:17:37",
+        "artist": "Haircut 100",
+        "album": "Boxing The Compass",
+        "track": "Sunshine"
+    },
+    {
+        "datetime": "2026-07-21 12:21:56",
+        "artist": "Haircut 100",
+        "album": "Boxing The Compass",
+        "track": "The Unloving Plum"
+    },
+    {
+        "datetime": "2026-07-21 12:25:07",
+        "artist": "Haircut 100",
+        "album": "Boxing The Compass",
+        "track": "Someone"
+    },
+    {
+        "datetime": "2026-07-21 12:29:22",
+        "artist": "Haircut 100",
+        "album": "Boxing The Compass",
+        "track": "Thats A Start"
     }
 ]
