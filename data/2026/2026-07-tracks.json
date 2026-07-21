@@ -1240,5 +1240,35 @@
         "artist": "Simple Minds",
         "album": "Live - In The City Of Light",
         "track": "Big Sleep (Live)"
+    },
+    {
+        "datetime": "2026-07-21 14:50:17",
+        "artist": "Simple Minds",
+        "album": "Live - In The City Of Light",
+        "track": "Waterfront (Live)"
+    },
+    {
+        "datetime": "2026-07-21 14:55:39",
+        "artist": "Simple Minds",
+        "album": "Live - In The City Of Light",
+        "track": "Promised You a Miracle (Live)"
+    },
+    {
+        "datetime": "2026-07-21 15:00:18",
+        "artist": "Simple Minds",
+        "album": "Live - In The City Of Light",
+        "track": "Someone Somewhere (In Summertime) (Live)"
+    },
+    {
+        "datetime": "2026-07-21 15:06:17",
+        "artist": "Simple Minds",
+        "album": "Live - In The City Of Light",
+        "track": "Oh Jungleland (Live)"
+    },
+    {
+        "datetime": "2026-07-21 15:12:52",
+        "artist": "Simple Minds",
+        "album": "Live - In The City Of Light",
+        "track": "Alive and Kicking"
     }
 ]
