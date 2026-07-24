@@ -1276,5 +1276,23 @@
         "artist": "Simple Minds",
         "album": "Live - In The City Of Light",
         "track": "Once Upon A Time (Live)"
+    },
+    {
+        "datetime": "2026-07-24 10:46:35",
+        "artist": "Simple Minds",
+        "album": "Live - In The City Of Light",
+        "track": "Don't You (Forget About Me) (Live)"
+    },
+    {
+        "datetime": "2026-07-24 10:53:15",
+        "artist": "Simple Minds",
+        "album": "Live - In The City Of Light",
+        "track": "Once Upon A Time (Live)"
+    },
+    {
+        "datetime": "2026-07-24 10:59:22",
+        "artist": "Simple Minds",
+        "album": "Live - In The City Of Light",
+        "track": "Book Of Brilliant Things (Live)"
     }
 ]
