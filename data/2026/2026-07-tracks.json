@@ -1306,5 +1306,35 @@
         "artist": "Simple Minds",
         "album": "Live - In The City Of Light",
         "track": "New Gold Dream (Live)"
+    },
+    {
+        "datetime": "2026-07-24 13:37:50",
+        "artist": "Robyn Hitchcock",
+        "album": "The Confuser",
+        "track": "I Am This Thing"
+    },
+    {
+        "datetime": "2026-07-24 13:40:40",
+        "artist": "Robyn Hitchcock",
+        "album": "The Confuser",
+        "track": "My Dead Astronaut"
+    },
+    {
+        "datetime": "2026-07-24 13:44:42",
+        "artist": "Robyn Hitchcock",
+        "album": "The Confuser",
+        "track": "Yesterday's Rain"
+    },
+    {
+        "datetime": "2026-07-24 13:48:38",
+        "artist": "Robyn Hitchcock",
+        "album": "The Confuser",
+        "track": "Breathless"
+    },
+    {
+        "datetime": "2026-07-24 13:53:19",
+        "artist": "Robyn Hitchcock",
+        "album": "The Confuser",
+        "track": "Ghost in Sunlight"
     }
 ]
