@@ -1468,5 +1468,35 @@
         "artist": "Creedence Clearwater Revival",
         "album": "Green River",
         "track": "Green River (Remastered 1985)"
+    },
+    {
+        "datetime": "2026-07-29 22:08:08",
+        "artist": "Creedence Clearwater Revival",
+        "album": "Green River",
+        "track": "Lodi (Remastered 1985)"
+    },
+    {
+        "datetime": "2026-07-29 22:11:22",
+        "artist": "Creedence Clearwater Revival",
+        "album": "Green River",
+        "track": "Cross-Tie Walker (Remastered 1985)"
+    },
+    {
+        "datetime": "2026-07-29 22:14:43",
+        "artist": "Creedence Clearwater Revival",
+        "album": "Green River",
+        "track": "Sinister Purpose (Remastered 1985)"
+    },
+    {
+        "datetime": "2026-07-29 22:18:07",
+        "artist": "Creedence Clearwater Revival",
+        "album": "Green River",
+        "track": "The Night Time Is The Right Time (Remastered 1985)"
+    },
+    {
+        "datetime": "2026-07-29 22:21:54",
+        "artist": "The Go-Betweens",
+        "album": "Tallulah",
+        "track": "Bye Bye Pride (Remastered)"
     }
 ]
