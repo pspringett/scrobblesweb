@@ -1360,5 +1360,47 @@
         "artist": "Haircut 100",
         "album": "Boxing The Compass",
         "track": "Thats A Start"
+    },
+    {
+        "datetime": "2026-07-29 10:40:41",
+        "artist": "The Go-Betweens",
+        "album": "16 Lovers Lane",
+        "track": "Love Goes On!"
+    },
+    {
+        "datetime": "2026-07-29 10:44:00",
+        "artist": "The Go-Betweens",
+        "album": "16 Lovers Lane",
+        "track": "Love Goes On!"
+    },
+    {
+        "datetime": "2026-07-29 10:49:21",
+        "artist": "The Go-Betweens",
+        "album": "16 Lovers Lane",
+        "track": "Quiet Heart"
+    },
+    {
+        "datetime": "2026-07-29 10:49:22",
+        "artist": "The Go-Betweens",
+        "album": "16 Lovers Lane",
+        "track": "Love Is a Sign"
+    },
+    {
+        "datetime": "2026-07-29 10:53:35",
+        "artist": "The Go-Betweens",
+        "album": "16 Lovers Lane",
+        "track": "Love Is a Sign"
+    },
+    {
+        "datetime": "2026-07-29 10:53:36",
+        "artist": "The Go-Betweens",
+        "album": "16 Lovers Lane",
+        "track": "You Can't Say No Forever"
+    },
+    {
+        "datetime": "2026-07-29 10:57:34",
+        "artist": "The Go-Betweens",
+        "album": "16 Lovers Lane",
+        "track": "You Can't Say No Forever"
     }
 ]
