@@ -1552,5 +1552,29 @@
         "artist": "Robyn Hitchcock",
         "album": "The Confuser",
         "track": "Wasted"
+    },
+    {
+        "datetime": "2026-07-30 15:40:20",
+        "artist": "JT Nero",
+        "album": "Mountains/Forests",
+        "track": "Mountains, Forests"
+    },
+    {
+        "datetime": "2026-07-30 15:44:50",
+        "artist": "JT Nero",
+        "album": "Mountains/Forests",
+        "track": "Mi Salvador"
+    },
+    {
+        "datetime": "2026-07-30 15:48:39",
+        "artist": "JT Nero",
+        "album": "Mountains/Forests",
+        "track": "Lowlanders"
+    },
+    {
+        "datetime": "2026-07-30 15:51:50",
+        "artist": "JT Nero",
+        "album": "Mountains/Forests",
+        "track": "Roll Tide"
     }
 ]
