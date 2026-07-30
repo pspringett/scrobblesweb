@@ -1498,5 +1498,17 @@
         "artist": "The Go-Betweens",
         "album": "Tallulah",
         "track": "Bye Bye Pride (Remastered)"
+    },
+    {
+        "datetime": "2026-07-30 14:04:14",
+        "artist": "Robyn Hitchcock",
+        "album": "The Confuser",
+        "track": "I Am This Thing"
+    },
+    {
+        "datetime": "2026-07-30 14:09:00",
+        "artist": "Robyn Hitchcock",
+        "album": "The Confuser",
+        "track": "My Dead Astronaut"
     }
 ]
