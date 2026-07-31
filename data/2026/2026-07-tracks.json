@@ -1672,5 +1672,35 @@
         "artist": "JT Nero",
         "album": "Mountains/Forests",
         "track": "Double Helix (Rainbow)"
+    },
+    {
+        "datetime": "2026-07-31 12:36:45",
+        "artist": "JT Nero",
+        "album": "Mountains/Forests",
+        "track": "Mountains, Forests"
+    },
+    {
+        "datetime": "2026-07-31 12:41:15",
+        "artist": "JT Nero",
+        "album": "Mountains/Forests",
+        "track": "Mi Salvador"
+    },
+    {
+        "datetime": "2026-07-31 12:45:14",
+        "artist": "JT Nero",
+        "album": "Mountains/Forests",
+        "track": "Lowlanders"
+    },
+    {
+        "datetime": "2026-07-31 12:48:15",
+        "artist": "JT Nero",
+        "album": "Mountains/Forests",
+        "track": "Roll Tide"
+    },
+    {
+        "datetime": "2026-07-31 12:52:33",
+        "artist": "JT Nero",
+        "album": "Mountains/Forests",
+        "track": "North Star"
     }
 ]
