@@ -1702,5 +1702,47 @@
         "artist": "JT Nero",
         "album": "Mountains/Forests",
         "track": "North Star"
+    },
+    {
+        "datetime": "2026-07-31 15:24:29",
+        "artist": "JT Nero",
+        "album": "Mountains/Forests",
+        "track": "Grey Ghost"
+    },
+    {
+        "datetime": "2026-07-31 15:28:15",
+        "artist": "JT Nero",
+        "album": "Mountains/Forests",
+        "track": "Gallup, NM"
+    },
+    {
+        "datetime": "2026-07-31 15:31:53",
+        "artist": "JT Nero",
+        "album": "Mountains/Forests",
+        "track": "Red Balloon"
+    },
+    {
+        "datetime": "2026-07-31 15:35:59",
+        "artist": "JT Nero",
+        "album": "Mountains/Forests",
+        "track": "Sunny Day"
+    },
+    {
+        "datetime": "2026-07-31 15:39:55",
+        "artist": "JT Nero",
+        "album": "Mountains/Forests",
+        "track": "Double Helix (Rainbow)"
+    },
+    {
+        "datetime": "2026-07-31 15:41:53",
+        "artist": "Robert Forster",
+        "album": "Strawberries",
+        "track": "Diamonds"
+    },
+    {
+        "datetime": "2026-07-31 15:47:32",
+        "artist": "Robert Forster",
+        "album": "Strawberries",
+        "track": "Foolish I Know"
     }
 ]
