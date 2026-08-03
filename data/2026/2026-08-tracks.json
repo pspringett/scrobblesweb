@@ -136,5 +136,35 @@
         "artist": "The Rolling Stones",
         "album": "Foreign Tongues",
         "track": "Some Of Us"
+    },
+    {
+        "datetime": "2026-08-03 21:37:55",
+        "artist": "Champion Trees",
+        "album": "A Duck's Water Off My Back",
+        "track": "I Wear a Shirt That Says Australia"
+    },
+    {
+        "datetime": "2026-08-03 21:41:52",
+        "artist": "Champion Trees",
+        "album": "A Duck's Water Off My Back",
+        "track": "Richard 2"
+    },
+    {
+        "datetime": "2026-08-03 21:45:02",
+        "artist": "Champion Trees",
+        "album": "A Duck's Water Off My Back",
+        "track": "I Want to Sound Like a Ghost"
+    },
+    {
+        "datetime": "2026-08-03 21:48:16",
+        "artist": "Champion Trees",
+        "album": "A Duck's Water Off My Back",
+        "track": "Higher Taste"
+    },
+    {
+        "datetime": "2026-08-03 21:51:33",
+        "artist": "Champion Trees",
+        "album": "A Duck's Water Off My Back",
+        "track": "Not a Numbers Guy"
     }
 ]
