@@ -58,5 +58,59 @@
         "artist": "JT Nero",
         "album": "Mountains/Forests",
         "track": "Double Helix (Rainbow)"
+    },
+    {
+        "datetime": "2026-08-03 11:19:09",
+        "artist": "Haircut 100",
+        "album": "Boxing The Compass",
+        "track": "Come Back To Me"
+    },
+    {
+        "datetime": "2026-08-03 11:22:30",
+        "artist": "Haircut 100",
+        "album": "Boxing The Compass",
+        "track": "Vanishing Point"
+    },
+    {
+        "datetime": "2026-08-03 11:26:22",
+        "artist": "Haircut 100",
+        "album": "Boxing The Compass",
+        "track": "Soulbird"
+    },
+    {
+        "datetime": "2026-08-03 11:29:47",
+        "artist": "Haircut 100",
+        "album": "Boxing The Compass",
+        "track": "Raincloud"
+    },
+    {
+        "datetime": "2026-08-03 11:33:24",
+        "artist": "Haircut 100",
+        "album": "Boxing The Compass",
+        "track": "Sunshine"
+    },
+    {
+        "datetime": "2026-08-03 11:37:44",
+        "artist": "Haircut 100",
+        "album": "Boxing The Compass",
+        "track": "The Unloving Plum"
+    },
+    {
+        "datetime": "2026-08-03 11:40:55",
+        "artist": "Haircut 100",
+        "album": "Boxing The Compass",
+        "track": "Someone"
+    },
+    {
+        "datetime": "2026-08-03 11:45:11",
+        "artist": "Haircut 100",
+        "album": "Boxing The Compass",
+        "track": "Thats A Start"
+    },
+    {
+        "datetime": "2026-08-03 11:48:48",
+        "artist": "Haircut 100",
+        "album": "Boxing The Compass",
+        "track": "Dynamite"
     }
 ]
