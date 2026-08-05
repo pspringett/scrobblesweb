@@ -280,5 +280,23 @@
         "artist": "Champion Trees",
         "album": "A Duck's Water Off My Back",
         "track": "C. Market, Rondebosch Park"
+    },
+    {
+        "datetime": "2026-08-05 22:29:42",
+        "artist": "Chanel Beads",
+        "album": "Your Day Will Come",
+        "track": "Drums Only"
+    },
+    {
+        "datetime": "2026-08-05 22:34:15",
+        "artist": "Chanel Beads",
+        "album": "Your Day Will Come",
+        "track": "Song For The Messenger"
+    },
+    {
+        "datetime": "2026-08-05 22:37:20",
+        "artist": "Chanel Beads",
+        "album": "Your Day Will Come",
+        "track": "The Coward Forgets His Nightmare"
     }
 ]
