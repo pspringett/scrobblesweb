@@ -346,5 +346,41 @@
         "artist": "Chaparelle",
         "album": "Western Pleasure",
         "track": "All Things Considered"
+    },
+    {
+        "datetime": "2026-08-08 22:36:46",
+        "artist": "Eyeless in Gaza",
+        "album": "Red Rust September",
+        "track": "Changing Stations"
+    },
+    {
+        "datetime": "2026-08-08 22:39:12",
+        "artist": "Eyeless in Gaza",
+        "album": "Red Rust September",
+        "track": "Pearl and Pale"
+    },
+    {
+        "datetime": "2026-08-08 22:42:46",
+        "artist": "Eyeless in Gaza",
+        "album": "Red Rust September",
+        "track": "New Risen"
+    },
+    {
+        "datetime": "2026-08-08 22:45:37",
+        "artist": "Eyeless in Gaza",
+        "album": "Red Rust September",
+        "track": "September hills"
+    },
+    {
+        "datetime": "2026-08-08 22:49:33",
+        "artist": "Eyeless in Gaza",
+        "album": "Red Rust September",
+        "track": "Taking Steps"
+    },
+    {
+        "datetime": "2026-08-08 22:53:04",
+        "artist": "Eyeless in Gaza",
+        "album": "Red Rust September",
+        "track": "Only Whispers"
     }
 ]
