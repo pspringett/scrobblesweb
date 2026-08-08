@@ -382,5 +382,23 @@
         "artist": "Eyeless in Gaza",
         "album": "Red Rust September",
         "track": "Only Whispers"
+    },
+    {
+        "datetime": "2026-08-08 23:01:35",
+        "artist": "The Go-Betweens",
+        "album": "16 Lovers Lane",
+        "track": "Quiet Heart (Remastered)"
+    },
+    {
+        "datetime": "2026-08-08 23:06:56",
+        "artist": "The Go-Betweens",
+        "album": "16 Lovers Lane",
+        "track": "Streets of Your Town (Remastered)"
+    },
+    {
+        "datetime": "2026-08-08 23:10:38",
+        "artist": "The Go-Betweens",
+        "album": "16 Lovers Lane",
+        "track": "Love Is a Sign (Remastered)"
     }
 ]
