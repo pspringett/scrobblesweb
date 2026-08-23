@@ -666,6 +666,12 @@
         "track": "C. Market, Rondebosch Park"
     },
     {
+        "datetime": "2026-08-17 12:05:00",
+        "artist": "T. Rex",
+        "album": "Electric Warrior",
+        "track": "Life's a Gas"
+    },
+    {
         "datetime": "2026-08-17 12:23:37",
         "artist": "T. Rex",
         "album": "Electric Warrior",
@@ -678,16 +684,160 @@
         "track": "Cosmic Dancer"
     },
     {
-        "datetime": "2026-08-17 12:45:20",
+        "datetime": "2026-08-17 12:43:00",
         "artist": "T. Rex",
         "album": "Electric Warrior",
         "track": "Jeepster"
     },
     {
-        "datetime": "2026-08-17 13:18:28",
+        "datetime": "2026-08-17 12:47:00",
         "artist": "T. Rex",
         "album": "Electric Warrior",
-        "track": "There Was A Time / Raw Ramp / Electric Boogie (B Side)"
+        "track": "Monolith"
+    },
+    {
+        "datetime": "2026-08-17 12:50:00",
+        "artist": "T. Rex",
+        "album": "Electric Warrior",
+        "track": "Lean Woman Blues"
+    },
+    {
+        "datetime": "2026-08-17 12:53:00",
+        "artist": "T. Rex",
+        "album": "Electric Warrior",
+        "track": "Get It On"
+    },
+    {
+        "datetime": "2026-08-17 12:56:00",
+        "artist": "T. Rex",
+        "album": "Electric Warrior",
+        "track": "Planet Queen"
+    },
+    {
+        "datetime": "2026-08-17 12:59:00",
+        "artist": "T. Rex",
+        "album": "Electric Warrior",
+        "track": "Girl"
+    },
+    {
+        "datetime": "2026-08-17 13:02:00",
+        "artist": "T. Rex",
+        "album": "Electric Warrior",
+        "track": "The Motivator"
+    },
+    {
+        "datetime": "2026-08-17 13:08:00",
+        "artist": "T. Rex",
+        "album": "Electric Warrior",
+        "track": "Rip Off"
+    },
+    {
+        "datetime": "2026-08-17 13:11:00",
+        "artist": "T. Rex",
+        "album": "Electric Warrior",
+        "track": "There Was A Time / Raw Ramp / Electric Boogie - B Side"
+    },
+    {
+        "datetime": "2026-08-17 13:14:00",
+        "artist": "T. Rex",
+        "album": "Electric Warrior",
+        "track": "Hot Love - A Side"
+    },
+    {
+        "datetime": "2026-08-17 13:17:00",
+        "artist": "T. Rex",
+        "album": "Electric Warrior",
+        "track": "Woodland Rock - B Side"
+    },
+    {
+        "datetime": "2026-08-17 13:20:00",
+        "artist": "T. Rex",
+        "album": "Electric Warrior",
+        "track": "The King Of The Mountain Cometh - B Side"
+    },
+    {
+        "datetime": "2026-08-17 13:44:00",
+        "artist": "Haircut 100",
+        "album": "Pelican West Plus",
+        "track": "Favourite Shirts (Boy Meets Girl)"
+    },
+    {
+        "datetime": "2026-08-17 13:47:00",
+        "artist": "Haircut 100",
+        "album": "Pelican West Plus",
+        "track": "Love Plus One"
+    },
+    {
+        "datetime": "2026-08-17 13:51:00",
+        "artist": "Haircut 100",
+        "album": "Pelican West Plus",
+        "track": "Lemon Firebrigade"
+    },
+    {
+        "datetime": "2026-08-17 14:21:00",
+        "artist": "Haircut 100",
+        "album": "Pelican West Plus",
+        "track": "Marine Boy"
+    },
+    {
+        "datetime": "2026-08-17 14:25:00",
+        "artist": "Haircut 100",
+        "album": "Pelican West Plus",
+        "track": "Milk Film"
+    },
+    {
+        "datetime": "2026-08-17 14:28:00",
+        "artist": "Haircut 100",
+        "album": "Pelican West Plus",
+        "track": "Kingsize (You're My Little Steam Whistle)"
+    },
+    {
+        "datetime": "2026-08-17 14:32:00",
+        "artist": "Haircut 100",
+        "album": "Pelican West Plus",
+        "track": "Fantastic Day"
+    },
+    {
+        "datetime": "2026-08-17 14:35:00",
+        "artist": "Haircut 100",
+        "album": "Pelican West Plus",
+        "track": "Baked Bean"
+    },
+    {
+        "datetime": "2026-08-17 14:39:00",
+        "artist": "Haircut 100",
+        "album": "Pelican West Plus",
+        "track": "Snow Girl"
+    },
+    {
+        "datetime": "2026-08-17 14:42:00",
+        "artist": "Haircut 100",
+        "album": "Pelican West Plus",
+        "track": "Love's Got Me In Triangles"
+    },
+    {
+        "datetime": "2026-08-17 14:46:00",
+        "artist": "Haircut 100",
+        "album": "Pelican West Plus",
+        "track": "Surprise Me Again"
+    },
+    {
+        "datetime": "2026-08-17 14:49:00",
+        "artist": "Haircut 100",
+        "album": "Pelican West Plus",
+        "track": "Calling Captain Autumn"
+    },
+    {
+        "datetime": "2026-08-17 14:53:00",
+        "artist": "Haircut 100",
+        "album": "Pelican West Plus",
+        "track": "Boat Party"
+    },
+    {
+        "datetime": "2026-08-17 14:57:00",
+        "artist": "Haircut 100",
+        "album": "Pelican West Plus",
+        "track": "Ski Club"
     },
     {
         "datetime": "2026-08-21 12:01:58",
