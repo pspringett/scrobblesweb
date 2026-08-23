@@ -483,18 +483,18 @@
         "Second Helpings": -1
     },
     "Blondie": {
-        "Autoamerican": -1,
-        "Blondie (Remastered)": -1,
-        "Eat To The Beat": -1,
-        "Greatest Hits: Blondie": -1,
+        "Autoamerican": 1980,
+        "Blondie": 1976,
+        "Eat To The Beat": 1979,
+        "Greatest Hits: Blondie": 2002,
+        "No Exit": 1999,
         "One Way Or Another": -1,
-        "Parallel Lines (Remastered)": -1,
-        "Parallel Lines: Deluxe Collector's Edition": -1,
-        "Plastic Letters": -1,
-        "Pollinator": -1
-    },
-    "Blooms & Barnacles": {
-        "Blooms & Barnacles": -1
+        "Panic of Girls": 2011,
+        "Parallel Lines": 1978,
+        "Plastic Letters": 1977,
+        "Pollinator": 2017,
+        "The Curse of Blondie": 2003
+        "The Hunter": 1982
     },
     "Blossom Dearie": {
         "Once Upon A Summertime": -1
