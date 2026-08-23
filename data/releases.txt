@@ -3327,8 +3327,12 @@
         "We Had It All": 1974
     },
     "Scritti Politti": {
-        "Early": -1,
-        "Songs To Remember": -1
+        "Anomie & Bonhommie": 1999,
+        "Cupid & Psyche 85": 1985,
+        "Early": 2005,
+        "Provision": 1988,
+        "Songs To Remember": 1982, 
+        "White Bread Black Beer": 2006 
     },
     "Sea Power": {
         "Everything Was Forever": -1
