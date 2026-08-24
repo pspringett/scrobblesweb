@@ -493,7 +493,7 @@
         "Parallel Lines": 1978,
         "Plastic Letters": 1977,
         "Pollinator": 2017,
-        "The Curse of Blondie": 2003
+        "The Curse of Blondie": 2003,
         "The Hunter": 1982
     },
     "Blossom Dearie": {
