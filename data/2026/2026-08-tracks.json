@@ -1264,5 +1264,65 @@
         "artist": "Bob Marley & the Wailers",
         "album": "Legend",
         "track": "Jamming"
+    },
+    {
+        "datetime": "2026-08-23 20:49:58",
+        "artist": "JT Nero",
+        "album": "Mountains/Forests",
+        "track": "Mountains, Forests"
+    },
+    {
+        "datetime": "2026-08-23 20:54:28",
+        "artist": "JT Nero",
+        "album": "Mountains/Forests",
+        "track": "Mi Salvador"
+    },
+    {
+        "datetime": "2026-08-23 20:58:18",
+        "artist": "JT Nero",
+        "album": "Mountains/Forests",
+        "track": "Lowlanders"
+    },
+    {
+        "datetime": "2026-08-23 21:01:29",
+        "artist": "JT Nero",
+        "album": "Mountains/Forests",
+        "track": "Roll Tide"
+    },
+    {
+        "datetime": "2026-08-23 21:05:46",
+        "artist": "JT Nero",
+        "album": "Mountains/Forests",
+        "track": "North Star"
+    },
+    {
+        "datetime": "2026-08-23 21:10:00",
+        "artist": "JT Nero",
+        "album": "Mountains/Forests",
+        "track": "Grey Ghost"
+    },
+    {
+        "datetime": "2026-08-23 21:13:45",
+        "artist": "JT Nero",
+        "album": "Mountains/Forests",
+        "track": "Gallup, NM"
+    },
+    {
+        "datetime": "2026-08-23 21:17:23",
+        "artist": "JT Nero",
+        "album": "Mountains/Forests",
+        "track": "Red Balloon"
+    },
+    {
+        "datetime": "2026-08-23 21:21:31",
+        "artist": "JT Nero",
+        "album": "Mountains/Forests",
+        "track": "Sunny Day"
+    },
+    {
+        "datetime": "2026-08-23 21:25:26",
+        "artist": "JT Nero",
+        "album": "Mountains/Forests",
+        "track": "Double Helix (Rainbow)"
     }
 ]
