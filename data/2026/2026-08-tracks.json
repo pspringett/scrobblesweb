@@ -1534,5 +1534,41 @@
         "artist": "Ride",
         "album": "Nowhere",
         "track": "Vapour Trail"
+    },
+    {
+        "datetime": "2026-08-24 21:45:27",
+        "artist": "Westside Cowboy",
+        "album": "It Goes On",
+        "track": "Kick Stones (The Boys)"
+    },
+    {
+        "datetime": "2026-08-24 21:49:43",
+        "artist": "Westside Cowboy",
+        "album": "It Goes On",
+        "track": "Paperchains"
+    },
+    {
+        "datetime": "2026-08-24 21:52:35",
+        "artist": "Westside Cowboy",
+        "album": "It Goes On",
+        "track": "Dobro"
+    },
+    {
+        "datetime": "2026-08-24 21:55:21",
+        "artist": "Westside Cowboy",
+        "album": "It Goes On",
+        "track": "Well Done Kid, You Did It"
+    },
+    {
+        "datetime": "2026-08-24 21:58:49",
+        "artist": "Westside Cowboy",
+        "album": "It Goes On",
+        "track": "Worried Age"
+    },
+    {
+        "datetime": "2026-08-24 22:02:49",
+        "artist": "Westside Cowboy",
+        "album": "It Goes On",
+        "track": "Big Wheels"
     }
 ]
