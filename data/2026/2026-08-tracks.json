@@ -1696,5 +1696,35 @@
         "artist": "Westside Cowboy",
         "album": "It Goes On",
         "track": "Big Wheels"
+    },
+    {
+        "datetime": "2026-08-25 21:04:39",
+        "artist": "Westside Cowboy",
+        "album": "It Goes On",
+        "track": "Pin Up Boys"
+    },
+    {
+        "datetime": "2026-08-25 21:07:25",
+        "artist": "Westside Cowboy",
+        "album": "It Goes On",
+        "track": "Coyote"
+    },
+    {
+        "datetime": "2026-08-25 21:10:44",
+        "artist": "Westside Cowboy",
+        "album": "It Goes On",
+        "track": "Patchwork"
+    },
+    {
+        "datetime": "2026-08-25 21:14:08",
+        "artist": "Westside Cowboy",
+        "album": "It Goes On",
+        "track": "Take My Leaving As I Love You"
+    },
+    {
+        "datetime": "2026-08-25 21:16:52",
+        "artist": "Westside Cowboy",
+        "album": "It Goes On",
+        "track": "You Could Have Died There On The Dancefloor"
     }
 ]
