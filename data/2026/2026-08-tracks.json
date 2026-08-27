@@ -1726,5 +1726,53 @@
         "artist": "Westside Cowboy",
         "album": "It Goes On",
         "track": "You Could Have Died There On The Dancefloor"
+    },
+    {
+        "datetime": "2026-08-26 13:12:05",
+        "artist": "Leonard Cohen",
+        "album": "Songs Of Leonard Cohen",
+        "track": "Suzanne"
+    },
+    {
+        "datetime": "2026-08-26 13:15:57",
+        "artist": "Leonard Cohen",
+        "album": "Songs Of Leonard Cohen",
+        "track": "Master Song"
+    },
+    {
+        "datetime": "2026-08-26 14:14:00",
+        "artist": "Lime Garden",
+        "album": "Maybe Not Tonight",
+        "track": "Undressed"
+    },
+    {
+        "datetime": "2026-08-26 14:57:34",
+        "artist": "The Go-Betweens",
+        "album": "Tallulah",
+        "track": "Hope Then Strife (Remastered)"
+    },
+    {
+        "datetime": "2026-08-26 15:37:19",
+        "artist": "Echo & the Bunnymen",
+        "album": "Evergreen",
+        "track": "Nothing Lasts Forever"
+    },
+    {
+        "datetime": "2026-08-26 15:49:11",
+        "artist": "Echo & the Bunnymen",
+        "album": "Evergreen",
+        "track": "Just a Touch Away"
+    },
+    {
+        "datetime": "2026-08-26 16:02:00",
+        "artist": "Echo & the Bunnymen",
+        "album": "Evergreen",
+        "track": "Forgiven"
+    },
+    {
+        "datetime": "2026-08-26 16:08:01",
+        "artist": "Orchestral Manoeuvres in the Dark",
+        "album": "Organisation",
+        "track": "Enola Gay (Remastered 2003)"
     }
 ]
