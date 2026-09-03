@@ -364,5 +364,23 @@
         "artist": "Westside Cowboy",
         "album": "It Goes On",
         "track": "Coyote"
+    },
+    {
+        "datetime": "2026-09-03 16:51:42",
+        "artist": "Westside Cowboy",
+        "album": "It Goes On",
+        "track": "Patchwork"
+    },
+    {
+        "datetime": "2026-09-03 16:55:05",
+        "artist": "Westside Cowboy",
+        "album": "It Goes On",
+        "track": "Take My Leaving As I Love You"
+    },
+    {
+        "datetime": "2026-09-03 16:57:50",
+        "artist": "Westside Cowboy",
+        "album": "It Goes On",
+        "track": "You Could Have Died There On The Dancefloor"
     }
 ]
