@@ -208,7 +208,11 @@ def _rolling12_counts(year: int, month: int) -> Counter[str]:
 @app.route("/api/albums/rolling12/<int:year>/<int:month>")
 def api_albums_rolling12(year: int, month: int) -> Response:
     """Aggregate the 12 months ending at (and including) the given year/month.
-    Also computes previous window ranks for rank-change highlighting."""
+    Also computes previous window ranks for rank-change highlighting. No.
+    Now rank_change indicates that the album count is greater in the current
+    twelve months that the twelve months starting from the previous month.
+    So this now shows which tracks have been played in that month."""
+
     current = _rolling12_counts(year, month)
 
     # Previous window = rolling 12 ending one month before the current end
@@ -226,8 +230,13 @@ def api_albums_rolling12(year: int, month: int) -> Response:
     albums: list[AlbumEntry] = []
     for rank, (label, count) in enumerate(current.most_common(), 1):
         artist, album = _split_label(label)
-        prev_rank = prev_ranks.get(label)
-        rank_change: Optional[int] = (prev_rank - rank) if prev_rank is not None else None
+
+        # Old code, based on ranking position.  New code based on the number of listens.
+        # prev_rank = prev_ranks.get(label)
+        # rank_change: Optional[int] = (prev_rank - rank) if prev_rank is not None else None
+
+        rank_change: Optional[int] = (current[label] - prev[label]) if label in prev else 1
+
         albums.append({
             "label": label,
             "artist": artist,
