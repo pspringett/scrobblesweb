@@ -206,12 +206,19 @@ def _rolling12_counts(year: int, month: int) -> Counter[str]:
 
 
 @app.route("/api/albums/rolling12/<int:year>/<int:month>")
-def api_albums_rolling12(year: int, month: int) -> Response:
+def api_albums_rolling12(year: int, month: int, rank:  bool = False) -> Response:
     """Aggregate the 12 months ending at (and including) the given year/month.
-    Also computes previous window ranks for rank-change highlighting. No.
-    Now rank_change indicates that the album count is greater in the current
-    twelve months that the twelve months starting from the previous month.
-    So this now shows which tracks have been played in that month."""
+
+    Optionally identifies changes using either:
+    
+    - their rank in the charts of the last 12 months compared with their
+      rank in the charts from the previous 12 months
+    Or:
+    - If the number of listens in the current 12 months is greater than the
+      number of listens in the previous 12 months.
+
+    Currently the web page cannot select this.    
+    """
 
     current = _rolling12_counts(year, month)
 
@@ -231,11 +238,12 @@ def api_albums_rolling12(year: int, month: int) -> Response:
     for rank, (label, count) in enumerate(current.most_common(), 1):
         artist, album = _split_label(label)
 
-        # Old code, based on ranking position.  New code based on the number of listens.
-        # prev_rank = prev_ranks.get(label)
-        # rank_change: Optional[int] = (prev_rank - rank) if prev_rank is not None else None
-
-        rank_change: Optional[int] = (current[label] - prev[label]) if label in prev else 1
+        if rank:
+            # Old code, based on ranking position.  New code based on the number of listens.
+            prev_rank = prev_ranks.get(label)
+            rank_change: Optional[int] = (prev_rank - rank) if prev_rank is not None else None
+        else:
+            rank_change: Optional[int] = (current[label] - prev[label]) if label in prev else 1
 
         albums.append({
             "label": label,
