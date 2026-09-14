@@ -206,7 +206,7 @@ def _rolling12_counts(year: int, month: int) -> Counter[str]:
 
 
 @app.route("/api/albums/rolling12/<int:year>/<int:month>")
-def api_albums_rolling12(year: int, month: int, rank:  bool = False) -> Response:
+def api_albums_rolling12(year: int, month: int, use_rank:  bool = False) -> Response:
     """Aggregate the 12 months ending at (and including) the given year/month.
 
     Optionally identifies changes using either:
@@ -238,7 +238,7 @@ def api_albums_rolling12(year: int, month: int, rank:  bool = False) -> Response
     for rank, (label, count) in enumerate(current.most_common(), 1):
         artist, album = _split_label(label)
 
-        if rank:
+        if use_rank:
             # Old code, based on ranking position.  New code based on the number of listens.
             prev_rank = prev_ranks.get(label)
             rank_change: Optional[int] = (prev_rank - rank) if prev_rank is not None else None
