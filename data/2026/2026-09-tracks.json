@@ -730,5 +730,113 @@
         "artist": "Robert Forster",
         "album": "Strawberries",
         "track": "Tell It Back To Me"
+    },
+    {
+        "datetime": "2026-09-16 17:57:56",
+        "artist": "Creedence Clearwater Revival",
+        "album": "Green River",
+        "track": "Green River (Remastered 1985)"
+    },
+    {
+        "datetime": "2026-09-16 18:00:32",
+        "artist": "Creedence Clearwater Revival",
+        "album": "Green River",
+        "track": "Commotion (Remastered 1985)"
+    },
+    {
+        "datetime": "2026-09-16 18:03:17",
+        "artist": "Creedence Clearwater Revival",
+        "album": "Green River",
+        "track": "Tombstone Shadow (Remastered 1985)"
+    },
+    {
+        "datetime": "2026-09-16 18:06:56",
+        "artist": "Creedence Clearwater Revival",
+        "album": "Green River",
+        "track": "Wrote A Song For Everyone (Remastered 1985)"
+    },
+    {
+        "datetime": "2026-09-16 18:11:54",
+        "artist": "Creedence Clearwater Revival",
+        "album": "Green River",
+        "track": "Bad Moon Rising (Remastered 1985)"
+    },
+    {
+        "datetime": "2026-09-16 22:06:01",
+        "artist": "Creedence Clearwater Revival",
+        "album": "Green River",
+        "track": "Lodi (Remastered 1985)"
+    },
+    {
+        "datetime": "2026-09-16 22:09:16",
+        "artist": "Creedence Clearwater Revival",
+        "album": "Green River",
+        "track": "The Night Time Is The Right Time (Remastered 1985)"
+    },
+    {
+        "datetime": "2026-09-16 22:12:24",
+        "artist": "Creedence Clearwater Revival",
+        "album": "Green River",
+        "track": "Green River (Remastered 1985)"
+    },
+    {
+        "datetime": "2026-09-16 22:15:01",
+        "artist": "Creedence Clearwater Revival",
+        "album": "Green River",
+        "track": "Wrote A Song For Everyone (Remastered 1985)"
+    },
+    {
+        "datetime": "2026-09-16 22:20:37",
+        "artist": "Champion Trees",
+        "album": "A Duck's Water Off My Back",
+        "track": "I Wear a Shirt That Says Australia"
+    },
+    {
+        "datetime": "2026-09-16 22:24:35",
+        "artist": "Champion Trees",
+        "album": "A Duck's Water Off My Back",
+        "track": "Richard 2"
+    },
+    {
+        "datetime": "2026-09-16 22:27:46",
+        "artist": "Champion Trees",
+        "album": "A Duck's Water Off My Back",
+        "track": "I Want to Sound Like a Ghost"
+    },
+    {
+        "datetime": "2026-09-16 22:31:00",
+        "artist": "Champion Trees",
+        "album": "A Duck's Water Off My Back",
+        "track": "Higher Taste"
+    },
+    {
+        "datetime": "2026-09-16 22:34:16",
+        "artist": "Champion Trees",
+        "album": "A Duck's Water Off My Back",
+        "track": "Not a Numbers Guy"
+    },
+    {
+        "datetime": "2026-09-16 22:36:12",
+        "artist": "Champion Trees",
+        "album": "A Duck's Water Off My Back",
+        "track": "Unleonard"
+    },
+    {
+        "datetime": "2026-09-16 22:39:10",
+        "artist": "Champion Trees",
+        "album": "A Duck's Water Off My Back",
+        "track": "Gentle, Apple, Balanced"
+    },
+    {
+        "datetime": "2026-09-16 22:39:10",
+        "artist": "Champion Trees",
+        "album": "A Duck's Water Off My Back",
+        "track": "Cabbage Song"
+    },
+    {
+        "datetime": "2026-09-16 22:39:10",
+        "artist": "Champion Trees",
+        "album": "A Duck's Water Off My Back",
+        "track": "C. Market, Rondebosch Park"
     }
 ]
