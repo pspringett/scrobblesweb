@@ -759,14 +759,12 @@
     "Chaka Khan": {
         "I Feel For You": -1
     },
+    "Champion Trees": {
+        "A Duck's Water Off My Back": 2025,
+        "Now 3000": 2022
+    },
     "Chaparelle": {
         "Western Pleasure": 2024
-    },
-    "Chapter 4": {
-        "Chapter 4": -1
-    },
-    "Chapter 5": {
-        "Chapter 5": -1
     },
     "Charli Xcx": {
         "Brat": -1
@@ -1796,8 +1794,8 @@
         "Elastic Days": -1
     },
     "JT Nero": {
-        "Demons/Demons": -1,
-        "Mountains/Forests": -1
+        "Demons/Demons": 2008,
+        "Mountains/Forests": 2010
     },
     "JT and the Clouds": {
         "Caledonia": -1,
@@ -4634,6 +4632,9 @@
         "Scared To Get Happy": -1,
         "The '81 Demos": -1,
         "The Singles": -1
+    },
+    "Westside Cowboy": {
+        "It Goes On": 2026
     },
     "Wet Leg": {
         "Moisturizer": -1,
