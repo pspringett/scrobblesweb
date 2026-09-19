@@ -1042,5 +1042,53 @@
         "artist": "Creedence Clearwater Revival",
         "album": "Green River",
         "track": "The Night Time Is The Right Time (Remastered 1985)"
+    },
+    {
+        "datetime": "2026-09-19 16:35:02",
+        "artist": "Westside Cowboy",
+        "album": "It Goes On",
+        "track": "Kick Stones (The Boys)"
+    },
+    {
+        "datetime": "2026-09-19 16:39:01",
+        "artist": "Westside Cowboy",
+        "album": "It Goes On",
+        "track": "Paperchains"
+    },
+    {
+        "datetime": "2026-09-19 16:41:53",
+        "artist": "Westside Cowboy",
+        "album": "It Goes On",
+        "track": "Dobro"
+    },
+    {
+        "datetime": "2026-09-19 16:44:39",
+        "artist": "Westside Cowboy",
+        "album": "It Goes On",
+        "track": "Well Done Kid, You Did It"
+    },
+    {
+        "datetime": "2026-09-19 16:48:06",
+        "artist": "Westside Cowboy",
+        "album": "It Goes On",
+        "track": "Worried Age"
+    },
+    {
+        "datetime": "2026-09-19 16:52:05",
+        "artist": "Westside Cowboy",
+        "album": "It Goes On",
+        "track": "Big Wheels"
+    },
+    {
+        "datetime": "2026-09-19 16:55:23",
+        "artist": "Westside Cowboy",
+        "album": "It Goes On",
+        "track": "Pin Up Boys"
+    },
+    {
+        "datetime": "2026-09-19 16:58:08",
+        "artist": "Westside Cowboy",
+        "album": "It Goes On",
+        "track": "Coyote"
     }
 ]
