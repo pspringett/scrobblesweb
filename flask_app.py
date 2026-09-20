@@ -112,7 +112,7 @@ def _split_label(label: str) -> tuple[str, str]:
 
 def _enrich(counts: Counter[str], this_month: Counter[str] = Counter()) -> list[AlbumEntry]:
     """Convert a play-count Counter into a sorted list of enriched album entries.
-       Allows for optional this_month counts to identify rank changes.
+       Allows for optional this_month counts to identify rank changes."""
     
     entries: list[AlbumEntry] = []
     for label, count in counts.most_common():
@@ -232,7 +232,7 @@ def _rolling12_counts(year: int, month: int) -> Counter[str]:
 def api_albums_rolling12(year: int, month: int, use_rank:  bool = False) -> Response:
     """Aggregate the 12 months ending at (and including) the given year/month.
 
-    Optionally identifies changes using either:
+       Optionally identifies changes using either:
     
     - their rank in the charts of the last 12 months compared with their
       rank in the charts from the previous 12 months
