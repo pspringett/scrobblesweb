@@ -634,7 +634,17 @@
         chart.appendChild(spacer);
       }
 
-      const rankUp = mode === "rolling12" && album.rank_change > 0;
+      // RankUp changes the entry to green.
+      rankUp = mode === "rolling12" && album.rank_change > 0;
+      if (!rankUp){
+        rankUp = mode === "year" && album.rank_change > 0;
+      }
+      if (!rankUp){
+        rankUp = mode === "since2013" && album.rank_change > 0;
+      }      
+      if (!rankUp){
+        rankUp = mode === "all" && album.rank_change > 0;
+      }            
       const showArtistLink = album.has_releases;
 
       const label = document.createElement("div");

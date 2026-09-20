@@ -88,6 +88,21 @@ def load_month_data(year: int, month: int) -> Optional[list[Scrobble]]:
     with open(path, encoding="utf-8") as f:
         return json.load(f)
 
+def load_this_month_data() -> Counter[str]:
+    """Load and return scrobbles for today.
+       Enhance me to get the current eyar and crrent month properly
+    """
+    this_year = 2026
+    this_month = 9
+    scrobbles = load_month_data(this_year, this_month)
+    if scrobbles is None:
+        return Counter()
+    
+    counts: Counter[str] = Counter()
+    for s in scrobbles:
+        counts[_album_key(s)] += 1
+    return counts
+
 
 def _split_label(label: str) -> tuple[str, str]:
     """Split 'Artist — Album' label into (artist, album)."""
@@ -95,18 +110,26 @@ def _split_label(label: str) -> tuple[str, str]:
     return (parts[0], parts[1]) if len(parts) == 2 else (label, "")
 
 
-def _enrich(counts: Counter[str]) -> list[AlbumEntry]:
-    """Convert a play-count Counter into a sorted list of enriched album entries."""
+def _enrich(counts: Counter[str], this_month: Counter[str] = Counter()) -> list[AlbumEntry]:
+    """Convert a play-count Counter into a sorted list of enriched album entries.
+       Allows for optional this_month counts to identify rank changes.
+    
     entries: list[AlbumEntry] = []
     for label, count in counts.most_common():
         artist, album = _split_label(label)
-        entries.append({
+        new_entry = {
             "label": label,
             "artist": artist,
             "album": album,
             "count": count,
             "has_releases": artist in RELEASES,
-        })
+            "rank_change": 0,  # Will be filled in if this album is in this_month
+        }
+        if label in this_month:
+            new_entry["rank_change"] = 1
+
+        entries.append(new_entry)
+
     return entries
 
 
@@ -152,7 +175,7 @@ def api_albums_year(year: int) -> tuple[Response, int] | Response:
             for s in scrobbles:
                 counts[_album_key(s)] += 1
 
-    return jsonify({"year": year, "albums": _enrich(counts)})
+    return jsonify({"year": year, "albums": _enrich(counts, load_this_month_data())})
 
 
 def aggregate_albums(from_year: Optional[int] = None) -> list[AlbumEntry]:
@@ -166,7 +189,7 @@ def aggregate_albums(from_year: Optional[int] = None) -> list[AlbumEntry]:
             for s in scrobbles:
                 counts[_album_key(s)] += 1
 
-    return _enrich(counts)
+    return _enrich(counts, load_this_month_data())
 
 
 def aggregate_artists(from_year: Optional[int] = None, only_year: Optional[int] = None) -> list[AlbumEntry]:
