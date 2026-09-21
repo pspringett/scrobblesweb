@@ -1144,5 +1144,29 @@
         "artist": "Robyn Hitchcock",
         "album": "The Confuser",
         "track": "Ghost in Sunlight"
+    },
+    {
+        "datetime": "2026-09-21 11:34:36",
+        "artist": "Creedence Clearwater Revival",
+        "album": "Green River",
+        "track": "Green River (Remastered 1985)"
+    },
+    {
+        "datetime": "2026-09-21 11:37:18",
+        "artist": "Creedence Clearwater Revival",
+        "album": "Green River",
+        "track": "Commotion (Remastered 1985)"
+    },
+    {
+        "datetime": "2026-09-21 11:40:04",
+        "artist": "Creedence Clearwater Revival",
+        "album": "Green River",
+        "track": "Tombstone Shadow (Remastered 1985)"
+    },
+    {
+        "datetime": "2026-09-21 11:43:44",
+        "artist": "Creedence Clearwater Revival",
+        "album": "Green River",
+        "track": "Wrote A Song For Everyone (Remastered 1985)"
     }
 ]
