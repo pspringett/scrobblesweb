@@ -1336,5 +1336,41 @@
         "artist": "New Order",
         "album": "Everything's Gone Green (2019 Remaster)",
         "track": "Cries and Whispers (2019 Remaster)"
+    },
+    {
+        "datetime": "2026-09-22 22:30:07",
+        "artist": "New Order",
+        "album": "Everything's Gone Green (2019 Remaster)",
+        "track": "Mesh (2019 Remaster)"
+    },
+    {
+        "datetime": "2026-09-22 22:33:53",
+        "artist": "New Order",
+        "album": "Substance 1987",
+        "track": "Ceremony (Version 2) [2023 Digital Master]"
+    },
+    {
+        "datetime": "2026-09-22 22:38:21",
+        "artist": "New Order",
+        "album": "Substance 1987",
+        "track": "Everythings Gone Green (2023 Digital Master)"
+    },
+    {
+        "datetime": "2026-09-22 22:43:53",
+        "artist": "New Order",
+        "album": "Substance 1987",
+        "track": "Temptation '87 (2023 Digital Master)"
+    },
+    {
+        "datetime": "2026-09-22 22:50:53",
+        "artist": "New Order",
+        "album": "Substance 1987",
+        "track": "Blue Monday (2023 Digital Master)"
+    },
+    {
+        "datetime": "2026-09-22 22:58:23",
+        "artist": "New Order",
+        "album": "Substance 1987",
+        "track": "Confusion '87 (2023 Digital Master)"
     }
 ]
