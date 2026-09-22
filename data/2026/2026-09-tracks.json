@@ -1192,5 +1192,71 @@
         "artist": "Creedence Clearwater Revival",
         "album": "Green River",
         "track": "The Night Time Is The Right Time (Remastered 1985)"
+    },
+    {
+        "datetime": "2026-09-22 12:06:32",
+        "artist": "Westside Cowboy",
+        "album": "It Goes On",
+        "track": "Kick Stones (The Boys)"
+    },
+    {
+        "datetime": "2026-09-22 12:10:32",
+        "artist": "Westside Cowboy",
+        "album": "It Goes On",
+        "track": "Paperchains"
+    },
+    {
+        "datetime": "2026-09-22 12:13:25",
+        "artist": "Westside Cowboy",
+        "album": "It Goes On",
+        "track": "Dobro"
+    },
+    {
+        "datetime": "2026-09-22 12:16:11",
+        "artist": "Westside Cowboy",
+        "album": "It Goes On",
+        "track": "Well Done Kid, You Did It"
+    },
+    {
+        "datetime": "2026-09-22 12:19:39",
+        "artist": "Westside Cowboy",
+        "album": "It Goes On",
+        "track": "Worried Age"
+    },
+    {
+        "datetime": "2026-09-22 12:23:38",
+        "artist": "Westside Cowboy",
+        "album": "It Goes On",
+        "track": "Big Wheels"
+    },
+    {
+        "datetime": "2026-09-22 12:26:56",
+        "artist": "Westside Cowboy",
+        "album": "It Goes On",
+        "track": "Pin Up Boys"
+    },
+    {
+        "datetime": "2026-09-22 12:29:42",
+        "artist": "Westside Cowboy",
+        "album": "It Goes On",
+        "track": "Coyote"
+    },
+    {
+        "datetime": "2026-09-22 12:33:01",
+        "artist": "Westside Cowboy",
+        "album": "It Goes On",
+        "track": "Patchwork"
+    },
+    {
+        "datetime": "2026-09-22 12:36:24",
+        "artist": "Westside Cowboy",
+        "album": "It Goes On",
+        "track": "Take My Leaving As I Love You"
+    },
+    {
+        "datetime": "2026-09-22 12:39:09",
+        "artist": "Westside Cowboy",
+        "album": "It Goes On",
+        "track": "You Could Have Died There On The Dancefloor"
     }
 ]
