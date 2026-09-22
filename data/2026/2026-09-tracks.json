@@ -1258,5 +1258,65 @@
         "artist": "Westside Cowboy",
         "album": "It Goes On",
         "track": "You Could Have Died There On The Dancefloor"
+    },
+    {
+        "datetime": "2026-09-22 14:52:42",
+        "artist": "Brennan Wedl",
+        "album": "Brennan Wedl",
+        "track": "Let's Be Models"
+    },
+    {
+        "datetime": "2026-09-22 14:55:09",
+        "artist": "Brennan Wedl",
+        "album": "Brennan Wedl",
+        "track": "Airplane Movies"
+    },
+    {
+        "datetime": "2026-09-22 14:59:25",
+        "artist": "Brennan Wedl",
+        "album": "Brennan Wedl",
+        "track": "I Wanna Be Your TV (album version)"
+    },
+    {
+        "datetime": "2026-09-22 15:02:22",
+        "artist": "Brennan Wedl",
+        "album": "Brennan Wedl",
+        "track": "Fake Cowboy (album version)"
+    },
+    {
+        "datetime": "2026-09-22 15:06:45",
+        "artist": "Brennan Wedl",
+        "album": "Brennan Wedl",
+        "track": "Two Dollar Pistol (album version)"
+    },
+    {
+        "datetime": "2026-09-22 15:09:37",
+        "artist": "Brennan Wedl",
+        "album": "Brennan Wedl",
+        "track": "June Gloom"
+    },
+    {
+        "datetime": "2026-09-22 15:12:54",
+        "artist": "Brennan Wedl",
+        "album": "Brennan Wedl",
+        "track": "When The Crazy Comes Out"
+    },
+    {
+        "datetime": "2026-09-22 15:17:20",
+        "artist": "Champion Trees",
+        "album": "A Duck's Water Off My Back",
+        "track": "I Wear a Shirt That Says Australia"
+    },
+    {
+        "datetime": "2026-09-22 15:21:20",
+        "artist": "Champion Trees",
+        "album": "A Duck's Water Off My Back",
+        "track": "Richard 2"
+    },
+    {
+        "datetime": "2026-09-22 15:24:30",
+        "artist": "Champion Trees",
+        "album": "A Duck's Water Off My Back",
+        "track": "I Want to Sound Like a Ghost"
     }
 ]
