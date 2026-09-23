@@ -293,7 +293,7 @@
         "Road": 2004,
         "Tales Of Light And Darkness": 2006
     },
-    "Anne Mccue": {
+    "Anne McCue": {
         "Blue Sky Thinkin'": 2015,
         "Broken Promise Land": 2010,
         "East of Electric": 2008,
@@ -632,6 +632,10 @@
     "Brenda Lee": {
         "Essential Christmas": -1
     },
+    "Brennan Wedl": {
+        "Brennan Wedl": 2026,
+        "Holy Water Branch": 2019
+    },
     "Brian Eno": {
         "Another Green World": -1
     },
@@ -927,6 +931,7 @@
         "Cosmo's Factory": 1970,
         "Creedence Clearwater Revival": 1968,
         "Green River": 1969,
+        "Live at Woodstock": 1969,
         "Mardi Gras": 1972,
         "Pendulum": 1970,
         "Willy and the Poor Boys": 1969
@@ -1201,6 +1206,7 @@
         "Works": -1
     },
     "Echo & the Bunnymen": {
+        "Apples for Isaac": 2026,
         "Crocodiles": 1980,
         "Do It Clean : Crocodiles/Heaven Up Here Live": 2011,
         "Echo & The Bunnymen": 1987,
@@ -1683,11 +1689,15 @@
         "Hawkwind": -1
     },
     "Hayes Carll": {
-        "Kmag Yoyo (& Other American Stories)": -1,
-        "Little Rock": -1,
-        "Lovers And Leavers": -1,
-        "Trouble In Mind": -1,
-        "What It Is": -1
+        "Alone Together Sessions": 2020,
+        "Flowers & Liquor": 2002,
+        "Kmag Yoyo (& Other American Stories)": 2011,
+        "Little Rock": 2005,
+        "Lovers And Leavers": 2016,
+        "Trouble In Mind": 2008,
+        "We're Only Human": 2025,
+        "What It Is": 2019,
+        "You get It All": 2021
     },
     "Hazel O'connor": {
         "A Singular Collection: The Best Of Hazel O'connor": -1
@@ -2750,6 +2760,9 @@
     "Nena": {
         "99 Luftballons": -1
     },
+    "Nell Davies": {
+        "Never Wrestle With A Pig": 2026
+    },
     "Neu Demo)": {
         "In Heaven Above (4": -1
     },
@@ -3789,6 +3802,7 @@
     },
     "The Bluebells": {
         "In the 21st Century": 2023,
+        "Second": 1992,
         "Sisters": 1984,
         "This Is...The Bluebells": 2026
     },
