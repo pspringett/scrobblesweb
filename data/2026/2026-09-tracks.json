@@ -1498,5 +1498,317 @@
         "artist": "Newdad",
         "album": "Altar",
         "track": "Pretty"
+    },
+    {
+        "datetime": "2026-09-25 09:56:17",
+        "artist": "Emma Swift",
+        "album": "Blonde On The Tracks",
+        "track": "queen jane approximately"
+    },
+    {
+        "datetime": "2026-09-25 10:01:07",
+        "artist": "Emma Swift",
+        "album": "Blonde On The Tracks",
+        "track": "I Contain Multitudes"
+    },
+    {
+        "datetime": "2026-09-25 10:12:30",
+        "artist": "Emma Swift",
+        "album": "Blonde On The Tracks",
+        "track": "one of us must know (sooner or later)"
+    },
+    {
+        "datetime": "2026-09-25 10:18:50",
+        "artist": "Emma Swift",
+        "album": "Blonde On The Tracks",
+        "track": "simple twist of fate"
+    },
+    {
+        "datetime": "2026-09-25 10:23:10",
+        "artist": "Emma Swift",
+        "album": "Blonde On The Tracks",
+        "track": "sad eyed lady of the lowlands"
+    },
+    {
+        "datetime": "2026-09-25 10:35:09",
+        "artist": "Emma Swift",
+        "album": "Blonde On The Tracks",
+        "track": "The Man In Me"
+    },
+    {
+        "datetime": "2026-09-25 10:38:36",
+        "artist": "Emma Swift",
+        "album": "Blonde On The Tracks",
+        "track": "going going gone"
+    },
+    {
+        "datetime": "2026-09-25 10:42:06",
+        "artist": "Emma Swift",
+        "album": "Blonde On The Tracks",
+        "track": "you're a big girl now"
+    },
+    {
+        "datetime": "2026-09-25 10:47:35",
+        "artist": "Emma Swift",
+        "album": "Blonde On The Tracks",
+        "track": "I Contain Multitudes (Live)"
+    },
+    {
+        "datetime": "2026-09-25 10:52:50",
+        "artist": "Emma Swift",
+        "album": "Blonde On The Tracks",
+        "track": "Simple Twist of Fate (Live)"
+    },
+    {
+        "datetime": "2026-09-25 10:57:12",
+        "artist": "Emma Swift",
+        "album": "Blonde On The Tracks",
+        "track": "Going Going Gone (Live)"
+    },
+    {
+        "datetime": "2026-09-25 11:00:27",
+        "artist": "Scritti Politti",
+        "album": "Songs To Remember",
+        "track": "Asylums in Jerusalem (Remaster)"
+    },
+    {
+        "datetime": "2026-09-25 11:03:42",
+        "artist": "Scritti Politti",
+        "album": "Songs To Remember",
+        "track": "A Slow Soul (Remaster)"
+    },
+    {
+        "datetime": "2026-09-25 11:07:00",
+        "artist": "Scritti Politti",
+        "album": "Songs To Remember",
+        "track": "Jacques Derrida (Remaster)"
+    },
+    {
+        "datetime": "2026-09-25 11:12:00",
+        "artist": "Scritti Politti",
+        "album": "Songs To Remember",
+        "track": "Lions After Slumber (Remaster)"
+    },
+    {
+        "datetime": "2026-09-25 11:18:12",
+        "artist": "Scritti Politti",
+        "album": "Songs To Remember",
+        "track": "Faithless (Remaster)"
+    },
+    {
+        "datetime": "2026-09-25 11:22:27",
+        "artist": "Scritti Politti",
+        "album": "Songs To Remember",
+        "track": "Sex (Remaster)"
+    },
+    {
+        "datetime": "2026-09-25 11:26:51",
+        "artist": "Scritti Politti",
+        "album": "Songs To Remember",
+        "track": "Rock-a-boy Blue (Remaster)"
+    },
+    {
+        "datetime": "2026-09-25 11:32:43",
+        "artist": "Scritti Politti",
+        "album": "Songs To Remember",
+        "track": "Gettin' Havin' and Holdin' (Remaster)"
+    },
+    {
+        "datetime": "2026-09-25 11:38:00",
+        "artist": "Scritti Politti",
+        "album": "Songs To Remember",
+        "track": "The Sweetest Girl (Remaster)"
+    },
+    {
+        "datetime": "2026-09-25 12:19:42",
+        "artist": "Bob Dylan",
+        "album": "Another Side Of Bob Dylan",
+        "track": "All I Really Want to Do"
+    },
+    {
+        "datetime": "2026-09-25 12:23:47",
+        "artist": "Bob Dylan",
+        "album": "Another Side Of Bob Dylan",
+        "track": "Black Crow Blues"
+    },
+    {
+        "datetime": "2026-09-25 12:27:01",
+        "artist": "Bob Dylan",
+        "album": "Another Side Of Bob Dylan",
+        "track": "Spanish Harlem Incident"
+    },
+    {
+        "datetime": "2026-09-25 12:29:27",
+        "artist": "Bob Dylan",
+        "album": "Another Side Of Bob Dylan",
+        "track": "Chimes of Freedom"
+    },
+    {
+        "datetime": "2026-09-25 12:36:37",
+        "artist": "Bob Dylan",
+        "album": "Another Side Of Bob Dylan",
+        "track": "I Shall Be Free No. 10"
+    },
+    {
+        "datetime": "2026-09-25 12:41:25",
+        "artist": "Bob Dylan",
+        "album": "Another Side Of Bob Dylan",
+        "track": "To Ramona"
+    },
+    {
+        "datetime": "2026-09-25 12:45:18",
+        "artist": "Bob Dylan",
+        "album": "Another Side Of Bob Dylan",
+        "track": "Motorpsycho Nightmare"
+    },
+    {
+        "datetime": "2026-09-25 12:49:52",
+        "artist": "Bob Dylan",
+        "album": "Another Side Of Bob Dylan",
+        "track": "My Back Pages"
+    },
+    {
+        "datetime": "2026-09-25 12:54:17",
+        "artist": "Bob Dylan",
+        "album": "Another Side Of Bob Dylan",
+        "track": "I Don't Believe You (She Acts Like We Never Have Met)"
+    },
+    {
+        "datetime": "2026-09-25 12:58:41",
+        "artist": "Bob Dylan",
+        "album": "Another Side Of Bob Dylan",
+        "track": "Ballad in Plain D"
+    },
+    {
+        "datetime": "2026-09-25 13:07:00",
+        "artist": "Bob Dylan",
+        "album": "Another Side Of Bob Dylan",
+        "track": "It Ain't Me Babe"
+    },
+    {
+        "datetime": "2026-09-25 13:10:34",
+        "artist": "Wolf Alice",
+        "album": "Blue Weekend",
+        "track": "The Beach"
+    },
+    {
+        "datetime": "2026-09-25 13:13:09",
+        "artist": "Wolf Alice",
+        "album": "Blue Weekend",
+        "track": "Delicious Things"
+    },
+    {
+        "datetime": "2026-09-25 13:18:14",
+        "artist": "Wolf Alice",
+        "album": "Blue Weekend",
+        "track": "Lipstick on the Glass"
+    },
+    {
+        "datetime": "2026-09-25 13:22:22",
+        "artist": "Wolf Alice",
+        "album": "Blue Weekend",
+        "track": "Smile"
+    },
+    {
+        "datetime": "2026-09-25 13:25:39",
+        "artist": "Wolf Alice",
+        "album": "Blue Weekend",
+        "track": "Safe From Heartbreak (If You Never Fall in Love)"
+    },
+    {
+        "datetime": "2026-09-25 13:28:12",
+        "artist": "Wolf Alice",
+        "album": "Blue Weekend",
+        "track": "How Can I Make It OK?"
+    },
+    {
+        "datetime": "2026-09-25 13:32:59",
+        "artist": "Wolf Alice",
+        "album": "Blue Weekend",
+        "track": "Play the Greatest Hits"
+    },
+    {
+        "datetime": "2026-09-25 13:35:27",
+        "artist": "Wolf Alice",
+        "album": "Blue Weekend",
+        "track": "Feeling Myself"
+    },
+    {
+        "datetime": "2026-09-25 13:40:11",
+        "artist": "Wolf Alice",
+        "album": "Blue Weekend",
+        "track": "The Last Man on Earth"
+    },
+    {
+        "datetime": "2026-09-25 13:44:33",
+        "artist": "Wolf Alice",
+        "album": "Blue Weekend",
+        "track": "No Hard Feelings"
+    },
+    {
+        "datetime": "2026-09-25 13:47:08",
+        "artist": "Wolf Alice",
+        "album": "Blue Weekend",
+        "track": "The Beach II"
+    },
+    {
+        "datetime": "2026-09-25 13:50:48",
+        "artist": "Simple Minds",
+        "album": "Sparkle In The Rain",
+        "track": "Up On The Catwalk (Remastered 2002)"
+    },
+    {
+        "datetime": "2026-09-25 13:55:35",
+        "artist": "Simple Minds",
+        "album": "Sparkle In The Rain",
+        "track": "Book Of Brilliant Things (Remastered 2002)"
+    },
+    {
+        "datetime": "2026-09-25 13:59:58",
+        "artist": "Simple Minds",
+        "album": "Sparkle In The Rain",
+        "track": "Speed Your Love To Me (Remastered 2002)"
+    },
+    {
+        "datetime": "2026-09-25 14:04:23",
+        "artist": "Simple Minds",
+        "album": "Sparkle In The Rain",
+        "track": "Waterfront (Remastered 2002)"
+    },
+    {
+        "datetime": "2026-09-25 14:09:14",
+        "artist": "Simple Minds",
+        "album": "Sparkle In The Rain",
+        "track": "East At Easter (Remastered 2002)"
+    },
+    {
+        "datetime": "2026-09-25 14:12:47",
+        "artist": "Simple Minds",
+        "album": "Sparkle In The Rain",
+        "track": "Street Hassle (Remastered 2002)"
+    },
+    {
+        "datetime": "2026-09-25 14:18:04",
+        "artist": "Simple Minds",
+        "album": "Sparkle In The Rain",
+        "track": "White Hot Day (Remastered 2002)"
+    },
+    {
+        "datetime": "2026-09-25 14:22:38",
+        "artist": "Simple Minds",
+        "album": "Sparkle In The Rain",
+        "track": "''C'' Moon Cry Like A Baby (Remastered 2002)"
+    },
+    {
+        "datetime": "2026-09-25 14:26:59",
+        "artist": "Simple Minds",
+        "album": "Sparkle In The Rain",
+        "track": "The Kick Inside Of Me (Remastered 2002)"
+    },
+    {
+        "datetime": "2026-09-25 14:31:50",
+        "artist": "Simple Minds",
+        "album": "Sparkle In The Rain",
+        "track": "Shake Off The Ghosts (Remastered 2002)"
     }
 ]
