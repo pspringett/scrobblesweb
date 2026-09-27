@@ -1810,5 +1810,293 @@
         "artist": "Simple Minds",
         "album": "Sparkle In The Rain",
         "track": "Shake Off The Ghosts (Remastered 2002)"
+    },
+    {
+        "datetime": "2026-09-27 09:18:19",
+        "artist": "Roddy Frame",
+        "album": "Seven Dials",
+        "track": "White Pony"
+    },
+    {
+        "datetime": "2026-09-27 09:27:17",
+        "artist": "Roddy Frame",
+        "album": "Seven Dials",
+        "track": "Postcard"
+    },
+    {
+        "datetime": "2026-09-27 09:31:01",
+        "artist": "Roddy Frame",
+        "album": "Seven Dials",
+        "track": "Into The Sun"
+    },
+    {
+        "datetime": "2026-09-27 09:34:53",
+        "artist": "Roddy Frame",
+        "album": "Seven Dials",
+        "track": "Rear View Mirror"
+    },
+    {
+        "datetime": "2026-09-27 09:38:17",
+        "artist": "Roddy Frame",
+        "album": "Seven Dials",
+        "track": "In Orbit"
+    },
+    {
+        "datetime": "2026-09-27 09:41:34",
+        "artist": "Roddy Frame",
+        "album": "Seven Dials",
+        "track": "Forty Days Of Rain"
+    },
+    {
+        "datetime": "2026-09-27 09:45:24",
+        "artist": "Roddy Frame",
+        "album": "Seven Dials",
+        "track": "English Garden"
+    },
+    {
+        "datetime": "2026-09-27 09:49:41",
+        "artist": "Roddy Frame",
+        "album": "Seven Dials",
+        "track": "On The Waves"
+    },
+    {
+        "datetime": "2026-09-27 09:53:07",
+        "artist": "Roddy Frame",
+        "album": "Seven Dials",
+        "track": "The Other Side"
+    },
+    {
+        "datetime": "2026-09-27 09:57:00",
+        "artist": "Roddy Frame",
+        "album": "Seven Dials",
+        "track": "From A Train"
+    },
+    {
+        "datetime": "2026-09-27 10:00:43",
+        "artist": "Tom Robinson Band",
+        "album": "2-4-6-8 Motorway: Best Of",
+        "track": "2-4-6-8 Motorway"
+    },
+    {
+        "datetime": "2026-09-27 10:04:00",
+        "artist": "Tom Robinson Band",
+        "album": "2-4-6-8 Motorway: Best Of",
+        "track": "Power In The Darkness"
+    },
+    {
+        "datetime": "2026-09-27 10:08:59",
+        "artist": "The Tom Robinson Band",
+        "album": "2-4-6-8 Motorway: Best Of",
+        "track": "Glad To Be Gay"
+    },
+    {
+        "datetime": "2026-09-27 10:13:46",
+        "artist": "Tom Robinson Band",
+        "album": "2-4-6-8 Motorway: Best Of",
+        "track": "Up Against The Wall"
+    },
+    {
+        "datetime": "2026-09-27 10:17:21",
+        "artist": "Tom Robinson Band",
+        "album": "2-4-6-8 Motorway: Best Of",
+        "track": "Too Good To Be True"
+    },
+    {
+        "datetime": "2026-09-27 10:20:57",
+        "artist": "Tom Robinson Band",
+        "album": "2-4-6-8 Motorway: Best Of",
+        "track": "Long Hot Summer"
+    },
+    {
+        "datetime": "2026-09-27 10:25:42",
+        "artist": "Tom Robinson Band",
+        "album": "2-4-6-8 Motorway: Best Of",
+        "track": "Grey Cortina"
+    },
+    {
+        "datetime": "2026-09-27 10:27:54",
+        "artist": "Tom Robinson Band",
+        "album": "2-4-6-8 Motorway: Best Of",
+        "track": "Winter of '79"
+    },
+    {
+        "datetime": "2026-09-27 10:32:26",
+        "artist": "Tom Robinson Band",
+        "album": "2-4-6-8 Motorway: Best Of",
+        "track": "Better Decide Which Side You're On"
+    },
+    {
+        "datetime": "2026-09-27 10:35:19",
+        "artist": "Robert Plant",
+        "album": "Raising Sand",
+        "track": "Rich Woman"
+    },
+    {
+        "datetime": "2026-09-27 10:39:25",
+        "artist": "Robert Plant",
+        "album": "Raising Sand",
+        "track": "Killing The Blues"
+    },
+    {
+        "datetime": "2026-09-27 10:43:43",
+        "artist": "Robert Plant",
+        "album": "Raising Sand",
+        "track": "Sister Rosetta Goes Before Us"
+    },
+    {
+        "datetime": "2026-09-27 10:47:08",
+        "artist": "Robert Plant",
+        "album": "Raising Sand",
+        "track": "Polly Come Home"
+    },
+    {
+        "datetime": "2026-09-27 10:52:48",
+        "artist": "Robert Plant",
+        "album": "Raising Sand",
+        "track": "Gone Gone Gone (Done Moved On)"
+    },
+    {
+        "datetime": "2026-09-27 10:56:23",
+        "artist": "Robert Plant",
+        "album": "Raising Sand",
+        "track": "Through The Morning, Through The Night"
+    },
+    {
+        "datetime": "2026-09-27 11:00:26",
+        "artist": "Robert Plant",
+        "album": "Raising Sand",
+        "track": "Please Read The Letter"
+    },
+    {
+        "datetime": "2026-09-27 11:06:22",
+        "artist": "Robert Plant",
+        "album": "Raising Sand",
+        "track": "Trampled Rose"
+    },
+    {
+        "datetime": "2026-09-27 11:11:56",
+        "artist": "Robert Plant",
+        "album": "Raising Sand",
+        "track": "Fortune Teller"
+    },
+    {
+        "datetime": "2026-09-27 11:16:28",
+        "artist": "Robert Plant",
+        "album": "Raising Sand",
+        "track": "Stick With Me Baby"
+    },
+    {
+        "datetime": "2026-09-27 11:36:25",
+        "artist": "Robert Plant",
+        "album": "Raising Sand",
+        "track": "Nothin'"
+    },
+    {
+        "datetime": "2026-09-27 11:42:01",
+        "artist": "Robert Plant",
+        "album": "Raising Sand",
+        "track": "Let Your Loss Be Your Lesson"
+    },
+    {
+        "datetime": "2026-09-27 11:46:03",
+        "artist": "Robert Plant",
+        "album": "Raising Sand",
+        "track": "Your Long Journey"
+    },
+    {
+        "datetime": "2026-09-27 11:50:01",
+        "artist": "The Beatles",
+        "album": "Rubber Soul (Remastered 2009)",
+        "track": "Drive My Car (Remastered 2009)"
+    },
+    {
+        "datetime": "2026-09-27 11:52:29",
+        "artist": "The Beatles",
+        "album": "Rubber Soul (Remastered 2009)",
+        "track": "Norwegian Wood (This Bird Has Flown) (Remastered 2009)"
+    },
+    {
+        "datetime": "2026-09-27 11:54:35",
+        "artist": "The Beatles",
+        "album": "Rubber Soul (Remastered 2009)",
+        "track": "You Won't See Me (Remastered 2009)"
+    },
+    {
+        "datetime": "2026-09-27 11:57:55",
+        "artist": "The Beatles",
+        "album": "Rubber Soul (Remastered 2009)",
+        "track": "Nowhere Man (Remastered 2009)"
+    },
+    {
+        "datetime": "2026-09-27 12:00:40",
+        "artist": "The Beatles",
+        "album": "Rubber Soul (Remastered 2009)",
+        "track": "Think For Yourself (Remastered 2009)"
+    },
+    {
+        "datetime": "2026-09-27 12:02:59",
+        "artist": "The Beatles",
+        "album": "Rubber Soul (Remastered 2009)",
+        "track": "The Word (Remastered 2009)"
+    },
+    {
+        "datetime": "2026-09-27 12:05:42",
+        "artist": "The Beatles",
+        "album": "Rubber Soul (Remastered 2009)",
+        "track": "Michelle (Remastered 2009)"
+    },
+    {
+        "datetime": "2026-09-27 12:08:25",
+        "artist": "The Beatles",
+        "album": "Rubber Soul (Remastered 2009)",
+        "track": "What Goes On (Remastered 2009)"
+    },
+    {
+        "datetime": "2026-09-27 12:11:14",
+        "artist": "The Beatles",
+        "album": "Rubber Soul (Remastered 2009)",
+        "track": "Girl (Remastered 2009)"
+    },
+    {
+        "datetime": "2026-09-27 12:13:47",
+        "artist": "The Beatles",
+        "album": "Rubber Soul (Remastered 2009)",
+        "track": "I'm Looking Through You (Remastered 2009)"
+    },
+    {
+        "datetime": "2026-09-27 12:16:13",
+        "artist": "The Beatles",
+        "album": "Rubber Soul (Remastered 2009)",
+        "track": "In My Life (Remastered 2009)"
+    },
+    {
+        "datetime": "2026-09-27 12:18:40",
+        "artist": "The Beatles",
+        "album": "Rubber Soul (Remastered 2009)",
+        "track": "Wait (Remastered 2009)"
+    },
+    {
+        "datetime": "2026-09-27 12:20:56",
+        "artist": "The Beatles",
+        "album": "Rubber Soul (Remastered 2009)",
+        "track": "If I Needed Someone (Remastered 2009)"
+    },
+    {
+        "datetime": "2026-09-27 12:23:18",
+        "artist": "The Beatles",
+        "album": "Rubber Soul (Remastered 2009)",
+        "track": "Run For Your Life (Remastered 2009)"
+    },
+    {
+        "datetime": "2026-09-27 12:25:40",
+        "artist": "The Rolling Stones",
+        "album": "Singles 1965-1967",
+        "track": "(I Can't Get No) Satisfaction (Mono)"
+    },
+    {
+        "datetime": "2026-09-27 12:29:24",
+        "artist": "The Rolling Stones",
+        "album": "Singles 1965-1967",
+        "track": "The Under Assistant West Coast Promotion Man (Edit / Mono)"
     }
 ]
