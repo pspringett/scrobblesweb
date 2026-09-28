@@ -2158,5 +2158,35 @@
         "artist": "Champion Trees",
         "album": "A Duck's Water Off My Back",
         "track": "C. Market, Rondebosch Park"
+    },
+    {
+        "datetime": "2026-09-28 15:51:46",
+        "artist": "Scritti Politti",
+        "album": "Songs To Remember",
+        "track": "Faithless (Remaster)"
+    },
+    {
+        "datetime": "2026-09-28 15:56:04",
+        "artist": "Scritti Politti",
+        "album": "Songs To Remember",
+        "track": "Gettin' Havin' and Holdin' (Remaster)"
+    },
+    {
+        "datetime": "2026-09-28 16:01:21",
+        "artist": "Scritti Politti",
+        "album": "Songs To Remember",
+        "track": "Sex (Remaster)"
+    },
+    {
+        "datetime": "2026-09-28 16:05:46",
+        "artist": "Scritti Politti",
+        "album": "Songs To Remember",
+        "track": "The Sweetest Girl (Remaster)"
+    },
+    {
+        "datetime": "2026-09-28 16:12:05",
+        "artist": "Scritti Politti",
+        "album": "Songs To Remember",
+        "track": "Jacques Derrida (Remaster)"
     }
 ]
