@@ -64,5 +64,245 @@
         "artist": "Echo & the Bunnymen",
         "album": "Apples For Isaac",
         "track": "We Prayed In the Dark"
+    },
+    {
+        "datetime": "2026-10-01 13:46:22",
+        "artist": "Zoe Graham",
+        "album": "Tent",
+        "track": "Push and Pull"
+    },
+    {
+        "datetime": "2026-10-01 13:50:40",
+        "artist": "Zoe Graham",
+        "album": "Tent",
+        "track": "Happen"
+    },
+    {
+        "datetime": "2026-10-01 13:54:53",
+        "artist": "Zoe Graham",
+        "album": "Tent",
+        "track": "Evilin"
+    },
+    {
+        "datetime": "2026-10-01 13:58:18",
+        "artist": "Zoe Graham",
+        "album": "Tent",
+        "track": "Even Though I'm Scared"
+    },
+    {
+        "datetime": "2026-10-01 14:02:13",
+        "artist": "Zoe Graham",
+        "album": "Tent",
+        "track": "Shift This Feeling"
+    },
+    {
+        "datetime": "2026-10-01 14:06:15",
+        "artist": "Zoe Graham",
+        "album": "Tent",
+        "track": "Good Girl"
+    },
+    {
+        "datetime": "2026-10-01 14:11:04",
+        "artist": "Zoe Graham",
+        "album": "Tent",
+        "track": "I Only Ever Loved Yous"
+    },
+    {
+        "datetime": "2026-10-01 14:15:31",
+        "artist": "Zoe Graham",
+        "album": "Tent",
+        "track": "Stranger Care"
+    },
+    {
+        "datetime": "2026-10-01 14:20:47",
+        "artist": "Zoe Graham",
+        "album": "Tent",
+        "track": "When Living Came Easy"
+    },
+    {
+        "datetime": "2026-10-01 14:24:49",
+        "artist": "Zoe Graham",
+        "album": "Tent",
+        "track": "Divine Feminine Energy"
+    },
+    {
+        "datetime": "2026-10-01 15:53:43",
+        "artist": "Phoebe Bridgers",
+        "album": "Lost Weekend",
+        "track": "The Outside"
+    },
+    {
+        "datetime": "2026-10-01 15:57:45",
+        "artist": "Phoebe Bridgers",
+        "album": "Lost Weekend",
+        "track": "Lost Boys"
+    },
+    {
+        "datetime": "2026-10-01 16:02:01",
+        "artist": "Phoebe Bridgers",
+        "album": "Lost Weekend",
+        "track": "Kill Me"
+    },
+    {
+        "datetime": "2026-10-01 16:06:43",
+        "artist": "Phoebe Bridgers",
+        "album": "Lost Weekend",
+        "track": "The Governor's Waltz"
+    },
+    {
+        "datetime": "2026-10-01 16:10:11",
+        "artist": "Phoebe Bridgers",
+        "album": "Lost Weekend",
+        "track": "Bobby"
+    },
+    {
+        "datetime": "2026-10-01 16:14:11",
+        "artist": "Phoebe Bridgers",
+        "album": "Lost Weekend",
+        "track": "Lost Weekend"
+    },
+    {
+        "datetime": "2026-10-01 16:17:50",
+        "artist": "Phoebe Bridgers",
+        "album": "Lost Weekend",
+        "track": "Haunted"
+    },
+    {
+        "datetime": "2026-10-01 16:21:26",
+        "artist": "Phoebe Bridgers",
+        "album": "Lost Weekend",
+        "track": "Panorama"
+    },
+    {
+        "datetime": "2026-10-01 16:24:13",
+        "artist": "Phoebe Bridgers",
+        "album": "Lost Weekend",
+        "track": "Still Standing"
+    },
+    {
+        "datetime": "2026-10-01 16:28:10",
+        "artist": "Phoebe Bridgers",
+        "album": "Lost Weekend",
+        "track": "Liberty Tree"
+    },
+    {
+        "datetime": "2026-10-01 16:31:29",
+        "artist": "Phoebe Bridgers",
+        "album": "Lost Weekend",
+        "track": "Never Going Back!"
+    },
+    {
+        "datetime": "2026-10-01 21:32:53",
+        "artist": "Phoebe Bridgers",
+        "album": "Lost Weekend",
+        "track": "Never Going Back!"
+    },
+    {
+        "datetime": "2026-10-01 21:34:37",
+        "artist": "Phoebe Bridgers",
+        "album": "Lost Weekend",
+        "track": "Other Plans"
+    },
+    {
+        "datetime": "2026-10-01 21:36:57",
+        "artist": "Phoebe Bridgers",
+        "album": "Lost Weekend",
+        "track": "Lost Parade"
+    },
+    {
+        "datetime": "2026-10-01 21:37:54",
+        "artist": "Phoebe Bridgers",
+        "album": "Lost Weekend",
+        "track": "I Can't Wait"
+    },
+    {
+        "datetime": "2026-10-01 21:41:32",
+        "artist": "Phoebe Bridgers",
+        "album": "Lost Weekend",
+        "track": "As Above"
+    },
+    {
+        "datetime": "2026-10-01 21:45:58",
+        "artist": "Phoebe Bridgers",
+        "album": "Lost Weekend",
+        "track": "Lost Weekend (Reprise)"
+    },
+    {
+        "datetime": "2026-10-02 09:45:06",
+        "artist": "Simple Minds",
+        "album": "New Gold Dream",
+        "track": "New Gold Dream (81/82/83/84)"
+    },
+    {
+        "datetime": "2026-10-02 10:41:03",
+        "artist": "Spaceacre",
+        "album": "That Girl Ep",
+        "track": "That Girl"
+    },
+    {
+        "datetime": "2026-10-02 10:43:34",
+        "artist": "Spaceacre",
+        "album": "That Girl Ep",
+        "track": "Chemicals"
+    },
+    {
+        "datetime": "2026-10-02 10:46:40",
+        "artist": "Spaceacre",
+        "album": "That Girl Ep",
+        "track": "Say"
+    },
+    {
+        "datetime": "2026-10-02 10:51:57",
+        "artist": "Spaceacre",
+        "album": "That Girl Ep",
+        "track": "MoMo"
+    },
+    {
+        "datetime": "2026-10-02 10:54:54",
+        "artist": "Spaceacre",
+        "album": "That Girl Ep",
+        "track": "Familiar"
+    },
+    {
+        "datetime": "2026-10-02 10:58:42",
+        "artist": "Spaceacre",
+        "album": "That Girl Ep",
+        "track": "Open My Eyes"
+    },
+    {
+        "datetime": "2026-10-02 11:02:35",
+        "artist": "Spaceacre",
+        "album": "That Girl Ep",
+        "track": "Into The Dust"
+    },
+    {
+        "datetime": "2026-10-02 11:06:19",
+        "artist": "Echo & the Bunnymen",
+        "album": "Apples For Isaac",
+        "track": "Take Me By The Hand"
+    },
+    {
+        "datetime": "2026-10-02 11:10:02",
+        "artist": "Echo & the Bunnymen",
+        "album": "Apples For Isaac",
+        "track": "Can't Be Sold"
+    },
+    {
+        "datetime": "2026-10-02 11:13:12",
+        "artist": "Echo & the Bunnymen",
+        "album": "Apples For Isaac",
+        "track": "Brussels Is Haunted"
+    },
+    {
+        "datetime": "2026-10-02 11:16:35",
+        "artist": "Echo & the Bunnymen",
+        "album": "Apples For Isaac",
+        "track": "I'll Be Your Sunshine"
+    },
+    {
+        "datetime": "2026-10-02 11:20:09",
+        "artist": "Echo & the Bunnymen",
+        "album": "Apples For Isaac",
+        "track": "Hijacked"
     }
 ]
