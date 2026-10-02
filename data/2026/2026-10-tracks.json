@@ -304,5 +304,17 @@
         "artist": "Echo & the Bunnymen",
         "album": "Apples For Isaac",
         "track": "Hijacked"
+    },
+    {
+        "datetime": "2026-10-02 13:55:11",
+        "artist": "Phoebe Bridgers",
+        "album": "Lost Weekend",
+        "track": "The Outside"
+    },
+    {
+        "datetime": "2026-10-02 14:09:03",
+        "artist": "Phoebe Bridgers",
+        "album": "Lost Weekend",
+        "track": "Lost Boys"
     }
 ]
