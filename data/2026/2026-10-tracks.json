@@ -478,5 +478,41 @@
         "artist": "Spaceacre",
         "album": "That Girl Ep",
         "track": "Into The Dust"
+    },
+    {
+        "datetime": "2026-10-04 21:30:44",
+        "artist": "Echo & the Bunnymen",
+        "album": "Apples For Isaac",
+        "track": "The Honey"
+    },
+    {
+        "datetime": "2026-10-04 21:34:41",
+        "artist": "Echo & the Bunnymen",
+        "album": "Apples For Isaac",
+        "track": "An Unstoppable Force"
+    },
+    {
+        "datetime": "2026-10-04 21:39:01",
+        "artist": "Echo & the Bunnymen",
+        "album": "Apples For Isaac",
+        "track": "The Light That Surrounds You"
+    },
+    {
+        "datetime": "2026-10-04 21:42:43",
+        "artist": "Echo & the Bunnymen",
+        "album": "Apples For Isaac",
+        "track": "Lab Rats Ran"
+    },
+    {
+        "datetime": "2026-10-04 21:45:59",
+        "artist": "Echo & the Bunnymen",
+        "album": "Apples For Isaac",
+        "track": "Asimov"
+    },
+    {
+        "datetime": "2026-10-04 21:49:10",
+        "artist": "Echo & the Bunnymen",
+        "album": "Apples For Isaac",
+        "track": "We Prayed In the Dark"
     }
 ]
