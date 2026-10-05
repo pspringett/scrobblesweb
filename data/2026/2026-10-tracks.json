@@ -520,5 +520,59 @@
         "artist": "Echo & the Bunnymen",
         "album": "Apples For Isaac",
         "track": "Take Me By The Hand"
+    },
+    {
+        "datetime": "2026-10-05 14:04:15",
+        "artist": "Echo & the Bunnymen",
+        "album": "Apples For Isaac",
+        "track": "Brussels Is Haunted"
+    },
+    {
+        "datetime": "2026-10-05 14:07:38",
+        "artist": "Echo & the Bunnymen",
+        "album": "Apples For Isaac",
+        "track": "I'll Be Your Sunshine"
+    },
+    {
+        "datetime": "2026-10-05 14:11:13",
+        "artist": "Echo & the Bunnymen",
+        "album": "Apples For Isaac",
+        "track": "Hijacked"
+    },
+    {
+        "datetime": "2026-10-05 14:14:40",
+        "artist": "Echo & the Bunnymen",
+        "album": "Apples For Isaac",
+        "track": "The Honey"
+    },
+    {
+        "datetime": "2026-10-05 14:18:32",
+        "artist": "Echo & the Bunnymen",
+        "album": "Apples For Isaac",
+        "track": "An Unstoppable Force"
+    },
+    {
+        "datetime": "2026-10-05 14:21:46",
+        "artist": "Echo & the Bunnymen",
+        "album": "Apples For Isaac",
+        "track": "The Light That Surrounds You"
+    },
+    {
+        "datetime": "2026-10-05 14:25:27",
+        "artist": "Echo & the Bunnymen",
+        "album": "Apples For Isaac",
+        "track": "Lab Rats Ran"
+    },
+    {
+        "datetime": "2026-10-05 14:28:43",
+        "artist": "Echo & the Bunnymen",
+        "album": "Apples For Isaac",
+        "track": "Asimov"
+    },
+    {
+        "datetime": "2026-10-05 14:31:54",
+        "artist": "Echo & the Bunnymen",
+        "album": "Apples For Isaac",
+        "track": "We Prayed In the Dark"
     }
 ]
