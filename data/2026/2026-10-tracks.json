@@ -622,5 +622,35 @@
         "artist": "Zoe Graham",
         "album": "Tent",
         "track": "Divine Feminine Energy"
+    },
+    {
+        "datetime": "2026-10-06 21:56:52",
+        "artist": "Scritti Politti",
+        "album": "Songs To Remember",
+        "track": "Asylums in Jerusalem (Remaster)"
+    },
+    {
+        "datetime": "2026-10-06 22:00:12",
+        "artist": "Scritti Politti",
+        "album": "Songs To Remember",
+        "track": "A Slow Soul (Remaster)"
+    },
+    {
+        "datetime": "2026-10-06 22:03:31",
+        "artist": "Scritti Politti",
+        "album": "Songs To Remember",
+        "track": "Jacques Derrida (Remaster)"
+    },
+    {
+        "datetime": "2026-10-06 22:08:31",
+        "artist": "Scritti Politti",
+        "album": "Songs To Remember",
+        "track": "Lions After Slumber (Remaster)"
+    },
+    {
+        "datetime": "2026-10-06 22:14:43",
+        "artist": "Scritti Politti",
+        "album": "Songs To Remember",
+        "track": "Faithless (Remaster)"
     }
 ]
