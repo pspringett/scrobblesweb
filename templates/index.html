@@ -213,6 +213,38 @@
       background: linear-gradient(90deg, #2e7d52, #4caf82);
     }
 
+    .row-label.up {
+      color: #4caf82;
+    }
+
+    .row-bar-fill.up {
+      background: linear-gradient(90deg, #2e7d52, #4caf82);
+    }
+
+    .row-label.down {
+      color: #4caf82;
+    }
+
+    .row-bar-fill.down {
+      background: linear-gradient(90deg, #2e7d52, #4caf82);
+    }
+
+    .row-label.net_down {
+      color: #4caf82;
+    }
+
+    .row-bar-fill.net_down {
+      background: linear-gradient(90deg, #2e7d52, #4caf82);
+    }    
+
+    .row-label.net_up {
+      color: #4caf82;
+    }
+
+    .row-bar-fill.net_up {
+      background: linear-gradient(90deg, #2e7d52, #4caf82);
+    }        
+
     .mode-toggle {
       display: flex;
       gap: 0;
@@ -634,7 +666,36 @@
         chart.appendChild(spacer);
       }
 
+      //const label = document.createElement("div");
+      //label.setAttribute("role", "listitem");
+
       // RankUp changes the entry to green.
+      //if (mode === "rolling12") {
+      //  if (album.rank_change == 0) {
+      //    label.className = "row-label";
+      //  } else if (album.rank_change == 1) {
+      //    label.className = "row-label rank-up";
+      //  }
+      //  } else if (album.rank_change > 1) {
+      //    label.className = "row-label";          
+      //  }
+
+      //} else if (mode === "year" && album.rank_change > 0) {
+      //  rankUp = true;
+      //  label.className = "row-label" + (rankUp ? " rank-up" : "");
+      
+      //} else if (mode === "since2013" && album.rank_change > 0) {
+      //  rankUp = true;
+      //  label.className = "row-label" + (rankUp ? " rank-up" : "");
+
+      //} else if (mode === "all" && album.rank_change > 0) {
+      //  rankUp = true;
+
+      //} else {
+      //  rankUp = false;
+      //  label.className = "row-label" + (rankUp ? " rank-up" : "");
+      //}
+      //print("label.classname = %s", label.className);      
       rankUp = mode === "rolling12" && album.rank_change > 0;
       if (!rankUp){
         rankUp = mode === "year" && album.rank_change > 0;

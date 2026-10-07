@@ -266,7 +266,19 @@ def api_albums_rolling12(year: int, month: int, use_rank:  bool = False) -> Resp
             prev_rank = prev_ranks.get(label)
             rank_change: Optional[int] = (prev_rank - rank) if prev_rank is not None else None
         else:
-            rank_change: Optional[int] = (current[label] - prev[label]) if label in prev else 1
+            # For the rolling 12 month we determine the following rank_changes
+            # rank_change = 0 Count has not changed
+            # rank_change = 1 Count has increased
+            # rank-change = 2 Count has decreased
+            # rank_change = 3 there has been a net increase (not coded)
+            # rank_change = 4 there has been a net decrease (not coded)
+            rank_change = 0
+            if  current[label] > prev[label]:
+                rank_change = 1
+            elif current[label] < prev[label]:
+                rank_change = 0
+
+            # rank_change: Optional[int] = (current[label] - prev[label]) if label in prev else 1
 
         albums.append({
             "label": label,
