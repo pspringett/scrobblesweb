@@ -90,10 +90,10 @@ def load_month_data(year: int, month: int) -> Optional[list[Scrobble]]:
 
 def load_this_month_data() -> Counter[str]:
     """Load and return scrobbles for today.
-       Enhance me to get the current eyar and crrent month properly
+       Enhance me to get the current year and current month properly
     """
     this_year = 2026
-    this_month = 9
+    this_month = 10
     scrobbles = load_month_data(this_year, this_month)
     if scrobbles is None:
         return Counter()
