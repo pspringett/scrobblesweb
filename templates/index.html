@@ -222,11 +222,11 @@
     }
 
     .row-label.down {
-      color: #4caf82;
+      color: #abaabd;
     }
 
     .row-bar-fill.down {
-      background: linear-gradient(90deg, #2e7d52, #4caf82);
+      background: linear-gradient(90deg, #2e7d52, #2a2847);
     }
 
     .row-label.net_down {
@@ -666,19 +666,18 @@
         chart.appendChild(spacer);
       }
 
-      //const label = document.createElement("div");
-      //label.setAttribute("role", "listitem");
+      const label = document.createElement("div");
+      label.setAttribute("role", "listitem");
 
       // RankUp changes the entry to green.
-      //if (mode === "rolling12") {
-      //  if (album.rank_change == 0) {
-      //    label.className = "row-label";
-      //  } else if (album.rank_change == 1) {
-      //    label.className = "row-label rank-up";
-      //  }
-      //  } else if (album.rank_change > 1) {
-      //    label.className = "row-label";          
-      //  }
+      if (mode === "rolling12") {
+        if (album.rank_change == 0) {
+          label.className = "row-label";
+        } else if (album.rank_change == 1) {
+          label.className = "row-label up";
+        } else if (album.rank_change > 1) {
+          label.className = "row-label down";          
+        }
 
       //} else if (mode === "year" && album.rank_change > 0) {
       //  rankUp = true;
@@ -694,23 +693,27 @@
       //} else {
       //  rankUp = false;
       //  label.className = "row-label" + (rankUp ? " rank-up" : "");
-      //}
-      //print("label.classname = %s", label.className);      
-      rankUp = mode === "rolling12" && album.rank_change > 0;
-      if (!rankUp){
-        rankUp = mode === "year" && album.rank_change > 0;
+
       }
-      if (!rankUp){
-        rankUp = mode === "since2013" && album.rank_change > 0;
-      }      
-      if (!rankUp){
-        rankUp = mode === "all" && album.rank_change > 0;
-      }            
+      else
+      {
+        rankUp = mode === "month" && album.rank_change > 0;
+        if (!rankUp){
+          rankUp = mode === "year" && album.rank_change > 0;
+        }
+        if (!rankUp){
+          rankUp = mode === "since2013" && album.rank_change > 0;
+        }      
+        if (!rankUp){
+          rankUp = mode === "all" && album.rank_change > 0;
+        } 
+        label.className = "row-label" + (rankUp ? " rank-up" : "");           
+      }
       const showArtistLink = album.has_releases;
 
-      const label = document.createElement("div");
-      label.className = "row-label" + (rankUp ? " rank-up" : "");
-      label.setAttribute("role", "listitem");
+      //const label = document.createElement("div");
+      //label.className = "row-label" + (rankUp ? " rank-up" : "");
+      //label.setAttribute("role", "listitem");
 
       if (showArtistLink) {
         const pos = document.createTextNode(`${i + 1}. `);
@@ -733,9 +736,22 @@
       const track = document.createElement("div");
       track.className = "row-bar-track";
       const fill = document.createElement("div");
-      fill.className = "row-bar-fill" + (rankUp ? " rank-up" : "");
+
+      if (mode === "rolling12") {
+        if (album.rank_change == 0) {
+          fill.className = "row-bar-fill";
+        } else if (album.rank_change == 1) {
+          fill.className = "row-bar-fill up";
+        } else if (album.rank_change > 1) {
+          fill.className = "row-bar-fill down";
+        }
+      }
+      else
+      {  
+        fill.className = "row-bar-fill" + (rankUp ? " rank-up" : "");
+      }
       fill.style.width = "0%";
-      track.appendChild(fill);
+      track.appendChild(fill);      
 
       const count = document.createElement("div");
       count.className = "row-count";

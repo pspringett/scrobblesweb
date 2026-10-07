@@ -276,7 +276,7 @@ def api_albums_rolling12(year: int, month: int, use_rank:  bool = False) -> Resp
             if  current[label] > prev[label]:
                 rank_change = 1
             elif current[label] < prev[label]:
-                rank_change = 0
+                rank_change = 2
 
             # rank_change: Optional[int] = (current[label] - prev[label]) if label in prev else 1
 
