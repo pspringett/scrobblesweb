@@ -682,5 +682,35 @@
         "artist": "Wet Leg",
         "album": "Moisturizer",
         "track": "catch these fists"
+    },
+    {
+        "datetime": "2026-10-09 11:04:38",
+        "artist": "Wet Leg",
+        "album": "Moisturizer",
+        "track": "davina mccall"
+    },
+    {
+        "datetime": "2026-10-09 11:08:27",
+        "artist": "Wet Leg",
+        "album": "Moisturizer",
+        "track": "jennifer's body"
+    },
+    {
+        "datetime": "2026-10-09 11:13:44",
+        "artist": "Phoebe Bridgers",
+        "album": "Lost Weekend",
+        "track": "The Outside"
+    },
+    {
+        "datetime": "2026-10-09 11:17:44",
+        "artist": "Phoebe Bridgers",
+        "album": "Lost Weekend",
+        "track": "Lost Boys"
+    },
+    {
+        "datetime": "2026-10-09 11:21:59",
+        "artist": "Phoebe Bridgers",
+        "album": "Lost Weekend",
+        "track": "Kill Me"
     }
 ]
