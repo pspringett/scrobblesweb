@@ -736,5 +736,29 @@
         "artist": "Phoebe Bridgers",
         "album": "Lost Weekend",
         "track": "Panorama"
+    },
+    {
+        "datetime": "2026-10-09 16:38:26",
+        "artist": "Emma Swift",
+        "album": "The Resurrection Game",
+        "track": "For You And Oblivion"
+    },
+    {
+        "datetime": "2026-10-09 16:42:40",
+        "artist": "Emma Swift",
+        "album": "The Resurrection Game",
+        "track": "Beautiful Ruins"
+    },
+    {
+        "datetime": "2026-10-09 16:48:07",
+        "artist": "Emma Swift",
+        "album": "The Resurrection Game",
+        "track": "Nothing And Forever"
+    },
+    {
+        "datetime": "2026-10-09 16:51:56",
+        "artist": "Emma Swift",
+        "album": "The Resurrection Game",
+        "track": "The Resurrection Game"
     }
 ]
