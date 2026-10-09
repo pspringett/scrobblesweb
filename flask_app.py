@@ -103,6 +103,19 @@ def load_this_month_data() -> Counter[str]:
         counts[_album_key(s)] += 1
     return counts
 
+def load_a_month_data(year: int, month: int) -> Counter[str]:
+    """Load and return scrobbles for today.
+       Enhance me to get the current year and current month properly
+    """
+    scrobbles = load_month_data(year, month)
+    if scrobbles is None:
+        return Counter()
+    
+    counts: Counter[str] = Counter()
+    for s in scrobbles:
+        counts[_album_key(s)] += 1
+    return counts
+
 
 def _split_label(label: str) -> tuple[str, str]:
     """Split 'Artist — Album' label into (artist, album)."""
@@ -245,6 +258,8 @@ def api_albums_rolling12(year: int, month: int, use_rank:  bool = False) -> Resp
 
     current = _rolling12_counts(year, month)
 
+    #
+    # print(f"Rolling 12 counts for {year}-{month:02d}: {len(current)} albums")
     # Previous window = rolling 12 ending one month before the current end
     prev_end_m = month - 1
     prev_end_y = year
@@ -271,13 +286,27 @@ def api_albums_rolling12(year: int, month: int, use_rank:  bool = False) -> Resp
             # rank_change = 1 Count has increased
             # rank-change = 2 Count has decreased
             # rank_change = 3 there has been a net increase (not coded)
-            # rank_change = 4 there has been a net decrease (not coded)
+            # rank_change = 4 there has been a net decrease
             rank_change = 0
             if  current[label] > prev[label]:
+                # Simple case of the count going up.  This could be a net up (more listens 
+                # this month, than dropped off the twelth month ago), but currently we are
+                # not distinguishing that.
                 rank_change = 1
-            elif current[label] < prev[label]:
-                rank_change = 2
 
+            elif current[label] < prev[label]:
+                # The count has gone down.  note that this_month cannot be None, because the
+                # rolling 12 month code is only called when there is data for the current month.  
+                this_month = load_a_month_data(year, month)
+                if label not in this_month:
+                    # Simple case, the number of listens has gone down and it hasn't been listened 
+                    # to this month.  
+                    rank_change = 2
+                    # print(f"Decrease for {label}")
+                else:
+                    # We have listened to it this month, but the count as still gone down. So this
+                    # is a net down.    
+                    rank_change = 4
             # rank_change: Optional[int] = (current[label] - prev[label]) if label in prev else 1
 
         albums.append({

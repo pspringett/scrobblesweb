@@ -230,11 +230,11 @@
     }
 
     .row-label.net_down {
-      color: #4caf82;
+      color: #adaf4c;
     }
 
     .row-bar-fill.net_down {
-      background: linear-gradient(90deg, #2e7d52, #4caf82);
+      background: linear-gradient(90deg, #adaf4c #444e10);
     }    
 
     .row-label.net_up {
@@ -242,7 +242,7 @@
     }
 
     .row-bar-fill.net_up {
-      background: linear-gradient(90deg, #2e7d52, #4caf82);
+      background: linear-gradient(90deg, #7d2e35, #4caf82);
     }        
 
     .mode-toggle {
@@ -675,25 +675,13 @@
           label.className = "row-label";
         } else if (album.rank_change == 1) {
           label.className = "row-label up";
-        } else if (album.rank_change > 1) {
+        } else if (album.rank_change == 2) {
           label.className = "row-label down";          
+        } else if (album.rank_change == 3) {
+          label.className = "row-label net_up";          
+        } else {
+          label.className = "row-label net_down";          
         }
-
-      //} else if (mode === "year" && album.rank_change > 0) {
-      //  rankUp = true;
-      //  label.className = "row-label" + (rankUp ? " rank-up" : "");
-      
-      //} else if (mode === "since2013" && album.rank_change > 0) {
-      //  rankUp = true;
-      //  label.className = "row-label" + (rankUp ? " rank-up" : "");
-
-      //} else if (mode === "all" && album.rank_change > 0) {
-      //  rankUp = true;
-
-      //} else {
-      //  rankUp = false;
-      //  label.className = "row-label" + (rankUp ? " rank-up" : "");
-
       }
       else
       {
@@ -710,10 +698,6 @@
         label.className = "row-label" + (rankUp ? " rank-up" : "");           
       }
       const showArtistLink = album.has_releases;
-
-      //const label = document.createElement("div");
-      //label.className = "row-label" + (rankUp ? " rank-up" : "");
-      //label.setAttribute("role", "listitem");
 
       if (showArtistLink) {
         const pos = document.createTextNode(`${i + 1}. `);
@@ -742,7 +726,11 @@
           fill.className = "row-bar-fill";
         } else if (album.rank_change == 1) {
           fill.className = "row-bar-fill up";
-        } else if (album.rank_change > 1) {
+        } else if (album.rank_change == 2) {
+          fill.className = "row-bar-fill down";          
+        } else if (album.rank_change == 3) {
+          fill.className = "row-bar-fill net_up";
+        } else {
           fill.className = "row-bar-fill down";
         }
       }
