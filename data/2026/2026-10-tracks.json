@@ -844,5 +844,17 @@
         "artist": "Ride",
         "album": "Nowhere [Remastered]",
         "track": "Seagull"
+    },
+    {
+        "datetime": "2026-10-11 12:00:10",
+        "artist": "Ride",
+        "album": "Nowhere [Remastered]",
+        "track": "Kaleidoscope"
+    },
+    {
+        "datetime": "2026-10-11 12:03:13",
+        "artist": "Ride",
+        "album": "Nowhere [Remastered]",
+        "track": "In a Different Place"
     }
 ]
