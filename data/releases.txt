@@ -2972,9 +2972,9 @@
         "": -1
     },
     "Phoebe Bridgers": {
-        "Punisher": -1,
-        "Stranger In The Alp": -1,
-        "Stranger In The Alps": -1
+        "Lost Weekend": 202,
+        "Punisher": 2020,
+        "Stranger In The Alps": 2017
     },
     "Phoenix": {
         "Alpha Zulu": -1
@@ -3130,7 +3130,13 @@
         "Greatest Hits": -1
     },
     "Ride": {
-        "Nowhere": -1
+        "Carnival of Light": 1994,
+        "Going Blank Again": 1992,
+        "Interplay": 2024,
+        "Nowhere": 1990,
+        "Tarantula": 1996,
+        "This is not a Safe Place": 2019,
+        "Weather Diaries": 2017
     },
     "Rides: The Best Of 1986": {
         "Blue Skies & Free": -1
@@ -3529,6 +3535,9 @@
         "Parade": 1984,
         "Through the Barricades": 1986,
         "True": 1984
+    },
+    "Spaceacre": {
+        "That Girl EP": 2026
     },
     "Spare Snare": {
         "Sounds Recorded By Steve Albini": -1
@@ -4651,8 +4660,8 @@
         "It Goes On": 2026
     },
     "Wet Leg": {
-        "Moisturizer": -1,
-        "Wet Leg": -1
+        "Moisturizer": 2025,
+        "Wet Leg": 2022
     },
     "Weyes Blood": {
         "And In The Darkness, Hearts Aglow": -1,
