@@ -1066,5 +1066,41 @@
         "artist": "Lloyd Cole",
         "album": "Easy Pieces",
         "track": "Rich (Remastered)"
+    },
+    {
+        "datetime": "2026-10-16 13:15:42",
+        "artist": "Lloyd Cole",
+        "album": "Easy Pieces",
+        "track": "Pretty Gone (Remastered)"
+    },
+    {
+        "datetime": "2026-10-16 13:19:15",
+        "artist": "Lloyd Cole",
+        "album": "Easy Pieces",
+        "track": "Grace (Remastered)"
+    },
+    {
+        "datetime": "2026-10-16 13:23:22",
+        "artist": "Lloyd Cole",
+        "album": "Easy Pieces",
+        "track": "Cut Me Down (Remastered)"
+    },
+    {
+        "datetime": "2026-10-16 13:28:07",
+        "artist": "Spaceacre",
+        "album": "That Girl Ep",
+        "track": "Familiar"
+    },
+    {
+        "datetime": "2026-10-16 13:31:56",
+        "artist": "Spaceacre",
+        "album": "That Girl Ep",
+        "track": "Open My Eyes"
+    },
+    {
+        "datetime": "2026-10-16 13:35:48",
+        "artist": "Spaceacre",
+        "album": "That Girl Ep",
+        "track": "MoMo"
     }
 ]
