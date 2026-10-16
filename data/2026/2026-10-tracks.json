@@ -1018,5 +1018,47 @@
         "artist": "Scritti Politti",
         "album": "Songs To Remember",
         "track": "Gettin' Havin' and Holdin' (Remaster)"
+    },
+    {
+        "datetime": "2026-10-16 10:55:15",
+        "artist": "The Fall",
+        "album": "Perverted By Language",
+        "track": "Tempo House"
+    },
+    {
+        "datetime": "2026-10-16 11:04:10",
+        "artist": "The Fall",
+        "album": "Perverted By Language",
+        "track": "Hexen Definitive / Strife Knot"
+    },
+    {
+        "datetime": "2026-10-16 11:11:48",
+        "artist": "The Go-Betweens",
+        "album": "16 Lovers Lane",
+        "track": "The Devil's Eye (Remastered)"
+    },
+    {
+        "datetime": "2026-10-16 11:13:54",
+        "artist": "The Go-Betweens",
+        "album": "16 Lovers Lane",
+        "track": "I'm All Right (Remastered)"
+    },
+    {
+        "datetime": "2026-10-16 11:17:09",
+        "artist": "The Go-Betweens",
+        "album": "16 Lovers Lane",
+        "track": "Quiet Heart (Remastered)"
+    },
+    {
+        "datetime": "2026-10-16 11:22:31",
+        "artist": "The Go-Betweens",
+        "album": "16 Lovers Lane",
+        "track": "Love Is a Sign (Remastered)"
+    },
+    {
+        "datetime": "2026-10-16 11:26:45",
+        "artist": "The Go-Betweens",
+        "album": "16 Lovers Lane",
+        "track": "Clouds (Remastered)"
     }
 ]
