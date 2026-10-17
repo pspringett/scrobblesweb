@@ -1168,5 +1168,47 @@
         "artist": "Echo & the Bunnymen",
         "album": "Apples For Isaac",
         "track": "Take Me By The Hand"
+    },
+    {
+        "datetime": "2026-10-17 16:56:05",
+        "artist": "Westside Cowboy",
+        "album": "It Goes On",
+        "track": "Kick Stones (The Boys)"
+    },
+    {
+        "datetime": "2026-10-17 17:00:03",
+        "artist": "Westside Cowboy",
+        "album": "It Goes On",
+        "track": "Patchwork"
+    },
+    {
+        "datetime": "2026-10-17 17:03:01",
+        "artist": "Westside Cowboy",
+        "album": "It Goes On",
+        "track": "Coyote"
+    },
+    {
+        "datetime": "2026-10-17 17:06:21",
+        "artist": "Westside Cowboy",
+        "album": "It Goes On",
+        "track": "Paperchains"
+    },
+    {
+        "datetime": "2026-10-17 17:09:33",
+        "artist": "Nell Davies",
+        "album": "The End Of The World Or Whatever",
+        "track": "Out of This World"
+    },
+    {
+        "datetime": "2026-10-17 17:12:55",
+        "artist": "Nell Davies",
+        "album": "Never Wrestle With A Pig",
+        "track": "The End of the World or Whatever"
+    },
+    {
+        "datetime": "2026-10-17 17:16:08",
+        "artist": "Nell Davies",
+        "album": "The End Of The World Or Whatever",
+        "track": "You Should Be More Sorry (I Should Be More Angry)"
     }
 ]
