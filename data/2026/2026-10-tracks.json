@@ -1210,5 +1210,23 @@
         "artist": "Nell Davies",
         "album": "The End Of The World Or Whatever",
         "track": "You Should Be More Sorry (I Should Be More Angry)"
+    },
+    {
+        "datetime": "2026-10-17 17:19:41",
+        "artist": "Lloyd Cole",
+        "album": "Easy Pieces",
+        "track": "Brand New Friend"
+    },
+    {
+        "datetime": "2026-10-17 17:24:36",
+        "artist": "Lloyd Cole",
+        "album": "Easy Pieces",
+        "track": "Minor Character (Remastered)"
+    },
+    {
+        "datetime": "2026-10-17 17:28:21",
+        "artist": "Lloyd Cole",
+        "album": "Easy Pieces",
+        "track": "Perfect Blue (Remastered)"
     }
 ]
