@@ -1912,5 +1912,29 @@
         "artist": "Haircut 100",
         "album": "Boxing The Compass",
         "track": "The Unloving Plum"
+    },
+    {
+        "datetime": "2026-10-23 10:57:41",
+        "artist": "Freakwater",
+        "album": "Scheherazade",
+        "track": "The Asp and the Albatross"
+    },
+    {
+        "datetime": "2026-10-23 11:00:53",
+        "artist": "Freakwater",
+        "album": "Scheherazade",
+        "track": "Bolshevik and Bollweevil"
+    },
+    {
+        "datetime": "2026-10-23 11:05:21",
+        "artist": "Freakwater",
+        "album": "Scheherazade",
+        "track": "Down Will Come Baby"
+    },
+    {
+        "datetime": "2026-10-23 11:10:13",
+        "artist": "Freakwater",
+        "album": "Scheherazade",
+        "track": "Falls of Sleep"
     }
 ]
