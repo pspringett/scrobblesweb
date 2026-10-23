@@ -1858,5 +1858,59 @@
         "artist": "David Bowie",
         "album": "The Rise And Fall Of Ziggy Stardust And The Spiders From Mars",
         "track": "Rock 'N' Roll Suicide"
+    },
+    {
+        "datetime": "2026-10-22 17:10:43",
+        "artist": "Phoebe Bridgers",
+        "album": "Lost Weekend",
+        "track": "The Outside"
+    },
+    {
+        "datetime": "2026-10-22 17:14:52",
+        "artist": "Phoebe Bridgers",
+        "album": "Lost Weekend",
+        "track": "Lost Boys"
+    },
+    {
+        "datetime": "2026-10-22 17:19:07",
+        "artist": "Phoebe Bridgers",
+        "album": "Lost Weekend",
+        "track": "Kill Me"
+    },
+    {
+        "datetime": "2026-10-22 17:23:50",
+        "artist": "Phoebe Bridgers",
+        "album": "Lost Weekend",
+        "track": "The Governor's Waltz"
+    },
+    {
+        "datetime": "2026-10-22 17:27:17",
+        "artist": "Phoebe Bridgers",
+        "album": "Lost Weekend",
+        "track": "Bobby"
+    },
+    {
+        "datetime": "2026-10-22 17:31:17",
+        "artist": "Phoebe Bridgers",
+        "album": "Lost Weekend",
+        "track": "Lost Weekend"
+    },
+    {
+        "datetime": "2026-10-22 17:34:56",
+        "artist": "Phoebe Bridgers",
+        "album": "Lost Weekend",
+        "track": "Haunted"
+    },
+    {
+        "datetime": "2026-10-22 17:39:32",
+        "artist": "Haircut 100",
+        "album": "Boxing The Compass",
+        "track": "Someone"
+    },
+    {
+        "datetime": "2026-10-22 17:43:49",
+        "artist": "Haircut 100",
+        "album": "Boxing The Compass",
+        "track": "The Unloving Plum"
     }
 ]
