@@ -2080,5 +2080,23 @@
         "artist": "Creedence Clearwater Revival",
         "album": "Green River",
         "track": "The Night Time Is The Right Time (Remastered 1985)"
+    },
+    {
+        "datetime": "2026-10-24 22:34:20",
+        "artist": "Brennan Wedl",
+        "album": "Brennan Wedl",
+        "track": "High Priestess"
+    },
+    {
+        "datetime": "2026-10-24 22:37:03",
+        "artist": "Brennan Wedl",
+        "album": "Brennan Wedl",
+        "track": "Two Dollar Pistol (album version)"
+    },
+    {
+        "datetime": "2026-10-24 22:39:56",
+        "artist": "Brennan Wedl",
+        "album": "Brennan Wedl",
+        "track": "June Gloom"
     }
 ]
