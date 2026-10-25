@@ -2098,5 +2098,35 @@
         "artist": "Brennan Wedl",
         "album": "Brennan Wedl",
         "track": "June Gloom"
+    },
+    {
+        "datetime": "2026-10-25 22:03:18",
+        "artist": "The Fall",
+        "album": "Perverted By Language",
+        "track": "Eat Y'Self Fitter"
+    },
+    {
+        "datetime": "2026-10-25 22:10:26",
+        "artist": "The Fall",
+        "album": "Perverted By Language",
+        "track": "Neighbourhood of Infinity"
+    },
+    {
+        "datetime": "2026-10-25 22:13:07",
+        "artist": "The Fall",
+        "album": "Perverted By Language",
+        "track": "Garden"
+    },
+    {
+        "datetime": "2026-10-25 22:25:54",
+        "artist": "Echo & the Bunnymen",
+        "album": "Apples For Isaac",
+        "track": "The Light That Surrounds You"
+    },
+    {
+        "datetime": "2026-10-25 22:29:36",
+        "artist": "Echo & the Bunnymen",
+        "album": "Apples For Isaac",
+        "track": "The Honey"
     }
 ]
