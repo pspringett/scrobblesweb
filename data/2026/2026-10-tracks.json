@@ -2128,5 +2128,17 @@
         "artist": "Echo & the Bunnymen",
         "album": "Apples For Isaac",
         "track": "The Honey"
+    },
+    {
+        "datetime": "2026-10-25 22:37:03",
+        "artist": "Echo & the Bunnymen",
+        "album": "Apples For Isaac",
+        "track": "Brussels Is Haunted"
+    },
+    {
+        "datetime": "2026-10-25 22:40:27",
+        "artist": "Echo & the Bunnymen",
+        "album": "Apples For Isaac",
+        "track": "Lab Rats Ran"
     }
 ]
