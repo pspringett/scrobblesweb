@@ -2200,5 +2200,29 @@
         "artist": "Nick Heyward",
         "album": "North Of A Miracle",
         "track": "Atlantic Monday"
+    },
+    {
+        "datetime": "2026-10-28 22:06:04",
+        "artist": "Nick Heyward",
+        "album": "Tangled",
+        "track": "Kill Another Day"
+    },
+    {
+        "datetime": "2026-10-28 22:09:12",
+        "artist": "Nick Heyward",
+        "album": "Tangled",
+        "track": "Blinded"
+    },
+    {
+        "datetime": "2026-10-28 22:12:13",
+        "artist": "Nick Heyward",
+        "album": "Tangled",
+        "track": "Backdated"
+    },
+    {
+        "datetime": "2026-10-28 22:15:57",
+        "artist": "Nick Heyward",
+        "album": "Tangled",
+        "track": "She Says She Knows"
     }
 ]
