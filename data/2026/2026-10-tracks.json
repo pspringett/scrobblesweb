@@ -2284,5 +2284,29 @@
         "artist": "Phoebe Bridgers",
         "album": "Lost Weekend",
         "track": "Bobby"
+    },
+    {
+        "datetime": "2026-10-31 22:20:30",
+        "artist": "Sharon Van Etten",
+        "album": "Sharon Van Etten & The Attachment Theory",
+        "track": "I Want You Here"
+    },
+    {
+        "datetime": "2026-10-31 22:27:01",
+        "artist": "Sharon Van Etten",
+        "album": "Sharon Van Etten & The Attachment Theory",
+        "track": "Somethin' Ain't Right"
+    },
+    {
+        "datetime": "2026-10-31 22:34:48",
+        "artist": "Sharon Van Etten",
+        "album": "Sharon Van Etten & The Attachment Theory",
+        "track": "I Can't Imagine (Why You Feel This Way)"
+    },
+    {
+        "datetime": "2026-10-31 22:41:57",
+        "artist": "Sharon Van Etten",
+        "album": "Sharon Van Etten & The Attachment Theory",
+        "track": "Live Forever"
     }
 ]
