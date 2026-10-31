@@ -2254,5 +2254,35 @@
         "artist": "Everything But the Girl",
         "album": "Young And Dumb",
         "track": "Young and Dumb"
+    },
+    {
+        "datetime": "2026-10-31 21:54:29",
+        "artist": "Phoebe Bridgers",
+        "album": "Lost Weekend",
+        "track": "The Outside"
+    },
+    {
+        "datetime": "2026-10-31 21:58:33",
+        "artist": "Phoebe Bridgers",
+        "album": "Lost Weekend",
+        "track": "Lost Boys"
+    },
+    {
+        "datetime": "2026-10-31 22:02:48",
+        "artist": "Phoebe Bridgers",
+        "album": "Lost Weekend",
+        "track": "Kill Me"
+    },
+    {
+        "datetime": "2026-10-31 22:07:31",
+        "artist": "Phoebe Bridgers",
+        "album": "Lost Weekend",
+        "track": "The Governor's Waltz"
+    },
+    {
+        "datetime": "2026-10-31 22:10:59",
+        "artist": "Phoebe Bridgers",
+        "album": "Lost Weekend",
+        "track": "Bobby"
     }
 ]
