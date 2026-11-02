@@ -70,5 +70,59 @@
         "artist": "The Fall",
         "album": "Perverted By Language",
         "track": "Garden"
+    },
+    {
+        "datetime": "2026-11-02 22:01:37",
+        "artist": "The Fall",
+        "album": "Perverted By Language",
+        "track": "Hotel Bloedel"
+    },
+    {
+        "datetime": "2026-11-02 22:05:55",
+        "artist": "Phoebe Bridgers",
+        "album": "Lost Weekend",
+        "track": "Lost Weekend"
+    },
+    {
+        "datetime": "2026-11-02 22:09:36",
+        "artist": "Phoebe Bridgers",
+        "album": "Lost Weekend",
+        "track": "Haunted"
+    },
+    {
+        "datetime": "2026-11-02 22:13:11",
+        "artist": "Phoebe Bridgers",
+        "album": "Lost Weekend",
+        "track": "Panorama"
+    },
+    {
+        "datetime": "2026-11-02 22:15:58",
+        "artist": "Phoebe Bridgers",
+        "album": "Lost Weekend",
+        "track": "Still Standing"
+    },
+    {
+        "datetime": "2026-11-02 22:19:55",
+        "artist": "Phoebe Bridgers",
+        "album": "Lost Weekend",
+        "track": "Liberty Tree"
+    },
+    {
+        "datetime": "2026-11-02 22:23:46",
+        "artist": "Adult Dvd",
+        "album": "Adult Dvd",
+        "track": "Do as I Please"
+    },
+    {
+        "datetime": "2026-11-02 22:27:11",
+        "artist": "Adult Dvd",
+        "album": "Adult Dvd",
+        "track": "Coffin Dodger"
+    },
+    {
+        "datetime": "2026-11-02 22:30:38",
+        "artist": "Adult Dvd",
+        "album": "Adult Dvd",
+        "track": "Cold Caller"
     }
 ]
