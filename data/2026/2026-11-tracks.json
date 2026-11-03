@@ -208,5 +208,47 @@
         "artist": "Phoebe Bridgers",
         "album": "Lost Weekend",
         "track": "Never Going Back!"
+    },
+    {
+        "datetime": "2026-11-03 18:03:29",
+        "artist": "Echo & the Bunnymen",
+        "album": "Apples For Isaac",
+        "track": "I'll Be Your Sunshine"
+    },
+    {
+        "datetime": "2026-11-03 18:07:04",
+        "artist": "Echo & the Bunnymen",
+        "album": "Apples For Isaac",
+        "track": "An Unstoppable Force"
+    },
+    {
+        "datetime": "2026-11-03 18:10:18",
+        "artist": "Echo & the Bunnymen",
+        "album": "Apples For Isaac",
+        "track": "Brussels Is Haunted"
+    },
+    {
+        "datetime": "2026-11-03 18:13:41",
+        "artist": "Echo & the Bunnymen",
+        "album": "Apples For Isaac",
+        "track": "Lab Rats Ran"
+    },
+    {
+        "datetime": "2026-11-03 18:16:57",
+        "artist": "Echo & the Bunnymen",
+        "album": "Apples For Isaac",
+        "track": "Take Me By The Hand"
+    },
+    {
+        "datetime": "2026-11-03 18:20:31",
+        "artist": "Echo & the Bunnymen",
+        "album": "Apples For Isaac",
+        "track": "Can't Be Sold"
+    },
+    {
+        "datetime": "2026-11-03 18:23:40",
+        "artist": "Echo & the Bunnymen",
+        "album": "Apples For Isaac",
+        "track": "The Light That Surrounds You"
     }
 ]
