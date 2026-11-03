@@ -172,5 +172,41 @@
         "artist": "Simple Minds",
         "album": "Empires And Dance",
         "track": "Thirty Frames A Second (Remastered 2002)"
+    },
+    {
+        "datetime": "2026-11-03 17:09:55",
+        "artist": "Phoebe Bridgers",
+        "album": "Lost Weekend",
+        "track": "Lost Weekend"
+    },
+    {
+        "datetime": "2026-11-03 17:13:37",
+        "artist": "Phoebe Bridgers",
+        "album": "Lost Weekend",
+        "track": "Haunted"
+    },
+    {
+        "datetime": "2026-11-03 17:17:13",
+        "artist": "Phoebe Bridgers",
+        "album": "Lost Weekend",
+        "track": "Panorama"
+    },
+    {
+        "datetime": "2026-11-03 17:20:00",
+        "artist": "Phoebe Bridgers",
+        "album": "Lost Weekend",
+        "track": "Still Standing"
+    },
+    {
+        "datetime": "2026-11-03 17:23:57",
+        "artist": "Phoebe Bridgers",
+        "album": "Lost Weekend",
+        "track": "Liberty Tree"
+    },
+    {
+        "datetime": "2026-11-03 17:27:15",
+        "artist": "Phoebe Bridgers",
+        "album": "Lost Weekend",
+        "track": "Never Going Back!"
     }
 ]
