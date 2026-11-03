@@ -130,5 +130,29 @@
         "artist": "Adult Dvd",
         "album": "Adult Dvd",
         "track": "Jesus Christ Supercar"
+    },
+    {
+        "datetime": "2026-11-03 10:23:23",
+        "artist": "Simple Minds",
+        "album": "Empires And Dance",
+        "track": "I Travel (Remastered 2002)"
+    },
+    {
+        "datetime": "2026-11-03 10:27:28",
+        "artist": "Simple Minds",
+        "album": "Empires And Dance",
+        "track": "Today I Died Again (Remastered 2002)"
+    },
+    {
+        "datetime": "2026-11-03 10:32:08",
+        "artist": "Simple Minds",
+        "album": "Empires And Dance",
+        "track": "Celebrate (Remastered 2002)"
+    },
+    {
+        "datetime": "2026-11-03 10:37:25",
+        "artist": "Simple Minds",
+        "album": "Empires And Dance",
+        "track": "This Fear Of Gods (Remastered 2002)"
     }
 ]
