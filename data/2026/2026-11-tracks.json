@@ -346,5 +346,41 @@
         "artist": "Fenne Lily",
         "album": "Win Win",
         "track": "Cupboard Song"
+    },
+    {
+        "datetime": "2026-11-05 17:17:32",
+        "artist": "Adult Dvd",
+        "album": "Adult Dvd",
+        "track": "World's Best Boss"
+    },
+    {
+        "datetime": "2026-11-05 17:21:18",
+        "artist": "Adult Dvd",
+        "album": "Adult Dvd",
+        "track": "All I Need"
+    },
+    {
+        "datetime": "2026-11-05 17:24:34",
+        "artist": "Adult Dvd",
+        "album": "Adult Dvd",
+        "track": "Ghillie Suit"
+    },
+    {
+        "datetime": "2026-11-05 17:28:59",
+        "artist": "Adult Dvd",
+        "album": "Adult Dvd",
+        "track": "Real Tree Lee"
+    },
+    {
+        "datetime": "2026-11-05 17:33:00",
+        "artist": "Adult Dvd",
+        "album": "Adult Dvd",
+        "track": "Rolling Face"
+    },
+    {
+        "datetime": "2026-11-05 17:40:14",
+        "artist": "Slowdive",
+        "album": "Pygmalion",
+        "track": "Rutti"
     }
 ]
