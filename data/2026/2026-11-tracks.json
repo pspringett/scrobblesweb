@@ -442,5 +442,23 @@
         "artist": "Fenne Lily",
         "album": "Win Win",
         "track": "Waterslide"
+    },
+    {
+        "datetime": "2026-11-06 00:00:41",
+        "artist": "Spaceacre",
+        "album": "That Girl Ep",
+        "track": "Say"
+    },
+    {
+        "datetime": "2026-11-06 00:06:01",
+        "artist": "Spaceacre",
+        "album": "That Girl Ep",
+        "track": "MoMo"
+    },
+    {
+        "datetime": "2026-11-06 00:08:58",
+        "artist": "Spaceacre",
+        "album": "That Girl Ep",
+        "track": "Chemicals"
     }
 ]
