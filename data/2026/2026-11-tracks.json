@@ -418,5 +418,29 @@
         "artist": "Slowdive",
         "album": "Pygmalion",
         "track": "Blue Skied an' Clear"
+    },
+    {
+        "datetime": "2026-11-05 23:45:22",
+        "artist": "Fenne Lily",
+        "album": "Win Win",
+        "track": "Uh Huh"
+    },
+    {
+        "datetime": "2026-11-05 23:49:37",
+        "artist": "Fenne Lily",
+        "album": "Win Win",
+        "track": "Room to Room"
+    },
+    {
+        "datetime": "2026-11-05 23:52:55",
+        "artist": "Fenne Lily",
+        "album": "Win Win",
+        "track": "Sleeping"
+    },
+    {
+        "datetime": "2026-11-05 23:56:29",
+        "artist": "Fenne Lily",
+        "album": "Win Win",
+        "track": "Waterslide"
     }
 ]
