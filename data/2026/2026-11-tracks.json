@@ -466,5 +466,23 @@
         "artist": "Slowdive",
         "album": "Pygmalion",
         "track": "Rutti"
+    },
+    {
+        "datetime": "2026-11-06 11:44:58",
+        "artist": "Slowdive",
+        "album": "Pygmalion",
+        "track": "Crazy for You"
+    },
+    {
+        "datetime": "2026-11-06 11:50:58",
+        "artist": "Slowdive",
+        "album": "Pygmalion",
+        "track": "Miranda"
+    },
+    {
+        "datetime": "2026-11-06 11:55:46",
+        "artist": "Slowdive",
+        "album": "Pygmalion",
+        "track": "Trellisaze"
     }
 ]
