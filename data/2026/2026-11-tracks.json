@@ -598,5 +598,17 @@
         "artist": "Spaceacre",
         "album": "That Girl Ep",
         "track": "Open My Eyes"
+    },
+    {
+        "datetime": "2026-11-07 21:43:02",
+        "artist": "Bob Dylan",
+        "album": "Infidels",
+        "track": "Jokerman"
+    },
+    {
+        "datetime": "2026-11-07 21:49:21",
+        "artist": "Bob Dylan",
+        "album": "Infidels",
+        "track": "Sweetheart Like You"
     }
 ]
