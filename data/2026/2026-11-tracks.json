@@ -538,5 +538,47 @@
         "artist": "The Fall",
         "album": "Perverted By Language",
         "track": "Pilsner Trail"
+    },
+    {
+        "datetime": "2026-11-07 11:54:29",
+        "artist": "The Go-Betweens",
+        "album": "16 Lovers Lane",
+        "track": "Love Goes On! (Remastered)"
+    },
+    {
+        "datetime": "2026-11-07 13:39:40",
+        "artist": "Westside Cowboy",
+        "album": "It Goes On",
+        "track": "You Could Have Died There On The Dancefloor"
+    },
+    {
+        "datetime": "2026-11-07 13:42:25",
+        "artist": "Westside Cowboy",
+        "album": "It Goes On",
+        "track": "Paperchains"
+    },
+    {
+        "datetime": "2026-11-07 13:45:18",
+        "artist": "Westside Cowboy",
+        "album": "It Goes On",
+        "track": "Big Wheels"
+    },
+    {
+        "datetime": "2026-11-07 13:48:36",
+        "artist": "Westside Cowboy",
+        "album": "It Goes On",
+        "track": "Coyote"
+    },
+    {
+        "datetime": "2026-11-07 13:52:15",
+        "artist": "Slowdive",
+        "album": "Pygmalion",
+        "track": "Rutti"
+    },
+    {
+        "datetime": "2026-11-07 14:02:19",
+        "artist": "Slowdive",
+        "album": "Pygmalion",
+        "track": "Crazy for You"
     }
 ]
