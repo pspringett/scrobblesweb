@@ -922,5 +922,59 @@
         "artist": "Phoebe Bridgers",
         "album": "Lost Weekend",
         "track": "The Outside"
+    },
+    {
+        "datetime": "2026-11-10 15:03:33",
+        "artist": "Phoebe Bridgers",
+        "album": "Lost Weekend",
+        "track": "Kill Me"
+    },
+    {
+        "datetime": "2026-11-10 15:08:14",
+        "artist": "Phoebe Bridgers",
+        "album": "Lost Weekend",
+        "track": "The Governor's Waltz"
+    },
+    {
+        "datetime": "2026-11-10 15:11:42",
+        "artist": "Phoebe Bridgers",
+        "album": "Lost Weekend",
+        "track": "Bobby"
+    },
+    {
+        "datetime": "2026-11-10 15:15:41",
+        "artist": "Phoebe Bridgers",
+        "album": "Lost Weekend",
+        "track": "Lost Weekend"
+    },
+    {
+        "datetime": "2026-11-10 15:19:21",
+        "artist": "Phoebe Bridgers",
+        "album": "Lost Weekend",
+        "track": "Haunted"
+    },
+    {
+        "datetime": "2026-11-10 15:22:55",
+        "artist": "Phoebe Bridgers",
+        "album": "Lost Weekend",
+        "track": "Panorama"
+    },
+    {
+        "datetime": "2026-11-10 15:25:43",
+        "artist": "Phoebe Bridgers",
+        "album": "Lost Weekend",
+        "track": "Still Standing"
+    },
+    {
+        "datetime": "2026-11-10 15:29:39",
+        "artist": "Phoebe Bridgers",
+        "album": "Lost Weekend",
+        "track": "Liberty Tree"
+    },
+    {
+        "datetime": "2026-11-10 15:32:57",
+        "artist": "Phoebe Bridgers",
+        "album": "Lost Weekend",
+        "track": "Never Going Back!"
     }
 ]
