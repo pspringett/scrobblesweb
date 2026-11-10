@@ -976,5 +976,29 @@
         "artist": "Phoebe Bridgers",
         "album": "Lost Weekend",
         "track": "Never Going Back!"
+    },
+    {
+        "datetime": "2026-11-10 15:37:01",
+        "artist": "Phoebe Bridgers",
+        "album": "Lost Weekend",
+        "track": "Lost Parade"
+    },
+    {
+        "datetime": "2026-11-10 15:37:57",
+        "artist": "Phoebe Bridgers",
+        "album": "Lost Weekend",
+        "track": "I Can't Wait"
+    },
+    {
+        "datetime": "2026-11-10 15:41:34",
+        "artist": "Phoebe Bridgers",
+        "album": "Lost Weekend",
+        "track": "As Above"
+    },
+    {
+        "datetime": "2026-11-10 15:46:00",
+        "artist": "Phoebe Bridgers",
+        "album": "Lost Weekend",
+        "track": "Lost Weekend (Reprise)"
     }
 ]
