@@ -814,5 +814,23 @@
         "artist": "Everything But the Girl",
         "album": "Love Not Money",
         "track": "Angel"
+    },
+    {
+        "datetime": "2026-11-10 12:48:48",
+        "artist": "Chaparelle",
+        "album": "Western Pleasure",
+        "track": "Devil's Music"
+    },
+    {
+        "datetime": "2026-11-10 12:50:55",
+        "artist": "Chaparelle",
+        "album": "Western Pleasure",
+        "track": "Inside the Lines"
+    },
+    {
+        "datetime": "2026-11-10 12:54:15",
+        "artist": "Chaparelle",
+        "album": "Western Pleasure",
+        "track": "Bad Loving"
     }
 ]
