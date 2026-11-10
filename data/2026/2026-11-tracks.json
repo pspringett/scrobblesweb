@@ -832,5 +832,59 @@
         "artist": "Chaparelle",
         "album": "Western Pleasure",
         "track": "Bad Loving"
+    },
+    {
+        "datetime": "2026-11-10 13:54:27",
+        "artist": "Chaparelle",
+        "album": "Western Pleasure",
+        "track": "All Things Considered"
+    },
+    {
+        "datetime": "2026-11-10 13:57:39",
+        "artist": "Chaparelle",
+        "album": "Western Pleasure",
+        "track": "Heart Broke Holiday"
+    },
+    {
+        "datetime": "2026-11-10 14:01:03",
+        "artist": "Chaparelle",
+        "album": "Western Pleasure",
+        "track": "Baby Jesus"
+    },
+    {
+        "datetime": "2026-11-10 14:04:10",
+        "artist": "Chaparelle",
+        "album": "Western Pleasure",
+        "track": "Sex & Rage"
+    },
+    {
+        "datetime": "2026-11-10 14:07:24",
+        "artist": "Chaparelle",
+        "album": "Western Pleasure",
+        "track": "Love is Hot"
+    },
+    {
+        "datetime": "2026-11-10 14:09:29",
+        "artist": "Chaparelle",
+        "album": "Western Pleasure",
+        "track": "Dance with Somebody"
+    },
+    {
+        "datetime": "2026-11-10 14:13:02",
+        "artist": "Bob Dylan",
+        "album": "Infidels",
+        "track": "Jokerman"
+    },
+    {
+        "datetime": "2026-11-10 14:19:21",
+        "artist": "Bob Dylan",
+        "album": "Infidels",
+        "track": "Sweetheart Like You"
+    },
+    {
+        "datetime": "2026-11-10 14:24:04",
+        "artist": "Bob Dylan",
+        "album": "Infidels",
+        "track": "Neighborhood Bully"
     }
 ]
