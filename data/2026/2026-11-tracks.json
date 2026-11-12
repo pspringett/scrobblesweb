@@ -1000,5 +1000,317 @@
         "artist": "Phoebe Bridgers",
         "album": "Lost Weekend",
         "track": "Lost Weekend (Reprise)"
+    },
+    {
+        "datetime": "2026-11-12 10:26:06",
+        "artist": "Bob Dylan",
+        "album": "Empire Burlesque",
+        "track": "Tight Connection to My Heart (Has Anyone Seen My Love)"
+    },
+    {
+        "datetime": "2026-11-12 10:31:27",
+        "artist": "Bob Dylan",
+        "album": "Empire Burlesque",
+        "track": "Seeing The Real You At Last"
+    },
+    {
+        "datetime": "2026-11-12 10:35:47",
+        "artist": "Bob Dylan",
+        "album": "Empire Burlesque",
+        "track": "I'll Remember You"
+    },
+    {
+        "datetime": "2026-11-12 10:40:00",
+        "artist": "Bob Dylan",
+        "album": "Empire Burlesque",
+        "track": "Clean Cut Kid"
+    },
+    {
+        "datetime": "2026-11-12 10:44:16",
+        "artist": "Bob Dylan",
+        "album": "Empire Burlesque",
+        "track": "Never Gonna Be the Same Again"
+    },
+    {
+        "datetime": "2026-11-12 10:47:25",
+        "artist": "Bob Dylan",
+        "album": "Empire Burlesque",
+        "track": "Trust Yourself"
+    },
+    {
+        "datetime": "2026-11-12 10:50:53",
+        "artist": "Bob Dylan",
+        "album": "Empire Burlesque",
+        "track": "Emotionally Yours"
+    },
+    {
+        "datetime": "2026-11-12 10:55:21",
+        "artist": "Bob Dylan",
+        "album": "Empire Burlesque",
+        "track": "When The Night Comes Falling From The Sky"
+    },
+    {
+        "datetime": "2026-11-12 11:02:51",
+        "artist": "Bob Dylan",
+        "album": "Empire Burlesque",
+        "track": "Something's Burning, Baby"
+    },
+    {
+        "datetime": "2026-11-12 11:07:44",
+        "artist": "Bob Dylan",
+        "album": "Empire Burlesque",
+        "track": "Dark Eyes"
+    },
+    {
+        "datetime": "2026-11-12 11:12:52",
+        "artist": "Simple Minds",
+        "album": "Empires And Dance",
+        "track": "I Travel (Remastered 2002)"
+    },
+    {
+        "datetime": "2026-11-12 11:16:57",
+        "artist": "Simple Minds",
+        "album": "Empires And Dance",
+        "track": "Today I Died Again (Remastered 2002)"
+    },
+    {
+        "datetime": "2026-11-12 11:21:36",
+        "artist": "Simple Minds",
+        "album": "Empires And Dance",
+        "track": "Celebrate (Remastered 2002)"
+    },
+    {
+        "datetime": "2026-11-12 11:26:46",
+        "artist": "Simple Minds",
+        "album": "Empires And Dance",
+        "track": "This Fear Of Gods (Remastered 2002)"
+    },
+    {
+        "datetime": "2026-11-12 11:33:48",
+        "artist": "Simple Minds",
+        "album": "Empires And Dance",
+        "track": "Capital City (Remastered 2002)"
+    },
+    {
+        "datetime": "2026-11-12 11:40:06",
+        "artist": "Simple Minds",
+        "album": "Empires And Dance",
+        "track": "Constantinople Line (Remastered 2002)"
+    },
+    {
+        "datetime": "2026-11-12 12:15:37",
+        "artist": "Simple Minds",
+        "album": "Empires And Dance",
+        "track": "Twist/Run/Repulsion (Remastered 2002)"
+    },
+    {
+        "datetime": "2026-11-12 12:20:17",
+        "artist": "Simple Minds",
+        "album": "Empires And Dance",
+        "track": "Thirty Frames A Second (Remastered 2002)"
+    },
+    {
+        "datetime": "2026-11-12 12:25:23",
+        "artist": "Simple Minds",
+        "album": "Empires And Dance",
+        "track": "Kant Kino (Remastered 2002)"
+    },
+    {
+        "datetime": "2026-11-12 12:27:16",
+        "artist": "Simple Minds",
+        "album": "Empires And Dance",
+        "track": "Room (Remastered 2002)"
+    },
+    {
+        "datetime": "2026-11-12 12:29:47",
+        "artist": "The Velvet Underground",
+        "album": "The Velvet Underground & Nico",
+        "track": "Sunday Morning"
+    },
+    {
+        "datetime": "2026-11-12 12:32:43",
+        "artist": "The Velvet Underground",
+        "album": "The Velvet Underground & Nico",
+        "track": "I'm Waiting for the Man"
+    },
+    {
+        "datetime": "2026-11-12 12:37:23",
+        "artist": "The Velvet Underground",
+        "album": "The Velvet Underground & Nico",
+        "track": "Femme Fatale"
+    },
+    {
+        "datetime": "2026-11-12 12:40:03",
+        "artist": "The Velvet Underground",
+        "album": "The Velvet Underground & Nico",
+        "track": "Venus in Furs"
+    },
+    {
+        "datetime": "2026-11-12 12:45:16",
+        "artist": "The Velvet Underground",
+        "album": "The Velvet Underground & Nico",
+        "track": "Run Run Run"
+    },
+    {
+        "datetime": "2026-11-12 12:49:39",
+        "artist": "The Velvet Underground",
+        "album": "The Velvet Underground & Nico",
+        "track": "All Tomorrow's Parties"
+    },
+    {
+        "datetime": "2026-11-12 12:55:40",
+        "artist": "The Velvet Underground",
+        "album": "The Velvet Underground & Nico",
+        "track": "Heroin"
+    },
+    {
+        "datetime": "2026-11-12 14:03:53",
+        "artist": "The Velvet Underground",
+        "album": "The Velvet Underground & Nico",
+        "track": "There She Goes Again"
+    },
+    {
+        "datetime": "2026-11-12 14:06:33",
+        "artist": "The Velvet Underground",
+        "album": "The Velvet Underground & Nico",
+        "track": "I'll Be Your Mirror"
+    },
+    {
+        "datetime": "2026-11-12 14:08:48",
+        "artist": "The Velvet Underground",
+        "album": "The Velvet Underground & Nico",
+        "track": "The Black Angel's Death Song"
+    },
+    {
+        "datetime": "2026-11-12 14:12:01",
+        "artist": "The Velvet Underground",
+        "album": "The Velvet Underground & Nico",
+        "track": "European Son"
+    },
+    {
+        "datetime": "2026-11-12 14:19:48",
+        "artist": "Scott Walker",
+        "album": "Scott",
+        "track": "Mathilde"
+    },
+    {
+        "datetime": "2026-11-12 14:22:25",
+        "artist": "Scott Walker",
+        "album": "Scott",
+        "track": "Montague Terrace (In Blue)"
+    },
+    {
+        "datetime": "2026-11-12 14:30:41",
+        "artist": "Scott Walker",
+        "album": "Scott",
+        "track": "Angelica"
+    },
+    {
+        "datetime": "2026-11-12 14:34:35",
+        "artist": "Scott Walker",
+        "album": "Scott",
+        "track": "The Lady Came from Baltimore"
+    },
+    {
+        "datetime": "2026-11-12 14:36:33",
+        "artist": "Scott Walker",
+        "album": "Scott",
+        "track": "When Joanna Loved Me"
+    },
+    {
+        "datetime": "2026-11-12 14:39:40",
+        "artist": "Scott Walker",
+        "album": "Scott",
+        "track": "My Death"
+    },
+    {
+        "datetime": "2026-11-12 14:44:38",
+        "artist": "Scott Walker",
+        "album": "Scott",
+        "track": "The Big Hurt"
+    },
+    {
+        "datetime": "2026-11-12 14:47:03",
+        "artist": "Scott Walker",
+        "album": "Scott",
+        "track": "Such a Small Love"
+    },
+    {
+        "datetime": "2026-11-12 14:51:56",
+        "artist": "Scott Walker",
+        "album": "Scott",
+        "track": "You're Gonna Hear from Me"
+    },
+    {
+        "datetime": "2026-11-12 14:54:49",
+        "artist": "Scott Walker",
+        "album": "Scott",
+        "track": "Through a Long and Sleepless Night"
+    },
+    {
+        "datetime": "2026-11-12 14:58:59",
+        "artist": "Scott Walker",
+        "album": "Scott",
+        "track": "Always Coming Back to You"
+    },
+    {
+        "datetime": "2026-11-12 15:01:40",
+        "artist": "Scott Walker",
+        "album": "Scott",
+        "track": "Amsterdam"
+    },
+    {
+        "datetime": "2026-11-12 15:04:44",
+        "artist": "Echo & the Bunnymen",
+        "album": "Apples For Isaac",
+        "track": "Take Me By The Hand"
+    },
+    {
+        "datetime": "2026-11-12 15:08:18",
+        "artist": "Echo & the Bunnymen",
+        "album": "Apples For Isaac",
+        "track": "Can't Be Sold"
+    },
+    {
+        "datetime": "2026-11-12 15:11:27",
+        "artist": "Echo & the Bunnymen",
+        "album": "Apples For Isaac",
+        "track": "Brussels Is Haunted"
+    },
+    {
+        "datetime": "2026-11-12 15:14:50",
+        "artist": "Echo & the Bunnymen",
+        "album": "Apples For Isaac",
+        "track": "I'll Be Your Sunshine"
+    },
+    {
+        "datetime": "2026-11-12 15:18:24",
+        "artist": "Echo & the Bunnymen",
+        "album": "Apples For Isaac",
+        "track": "Hijacked"
+    },
+    {
+        "datetime": "2026-11-12 15:21:50",
+        "artist": "Echo & the Bunnymen",
+        "album": "Apples For Isaac",
+        "track": "The Honey"
+    },
+    {
+        "datetime": "2026-11-12 15:25:42",
+        "artist": "Echo & the Bunnymen",
+        "album": "Apples For Isaac",
+        "track": "An Unstoppable Force"
+    },
+    {
+        "datetime": "2026-11-12 15:28:55",
+        "artist": "Echo & the Bunnymen",
+        "album": "Apples For Isaac",
+        "track": "The Light That Surrounds You"
+    },
+    {
+        "datetime": "2026-11-12 15:32:36",
+        "artist": "Echo & the Bunnymen",
+        "album": "Apples For Isaac",
+        "track": "Lab Rats Ran"
     }
 ]
