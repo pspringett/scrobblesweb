@@ -1312,5 +1312,41 @@
         "artist": "Echo & the Bunnymen",
         "album": "Apples For Isaac",
         "track": "Lab Rats Ran"
+    },
+    {
+        "datetime": "2026-11-13 21:02:56",
+        "artist": "Adult Dvd",
+        "album": "Adult Dvd",
+        "track": "Cowboy on Aisle Three"
+    },
+    {
+        "datetime": "2026-11-13 21:08:12",
+        "artist": "Adult Dvd",
+        "album": "Adult Dvd",
+        "track": "World's Best Boss"
+    },
+    {
+        "datetime": "2026-11-13 21:14:23",
+        "artist": "Adult Dvd",
+        "album": "Adult Dvd",
+        "track": "All I Need"
+    },
+    {
+        "datetime": "2026-11-13 21:17:40",
+        "artist": "Adult Dvd",
+        "album": "Adult Dvd",
+        "track": "Ghillie Suit"
+    },
+    {
+        "datetime": "2026-11-13 21:22:05",
+        "artist": "Adult Dvd",
+        "album": "Adult Dvd",
+        "track": "Real Tree Lee"
+    },
+    {
+        "datetime": "2026-11-13 21:25:52",
+        "artist": "Adult Dvd",
+        "album": "Adult Dvd",
+        "track": "Rolling Face"
     }
 ]
