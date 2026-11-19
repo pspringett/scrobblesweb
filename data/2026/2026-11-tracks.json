@@ -1474,5 +1474,35 @@
         "artist": "Josh Ritter",
         "album": "I Believe In You, My Honeydew",
         "track": "Wild Ways"
+    },
+    {
+        "datetime": "2026-11-19 13:28:25",
+        "artist": "Fenne Lily",
+        "album": "Win Win",
+        "track": "Uh Huh"
+    },
+    {
+        "datetime": "2026-11-19 13:32:43",
+        "artist": "Fenne Lily",
+        "album": "Win Win",
+        "track": "Room to Room"
+    },
+    {
+        "datetime": "2026-11-19 13:36:00",
+        "artist": "Fenne Lily",
+        "album": "Win Win",
+        "track": "Sleeping"
+    },
+    {
+        "datetime": "2026-11-19 13:39:33",
+        "artist": "Fenne Lily",
+        "album": "Win Win",
+        "track": "Waterslide"
+    },
+    {
+        "datetime": "2026-11-19 13:43:39",
+        "artist": "Champion Trees",
+        "album": "A Duck's Water Off My Back",
+        "track": "C. Market, Rondebosch Park"
     }
 ]
