@@ -1636,5 +1636,29 @@
         "artist": "Orchestral Manoeuvres in the Dark",
         "album": "Junk Culture",
         "track": "Locomotion"
+    },
+    {
+        "datetime": "2026-11-22 16:34:07",
+        "artist": "Echo & the Bunnymen",
+        "album": "Apples For Isaac",
+        "track": "Take Me By The Hand"
+    },
+    {
+        "datetime": "2026-11-22 16:38:51",
+        "artist": "Echo & the Bunnymen",
+        "album": "Apples For Isaac",
+        "track": "Can't Be Sold"
+    },
+    {
+        "datetime": "2026-11-22 16:42:01",
+        "artist": "Echo & the Bunnymen",
+        "album": "Apples For Isaac",
+        "track": "Brussels Is Haunted"
+    },
+    {
+        "datetime": "2026-11-22 16:45:25",
+        "artist": "Echo & the Bunnymen",
+        "album": "Apples For Isaac",
+        "track": "I'll Be Your Sunshine"
     }
 ]
