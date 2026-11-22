@@ -1660,5 +1660,35 @@
         "artist": "Echo & the Bunnymen",
         "album": "Apples For Isaac",
         "track": "I'll Be Your Sunshine"
+    },
+    {
+        "datetime": "2026-11-22 16:52:52",
+        "artist": "Phoebe Bridgers",
+        "album": "Lost Weekend",
+        "track": "Still Standing"
+    },
+    {
+        "datetime": "2026-11-22 16:56:50",
+        "artist": "Phoebe Bridgers",
+        "album": "Lost Weekend",
+        "track": "Liberty Tree"
+    },
+    {
+        "datetime": "2026-11-22 17:00:09",
+        "artist": "Phoebe Bridgers",
+        "album": "Lost Weekend",
+        "track": "Never Going Back!"
+    },
+    {
+        "datetime": "2026-11-22 17:01:52",
+        "artist": "Phoebe Bridgers",
+        "album": "Lost Weekend",
+        "track": "Other Plans"
+    },
+    {
+        "datetime": "2026-11-22 17:04:13",
+        "artist": "Phoebe Bridgers",
+        "album": "Lost Weekend",
+        "track": "Lost Parade"
     }
 ]
