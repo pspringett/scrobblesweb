@@ -93,7 +93,7 @@ def load_this_month_data() -> Counter[str]:
        Enhance me to get the current year and current month properly
     """
     this_year = 2026
-    this_month = 10
+    this_month = 11
     scrobbles = load_month_data(this_year, this_month)
     if scrobbles is None:
         return Counter()
