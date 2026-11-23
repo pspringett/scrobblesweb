@@ -1690,5 +1690,47 @@
         "artist": "Phoebe Bridgers",
         "album": "Lost Weekend",
         "track": "Lost Parade"
+    },
+    {
+        "datetime": "2026-11-23 15:39:30",
+        "artist": "Slowdive",
+        "album": "Pygmalion",
+        "track": "All of Us"
+    },
+    {
+        "datetime": "2026-11-23 15:43:46",
+        "artist": "Slowdive",
+        "album": "Pygmalion",
+        "track": "J's Heaven"
+    },
+    {
+        "datetime": "2026-11-23 15:50:37",
+        "artist": "Slowdive",
+        "album": "Pygmalion",
+        "track": "Visions of LA"
+    },
+    {
+        "datetime": "2026-11-23 15:52:22",
+        "artist": "Slowdive",
+        "album": "Pygmalion",
+        "track": "Blue Skied an' Clear"
+    },
+    {
+        "datetime": "2026-11-23 15:59:59",
+        "artist": "Suzanne Vega",
+        "album": "Flying With Angels",
+        "track": "Speakers' Corner"
+    },
+    {
+        "datetime": "2026-11-23 16:03:20",
+        "artist": "Suzanne Vega",
+        "album": "Flying With Angels",
+        "track": "Rats"
+    },
+    {
+        "datetime": "2026-11-23 16:07:31",
+        "artist": "Suzanne Vega",
+        "album": "Flying With Angels",
+        "track": "Galway"
     }
 ]
