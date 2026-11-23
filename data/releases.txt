@@ -4368,14 +4368,22 @@
         "I Don\u00e2\u20ac\u2122T Live Here Anymore": -1
     },
     "The Waterboys": {
-        "An Appointment With Mr Yeats": -1,
-        "Fisherman's Blues": -1,
-        "Good Luck, Seeker": -1,
-        "Modern Blues": -1,
-        "Out Of All This Blue (Deluxe)": -1,
-        "This Is The Sea (Deluxe Version)": -1,
-        "Where The Action Is": -1,
-        "Where The Action Is (Deluxe)": -1
+        "All Souls HIll": 2022,
+        "An Appointment With Mr Yeats": 2011,
+        "A Pagan Place": 1984,
+        "A Rock in the Weary Land": 2000,
+        "Book of Lightning": 2007,
+        "Dream Harder": 1993,
+        "Fisherman's Blues": 1988,
+        "Good Luck, Seeker": 2020,
+        "Life, Death and Dennis Hopper": 2025,
+        "Modern Blues": 2015,
+        "Out Of All This Blue": 2017,
+        "Room to Roam": 1990,
+        "The Waterboys": 1983,
+        "This is the Sea": 1985,
+        "Universal Hall": 2003,
+        "Where The Action Is": 2019
     },
     "The Wave Pictures": {
         "Brushes With Happiness": -1,
