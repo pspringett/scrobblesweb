@@ -4,6 +4,7 @@ import json
 import os
 from collections import Counter
 from typing import Optional
+from datetime import datetime as dt
 
 from flask import Flask, render_template, jsonify
 from flask.wrappers import Response
@@ -92,8 +93,9 @@ def load_this_month_data() -> Counter[str]:
     """Load and return scrobbles for today.
        Enhance me to get the current year and current month properly
     """
-    this_year = 2026
-    this_month = 11
+
+    this_year = dt.now().year
+    this_month = dt.now().month 
     scrobbles = load_month_data(this_year, this_month)
     if scrobbles is None:
         return Counter()
