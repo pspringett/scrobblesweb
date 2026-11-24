@@ -1882,5 +1882,29 @@
         "artist": "Robert Forster",
         "album": "The Candle And The Flame",
         "track": "The Roads"
+    },
+    {
+        "datetime": "2026-11-24 22:32:48",
+        "artist": "Robert Forster",
+        "album": "The Candle And The Flame",
+        "track": "Go Free"
+    },
+    {
+        "datetime": "2026-11-24 22:36:11",
+        "artist": "Robert Forster",
+        "album": "The Candle And The Flame",
+        "track": "There's a Reason to Live"
+    },
+    {
+        "datetime": "2026-11-24 22:41:09",
+        "artist": "Robert Forster",
+        "album": "The Candle And The Flame",
+        "track": "It's Only Poison"
+    },
+    {
+        "datetime": "2026-11-24 22:45:45",
+        "artist": "Robert Forster",
+        "album": "The Candle And The Flame",
+        "track": "Always"
     }
 ]
