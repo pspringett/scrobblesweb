@@ -1828,5 +1828,41 @@
         "artist": "The Fall",
         "album": "Perverted By Language",
         "track": "Wings"
+    },
+    {
+        "datetime": "2026-11-24 17:28:42",
+        "artist": "Spaceacre",
+        "album": "That Girl Ep",
+        "track": "That Girl"
+    },
+    {
+        "datetime": "2026-11-24 17:31:13",
+        "artist": "Spaceacre",
+        "album": "That Girl Ep",
+        "track": "Chemicals"
+    },
+    {
+        "datetime": "2026-11-24 17:36:58",
+        "artist": "Spaceacre",
+        "album": "That Girl Ep",
+        "track": "Say"
+    },
+    {
+        "datetime": "2026-11-24 17:42:44",
+        "artist": "Katherine Priddy",
+        "album": "These Frightening Machines",
+        "track": "Hurricane"
+    },
+    {
+        "datetime": "2026-11-24 17:46:50",
+        "artist": "Katherine Priddy",
+        "album": "These Frightening Machines",
+        "track": "Sirius"
+    },
+    {
+        "datetime": "2026-11-24 17:51:22",
+        "artist": "Katherine Priddy",
+        "album": "These Frightening Machines",
+        "track": "Matches"
     }
 ]
