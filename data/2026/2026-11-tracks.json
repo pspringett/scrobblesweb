@@ -1906,5 +1906,47 @@
         "artist": "Robert Forster",
         "album": "The Candle And The Flame",
         "track": "Always"
+    },
+    {
+        "datetime": "2026-11-25 10:44:52",
+        "artist": "Echo & the Bunnymen",
+        "album": "Apples For Isaac",
+        "track": "The Honey"
+    },
+    {
+        "datetime": "2026-11-25 10:48:44",
+        "artist": "Echo & the Bunnymen",
+        "album": "Apples For Isaac",
+        "track": "An Unstoppable Force"
+    },
+    {
+        "datetime": "2026-11-25 10:51:59",
+        "artist": "Echo & the Bunnymen",
+        "album": "Apples For Isaac",
+        "track": "The Light That Surrounds You"
+    },
+    {
+        "datetime": "2026-11-25 10:55:40",
+        "artist": "Echo & the Bunnymen",
+        "album": "Apples For Isaac",
+        "track": "Lab Rats Ran"
+    },
+    {
+        "datetime": "2026-11-25 10:58:56",
+        "artist": "Echo & the Bunnymen",
+        "album": "Apples For Isaac",
+        "track": "Asimov"
+    },
+    {
+        "datetime": "2026-11-25 11:02:08",
+        "artist": "Echo & the Bunnymen",
+        "album": "Apples For Isaac",
+        "track": "We Prayed In the Dark"
+    },
+    {
+        "datetime": "2026-11-25 11:05:40",
+        "artist": "The Fall",
+        "album": "Perverted By Language",
+        "track": "Garden"
     }
 ]
