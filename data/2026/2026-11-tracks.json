@@ -2152,5 +2152,17 @@
         "artist": "Phoebe Bridgers",
         "album": "Lost Weekend",
         "track": "I Can't Wait"
+    },
+    {
+        "datetime": "2026-11-28 14:06:18",
+        "artist": "Phoebe Bridgers",
+        "album": "Lost Weekend",
+        "track": "As Above"
+    },
+    {
+        "datetime": "2026-11-28 14:10:43",
+        "artist": "Phoebe Bridgers",
+        "album": "Lost Weekend",
+        "track": "Lost Weekend (Reprise)"
     }
 ]
